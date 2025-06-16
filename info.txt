@@ -1,0 +1,40 @@
+quiz_QUESTION_TEMPLATE.txt (Template principal de la pregunta)
+
+Placeholders disponibles:
+{module} - Nombre del módulo (ej: "DEIM")
+{MODULE} - Nombre del módulo en mayúsculas (ej: "DEIM")
+{unit} - Unidad o sección (ej: "Unidad 1")
+{UNIT} - Unidad en mayúsculas (ej: "UNIDAD 1")
+{question_id} - ID de la pregunta (ej: "45")
+{title} - Título de la pregunta
+{TITLE} - Título en mayúsculas
+{question_text} - Texto completo de la pregunta
+{QUESTION_TEXT} - Texto en mayúsculas
+{formatted_options} - Opciones formateadas con "> " y saltos de línea
+{FORMATTED_OPTIONS} - Versión en mayúsculas
+{options} - Opciones sin formato especial
+{OPTIONS} - Versión en mayúsculas
+{question_type} - Tipo de pregunta ("simple" o "múltiple")
+{QUESTION_TYPE} - Tipo en mayúsculas ("SIMPLE" o "MÚLTIPLE")
+
+
+message_chat_eval_template.txt (Mensaje público al hacer clic)
+message_dm_eval_template.txt (Mensaje privado al hacer clic)
+
+Placeholders disponibles:
+{correct_icon} - "✅" o "❌"
+{title} - Título de la pregunta
+{question} - Texto de la pregunta
+{symbol} - Símbolo del botón (ej: "🥑")
+{option_text} - Texto de la opción seleccionada
+{option_feedback} - Retroalimentación
+{result} - "Correcto!" o "Incorrecto"
+{section} - Unidad/sección
+{subsection} - Subsección (ej: "Pregunta 45")
+{module} - Módulo
+{paragraph_text} - Texto completo de la pregunta
+{paragraph_text_correct} - Texto con spoiler si es incorrecto
+{correct_answer} - Índices de respuestas correctas (ej: "1, 3")
+{message_id} - ID del mensaje original
+{message_link} - Enlace al mensaje original
+{incorrect} - si es incorrecta muestra || (spoliers)

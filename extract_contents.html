@@ -1,0 +1,658 @@
+<!DOCTYPE html>
+<!-- saved from url=(0124)https://aulavirtual37.educa.madrid.org/ies.ignacioellacuria.alcorcon/pluginfile.php/250180/mod_resource/content/3/index.html -->
+<html lang="es" data-extension-theme="light"><link rel="stylesheet" href="chrome-extension://hibagaegjmbjhpgdplddooppallfhipo/css/index.css"><script src="chrome-extension://hibagaegjmbjhpgdplddooppallfhipo/ExtensionInjectedScript.js"></script><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>RMPA02_Contenidos</title>
+<link rel="shortcut icon" href="https://aulavirtual37.educa.madrid.org/ies.ignacioellacuria.alcorcon/pluginfile.php/250180/mod_resource/content/3/favicon.ico" type="image/x-icon">
+<meta name="generator" content="eXeLearning 2.9 - exelearning.net">
+<link rel="stylesheet" type="text/css" href="./RMPA UT2. Operación de sistemas de montaje audiovisual_files/base.css">
+<link rel="stylesheet" type="text/css" href="./RMPA UT2. Operación de sistemas de montaje audiovisual_files/exe_lightbox.css">
+<link rel="stylesheet" type="text/css" href="./RMPA UT2. Operación de sistemas de montaje audiovisual_files/content.css">
+<!--[if lt IE 9]><script type="text/javascript" src="exe_html5.js"></script><![endif]-->
+<script type="text/javascript" src="./RMPA UT2. Operación de sistemas de montaje audiovisual_files/exe_jquery.js.descarga"></script>
+<script type="text/javascript" src="./RMPA UT2. Operación de sistemas de montaje audiovisual_files/exe_lightbox.js.descarga"></script>
+<script type="text/javascript" src="./RMPA UT2. Operación de sistemas de montaje audiovisual_files/common_i18n.js.descarga"></script>
+<script type="text/javascript" src="./RMPA UT2. Operación de sistemas de montaje audiovisual_files/common.js.descarga"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1"><link href="./RMPA UT2. Operación de sistemas de montaje audiovisual_files/css2" rel="stylesheet" type="text/css">
+<link href="./RMPA UT2. Operación de sistemas de montaje audiovisual_files/css2(1)" rel="stylesheet" type="text/css">
+<link href="./RMPA UT2. Operación de sistemas de montaje audiovisual_files/opendyslexic" rel="stylesheet">
+<link href="./RMPA UT2. Operación de sistemas de montaje audiovisual_files/css2(2)" rel="stylesheet" type="text/css">
+<link href="./RMPA UT2. Operación de sistemas de montaje audiovisual_files/css2(3)" rel="stylesheet" type="text/css">
+<link href="./RMPA UT2. Operación de sistemas de montaje audiovisual_files/css2(4)" rel="stylesheet" type="text/css">
+
+
+<style>
+  
+  .z-index {
+    z-index: 999;
+  }
+
+  .select-container {
+    display: inline-block;
+    position: relative;
+    z-index: 999;
+  }
+
+  .font-button {
+    padding: 8px 16px;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    margin: 8px;
+    text-align: center;
+    text-decoration: none;
+    background-color: white;
+    color: black;
+    z-index: 999;
+  }
+
+  .fontButtonContainer {
+     z-index: 999;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap; /* establece el wrap para que los botones se distribuyan en varias líneas */
+    gap: 5px; /* ajusta el espacio entre los botones */
+    position: static; /* fija la barra de botones en la página: static para que aparezca en la parte superior, fixed para que quede flotando */
+    top: 0; /* fija la barra de botones en la parte superior de la página */
+    left: 0; /* fija la barra de botones en el margen izquierdo */
+    right: 0; /* fija la barra de botones en el margen derecho */
+    margin: auto; /* centra la barra de botones horizontalmente */
+  }
+    
+  /* Estilo para el desplegable */
+  select {
+    padding: 8px 4px;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    margin: 6px;
+    text-align: center;
+    text-decoration: none;
+    background-color: white;
+  }
+  
+  select option {
+  text-align: left;
+  }
+  
+</style>
+
+<script>
+
+// BATEXE v2 Juan José de Haro 
+
+// Define los textos que se ven en pantalla. Reemplazar el texto entre comillas
+  const defaultText = 'Parámetros por defecto:'; //Descripción de la opción por defecto
+  const standardText = 'Fuente estándar'; // Desplegable
+  
+  const dyslexicDesc = 'Dislexia:'; // Descripción de la opción OpenDyslexic  
+  const dyslexicText = 'OpenDyslexic'; // Desplegable
+  
+  const hyperlegibleDesc = 'Deficiencias visuales:'; // Descripción de la opción Atkinson Hyperlegible
+  const hyperlegibleText = 'Atkinson Hyperlegible'; // Desplegable
+  
+  const highLegibilityDesc = 'Alta legibilidad:'; // Descripción de las opciones Roboto, Lato y Open Sans
+  const opensansText = 'OpenSans'; // Desplegable
+  const robotoText = 'Roboto'; // Desplegable
+  const latoText = 'Lato'; // Desplegable
+  const montserratText = 'Montserrat'; // Desplegable
+
+  const increaseFontText = 'A+'; // Botón para incrementar la fuente
+  const decreaseFontText = 'A-'; // Botón para reducir la fuente
+  
+  let floatingFix = 'Fijar' // Texto del botón flotante cuando está sobre el texto
+  let floatingFloat = 'Flotar' //Texto del botón flotante cuando está fijo en la parte superior
+  
+  const infoText = '+Info'; // Texto del enlace +Info
+  const infoTextLink = 'https://batexe.bilateria.org'; // Destino del enlace de +Info
+  
+  let readText = 'Leer'; // Botón para leer en voz alta el contenido de la página
+  const stopText = 'Detener'; // Botón para detener la lectura
+ // Fin 
+  
+  readText = `${readText} (${document.documentElement.lang})` //Se añade el idioma al botón Leer
+  
+
+  let originalFont;
+  let currentFontSize;
+  let originalFontSize;
+  let isReading = false;
+  let utterance = new SpeechSynthesisUtterance();
+
+  function setFont(font) {
+  document.body.style.fontFamily = font;
+  localStorage.setItem('font', font);
+  }
+
+  function setFontSize(size) {
+  currentFontSize = parseInt(window.getComputedStyle(document.body).getPropertyValue('font-size'));
+  currentFontSize += size;
+  document.body.style.fontSize = currentFontSize + 'px';
+  localStorage.setItem('fontSize', currentFontSize + 'px');
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+  
+    originalFont = window.getComputedStyle(document.body).getPropertyValue('font-family');
+    localStorage.setItem('originalFont', originalFont);
+    let font = localStorage.getItem('font');
+    if (!font) {
+    font = originalFont;
+    }
+    document.body.style.fontFamily = font;
+
+    let fontSize = localStorage.getItem('fontSize');
+    originalFontSize = window.getComputedStyle(document.body).getPropertyValue('font-size');
+    localStorage.setItem('originalFontSize', originalFontSize);
+    if (!fontSize) {
+    fontSize = originalFontSize
+    localStorage.setItem('fontSize', fontSize);
+    }
+    document.body.style.fontSize = fontSize;
+
+    const fontButtonContainer = document.createElement('div');
+    fontButtonContainer.classList.add('fontButtonContainer'); 
+
+    const selectContainer = document.createElement('div');
+    selectContainer.classList.add('select-container');
+    const select = document.createElement('select');
+    select.classList.add('z-index');
+    const standardOption = document.createElement('option');
+    standardOption.value = 'standard';
+    standardOption.text = standardText;
+
+    const defaultFontOptGroup = document.createElement('optgroup');
+    defaultFontOptGroup.label = defaultText;
+    defaultFontOptGroup.appendChild(standardOption);
+
+    select.appendChild(defaultFontOptGroup);
+
+
+    const dyslexicOption = document.createElement('option');
+    dyslexicOption.value = 'dyslexic';
+    dyslexicOption.text = dyslexicText;
+    select.add(dyslexicOption);
+
+    const dyslexicOptGroup = document.createElement('optgroup');
+    dyslexicOptGroup.label = dyslexicDesc;
+    dyslexicOptGroup.appendChild(dyslexicOption);
+    select.appendChild(dyslexicOptGroup);
+
+    const hyperlegibleOption = document.createElement('option');
+    hyperlegibleOption.value = 'hyperlegible';
+    hyperlegibleOption.text = hyperlegibleText;
+    select.add(hyperlegibleOption);
+
+    const hyperlegibleOptGroup = document.createElement('optgroup');
+    hyperlegibleOptGroup.label = hyperlegibleDesc;
+    hyperlegibleOptGroup.appendChild(hyperlegibleOption);
+    select.appendChild(hyperlegibleOptGroup);
+
+    const opensansOption = document.createElement('option');
+    opensansOption.value = 'Open Sans';
+    opensansOption.text = opensansText;
+    select.add(opensansOption);
+
+    const robotoOption = document.createElement('option');
+    robotoOption.value = 'Roboto';
+    robotoOption.text = robotoText;
+    select.add(robotoOption);
+
+    const latoOption = document.createElement('option');
+    latoOption.value = 'Lato';
+    latoOption.text = latoText;
+    select.add(latoOption);
+
+    const montserratOption = document.createElement('option');
+    montserratOption.value = 'Montserrat';
+    montserratOption.text = montserratText;
+    select.add(montserratOption);  
+    
+
+    const highLegibilityOptGroup = document.createElement('optgroup');
+    highLegibilityOptGroup.label = highLegibilityDesc;
+    highLegibilityOptGroup.appendChild(latoOption);
+    highLegibilityOptGroup.appendChild(montserratOption);
+    highLegibilityOptGroup.appendChild(opensansOption);
+    highLegibilityOptGroup.appendChild(robotoOption);
+    
+    
+    
+    select.appendChild(highLegibilityOptGroup);
+
+    // Seleccionar la opción correspondiente al cargar la página
+    if (font === originalFont) { // Nueva condición
+    select.selectedIndex = 0; // Nueva línea
+    } else if (font === 'OpenDyslexic') {
+    select.selectedIndex = 1;
+    } else if (font === 'Atkinson Hyperlegible') {
+    select.selectedIndex = 2;
+    } else if (font === 'Roboto') {
+    select.selectedIndex = 6;
+    } else if (font === 'Lato') {
+    select.selectedIndex = 3;
+    } else if (font === 'Open Sans') {
+    select.selectedIndex = 5;
+    } else if (font === 'Montserrat') {
+    select.selectedIndex = 4;
+    }
+
+    select.addEventListener('change', () => {
+    const font = select.value;
+    if (font === 'standard') {
+    setFont(originalFont);
+    fontSize = originalFontSize;
+    localStorage.setItem('fontSize', fontSize);
+    document.body.style.fontSize = localStorage.getItem('originalFontSize');
+    } else if (font === 'dyslexic') {
+    setFont('OpenDyslexic');
+    } else if (font === 'hyperlegible') {
+    setFont('Atkinson Hyperlegible');
+    } else if (font === 'Open Sans') {
+    setFont('Open Sans');
+    } else if (font === 'Roboto') {
+    setFont('Roboto');
+    } else if (font === 'Lato') {
+    setFont('Lato');
+    }  else if (font === 'Montserrat') {
+    setFont('Montserrat');
+    }
+    });
+
+
+    selectContainer.appendChild(select);
+    fontButtonContainer.appendChild(selectContainer);
+    
+
+    const increaseFontButton = document.createElement('button');
+    increaseFontButton.classList.add('font-button');
+    increaseFontButton.textContent = increaseFontText;
+    increaseFontButton.addEventListener('click', () => setFontSize(1));
+    fontButtonContainer.appendChild(increaseFontButton);
+
+    const decreaseFontButton = document.createElement('button');
+    decreaseFontButton.classList.add('font-button');
+    decreaseFontButton.textContent = decreaseFontText;
+    decreaseFontButton.addEventListener('click', () => setFontSize(-1));
+    fontButtonContainer.appendChild(decreaseFontButton);
+    
+    const readButton = document.createElement('button');
+    readButton.classList.add('font-button');
+    readButton.textContent = readText;
+    
+    readButton.addEventListener('click', () => {
+    let selectedText = window.getSelection().toString();
+    let text = '';
+    let lang = document.documentElement.lang;
+    if (selectedText !== '') {
+      text = selectedText;
+      let selectedNode = window.getSelection().anchorNode;
+      while (selectedNode && selectedNode.nodeType !== Node.ELEMENT_NODE) {
+        selectedNode = selectedNode.parentNode;
+      }
+      if (selectedNode) {
+        const selectedLang = selectedNode.getAttribute('lang');
+        if (selectedLang) {
+          lang = selectedLang;
+        }
+      }
+    } else {
+      text = document.body.innerText;
+      const bodyLang = document.body.getAttribute('lang');
+      if (bodyLang) {
+        lang = bodyLang;
+      }
+    }
+
+    utterance.lang = lang;
+    utterance.text = text;
+
+    if (!isReading) {
+      isReading = true;
+      readButton.textContent = `${stopText} (${lang})`;
+      speechSynthesis.speak(utterance);
+    } else {
+      isReading = false;
+      readButton.textContent = readText;
+      speechSynthesis.cancel();
+    }
+
+    utterance.addEventListener('end', () => {
+      isReading = false;
+      readButton.textContent = readText;
+    });
+  });  
+    
+    fontButtonContainer.appendChild(readButton);
+    
+    const floatingButton = document.createElement('button');
+    floatingButton.classList.add('font-button');
+    floatingButton.textContent = floatingFloat;
+    floatingButton.addEventListener('click', () => {
+    if (floatingButton.textContent === floatingFix) {
+      fontButtonContainer.style.position = 'static';
+      floatingButton.textContent = floatingFloat;
+      localStorage.setItem('floatState', 'static');
+    } else {
+      fontButtonContainer.style.position = 'fixed';
+      floatingButton.textContent = floatingFix;
+      localStorage.setItem('floatState', 'fixed');
+    }
+  });
+
+    
+
+    let floatState = localStorage.getItem('floatState');
+    if (!floatState) {
+      floatState = 'static';
+      floatingButton.textContent = floatingFix;
+    }
+    if (floatState === 'fixed') {
+      fontButtonContainer.style.position = 'fixed';
+      floatingButton.textContent = floatingFix;
+    } else {
+      fontButtonContainer.style.position = 'static';
+      floatingButton.textContent = floatingFloat;
+    }
+    
+    localStorage.setItem('floatState', floatState);
+    
+  fontButtonContainer.appendChild(floatingButton);
+
+
+    const infoLink = document.createElement('a');
+    infoLink.textContent = infoText;
+    infoLink.href = infoTextLink;
+    infoLink.target = '_blank';
+    infoLink.style.marginLeft = '8px';
+    infoLink.style.fontSize = '12px';
+    fontButtonContainer.appendChild(infoLink);
+
+    
+    infoLink.classList.add('z-index');
+
+    document.body.insertBefore(fontButtonContainer, document.body.firstChild);
+   
+  });
+</script><script type="text/javascript" src="./RMPA UT2. Operación de sistemas de montaje audiovisual_files/exe_media.js.descarga"></script><script type="text/javascript" src="./RMPA UT2. Operación de sistemas de montaje audiovisual_files/exe_tooltips.js.descarga"></script><link type="text/css" rel="stylesheet" href="./RMPA UT2. Operación de sistemas de montaje audiovisual_files/exe_media.css"><link type="text/css" rel="stylesheet" href="./RMPA UT2. Operación de sistemas de montaje audiovisual_files/jquery.qtip.min.css"><script type="text/javascript" src="./RMPA UT2. Operación de sistemas de montaje audiovisual_files/jquery.qtip.min.js.descarga"></script><script type="text/javascript" src="./RMPA UT2. Operación de sistemas de montaje audiovisual_files/imagesloaded.pkg.min.js.descarga"></script></head><link rel="stylesheet" href="chrome-extension://hibagaegjmbjhpgdplddooppallfhipo/css/extension-popup/style.css"><button class="extension-element-hidden">Click me</button>
+<body class="exe-single-page js" style="font-family: HelveticaNeue-Light, &quot;Helvetica Neue Light&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, &quot;Lucida Grande&quot;, sans-serif; font-size: 16px;"><div class="fontButtonContainer" style="position: static;"><div class="select-container"><select class="z-index"><optgroup label="Parámetros por defecto:"><option value="standard">Fuente estándar</option></optgroup><optgroup label="Dislexia:"><option value="dyslexic">OpenDyslexic</option></optgroup><optgroup label="Deficiencias visuales:"><option value="hyperlegible">Atkinson Hyperlegible</option></optgroup><optgroup label="Alta legibilidad:"><option value="Lato">Lato</option><option value="Montserrat">Montserrat</option><option value="Open Sans">OpenSans</option><option value="Roboto">Roboto</option></optgroup></select></div><button class="font-button">A+</button><button class="font-button">A-</button><button class="font-button">Leer (es)</button><button class="font-button">Flotar</button><a href="https://batexe.bilateria.org/" target="_blank" class="z-index" style="margin-left: 8px; font-size: 12px;">+Info</a></div><script type="text/javascript">document.body.className+=" js"</script>
+<div id="content">
+<header id="header" role="banner">
+<div id="headerContent">
+<h1>RMPA02_Contenidos</h1>
+</div>
+</header>
+<section id="main" role="main">
+<article class="node level-1-node" id="exe-node-0">
+<header class="nodeDecoration">
+<h1 id="exenode_0_Operacindesistemasdemontajeaudiovisual" class="nodeTitle">Operación de sistemas de montaje audiovisual.</h1>
+</header>
+<article class="iDevice_wrapper CasopracticofpdIdevice em_iDevice em_iDevice_casopracticofpd" id="id0-0">
+<div class="iDevice emphasis_casopracticofpd">
+<header class="iDevice_header" style="background-image:url(icon_casopracticofpd.png)"><h2 class="iDeviceTitle">Caso práctico</h2></header>
+<div class="iDevice_inner">
+<div class="iDevice_content_wrapper">
+<div id="ta0_66" class="block iDevice_content">
+<p>El trabajo en la sala de montaje quedará paralizado media jornada. Ha llegado una circular desde el departamento técnico a los componentes del equipo de montaje y postproducción de la empresa diciendo que se va a instalar la nueva versión del <span lang="en">software</span> de edición de video a lo largo de la tarde. <strong>Marcos </strong>y <strong>Lucía </strong>ya han recibido el mensaje.</p>
+<p>— "<strong>Lucía</strong>, creo que nos va a tocar estudiar. Parece ser que las nuevas versiones de los programas incluyen muchas novedades".</p>
+<p>— "No sé de qué te sorprendes, este trabajo tiene estas cosas. Luego te mando al correo un par de artículos muy buenos con las principales novedades que incluyen".</p>
+<p>Mientras la actualización se lleva a cabo hay una nueva tarea para la tarde. Van a participar en la transmisión de un partido de fútbol. Su tarea será la de grabar a disco duro diferentes señales de cámara en la unidad móvil de televisión para luego hacer un video musical resumen con las jugadas y lances más interesantes del partido.</p>
+<div style="width: 100%;">
+<div style="width: 50%; float: left;">
+<div class="elemento_centrado"><img alt="Foto de Marcos." height="132" src="./RMPA UT2. Operación de sistemas de montaje audiovisual_files/RMPA02_CASO_R01_PERSONAJES_18_.jpg" style="width: 192px; height: 132px;" title="Marcos." width="192"></div>
+</div>
+<div style="width: 50%; float: right;">
+<div class="elemento_centrado"><img alt="Foto de Lucía." height="192" src="./RMPA UT2. Operación de sistemas de montaje audiovisual_files/RMPA02_CASO_R02_PERSONAJES_22_.jpg" style="width: 132px; height: 192px;" title="Lucía." width="132"></div>
+</div>
+</div>
+<div style="clear: both;"></div>
+</div>
+</div>
+</div>
+</div>
+</article>
+<article class="iDevice_wrapper DestacadofpdIdevice" id="id80-0">
+<div class="iDevice emphasis0">
+<div class="iDevice_destacadofpd">
+<div id="ta80_70" class="block iDevice_content">
+<div align="center"><img src="./RMPA UT2. Operación de sistemas de montaje audiovisual_files/logo-mefp.gif" width="297" height="72" alt="Logo Ministerio 2022"></div>
+<div align="center"><span style="font-size: large;"><strong>Materiales formativos de <acronym title="Formación Profesional.">FP</acronym> <span lang="en">Online</span> propiedad del Ministerio de Educación y Formación Profesional.</strong></span></div>
+<div align="center"><a href="http://www.educacion.gob.es/fponline/aviso-legal.html" title="Acceder al Aviso legal para los materiales formativos de FP Online del MECD.">Aviso Legal</a></div>
+</div>
+</div>
+</div>
+</article>
+</article>
+<article class="node level-2-node" id="exe-node-1">
+<header class="nodeDecoration">
+<h1 id="exenode_1_1Laedicinnolinealoperacionespreviasalmontaje" class="nodeTitle">1.- La edición no lineal: operaciones previas al montaje.</h1>
+</header>
+<article class="iDevice_wrapper CasopracticofpdIdevice em_iDevice em_iDevice_casopracticofpd" id="id1-1">
+<div class="iDevice emphasis_casopracticofpd">
+<header class="iDevice_header" style="background-image:url(icon_casopracticofpd.png)"><h2 class="iDeviceTitle">Caso práctico</h2></header>
+<div class="iDevice_inner">
+<div class="iDevice_content_wrapper">
+<div id="ta1_66" class="block iDevice_content">
+<p>Mientras el departamento técnico instala la nueva versión del editor de vídeo, Marcos abre su correo electrónico para ver la información que le ha mandado <strong>Lucía</strong>. Respira aliviado al comprobar que la esencia del programa se mantiene. Sólo se ha mejorado la interfaz gráfica de usuario y se ha incorporado alguna herramienta más que facilita un poco más el trabajo. Sin más se dispone a realizar los trabajos preparatorios para un nuevo proyecto de montaje.</p>
+<p><img alt="Foto de Marcos 1." class="elemento_centrado" height="192" src="./RMPA UT2. Operación de sistemas de montaje audiovisual_files/RMPA02_CASO_R03_PERSONAJES_19_.jpg" style="width: 132px; height: 192px;" title="Marcos 1." width="132"></p>
+</div>
+</div>
+</div>
+</div>
+</article>
+<article class="iDevice_wrapper FreeTextfpdIdevice" id="id2-1">
+<div class="iDevice emphasis0">
+<div id="ta2_73" class="block iDevice_content">
+<p>En este apartado aprenderás los conceptos básicos de las <strong>operaciones previas al montaje en los programas de <a href="https://aulavirtual37.educa.madrid.org/ies.ignacioellacuria.alcorcon/pluginfile.php/250180/mod_resource/content/3/index.html#t01249566-c351-3036-e851-06464d94938f" id="link01249566-c351-3036-e851-06464d94938f" class="exe-tooltip definition-tt titled-tt" data-hasqtip="0" oldtitle="Edición no lineal | Edición no lineal" title="">edición no lineal</a></strong>. Estas técnicas de operación son muy parecidas entre las distintas soluciones de edición disponibles en el mercado. No obstante, también hay muchas diferencias entre las mismas, sobre todo en cuanto al diseño de la interfaz gráfica de usuario y en cuanto a funciones específicas. En un programa se puede realizar una operación con una secuencia de órdenes y en otro programa la operación puede cambiar completamente.</p>
+<p><img alt="Ordenador portátil en el que se ve la interfaz gráfica de usuario de un programa de edición no lineal." class="elemento_derecha" height="132" src="./RMPA UT2. Operación de sistemas de montaje audiovisual_files/RMPA02_CONT_R01_01_software_edicion.jpg" style="width: 200px; height: 132px;" title="Software edición no lineal." width="200"></p>
+<p>Para que veas esta diferencia vamos a ilustrar estos contenidos recurriendo en ocasiones a algunas soluciones de edición no lineal de uso extendido en el entorno profesional.</p>
+<p>No solo se trata de memorizar menús y botones (aunque también es necesario), puesto que aplicaciones de edición no lineal hay muchas.<strong> Lo importante es aprender a extrapolar los conceptos que aquí verás ejemplificados a cualquier tipo de aplicación de edición no lineal de video. </strong></p>
+<p>La primera operación es conocer cómo es la interfaz gráfica y cómo acometer la <strong>organización de los paneles de trabajo</strong>. Los programas de edición te ofrecerán sugerencias de presentación y organización de dichos paneles, pero también los puedes organizar a tu gusto.</p>
+<p>Después tendrás que <strong>definir el tipo de proyecto de montaje</strong> eligiendo básicamente un formato y&nbsp;<span lang="en">códec </span> para realizar las capturas y la ingesta de materiales.</p>
+<p>Otra de las tareas a realizar es <strong>configurar las opciones de los proyectos</strong>. Por ejemplo tienes que decidir en qué lugar del ordenador almacenar la información del proyecto.</p>
+<p>Por último tendrás que proceder <strong>a realizar la captura e ingesta de material, importar, organizar y catalogar todo ese material dentro del programa de edición y realizar los cambios de formatos</strong> <strong>y relaciones de aspecto</strong> oportunas para que todos los materiales brutos (es decir, tal cual fueron capturados por la cámara) estén homogeneizados.</p>
+<div id="t01249566-c351-3036-e851-06464d94938f" class="exe-tooltip-text">
+<p>Un sistema de edición audiovisual no lineal se refiere a un conjunto de aplicaciones y software diseñados para la creación y manipulación de contenidos audiovisuales, como películas, videos, programas de televisión y otros proyectos multimedia. La característica distintiva de estos sistemas es su capacidad para permitir a los editores trabajar de manera no secuencial o lineal. En lugar de depender de soportes físicos como cintas de vídeo o carretes de película, que avanzan y se rebobinan físicamente, estos sistemas operan en un entorno digital, lo que les permite organizar y modificar elementos audiovisuales de forma no lineal. Esto significa que los editores pueden saltar de manera eficiente de una parte del proyecto a otra, realizar cortes, copias, pegados, mezclas, añadir efectos, transiciones y ajustar la duración de los clips sin tener que seguir una secuencia estricta.</p>
+</div>
+</div>
+</div>
+</article>
+<article class="iDevice_wrapper DestacadofpdIdevice" id="id94-1">
+<div class="iDevice emphasis0">
+<div class="iDevice_destacadofpd">
+<div id="ta94_167" class="block iDevice_content">
+<p>Como ya se ha comentado, la intención en este módulo es tener una idea general de la filosofía y conceptos de los softwares dedicados a la edición. Por ello, se intenta que el enfoque sea independiente de ningún software en específico.</p>
+<p>Sin embargo, los ejemplos se centrarán principalmente en los softwares <strong>DaVinci Resolve</strong> (cuya versión gratuita es plenamente funcional) y en algunas aplicaciones del Creative Cloud de Adobe (con cuya licencia no contaremos en este curso, pero que es interesante conocer como alternativa extendida en el ámbito profesional).</p>
+</div>
+</div>
+</div>
+</article>
+<article class="iDevice_wrapper ParasabermasfpdIdevice em_iDevice em_iDevice_parasabermasfpd" id="id140-1">
+<div class="iDevice emphasis_parasabermasfpd">
+<header class="iDevice_header" style="background-image:url(icon_parasabermasfpd.png)"><h2 class="iDeviceTitle">Para saber más</h2></header>
+<div class="iDevice_inner">
+<div class="iDevice_content_wrapper">
+<div id="ta140_144" class="block iDevice_content">
+<p>DaVinci Resolve cuenta con una versión de pago, llamada DaVinci Resolve Studio, que amplía las funcionalidades que vienen en la versión gratuita. Aunque durante este curso evitaremos ahondar en lo posible en esta versión de pago, es recomendable que conozcas las características ampliadas de la versión Studio:</p>
+<p style="text-align: center;"><a href="https://www.blackmagicdesign.com/es/products/davinciresolve/studio" target="_blank" title="Características de DaVinci Resolve Studio" rel="noopener">Características de DaVinci Resolve Studio</a></p>
+</div>
+</div>
+</div>
+</div>
+</article>
+<article class="iDevice_wrapper ParasabermasfpdIdevice em_iDevice em_iDevice_parasabermasfpd" id="id97-1">
+<div class="iDevice emphasis_parasabermasfpd">
+<header class="iDevice_header" style="background-image:url(icon_parasabermasfpd.png)"><h2 class="iDeviceTitle">Para saber más</h2></header>
+<div class="iDevice_inner">
+<div class="iDevice_content_wrapper">
+<div id="ta97_144" class="block iDevice_content">
+<p>Puedes visitar los siguientes enlaces si quieres practicar con vídeos de diferentes calidades (los enlaces van en orden decreciente de calidad y, por tanto, peso del archivo), muchos de ellos con licencias que permiten ser posteriormente usados en proyectos comerciales de manera gratuita o cumpliendo alguna directiva de Creative Commons.</p>
+<p>Atención, porque algunos de los vídeos de los <strong>dos primeros enlaces</strong> pueden basarse en formatos <a href="https://es.wikipedia.org/wiki/Raw_(formato)" target="_blank" title="raw" rel="noopener">raw</a>, los cuales son muy pesados y necesitan procesos intermedios (la debayerización) para su uso. Intenta evitar esos enlaces en estas alturas del curso si esto no te suena todavía, ya hablaremos de ello.</p>
+<p>· <a href="https://www.arri.com/en/learn-help/learn-help-camera-system/camera-sample-footage-reference-image" target="_blank" title="Arri" rel="noopener">Arri</a></p>
+<p><br>· <a href="https://www.red.com/sample-r3d-files" target="_blank" title="Red" rel="noopener">Red</a></p>
+<p><br>· <a href="https://pixabay.com/videos/" target="_blank" title="Pixabay" rel="noopener">Pixabay</a></p>
+<p><br>· <a href="https://www.pexels.com/videos/" target="_blank" title="Pexels" rel="noopener">Pexels</a></p>
+<p><br>· <a href="https://dareful.com/" target="_blank" title="Dareful" rel="noopener">Dareful</a></p>
+</div>
+</div>
+</div>
+</div>
+</article>
+</article>
+<article class="node level-3-node" id="exe-node-2">
+<header class="nodeDecoration">
+<h1 id="exenode_2_11Lainterfazgrficadeusuario" class="nodeTitle">1.1.- La interfaz gráfica de usuario.</h1>
+</header>
+<article class="iDevice_wrapper FreeTextfpdIdevice" id="id3-2">
+<div class="iDevice emphasis0">
+<div id="ta3_73" class="block iDevice_content">
+<p>Te preguntarás qué es exactamente una interfaz gráfica de usuario.</p>
+<p>En primer lugar decir que en el mundo de la informática una interfaz de usuario es el medio mediante el cual la persona se comunica e interactúa con la máquina a través de distintos periféricos. Por ejemplo mediante el teclado y el ratón puedes comunicarte con el ordenador. Ahora bien, la máquina te devolverá también información a través de distintos periféricos como, por ejemplo, la pantalla o los altavoces.</p>
+<p>Por tanto,<strong> a la información que presenta el ordenador en pantalla se la denomina interfaz gráfica de usuario (GUI)</strong>. Ésta es una parte específica de un software, que actúa de interfaz entre el ordenador y la persona de modo gráfico, a través de distintas pantallas que muestran imágenes y objetos que permiten realizar distintas funciones en el ordenador de un modo interactivo y visual. El ejemplo más significativo son los sistemas operativos actuales que presentan la información de manera gráfica.</p>
+<div class="elemento_derecha">
+<div class="elemento_centrado"><a href="https://aulavirtual37.educa.madrid.org/ies.ignacioellacuria.alcorcon/pluginfile.php/250180/mod_resource/content/3/RMPA02_CONT_R01_02_gui.jpg" title="Ampliar imagen."><img alt="nterfaz gráfica de usuario del sistema operativo Ubuntu." class="imagen_ampliable" height="124" src="./RMPA UT2. Operación de sistemas de montaje audiovisual_files/RMPA02_CONT_R01_02_gui_miniatura.jpg" style="width: 200px; height: 124px;" title="Sistema operativo Ubuntu." width="200"></a></div>
+</div>
+<p></p>
+<p>Dicho esto, lo que seguramente te interesa más es saber las partes de la interfaz gráfica de los programas de edición no lineal. Vamos allá.</p>
+</div>
+</div>
+</article>
+<article class="iDevice_wrapper DebesconocerfpdIdevice em_iDevice em_iDevice_debesconocerfpd" id="id4-2">
+<div class="iDevice emphasis_debesconocerfpd">
+<header class="iDevice_header" style="background-image:url(icon_debesconocerfpd.png)"><h2 class="iDeviceTitle">Debes conocer</h2></header>
+<div class="iDevice_inner">
+<div class="iDevice_content_wrapper">
+<div id="ta4_48" class="block iDevice_content">
+<p>En los siguientes enlaces puedes comprobar cómo se organiza la interfaz en 4 de los principales programas de edición de vídeo que se emplean actualmente.</p>
+<p>De los que siguen, para nuestro curso el único esencial que <strong>debéis ver</strong> es éste referido a DaVinci Resolve, que condensa gran parte de lo que veremos en este tema y es un gran modo de iniciarse en este software:</p>
+<p><a href="https://www.youtube.com/watch?v=Ys8QwI3oKzc" target="_blank" title="Introducción e interfaz de DaVinci Resolve 19" rel="noopener">Introducción e interfaz de DaVinci Resolve 19</a></p>
+<p><span class="external-iframe-src" style="display:none"><a href="https://www.youtube.com/embed/Ys8QwI3oKzc?si=RgiARKpg9_Jpkehf">https://www.youtube.com/embed/Ys8QwI3oKzc?si=RgiARKpg9_Jpkehf</a></span><iframe width="560" height="315" src="./RMPA UT2. Operación de sistemas de montaje audiovisual_files/Ys8QwI3oKzc.html" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen" class="external-iframe"></iframe></p>
+<p></p>
+<p>Otros vídeos o recursos sobre interfaces de softwares de edición:</p>
+<p><a href="https://www.adobe.com/es/learn/premiere-pro/web/work-explore-panels?learnIn=1" target="_blank" title="Interfaz Adobe Premiere Pro" rel="noopener">Interfaz Adobe Premiere Pro</a></p>
+<p><a href="https://www.youtube.com/watch?v=QzZuE5AK2Mk" target="_blank" title="Interfaz Avid Media Composer" rel="noopener">Interfaz Avid Media Composer</a></p>
+<p><a href="https://support.apple.com/es-es/guide/final-cut-pro/ver92bd100a/mac" target="_blank" title="Interfaz Apple Final Cut Pro X" rel="noopener">Interfaz Apple Final Cut Pro X</a></p>
+<p></p>
+<div class="elemento_centrado">
+<div class="elemento_centrado"></div>
+<div class="credenciales elemento_centrado"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</article>
+<article class="iDevice_wrapper FreeTextfpdIdevice" id="id5-2">
+<div class="iDevice emphasis0">
+<div id="ta5_73" class="block iDevice_content">
+<p>El modo de interactuar con el programa será manipulando las herramientas y las distintas funciones que tienen los paneles y la barra de tareas. Cuando trabajamos con un ordenador, <strong>hay dos formas básicas de interactuar: mediante el ratón o a través de los atajos de teclado.&nbsp;</strong></p>
+<p><strong>También existen programas de edición de vídeo para tablets y dispositivos móviles. Estas aplicaciones permiten operar interactuando con la pantalla táctil del dispositivo y suelen estar vinculadas con el almacenamiento en la nube.&nbsp;</strong></p>
+</div>
+</div>
+</article>
+<article class="iDevice_wrapper RecomendacionfpdIdevice em_iDevice em_iDevice_recomendacionfpd" id="id6-2">
+<div class="iDevice emphasis_recomendacionfpd">
+<header class="iDevice_header" style="background-image:url(icon_recomendacionfpd.png)"><h2 class="iDeviceTitle">Debes conocer</h2></header>
+<div class="iDevice_inner">
+<div class="iDevice_content_wrapper">
+<div id="ta6_50" class="block iDevice_content">
+<p>Procura que tu flujo de trabajo esté orientado al uso del teclado en lugar del ratón. Ahorrarás mucho tiempo. Muchos atajos se pueden configurar desde las preferencias o <em>settings</em> de cada programa, aunque hay unos cuantos que son básicos en edición y comunes a casi todas la plataformas. Estos son algunos ejemplos de atajos de teclado comunes en las aplicaciones de edición audiovisual:</p>
+<p><strong>Tecla de barra espaciadora:</strong> play/stop.</p>
+<p><strong>Tecla i:</strong> punto de entrada en una línea de tiempo.</p>
+<p><strong>Tecla o:</strong> punto de salida en una línea de tiempo.</p>
+<p><strong>Teclas J, K y L:</strong> combinando esta teclas se puede navegar por la reproducción ágilmente modificando el sentido de la misma.</p>
+<p>La tecla L inicia la reproducción hacia adelante, y si se presiona repetidamente, aumenta la velocidad de reproducción, acelerando cada vez más a medida que se presiona. Por otro lado, la tecla J realiza la misma función pero en sentido inverso, reproduciendo el contenido hacia atrás. Al igual que con la tecla L, al pulsar repetidamente la tecla J, la velocidad de la reproducción hacia atrás se incrementa progresivamente.</p>
+<p>La tecla K, en cambio, sirve para pausar la reproducción, actuando como un interruptor central entre avanzar o retroceder. En DaVinci Resolve lo interesante es que cuando se combina la tecla K (manteniéndola pulsada) con J o L, permite una navegación más controlada, como por ejemplo avanzar o retroceder cuadro por cuadro (algo que también se puede conseguir con las flechas de derecha e izquierda), lo que resulta útil para afinar detalles en la edición.</p>
+<p><strong>Teclas de Inicio/fin:</strong> para desplazarse al inicio o al fin de la secuencia.</p>
+<p>Es importante destacar que muchos de <strong>estos atajos pueden personalizarse en los softwares</strong>.</p>
+<p>Por ejemplo, en DaVinci Resolve, puedes acceder a la personalización de teclas desde el menú DaVinci Resolve &gt; Keyboard Customization (o el atajo Control + Alt + K), lo que te permite ajustar los comandos según tus preferencias de flujo de trabajo.</p>
+<p><img src="./RMPA UT2. Operación de sistemas de montaje audiovisual_files/img0.png" width="932" height="600" alt="Keyboard Customization en DaVinciResolve" title="Keyboard Customization en DaVinciResolve"></p>
+<p>Estos atajos te proporcionan una base sólida para acelerar tu trabajo de edición, y dominar estas combinaciones clave te ayudará a ser mucho más rápido y preciso en tus proyectos de edición.</p>
+</div>
+</div>
+</div>
+</div>
+</article>
+<article class="iDevice_wrapper DebesconocerfpdIdevice em_iDevice em_iDevice_debesconocerfpd" id="id105-2">
+<div class="iDevice emphasis_debesconocerfpd">
+<header class="iDevice_header" style="background-image:url(icon_debesconocerfpd.png)"><h2 class="iDeviceTitle">Debes conocer</h2></header>
+<div class="iDevice_inner">
+<div class="iDevice_content_wrapper">
+<div id="ta105_145" class="block iDevice_content">
+<p>Para usar los atajos de teclado de Davinci, es frecuente que no interprete correctamente nuestro teclado (que es una adaptación que contiene caracteres como el de la letra eñe) y sea necesario tener que que cambiar el idioma del teclado a Inglés (preferentemente el de Estados Unidos).</p>
+<p>Cómo hacer este cambio de idioma en Windows 11 lo puedes conocer a través del siguiente enlace:</p>
+<p><a href="https://www.ionos.es/digitalguide/servidores/configuracion/cambiar-el-idioma-de-teclado-en-windows-11/" target="_blank" title="https://www.ionos.es/digitalguide/servidores/configuracion/cambiar-el-idioma-de-teclado-en-windows-11/" rel="noopener">https://www.ionos.es/digitalguide/servidores/configuracion/cambiar-el-idioma-de-teclado-en-windows-11/</a></p>
+<p>Por otro lado, te dejo este recurso con atajos importantes que se emplean en DaVinci Resolve:</p>
+<p><a href="https://rbgescuela.com/tutoblogs/mejores-atajos-davinci-resolve/">https://rbgescuela.com/tutoblogs/mejores-atajos-davinci-resolve/</a></p>
+</div>
+</div>
+</div>
+</div>
+</article>
+<article class="iDevice_wrapper ParasabermasfpdIdevice em_iDevice em_iDevice_parasabermasfpd" id="id107-2">
+<div class="iDevice emphasis_parasabermasfpd">
+<header class="iDevice_header" style="background-image:url(icon_parasabermasfpd.png)"><h2 class="iDeviceTitle">Para saber más</h2></header>
+<div class="iDevice_inner">
+<div class="iDevice_content_wrapper">
+<div id="ta107_144" class="block iDevice_content">
+<p>En esta web podrás encontrar los atajos principales de muchos softwares, entre otros, de DaVinci Resolve:</p>
+<p style="text-align: center;"><a href="https://logickeyboard.com/shortcut/">https://logickeyboard.com/shortcut/</a></p>
+<p style="text-align: left;">Además, existen teclados físicos adaptados para que las teclas muestren sus principales atajos y cuentan con ruletas (o jogs o shuffles) de reproducción, facilitando la experiencia de trabajo. Te dejo un par de enlaces con ejemplos:</p>
+<p style="text-align: center;"><a href="https://www.blackmagicdesign.com/es/media/release/20190408-06" target="_blank" title="DaVinci Resolve Editor Keyboard" rel="noopener">DaVinci Resolve Editor Keyboard</a></p>
+<p style="text-align: center;"><a href="https://logickeyboard.com/shop/frontpage.html?CookieConsentChanged=1#shortcut" target="_blank" title="Empresa que fabrica teclados para diferentes propósitos y adaptados a distintos softwares" rel="noopener">Empresa que fabrica teclados para diferentes propósitos y adaptados a distintos softwares</a></p>
+<p style="text-align: center;"></p>
+</div>
+</div>
+</div>
+</div>
+</article>
+<article class="iDevice_wrapper FreeTextfpdIdevice" id="id7-2">
+<div class="iDevice emphasis0">
+<div id="ta7_73" class="block iDevice_content">
+Esto es sólo una pincelada muy
+básica que ampliaremos en sucesivos apartados. El manual de la aplicación con
+la que vayas a editar debe ser siempre tu libro de cabecera. 
+
+</div>
+</div>
+</article>
+<article class="iDevice_wrapper ParasabermasfpdIdevice em_iDevice em_iDevice_parasabermasfpd" id="id8-2">
+<div class="iDevice emphasis_parasabermasfpd">
+<header class="iDevice_header" style="background-image:url(icon_parasabermasfpd.png)"><h2 class="iDeviceTitle">Para saber más</h2></header>
+<div class="iDevice_inner">
+<div class="iDevice_content_wrapper">
+<div id="ta8_47" class="block iDevice_content">
+<p>Los siguientes enlaces corresponden a los manuales de operación o áreas de formación oficiales de algunos de los programas de edición de vídeo más populares:</p>
+<p style="text-align: center;"><a href="https://www.blackmagicdesign.com/products/davinciresolve/training" target="_blank" title="Web con recursos de formación de DaVinci Resolve (algunos en español)" rel="noopener">Web con recursos de formación de DaVinci Resolve (algunos en español)</a></p>
+<p style="text-align: center;"><a href="https://helpx.adobe.com/es/premiere-pro/user-guide.html" target="_blank" title="Manual de usuario de Adobe Premiere Pro" rel="noopener">Manual de usuario de Adobe Premiere Pro</a></p>
+<div class="enlace_centrado"><a href="https://support.apple.com/es-es/guide/final-cut-pro/welcome/mac" target="_blank" title="Manual de usuario de Final Cut Pro X" rel="noopener">Manual de usuario de Final Cut Pro X</a></div>
+</div>
+</div>
+</div>
+</div>
+</article>
+<article class="iDevice_wrapper ParasabermasfpdIdevice em_iDevice em_iDevice_parasabermasfpd" id="id88-2">
+<div class="iDevice emphasis_parasabermasfpd">
+<header class="iDevice_header" style="background-image:url(icon_parasabermasfpd.png)"><h2 class="iDeviceTitle">Para saber más</h2></header>
+<div class="iDevice_inner">
+<div class="iDevice_content_wrapper">
+<div id="ta88_144" class="block iDevice_content">
+<p>Todos los sistemas operativos para dispositivos móviles incluyen herramientas más o menos sofisticadas de edición básica de vídeo. Además de estas herramientas, también existen aplicaciones específicas que cada vez evolucionan más, permitiendo realizar operaciones que antes sólo se podían hacer desde programas ejecutados en un ordenador.</p>
+<p>Por ejemplo, iMovie es un software desarrollado por Apple que cuenta con una versión móvil. Esta aplicación permite editar vídeo de forma ágil y exportarlo a la memoria interna del dispositivo o a diferentes plataformas de almacenamiento online, redes sociales, otras aplicaciones, etc.</p>
+<p><a href="https://www.apple.com/es/imovie/" target="_blank" rel="noopener">https://www.apple.com/es/imovie/</a></p>
+<p>Adobe también tiene su propia versión de Adobe Premiere para dispositivos móviles. Esta app ha ido cambiado de nombre con el tiempo, pasando de llamarse Adobe Premiere Clip a Adobe Premiere Rush:</p>
+<p><a href="https://www.adobe.com/es/products/premiere-rush.html" target="_blank" title="Adobe Premiere Rush" rel="noopener">Adobe Premiere Rush</a></p>
+<p>Por último, DaVinci Resolve también cuenta con una versión más reducida&nbsp;diseñada para iPads, útil para trabajar en versiones rápidas en entornos como un rodaje o en desplazamientos. Es similar en cuanto al funcionamiento de su interfaz con respecto a la versión de ordenador:</p>
+<p><a href="https://apps.apple.com/es/app/davinci-resolve-for-ipad/id1581363826">https://apps.apple.com/es/app/davinci-resolve-for-ipad/id1581363826</a></p>
+</div>
+</div>
+</div>
+</div>
+</article>
+</article>
+<article class="node level-3-node" id="exe-node-3">
+<header class="nodeDecoration">
+... rest of the HTML

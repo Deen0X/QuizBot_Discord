@@ -1,0 +1,10 @@
+{
+  "excluded_types": [
+    "Caso práctico",
+    "*Reflexiona*",
+    "Para saber más"
+  ],
+  "excluded_ids": [
+    "P1"
+  ]
+}

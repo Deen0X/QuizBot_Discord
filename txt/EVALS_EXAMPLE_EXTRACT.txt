@@ -1,0 +1,241 @@
+{
+  "module": "CIA",
+  "total_preguntas": 67,
+  "preguntas": [
+    {
+      "numero": "1",
+      "enunciado": "A mayor número de subdivisiones y suavizado…",
+      "opciones": [
+        "más tiempo tarda el rénder.",
+        "más iluminación tiene el Fog.",
+        "más Amperios tiene el Penumbra Angle.",
+        "más velocidad tiene el Bump."
+      ],
+      "respuestas": [
+        "0"
+      ],
+      "retroalimentacion": "La respuesta correcta es: más tiempo tarda el rénder.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "CIA1_test_files/image_002.png",
+          "alt": "",
+          "title": ""
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "CIA",
+        "unidad": "Unidad 1",
+        "usuario": "CIA [Mr.E]",
+        "archivo": "CIA1_test1.html"
+      }
+    },
+    {
+      "numero": "2",
+      "enunciado": "¿A qué tipo de manipulador pertenece la siguiente imagen?",
+      "opciones": [
+        "Manipulador de Movimiento (Alt).",
+        "Manipulador de Rotación (E).",
+        "Manipulador de Escalado (R).",
+        "Manipulador de Traslación (W)."
+      ],
+      "respuestas": [
+        "1"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Manipulador de Rotación (E).",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "CIA1_test_files/MANIPULADOR%20MAYA%203.jpg",
+          "alt": "",
+          "title": ""
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "CIA",
+        "unidad": "Unidad 1",
+        "usuario": "CIA [Mr.E]",
+        "archivo": "CIA1_test1.html"
+      }
+    },
+    {
+      "numero": "3",
+      "enunciado": "¿A qué tipo de proyección pertenece la siguiente imagen?",
+      "opciones": [
+        "Spherical Mapping.",
+        "Automatic Mapping.",
+        "Planar Mapping.",
+        "Cylindrical Mapping."
+      ],
+      "respuestas": [
+        "0"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Spherical Mapping.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "CIA1_test_files/image%20(1).png",
+          "alt": "",
+          "title": ""
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "CIA",
+        "unidad": "Unidad 1",
+        "usuario": "CIA [Mr.E]",
+        "archivo": "CIA1_test1.html"
+      }
+    },
+    {
+      "numero": "4",
+      "enunciado": "¿Cómo se conoce la representación bidimensional de una superficie poligonal 3D?",
+      "opciones": [
+        "Malla Poligonal.",
+        "Mapas UVs.",
+        "Mapa UV.",
+        "Gráficos 3D."
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Mapa UV.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "CIA",
+        "unidad": "Unidad 1",
+        "usuario": "CIA [Mr.E]",
+        "archivo": "CIA1_test1.html"
+      }
+    },
+    {
+      "numero": "5",
+      "enunciado": "¿Cuál es el siguiente paso una vez concluido el trabajo de UVs?",
+      "opciones": [
+        "Preparar al personaje para animar.",
+        "Es  necesario “limpiar” el histórico de construcción del modelo, ya que la  asignación de proyecciones y la mayoría de las operaciones que  realizamos en el UV Editor, generan historia que queda impregnada en el  modelo y hará que éste “pese” más de la cuenta.",
+        "Exportar el mapa UVs con las coordenadas de cada punto.",
+        "Colorear nuestra textura con un programa de pintado 2D."
+      ],
+      "respuestas": [
+        "1"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Es\n necesario “limpiar” el histórico de construcción del modelo, ya que la \nasignación de proyecciones y la mayoría de las operaciones que \nrealizamos en el UV Editor, generan historia que queda impregnada en el \nmodelo y hará que éste “pese” más de la cuenta.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "CIA",
+        "unidad": "Unidad 1",
+        "usuario": "CIA [Mr.E]",
+        "archivo": "CIA1_test1.html"
+      }
+    },
+    {
+      "numero": "6",
+      "enunciado": "Dentro del UV Editor de Autodesk Maya , vamos a Modify --> Normalize para...",
+      "opciones": [
+        "crear un UV Shell.",
+        "hacer un UV Snapshot.",
+        "que llene el espacio 1:1 en su totalidad.",
+        "abrir el UV Editor Baking."
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: que llene el espacio 1:1 en su totalidad.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "CIA1_test_files/image.png",
+          "alt": "",
+          "title": ""
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "CIA",
+        "unidad": "Unidad 1",
+        "usuario": "CIA [Mr.E]",
+        "archivo": "CIA1_test1.html"
+      }
+    },
+    {
+      "numero": "7",
+      "enunciado": "Dentro del UV Editor nos vamos a Modify → Unfold (Ctrl+U) para…",
+      "opciones": [
+        "hacer un Set Project.",
+        "desplegar el mapa UV.",
+        "hacer un UV Snapshot.",
+        "asignar un material desde el Hypershade."
+      ],
+      "respuestas": [
+        "1"
+      ],
+      "retroalimentacion": "La respuesta correcta es: desplegar el mapa UV.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "CIA1_test_files/image_003.png",
+          "alt": "",
+          "title": ""
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "CIA",
+        "unidad": "Unidad 1",
+        "usuario": "CIA [Mr.E]",
+        "archivo": "CIA1_test1.html"
+      }
+    },
+    {
+      "numero": "8",
+      "enunciado": "El unwrap es...",
+      "opciones": [
+        "el tiling o repetición.",
+        "la manera como una textura debe ser desplegada sobre un objeto.",
+        "un mapa procedimental checker .",
+        "la proyección automática."
+      ],
+      "respuestas": [
+        "1"
+      ],
+      "retroalimentacion": "La respuesta correcta es: la manera como una textura debe ser desplegada sobre un objeto.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "CIA",
+        "unidad": "Unidad 1",
+        "usuario": "CIA [Mr.E]",
+        "archivo": "CIA1_test1.html"
+      }
+    },
+    {
+      "numero": "9",
+      "enunciado": "En Autodesk Maya , al hacer un Snapshot e s conveniente que el formato del archivo  nos entregue un canal alfa para...",
+      "opciones": [
+        "renderizar.",
+        "suavizar.",
+        "rasterizar.",
+        "texturizar."
+      ],
+      "respuestas": [
+        "3"
+      ],
+      "retroalimentacion": "La respuesta correcta es: texturizar.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "CIA",
+        "unidad": "Unidad 1",
+        "usuario": "CIA [Mr.E]",
+        "archivo": "CIA1_test1.html"
+      }
+    },

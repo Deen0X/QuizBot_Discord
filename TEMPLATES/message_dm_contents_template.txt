@@ -1,0 +1,15 @@
+[🎯{average_points}]{option_feedback}
+📝 **Módulo:** {module}
+📚 **Contexto:** {title}
+🔹 **Sección:** {section} / {subsection}
+❓ **Pregunta:** {question_text}
+{formatted_options}
+**Tu respuesta:**: {symbol} - {option_text}
+ℹ️ **Retroalimentación:** {incorrect}{feedback}{incorrect}
+📊 Tu progreso:
+✅ Correctas: {correct_points}
+❌ Incorrectas: {incorrect_points}
+🎯 Precisión: {average_points}
+**Enlace a la pregunta** {message_link}
+───────────────────────────────────────-
+

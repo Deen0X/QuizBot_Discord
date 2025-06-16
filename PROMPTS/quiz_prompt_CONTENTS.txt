@@ -1,0 +1,46 @@
+{module_info}
+{module_prompt}
+
+Basado en el siguiente contenido:
+
+Sección: {section}
+Subsección: {subsection}
+
+INICIO Párrafo anterior:
+{previous_paragraph}
+FIN  Párrafo anterior
+
+INICIO Párrafo principal:
+{main_paragraph}
+FIN Párrafo principal
+
+INICIO Párrafo siguiente:
+{next_paragraph}
+FIN  Párrafo siguiente
+
+Genera un quiz con las siguientes características:
+- Un título descriptivo.
+- Una pregunta clara, completa y auto-contenida, que NO haga referencia ni mencione el texto, el párrafo, el contenido anterior o siguiente, ni expresiones como "según lo descrito", "según el texto", "según el contenido" o similares.
+- La pregunta debe contener toda la información necesaria para que alguien sin acceso al texto pueda entenderla y responderla correctamente.
+- {total_options} opciones de respuesta (1 correcta y el resto incorrectas).
+- Información adicional para cada respuesta.
+- En el feedback no incluyas si es correcta o incorrecta.
+- NO TRADUZCAS. Si el texto original de los párrafos idnicados como Párrafo anterior, Párrafo principal y Párrafo siguiente en su mayoría está en un idioma específico como inglés, francés, etc, GENERA LA PREGUNTA Y RESPUESAS EN ESE MISMO IDIOMA.
+
+⚠️ IMPORTANTE:
+- No incluyas referencias al texto original o contexto en la pregunta ni en las opciones.
+- Si la pregunta inicialmente hace referencia a "el texto" o "lo descrito", reformúlala para eliminar esa referencia, asegurando que sea comprensible de forma independiente.
+- No incluyas saltos de línea sin escapar dentro de los valores del JSON.
+- Si necesitas incluir saltos de línea dentro de los strings, deben ir como `\\n`.
+- Si la pregunta hace referencia a una imagen asociada al párrafo, devuelve el dato en "media_question".
+- Si la pregunta hace referencia a un enlace asociado al párrafo, devuelve el dato en "link_question".
+- La salida debe ser estrictamente un JSON válido, sin texto adicional antes ni después, y toda la salida en una sola línea (minimizada).
+- LA SALIDA DEBE SER EXCLUSIVAMENTE EL OBJETO JSON EN UNA SOLA LÍNEA, SIN NINGÚN CARÁCTER ADICIONAL NI DELIMITADORES DE BLOQUE DE CÓDIGO (COMO ```JSON) ANTES NI DESPUÉS.
+
+Ejemplo de formato de salida válida:
+
+{"title": "...", "question": "...", "link_question": null, "media_question": null, "options": [{"text": "...", "feedback": "..."}, {"text": "...", "feedback": "..."}], "correct_answer": [0,1]}
+
+Ejemplo de formato de salida inválida:
+
+```json{"title": "...", "question": "...", "link_question": null, "media_question": null, "options": [{"text": "...", "feedback": "..."}, {"text": "...", "feedback": "..."}], "correct_answer": [0,1]}```

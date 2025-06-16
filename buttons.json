@@ -1,0 +1,622 @@
+{
+  "1381711372038963300": [
+    {
+      "label": "🔴",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]10\n📝 **Módulo:** DEIM\n📚 **Contexto:** Pregunta 25\n🔹 **Sección:** Unidad 0 / Pregunta 25\n❓ **Pregunta:** ¿A partir de qué número se empieza a indexar un array?\n> 🔴 - 10\n> 🟠 - -10\n> 🟡 - 1\n> 🟢 - 2\n> 🔵 - 0\n**Tu respuesta:**: 🔴 - 10\nℹ️ **Retroalimentación:** ||La respuesta correcta es: 0||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1165764464033927200/1375894414412484791/1381711372038963300\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "10",
+        "feedback": ""
+      },
+      "prefix_theme": "🔴"
+    },
+    {
+      "label": "🟠",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]-10\n📝 **Módulo:** DEIM\n📚 **Contexto:** Pregunta 25\n🔹 **Sección:** Unidad 0 / Pregunta 25\n❓ **Pregunta:** ¿A partir de qué número se empieza a indexar un array?\n> 🔴 - 10\n> 🟠 - -10\n> 🟡 - 1\n> 🟢 - 2\n> 🔵 - 0\n**Tu respuesta:**: 🟠 - -10\nℹ️ **Retroalimentación:** ||La respuesta correcta es: 0||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1165764464033927200/1375894414412484791/1381711372038963300\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "-10",
+        "feedback": ""
+      },
+      "prefix_theme": "🟠"
+    },
+    {
+      "label": "🟡",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]1\n📝 **Módulo:** DEIM\n📚 **Contexto:** Pregunta 25\n🔹 **Sección:** Unidad 0 / Pregunta 25\n❓ **Pregunta:** ¿A partir de qué número se empieza a indexar un array?\n> 🔴 - 10\n> 🟠 - -10\n> 🟡 - 1\n> 🟢 - 2\n> 🔵 - 0\n**Tu respuesta:**: 🟡 - 1\nℹ️ **Retroalimentación:** ||La respuesta correcta es: 0||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1165764464033927200/1375894414412484791/1381711372038963300\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "1",
+        "feedback": ""
+      },
+      "prefix_theme": "🟡"
+    },
+    {
+      "label": "🟢",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]2\n📝 **Módulo:** DEIM\n📚 **Contexto:** Pregunta 25\n🔹 **Sección:** Unidad 0 / Pregunta 25\n❓ **Pregunta:** ¿A partir de qué número se empieza a indexar un array?\n> 🔴 - 10\n> 🟠 - -10\n> 🟡 - 1\n> 🟢 - 2\n> 🔵 - 0\n**Tu respuesta:**: 🟢 - 2\nℹ️ **Retroalimentación:** ||La respuesta correcta es: 0||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1165764464033927200/1375894414412484791/1381711372038963300\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "2",
+        "feedback": ""
+      },
+      "prefix_theme": "🟢"
+    },
+    {
+      "label": "🔵",
+      "style": 2,
+      "message": "",
+      "direct_message": "✅[🎯{average_points}]0\n📝 **Módulo:** DEIM\n📚 **Contexto:** Pregunta 25\n🔹 **Sección:** Unidad 0 / Pregunta 25\n❓ **Pregunta:** ¿A partir de qué número se empieza a indexar un array?\n> 🔴 - 10\n> 🟠 - -10\n> 🟡 - 1\n> 🟢 - 2\n> 🔵 - 0\n**Tu respuesta:**: 🔵 - 0\nℹ️ **Retroalimentación:** La respuesta correcta es: 0\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1165764464033927200/1375894414412484791/1381711372038963300\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "0",
+        "feedback": ""
+      },
+      "prefix_theme": "🔵"
+    }
+  ],
+  "1381712894357405839": [
+    {
+      "label": "🐞",
+      "style": 2,
+      "message": "",
+      "direct_message": "✅[🎯{average_points}]Añadiendo constraints en su rotación en Z en su Rigidbody\n📝 **Módulo:** deim\n📚 **Contexto:** Pregunta 180\n🔹 **Sección:** Unidad 5 / Pregunta 180\n❓ **Pregunta:** ¿Cuál es la mejor manera de evitar que nuestro sprite tropiece y se caiga hacia adelante en un juego de plataformas?\n> 🐞 - Añadiendo constraints en su rotación en Z en su Rigidbody\n> 🐜 - Quitándole la gravedad\n> 🐝 - Haciendo que no se mueva\n**Tu respuesta:**: 🐞 - Añadiendo constraints en su rotación en Z en su Rigidbody\nℹ️ **Retroalimentación:** La respuesta correcta es: Añadiendo constraints en su rotación en Z en su Rigidbody\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1165764464033927200/1376160619493064714/1381712894357405839\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "Añadiendo constraints en su rotación en Z en su Rigidbody",
+        "feedback": ""
+      },
+      "prefix_theme": "🐞"
+    },
+    {
+      "label": "🐜",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]Quitándole la gravedad\n📝 **Módulo:** deim\n📚 **Contexto:** Pregunta 180\n🔹 **Sección:** Unidad 5 / Pregunta 180\n❓ **Pregunta:** ¿Cuál es la mejor manera de evitar que nuestro sprite tropiece y se caiga hacia adelante en un juego de plataformas?\n> 🐞 - Añadiendo constraints en su rotación en Z en su Rigidbody\n> 🐜 - Quitándole la gravedad\n> 🐝 - Haciendo que no se mueva\n**Tu respuesta:**: 🐜 - Quitándole la gravedad\nℹ️ **Retroalimentación:** ||La respuesta correcta es: Añadiendo constraints en su rotación en Z en su Rigidbody||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1165764464033927200/1376160619493064714/1381712894357405839\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "Quitándole la gravedad",
+        "feedback": ""
+      },
+      "prefix_theme": "🐜"
+    },
+    {
+      "label": "🐝",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]Haciendo que no se mueva\n📝 **Módulo:** deim\n📚 **Contexto:** Pregunta 180\n🔹 **Sección:** Unidad 5 / Pregunta 180\n❓ **Pregunta:** ¿Cuál es la mejor manera de evitar que nuestro sprite tropiece y se caiga hacia adelante en un juego de plataformas?\n> 🐞 - Añadiendo constraints en su rotación en Z en su Rigidbody\n> 🐜 - Quitándole la gravedad\n> 🐝 - Haciendo que no se mueva\n**Tu respuesta:**: 🐝 - Haciendo que no se mueva\nℹ️ **Retroalimentación:** ||La respuesta correcta es: Añadiendo constraints en su rotación en Z en su Rigidbody||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1165764464033927200/1376160619493064714/1381712894357405839\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "Haciendo que no se mueva",
+        "feedback": ""
+      },
+      "prefix_theme": "🐝"
+    }
+  ],
+  "1381712912581918801": [
+    {
+      "label": "🐶",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]Opción 1\n📝 **Módulo:** deim\n📚 **Contexto:** Pregunta 8\n🔹 **Sección:** Unidad 0 / Pregunta 8\n❓ **Pregunta:** Completa correctamente los huecos para que el resultado de la siguiente estructura switch diera como resultado \"Febrero\": int mes = Vacío 1 Pregunta 8 3 2 1 0 ; switch ( Vacío 2 Pregunta 8 mes int int mes mes int ){ case 1: print(\"Enero\"); Vacío 3 Pregunta 8 return bool break void ; case 2: print(\"Febrero\"); break; case 3: print(\"Marzo\"); break; }\n\n**Tu respuesta:**: 🐶 - Opción 1\nℹ️ **Retroalimentación:** ||La respuesta correcta es: Completa correctamente los huecos para que el resultado de la siguiente estructura switch diera como resultado \"Febrero\": int mes = [2]; switch ([mes]){ case 1: print(\"Enero\"); [break]; case 2: print(\"Febrero\"); break; case 3: print(\"Marzo\"); break; }||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1165764464033927200/1376160619493064714/1381712912581918801\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "Opción 1",
+        "feedback": "Feedback para opción 1"
+      },
+      "prefix_theme": "🐶"
+    },
+    {
+      "label": "🐱",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]Opción 2\n📝 **Módulo:** deim\n📚 **Contexto:** Pregunta 8\n🔹 **Sección:** Unidad 0 / Pregunta 8\n❓ **Pregunta:** Completa correctamente los huecos para que el resultado de la siguiente estructura switch diera como resultado \"Febrero\": int mes = Vacío 1 Pregunta 8 3 2 1 0 ; switch ( Vacío 2 Pregunta 8 mes int int mes mes int ){ case 1: print(\"Enero\"); Vacío 3 Pregunta 8 return bool break void ; case 2: print(\"Febrero\"); break; case 3: print(\"Marzo\"); break; }\n\n**Tu respuesta:**: 🐱 - Opción 2\nℹ️ **Retroalimentación:** ||La respuesta correcta es: Completa correctamente los huecos para que el resultado de la siguiente estructura switch diera como resultado \"Febrero\": int mes = [2]; switch ([mes]){ case 1: print(\"Enero\"); [break]; case 2: print(\"Febrero\"); break; case 3: print(\"Marzo\"); break; }||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1165764464033927200/1376160619493064714/1381712912581918801\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "Opción 2",
+        "feedback": "Feedback para opción 2"
+      },
+      "prefix_theme": "🐱"
+    },
+    {
+      "label": "🐭",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]Opción 3\n📝 **Módulo:** deim\n📚 **Contexto:** Pregunta 8\n🔹 **Sección:** Unidad 0 / Pregunta 8\n❓ **Pregunta:** Completa correctamente los huecos para que el resultado de la siguiente estructura switch diera como resultado \"Febrero\": int mes = Vacío 1 Pregunta 8 3 2 1 0 ; switch ( Vacío 2 Pregunta 8 mes int int mes mes int ){ case 1: print(\"Enero\"); Vacío 3 Pregunta 8 return bool break void ; case 2: print(\"Febrero\"); break; case 3: print(\"Marzo\"); break; }\n\n**Tu respuesta:**: 🐭 - Opción 3\nℹ️ **Retroalimentación:** ||La respuesta correcta es: Completa correctamente los huecos para que el resultado de la siguiente estructura switch diera como resultado \"Febrero\": int mes = [2]; switch ([mes]){ case 1: print(\"Enero\"); [break]; case 2: print(\"Febrero\"); break; case 3: print(\"Marzo\"); break; }||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1165764464033927200/1376160619493064714/1381712912581918801\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "Opción 3",
+        "feedback": "Feedback para opción 3"
+      },
+      "prefix_theme": "🐭"
+    },
+    {
+      "label": "🐹",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]Opción 4\n📝 **Módulo:** deim\n📚 **Contexto:** Pregunta 8\n🔹 **Sección:** Unidad 0 / Pregunta 8\n❓ **Pregunta:** Completa correctamente los huecos para que el resultado de la siguiente estructura switch diera como resultado \"Febrero\": int mes = Vacío 1 Pregunta 8 3 2 1 0 ; switch ( Vacío 2 Pregunta 8 mes int int mes mes int ){ case 1: print(\"Enero\"); Vacío 3 Pregunta 8 return bool break void ; case 2: print(\"Febrero\"); break; case 3: print(\"Marzo\"); break; }\n\n**Tu respuesta:**: 🐹 - Opción 4\nℹ️ **Retroalimentación:** ||La respuesta correcta es: Completa correctamente los huecos para que el resultado de la siguiente estructura switch diera como resultado \"Febrero\": int mes = [2]; switch ([mes]){ case 1: print(\"Enero\"); [break]; case 2: print(\"Febrero\"); break; case 3: print(\"Marzo\"); break; }||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1165764464033927200/1376160619493064714/1381712912581918801\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "Opción 4",
+        "feedback": "Feedback para opción 4"
+      },
+      "prefix_theme": "🐹"
+    }
+  ],
+  "1381713167851458581": [
+    {
+      "label": "🍑",
+      "style": 2,
+      "message": "",
+      "direct_message": "✅[🎯{average_points}]es el encargado de poner tiempos a cada plano.\n📝 **Módulo:** PAA\n📚 **Contexto:** Pregunta 43\n🔹 **Sección:** Unidad 2 / Pregunta 43\n❓ **Pregunta:** El editor:\n> 🍑 - es el encargado de poner tiempos a cada plano.\n> 🍎 - es el coordinador del trabajo de todos los departamentos.\n> 🍐 - es el encargado del layout .\n> 🍊 - es una figura inexistente en animación.\n**Tu respuesta:**: 🍑 - es el encargado de poner tiempos a cada plano.\nℹ️ **Retroalimentación:** La respuesta correcta es: es el encargado de poner tiempos a cada plano.\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1289539582802657301/1289539583305842711/1381713167851458581\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "es el encargado de poner tiempos a cada plano.",
+        "feedback": ""
+      },
+      "prefix_theme": "🍑"
+    },
+    {
+      "label": "🍎",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]es el coordinador del trabajo de todos los departamentos.\n📝 **Módulo:** PAA\n📚 **Contexto:** Pregunta 43\n🔹 **Sección:** Unidad 2 / Pregunta 43\n❓ **Pregunta:** El editor:\n> 🍑 - es el encargado de poner tiempos a cada plano.\n> 🍎 - es el coordinador del trabajo de todos los departamentos.\n> 🍐 - es el encargado del layout .\n> 🍊 - es una figura inexistente en animación.\n**Tu respuesta:**: 🍎 - es el coordinador del trabajo de todos los departamentos.\nℹ️ **Retroalimentación:** ||La respuesta correcta es: es el encargado de poner tiempos a cada plano.||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1289539582802657301/1289539583305842711/1381713167851458581\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "es el coordinador del trabajo de todos los departamentos.",
+        "feedback": ""
+      },
+      "prefix_theme": "🍎"
+    },
+    {
+      "label": "🍐",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]es el encargado del layout .\n📝 **Módulo:** PAA\n📚 **Contexto:** Pregunta 43\n🔹 **Sección:** Unidad 2 / Pregunta 43\n❓ **Pregunta:** El editor:\n> 🍑 - es el encargado de poner tiempos a cada plano.\n> 🍎 - es el coordinador del trabajo de todos los departamentos.\n> 🍐 - es el encargado del layout .\n> 🍊 - es una figura inexistente en animación.\n**Tu respuesta:**: 🍐 - es el encargado del layout .\nℹ️ **Retroalimentación:** ||La respuesta correcta es: es el encargado de poner tiempos a cada plano.||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1289539582802657301/1289539583305842711/1381713167851458581\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "es el encargado del layout .",
+        "feedback": ""
+      },
+      "prefix_theme": "🍐"
+    },
+    {
+      "label": "🍊",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]es una figura inexistente en animación.\n📝 **Módulo:** PAA\n📚 **Contexto:** Pregunta 43\n🔹 **Sección:** Unidad 2 / Pregunta 43\n❓ **Pregunta:** El editor:\n> 🍑 - es el encargado de poner tiempos a cada plano.\n> 🍎 - es el coordinador del trabajo de todos los departamentos.\n> 🍐 - es el encargado del layout .\n> 🍊 - es una figura inexistente en animación.\n**Tu respuesta:**: 🍊 - es una figura inexistente en animación.\nℹ️ **Retroalimentación:** ||La respuesta correcta es: es el encargado de poner tiempos a cada plano.||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1289539582802657301/1289539583305842711/1381713167851458581\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "es una figura inexistente en animación.",
+        "feedback": ""
+      },
+      "prefix_theme": "🍊"
+    }
+  ],
+  "1381713178156601484": [
+    {
+      "label": "a",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]Opción 1\n📝 **Módulo:** DDMA\n📚 **Contexto:** Pregunta 35\n🔹 **Sección:** Unidad 2 / Pregunta 35\n❓ **Pregunta:** Relaciona estas iniciales con los concepto a los que aluden:\n\n**Tu respuesta:**: a - Opción 1\nℹ️ **Retroalimentación:** ||La\n respuesta correcta es: PG. → Plano horizontal que representa el suelo.,\n LH. → Línea que vemos en la lejanía., PC. → Plano imaginario vertical \nsituado entre nuestra vista y el objeto., LT. → Línea base del plano del\n cuadro.||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1289539582802657301/1289539583305842711/1381713178156601484\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "Opción 1",
+        "feedback": "Feedback para opción 1"
+      },
+      "prefix_theme": "a"
+    },
+    {
+      "label": "b",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]Opción 2\n📝 **Módulo:** DDMA\n📚 **Contexto:** Pregunta 35\n🔹 **Sección:** Unidad 2 / Pregunta 35\n❓ **Pregunta:** Relaciona estas iniciales con los concepto a los que aluden:\n\n**Tu respuesta:**: b - Opción 2\nℹ️ **Retroalimentación:** ||La\n respuesta correcta es: PG. → Plano horizontal que representa el suelo.,\n LH. → Línea que vemos en la lejanía., PC. → Plano imaginario vertical \nsituado entre nuestra vista y el objeto., LT. → Línea base del plano del\n cuadro.||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1289539582802657301/1289539583305842711/1381713178156601484\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "Opción 2",
+        "feedback": "Feedback para opción 2"
+      },
+      "prefix_theme": "b"
+    },
+    {
+      "label": "c",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]Opción 3\n📝 **Módulo:** DDMA\n📚 **Contexto:** Pregunta 35\n🔹 **Sección:** Unidad 2 / Pregunta 35\n❓ **Pregunta:** Relaciona estas iniciales con los concepto a los que aluden:\n\n**Tu respuesta:**: c - Opción 3\nℹ️ **Retroalimentación:** ||La\n respuesta correcta es: PG. → Plano horizontal que representa el suelo.,\n LH. → Línea que vemos en la lejanía., PC. → Plano imaginario vertical \nsituado entre nuestra vista y el objeto., LT. → Línea base del plano del\n cuadro.||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1289539582802657301/1289539583305842711/1381713178156601484\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "Opción 3",
+        "feedback": "Feedback para opción 3"
+      },
+      "prefix_theme": "c"
+    },
+    {
+      "label": "d",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]Opción 4\n📝 **Módulo:** DDMA\n📚 **Contexto:** Pregunta 35\n🔹 **Sección:** Unidad 2 / Pregunta 35\n❓ **Pregunta:** Relaciona estas iniciales con los concepto a los que aluden:\n\n**Tu respuesta:**: d - Opción 4\nℹ️ **Retroalimentación:** ||La\n respuesta correcta es: PG. → Plano horizontal que representa el suelo.,\n LH. → Línea que vemos en la lejanía., PC. → Plano imaginario vertical \nsituado entre nuestra vista y el objeto., LT. → Línea base del plano del\n cuadro.||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1289539582802657301/1289539583305842711/1381713178156601484\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "Opción 4",
+        "feedback": "Feedback para opción 4"
+      },
+      "prefix_theme": "d"
+    }
+  ],
+  "1381713598291902679": [
+    {
+      "label": "👁️",
+      "style": 2,
+      "message": "",
+      "direct_message": "✅[🎯{average_points}]Esta nomenclatura sigue las convenciones de programación orientadas a objetos y facilita la comprensión del código.\n📝 **Módulo:** deim\n📚 **Contexto:** Creación de una clase C# en Unity\n🔹 **Sección:** Unidad 2 / Pregunta P661\n❓ **Pregunta:** Al crear un nuevo Asset en Unity, y generar una clase C# asociada, ¿qué nombre se recomienda utilizar por defecto para la clase, y qué consideración se debe tener en cuenta al nombrarla?\n> 👁️ - InputSystem, comenzando con mayúscula.\n> 👀 - Input_System, usando guiones bajos.\n> 🧿 - inputsystem, en minúsculas.\n> 🕶️ - Cualquier nombre, sin restricciones.\n> 🦺 - SystemInput,  comenzando con mayúscula.\n**Tu respuesta:**: 👁️ - InputSystem, comenzando con mayúscula.\nℹ️ **Retroalimentación:** y crear una clase activando la casilla de \"Generate C# Class\" que aparece en la ventana del Inspector. En este caso, llamaremos a la clase “InputSystem” dado que es lo que pone por defecto en el apartado de C# Class Name, aunque podemos llamarla como queramos (recuerda que al ser una clase debe escribirse comenzando con mayúscula). En la siguiente imagen se ve el panel de Proyecto a la izquierda y el de Inspector a la derecha:\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1165764464033927200/1376160619493064714/1381713598291902679\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "InputSystem, comenzando con mayúscula.",
+        "feedback": "Esta nomenclatura sigue las convenciones de programación orientadas a objetos y facilita la comprensión del código."
+      },
+      "prefix_theme": "👁️"
+    },
+    {
+      "label": "👀",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]Si bien es una opción válida, no sigue las convenciones estándar de C# para los nombres de clases.\n📝 **Módulo:** deim\n📚 **Contexto:** Creación de una clase C# en Unity\n🔹 **Sección:** Unidad 2 / Pregunta P661\n❓ **Pregunta:** Al crear un nuevo Asset en Unity, y generar una clase C# asociada, ¿qué nombre se recomienda utilizar por defecto para la clase, y qué consideración se debe tener en cuenta al nombrarla?\n> 👁️ - InputSystem, comenzando con mayúscula.\n> 👀 - Input_System, usando guiones bajos.\n> 🧿 - inputsystem, en minúsculas.\n> 🕶️ - Cualquier nombre, sin restricciones.\n> 🦺 - SystemInput,  comenzando con mayúscula.\n**Tu respuesta:**: 👀 - Input_System, usando guiones bajos.\nℹ️ **Retroalimentación:** ||y crear una clase activando la casilla de \"Generate C# Class\" que aparece en la ventana del Inspector. En este caso, llamaremos a la clase “InputSystem” dado que es lo que pone por defecto en el apartado de C# Class Name, aunque podemos llamarla como queramos (recuerda que al ser una clase debe escribirse comenzando con mayúscula). En la siguiente imagen se ve el panel de Proyecto a la izquierda y el de Inspector a la derecha:||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1165764464033927200/1376160619493064714/1381713598291902679\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "Input_System, usando guiones bajos.",
+        "feedback": "Si bien es una opción válida, no sigue las convenciones estándar de C# para los nombres de clases."
+      },
+      "prefix_theme": "👀"
+    },
+    {
+      "label": "🧿",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]Esta nomenclatura no es adecuada para nombres de clases en C#, ya que las clases deben empezar con mayúscula.\n📝 **Módulo:** deim\n📚 **Contexto:** Creación de una clase C# en Unity\n🔹 **Sección:** Unidad 2 / Pregunta P661\n❓ **Pregunta:** Al crear un nuevo Asset en Unity, y generar una clase C# asociada, ¿qué nombre se recomienda utilizar por defecto para la clase, y qué consideración se debe tener en cuenta al nombrarla?\n> 👁️ - InputSystem, comenzando con mayúscula.\n> 👀 - Input_System, usando guiones bajos.\n> 🧿 - inputsystem, en minúsculas.\n> 🕶️ - Cualquier nombre, sin restricciones.\n> 🦺 - SystemInput,  comenzando con mayúscula.\n**Tu respuesta:**: 🧿 - inputsystem, en minúsculas.\nℹ️ **Retroalimentación:** ||y crear una clase activando la casilla de \"Generate C# Class\" que aparece en la ventana del Inspector. En este caso, llamaremos a la clase “InputSystem” dado que es lo que pone por defecto en el apartado de C# Class Name, aunque podemos llamarla como queramos (recuerda que al ser una clase debe escribirse comenzando con mayúscula). En la siguiente imagen se ve el panel de Proyecto a la izquierda y el de Inspector a la derecha:||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1165764464033927200/1376160619493064714/1381713598291902679\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "inputsystem, en minúsculas.",
+        "feedback": "Esta nomenclatura no es adecuada para nombres de clases en C#, ya que las clases deben empezar con mayúscula."
+      },
+      "prefix_theme": "🧿"
+    },
+    {
+      "label": "🕶️",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]Si bien técnicamente es posible, se recomienda seguir las convenciones de nomenclatura para una mejor legibilidad y mantenibilidad del código.\n📝 **Módulo:** deim\n📚 **Contexto:** Creación de una clase C# en Unity\n🔹 **Sección:** Unidad 2 / Pregunta P661\n❓ **Pregunta:** Al crear un nuevo Asset en Unity, y generar una clase C# asociada, ¿qué nombre se recomienda utilizar por defecto para la clase, y qué consideración se debe tener en cuenta al nombrarla?\n> 👁️ - InputSystem, comenzando con mayúscula.\n> 👀 - Input_System, usando guiones bajos.\n> 🧿 - inputsystem, en minúsculas.\n> 🕶️ - Cualquier nombre, sin restricciones.\n> 🦺 - SystemInput,  comenzando con mayúscula.\n**Tu respuesta:**: 🕶️ - Cualquier nombre, sin restricciones.\nℹ️ **Retroalimentación:** ||y crear una clase activando la casilla de \"Generate C# Class\" que aparece en la ventana del Inspector. En este caso, llamaremos a la clase “InputSystem” dado que es lo que pone por defecto en el apartado de C# Class Name, aunque podemos llamarla como queramos (recuerda que al ser una clase debe escribirse comenzando con mayúscula). En la siguiente imagen se ve el panel de Proyecto a la izquierda y el de Inspector a la derecha:||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1165764464033927200/1376160619493064714/1381713598291902679\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "Cualquier nombre, sin restricciones.",
+        "feedback": "Si bien técnicamente es posible, se recomienda seguir las convenciones de nomenclatura para una mejor legibilidad y mantenibilidad del código."
+      },
+      "prefix_theme": "🕶️"
+    },
+    {
+      "label": "🦺",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]Esta nomenclatura es válida, pero 'InputSystem' es más descriptivo para el propósito de esta clase.\n📝 **Módulo:** deim\n📚 **Contexto:** Creación de una clase C# en Unity\n🔹 **Sección:** Unidad 2 / Pregunta P661\n❓ **Pregunta:** Al crear un nuevo Asset en Unity, y generar una clase C# asociada, ¿qué nombre se recomienda utilizar por defecto para la clase, y qué consideración se debe tener en cuenta al nombrarla?\n> 👁️ - InputSystem, comenzando con mayúscula.\n> 👀 - Input_System, usando guiones bajos.\n> 🧿 - inputsystem, en minúsculas.\n> 🕶️ - Cualquier nombre, sin restricciones.\n> 🦺 - SystemInput,  comenzando con mayúscula.\n**Tu respuesta:**: 🦺 - SystemInput,  comenzando con mayúscula.\nℹ️ **Retroalimentación:** ||y crear una clase activando la casilla de \"Generate C# Class\" que aparece en la ventana del Inspector. En este caso, llamaremos a la clase “InputSystem” dado que es lo que pone por defecto en el apartado de C# Class Name, aunque podemos llamarla como queramos (recuerda que al ser una clase debe escribirse comenzando con mayúscula). En la siguiente imagen se ve el panel de Proyecto a la izquierda y el de Inspector a la derecha:||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1165764464033927200/1376160619493064714/1381713598291902679\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "SystemInput,  comenzando con mayúscula.",
+        "feedback": "Esta nomenclatura es válida, pero 'InputSystem' es más descriptivo para el propósito de esta clase."
+      },
+      "prefix_theme": "🦺"
+    }
+  ],
+  "1381713628973236244": [
+    {
+      "label": "🔴",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]La velocidad del objeto no se obtiene directamente de la información de la colisión, suele necesitarse otro tipo de cálculo.\n📝 **Módulo:** deim\n📚 **Contexto:** Detección de Colisiones y Distancias\n🔹 **Sección:** Unidad 3 / Pregunta P846\n❓ **Pregunta:** En un sistema de detección de colisiones utilizando un método similar a Raycast, se realiza una consulta para determinar si un objeto ha colisionado con otro. Si la colisión se produce, ¿qué información adicional se puede obtener directamente del resultado de la consulta?\n> 🔴 - La velocidad del objeto colisionado.\n> 🟠 - El tipo de material del objeto colisionado.\n> 🟡 - La distancia al objeto colisionado.\n> 🟢 - La posición final del objeto tras la colisión.\n> 🔵 - La masa del objeto colisionado.\n**Tu respuesta:**: 🔴 - La velocidad del objeto colisionado.\nℹ️ **Retroalimentación:** ||Si la variable hit no devuelve “null”, es decir, que sí que ha colisionado con algo, puedo obtener por ejemplo la distancia a la que se encuentra ese objeto debajo de nosotros:||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1165764464033927200/1376160619493064714/1381713628973236244\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "La velocidad del objeto colisionado.",
+        "feedback": "La velocidad del objeto no se obtiene directamente de la información de la colisión, suele necesitarse otro tipo de cálculo."
+      },
+      "prefix_theme": "🔴"
+    },
+    {
+      "label": "🟠",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]Si bien se puede acceder a esta información, no se obtiene directamente de la consulta de colisión, sino mediante otras propiedades del objeto detectado.\n📝 **Módulo:** deim\n📚 **Contexto:** Detección de Colisiones y Distancias\n🔹 **Sección:** Unidad 3 / Pregunta P846\n❓ **Pregunta:** En un sistema de detección de colisiones utilizando un método similar a Raycast, se realiza una consulta para determinar si un objeto ha colisionado con otro. Si la colisión se produce, ¿qué información adicional se puede obtener directamente del resultado de la consulta?\n> 🔴 - La velocidad del objeto colisionado.\n> 🟠 - El tipo de material del objeto colisionado.\n> 🟡 - La distancia al objeto colisionado.\n> 🟢 - La posición final del objeto tras la colisión.\n> 🔵 - La masa del objeto colisionado.\n**Tu respuesta:**: 🟠 - El tipo de material del objeto colisionado.\nℹ️ **Retroalimentación:** ||Si la variable hit no devuelve “null”, es decir, que sí que ha colisionado con algo, puedo obtener por ejemplo la distancia a la que se encuentra ese objeto debajo de nosotros:||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1165764464033927200/1376160619493064714/1381713628973236244\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "El tipo de material del objeto colisionado.",
+        "feedback": "Si bien se puede acceder a esta información, no se obtiene directamente de la consulta de colisión, sino mediante otras propiedades del objeto detectado."
+      },
+      "prefix_theme": "🟠"
+    },
+    {
+      "label": "🟡",
+      "style": 2,
+      "message": "",
+      "direct_message": "✅[🎯{average_points}]Esta es una información que generalmente se puede obtener directamente de la consulta de colisión.\n📝 **Módulo:** deim\n📚 **Contexto:** Detección de Colisiones y Distancias\n🔹 **Sección:** Unidad 3 / Pregunta P846\n❓ **Pregunta:** En un sistema de detección de colisiones utilizando un método similar a Raycast, se realiza una consulta para determinar si un objeto ha colisionado con otro. Si la colisión se produce, ¿qué información adicional se puede obtener directamente del resultado de la consulta?\n> 🔴 - La velocidad del objeto colisionado.\n> 🟠 - El tipo de material del objeto colisionado.\n> 🟡 - La distancia al objeto colisionado.\n> 🟢 - La posición final del objeto tras la colisión.\n> 🔵 - La masa del objeto colisionado.\n**Tu respuesta:**: 🟡 - La distancia al objeto colisionado.\nℹ️ **Retroalimentación:** Si la variable hit no devuelve “null”, es decir, que sí que ha colisionado con algo, puedo obtener por ejemplo la distancia a la que se encuentra ese objeto debajo de nosotros:\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1165764464033927200/1376160619493064714/1381713628973236244\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "La distancia al objeto colisionado.",
+        "feedback": "Esta es una información que generalmente se puede obtener directamente de la consulta de colisión."
+      },
+      "prefix_theme": "🟡"
+    },
+    {
+      "label": "🟢",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]Esta posición se debe calcular teniendo en cuenta la física del movimiento y la colisión, no se obtiene directamente.\n📝 **Módulo:** deim\n📚 **Contexto:** Detección de Colisiones y Distancias\n🔹 **Sección:** Unidad 3 / Pregunta P846\n❓ **Pregunta:** En un sistema de detección de colisiones utilizando un método similar a Raycast, se realiza una consulta para determinar si un objeto ha colisionado con otro. Si la colisión se produce, ¿qué información adicional se puede obtener directamente del resultado de la consulta?\n> 🔴 - La velocidad del objeto colisionado.\n> 🟠 - El tipo de material del objeto colisionado.\n> 🟡 - La distancia al objeto colisionado.\n> 🟢 - La posición final del objeto tras la colisión.\n> 🔵 - La masa del objeto colisionado.\n**Tu respuesta:**: 🟢 - La posición final del objeto tras la colisión.\nℹ️ **Retroalimentación:** ||Si la variable hit no devuelve “null”, es decir, que sí que ha colisionado con algo, puedo obtener por ejemplo la distancia a la que se encuentra ese objeto debajo de nosotros:||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1165764464033927200/1376160619493064714/1381713628973236244\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "La posición final del objeto tras la colisión.",
+        "feedback": "Esta posición se debe calcular teniendo en cuenta la física del movimiento y la colisión, no se obtiene directamente."
+      },
+      "prefix_theme": "🟢"
+    },
+    {
+      "label": "🔵",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]Similar a la velocidad y el tipo de material, se requiere información adicional sobre el objeto colisionado para obtener su masa.\n📝 **Módulo:** deim\n📚 **Contexto:** Detección de Colisiones y Distancias\n🔹 **Sección:** Unidad 3 / Pregunta P846\n❓ **Pregunta:** En un sistema de detección de colisiones utilizando un método similar a Raycast, se realiza una consulta para determinar si un objeto ha colisionado con otro. Si la colisión se produce, ¿qué información adicional se puede obtener directamente del resultado de la consulta?\n> 🔴 - La velocidad del objeto colisionado.\n> 🟠 - El tipo de material del objeto colisionado.\n> 🟡 - La distancia al objeto colisionado.\n> 🟢 - La posición final del objeto tras la colisión.\n> 🔵 - La masa del objeto colisionado.\n**Tu respuesta:**: 🔵 - La masa del objeto colisionado.\nℹ️ **Retroalimentación:** ||Si la variable hit no devuelve “null”, es decir, que sí que ha colisionado con algo, puedo obtener por ejemplo la distancia a la que se encuentra ese objeto debajo de nosotros:||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1165764464033927200/1376160619493064714/1381713628973236244\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "La masa del objeto colisionado.",
+        "feedback": "Similar a la velocidad y el tipo de material, se requiere información adicional sobre el objeto colisionado para obtener su masa."
+      },
+      "prefix_theme": "🔵"
+    }
+  ],
+  "1381713846158233611": [
+    {
+      "label": "🎲",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]Incorrecto. Existen otras opciones para modelar colisiones más complejas o específicas.\n📝 **Módulo:** deim\n📚 **Contexto:** Pregunta 97\n🔹 **Sección:** Unidad 3 / Pregunta 97\n❓ **Pregunta:** Analizando el repertorio de componentes para la detección de colisiones en entornos de desarrollo de videojuegos tridimensionales, considerando las limitaciones y posibilidades de cada tipo, ¿se limita la gama de opciones a Box Collider, Capsule Collider, Sphere Collider y Mesh Collider, o existen otras alternativas para modelar interacciones físicas?\n> 🎲 - Sí, únicamente esos cuatro tipos cubren todas las necesidades de detección de colisiones.\n> ♟ - No, existen otros tipos de colliders con funcionalidades especializadas.\n> 🎯 - La elección del collider se limita a la geometría del objeto, sin alternativas adicionales.\n> 🎳 - Solo los Mesh Colliders permiten la detección de colisiones precisas, los otros tres son aproximaciones.\n**Tu respuesta:**: 🎲 - Sí, únicamente esos cuatro tipos cubren todas las necesidades de detección de colisiones.\nℹ️ **Retroalimentación:** ||Pregunta original: Existen el box collider, el capsule collider, el sphere collider y el mesh collider. ¿Existen más tipos de colliders?\nOpciones Originales:\n· Verdadero\n· Falso\nRetroalimentación Original: La respuesta correcta es 'Verdadero'||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1165764464033927200/1376160619493064714/1381713846158233611\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "Sí, únicamente esos cuatro tipos cubren todas las necesidades de detección de colisiones.",
+        "feedback": "Incorrecto. Existen otras opciones para modelar colisiones más complejas o específicas."
+      },
+      "prefix_theme": "🎲"
+    },
+    {
+      "label": "♟",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]Correcto. La lista inicial no es exhaustiva.\n📝 **Módulo:** deim\n📚 **Contexto:** Pregunta 97\n🔹 **Sección:** Unidad 3 / Pregunta 97\n❓ **Pregunta:** Analizando el repertorio de componentes para la detección de colisiones en entornos de desarrollo de videojuegos tridimensionales, considerando las limitaciones y posibilidades de cada tipo, ¿se limita la gama de opciones a Box Collider, Capsule Collider, Sphere Collider y Mesh Collider, o existen otras alternativas para modelar interacciones físicas?\n> 🎲 - Sí, únicamente esos cuatro tipos cubren todas las necesidades de detección de colisiones.\n> ♟ - No, existen otros tipos de colliders con funcionalidades especializadas.\n> 🎯 - La elección del collider se limita a la geometría del objeto, sin alternativas adicionales.\n> 🎳 - Solo los Mesh Colliders permiten la detección de colisiones precisas, los otros tres son aproximaciones.\n**Tu respuesta:**: ♟ - No, existen otros tipos de colliders con funcionalidades especializadas.\nℹ️ **Retroalimentación:** ||Pregunta original: Existen el box collider, el capsule collider, el sphere collider y el mesh collider. ¿Existen más tipos de colliders?\nOpciones Originales:\n· Verdadero\n· Falso\nRetroalimentación Original: La respuesta correcta es 'Verdadero'||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1165764464033927200/1376160619493064714/1381713846158233611\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "No, existen otros tipos de colliders con funcionalidades especializadas.",
+        "feedback": "Correcto. La lista inicial no es exhaustiva."
+      },
+      "prefix_theme": "♟"
+    },
+    {
+      "label": "🎯",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]Incorrecto.  La selección del tipo de collider depende de diversos factores más allá de la geometría.\n📝 **Módulo:** deim\n📚 **Contexto:** Pregunta 97\n🔹 **Sección:** Unidad 3 / Pregunta 97\n❓ **Pregunta:** Analizando el repertorio de componentes para la detección de colisiones en entornos de desarrollo de videojuegos tridimensionales, considerando las limitaciones y posibilidades de cada tipo, ¿se limita la gama de opciones a Box Collider, Capsule Collider, Sphere Collider y Mesh Collider, o existen otras alternativas para modelar interacciones físicas?\n> 🎲 - Sí, únicamente esos cuatro tipos cubren todas las necesidades de detección de colisiones.\n> ♟ - No, existen otros tipos de colliders con funcionalidades especializadas.\n> 🎯 - La elección del collider se limita a la geometría del objeto, sin alternativas adicionales.\n> 🎳 - Solo los Mesh Colliders permiten la detección de colisiones precisas, los otros tres son aproximaciones.\n**Tu respuesta:**: 🎯 - La elección del collider se limita a la geometría del objeto, sin alternativas adicionales.\nℹ️ **Retroalimentación:** ||Pregunta original: Existen el box collider, el capsule collider, el sphere collider y el mesh collider. ¿Existen más tipos de colliders?\nOpciones Originales:\n· Verdadero\n· Falso\nRetroalimentación Original: La respuesta correcta es 'Verdadero'||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1165764464033927200/1376160619493064714/1381713846158233611\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "La elección del collider se limita a la geometría del objeto, sin alternativas adicionales.",
+        "feedback": "Incorrecto.  La selección del tipo de collider depende de diversos factores más allá de la geometría."
+      },
+      "prefix_theme": "🎯"
+    },
+    {
+      "label": "🎳",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]Incorrecto. Cada tipo de collider tiene sus propias ventajas y desventajas.\n📝 **Módulo:** deim\n📚 **Contexto:** Pregunta 97\n🔹 **Sección:** Unidad 3 / Pregunta 97\n❓ **Pregunta:** Analizando el repertorio de componentes para la detección de colisiones en entornos de desarrollo de videojuegos tridimensionales, considerando las limitaciones y posibilidades de cada tipo, ¿se limita la gama de opciones a Box Collider, Capsule Collider, Sphere Collider y Mesh Collider, o existen otras alternativas para modelar interacciones físicas?\n> 🎲 - Sí, únicamente esos cuatro tipos cubren todas las necesidades de detección de colisiones.\n> ♟ - No, existen otros tipos de colliders con funcionalidades especializadas.\n> 🎯 - La elección del collider se limita a la geometría del objeto, sin alternativas adicionales.\n> 🎳 - Solo los Mesh Colliders permiten la detección de colisiones precisas, los otros tres son aproximaciones.\n**Tu respuesta:**: 🎳 - Solo los Mesh Colliders permiten la detección de colisiones precisas, los otros tres son aproximaciones.\nℹ️ **Retroalimentación:** ||Pregunta original: Existen el box collider, el capsule collider, el sphere collider y el mesh collider. ¿Existen más tipos de colliders?\nOpciones Originales:\n· Verdadero\n· Falso\nRetroalimentación Original: La respuesta correcta es 'Verdadero'||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1165764464033927200/1376160619493064714/1381713846158233611\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "Solo los Mesh Colliders permiten la detección de colisiones precisas, los otros tres son aproximaciones.",
+        "feedback": "Incorrecto. Cada tipo de collider tiene sus propias ventajas y desventajas."
+      },
+      "prefix_theme": "🎳"
+    }
+  ],
+  "1381714008792498298": [
+    {
+      "label": "🤿",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]Este namespace se usa para componentes UI estándar de Unity, no para TextMeshPro.\n📝 **Módulo:** deim\n📚 **Contexto:** Pregunta 142\n🔹 **Sección:** Unidad 4 / Pregunta 142\n❓ **Pregunta:** Para manipular dinámicamente elementos de texto mediante la librería TextMeshPro dentro de un entorno de desarrollo de videojuegos basado en Unity, ¿qué declaración de espacio de nombres es fundamental integrar en tu script C# para asegurar la funcionalidad correcta del componente?\n> 🤿 - using UnityEngine.UI;\n> 🥊 - using TMPro;\n> 🛹 - using System.Collections;\n> 🛼 - using UnityEngine.SceneManagement;\n**Tu respuesta:**: 🤿 - using UnityEngine.UI;\nℹ️ **Retroalimentación:** ||Pregunta original: ¿Qué namespace se necesita añadir en un script para trabajar con un TextMeshPro?\nOpciones Originales:\n· UnityEngine.Canvas\n· TMPro\n· UnityEngine.EventSystems\n· UnityEngine.UI\nRetroalimentación Original: La respuesta correcta es: TMPro||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1165764464033927200/1376160619493064714/1381714008792498298\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "using UnityEngine.UI;",
+        "feedback": "Este namespace se usa para componentes UI estándar de Unity, no para TextMeshPro."
+      },
+      "prefix_theme": "🤿"
+    },
+    {
+      "label": "🥊",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]Respuesta correcta. Este namespace proporciona acceso a las clases y funcionalidades de TextMeshPro.\n📝 **Módulo:** deim\n📚 **Contexto:** Pregunta 142\n🔹 **Sección:** Unidad 4 / Pregunta 142\n❓ **Pregunta:** Para manipular dinámicamente elementos de texto mediante la librería TextMeshPro dentro de un entorno de desarrollo de videojuegos basado en Unity, ¿qué declaración de espacio de nombres es fundamental integrar en tu script C# para asegurar la funcionalidad correcta del componente?\n> 🤿 - using UnityEngine.UI;\n> 🥊 - using TMPro;\n> 🛹 - using System.Collections;\n> 🛼 - using UnityEngine.SceneManagement;\n**Tu respuesta:**: 🥊 - using TMPro;\nℹ️ **Retroalimentación:** ||Pregunta original: ¿Qué namespace se necesita añadir en un script para trabajar con un TextMeshPro?\nOpciones Originales:\n· UnityEngine.Canvas\n· TMPro\n· UnityEngine.EventSystems\n· UnityEngine.UI\nRetroalimentación Original: La respuesta correcta es: TMPro||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1165764464033927200/1376160619493064714/1381714008792498298\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "using TMPro;",
+        "feedback": "Respuesta correcta. Este namespace proporciona acceso a las clases y funcionalidades de TextMeshPro."
+      },
+      "prefix_theme": "🥊"
+    },
+    {
+      "label": "🛹",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]Este namespace es útil para colecciones de datos, pero no para interactuar con TextMeshPro.\n📝 **Módulo:** deim\n📚 **Contexto:** Pregunta 142\n🔹 **Sección:** Unidad 4 / Pregunta 142\n❓ **Pregunta:** Para manipular dinámicamente elementos de texto mediante la librería TextMeshPro dentro de un entorno de desarrollo de videojuegos basado en Unity, ¿qué declaración de espacio de nombres es fundamental integrar en tu script C# para asegurar la funcionalidad correcta del componente?\n> 🤿 - using UnityEngine.UI;\n> 🥊 - using TMPro;\n> 🛹 - using System.Collections;\n> 🛼 - using UnityEngine.SceneManagement;\n**Tu respuesta:**: 🛹 - using System.Collections;\nℹ️ **Retroalimentación:** ||Pregunta original: ¿Qué namespace se necesita añadir en un script para trabajar con un TextMeshPro?\nOpciones Originales:\n· UnityEngine.Canvas\n· TMPro\n· UnityEngine.EventSystems\n· UnityEngine.UI\nRetroalimentación Original: La respuesta correcta es: TMPro||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1165764464033927200/1376160619493064714/1381714008792498298\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "using System.Collections;",
+        "feedback": "Este namespace es útil para colecciones de datos, pero no para interactuar con TextMeshPro."
+      },
+      "prefix_theme": "🛹"
+    },
+    {
+      "label": "🛼",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]Este namespace se utiliza para la gestión de escenas, no para TextMeshPro.\n📝 **Módulo:** deim\n📚 **Contexto:** Pregunta 142\n🔹 **Sección:** Unidad 4 / Pregunta 142\n❓ **Pregunta:** Para manipular dinámicamente elementos de texto mediante la librería TextMeshPro dentro de un entorno de desarrollo de videojuegos basado en Unity, ¿qué declaración de espacio de nombres es fundamental integrar en tu script C# para asegurar la funcionalidad correcta del componente?\n> 🤿 - using UnityEngine.UI;\n> 🥊 - using TMPro;\n> 🛹 - using System.Collections;\n> 🛼 - using UnityEngine.SceneManagement;\n**Tu respuesta:**: 🛼 - using UnityEngine.SceneManagement;\nℹ️ **Retroalimentación:** ||Pregunta original: ¿Qué namespace se necesita añadir en un script para trabajar con un TextMeshPro?\nOpciones Originales:\n· UnityEngine.Canvas\n· TMPro\n· UnityEngine.EventSystems\n· UnityEngine.UI\nRetroalimentación Original: La respuesta correcta es: TMPro||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1165764464033927200/1376160619493064714/1381714008792498298\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "using UnityEngine.SceneManagement;",
+        "feedback": "Este namespace se utiliza para la gestión de escenas, no para TextMeshPro."
+      },
+      "prefix_theme": "🛼"
+    }
+  ],
+  "1382416423074267306": [
+    {
+      "label": "🟥",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]En el Rigidbody\n📝 **Módulo:** deim\n📚 **Contexto:** Pregunta 115\n🔹 **Sección:** Unidad 3 / Pregunta 115\n❓ **Pregunta:** ¿En qué componente deberemos incorporar un material físico?\n> 🟥 - En el Rigidbody\n> 🟧 - En el colisionador (del tipo que sea)\n> 🟨 - En el \"Mesh Renderer\"\n**Tu respuesta:**: 🟥 - En el Rigidbody\nℹ️ **Retroalimentación:** ||La respuesta correcta es: En el colisionador (del tipo que sea)||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1289539582802657301/1376179703106244658/1382416423074267306\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "En el Rigidbody",
+        "feedback": ""
+      },
+      "prefix_theme": "🟥"
+    },
+    {
+      "label": "🟧",
+      "style": 2,
+      "message": "",
+      "direct_message": "✅[🎯{average_points}]En el colisionador (del tipo que sea)\n📝 **Módulo:** deim\n📚 **Contexto:** Pregunta 115\n🔹 **Sección:** Unidad 3 / Pregunta 115\n❓ **Pregunta:** ¿En qué componente deberemos incorporar un material físico?\n> 🟥 - En el Rigidbody\n> 🟧 - En el colisionador (del tipo que sea)\n> 🟨 - En el \"Mesh Renderer\"\n**Tu respuesta:**: 🟧 - En el colisionador (del tipo que sea)\nℹ️ **Retroalimentación:** La respuesta correcta es: En el colisionador (del tipo que sea)\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1289539582802657301/1376179703106244658/1382416423074267306\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "En el colisionador (del tipo que sea)",
+        "feedback": ""
+      },
+      "prefix_theme": "🟧"
+    },
+    {
+      "label": "🟨",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]En el \"Mesh Renderer\"\n📝 **Módulo:** deim\n📚 **Contexto:** Pregunta 115\n🔹 **Sección:** Unidad 3 / Pregunta 115\n❓ **Pregunta:** ¿En qué componente deberemos incorporar un material físico?\n> 🟥 - En el Rigidbody\n> 🟧 - En el colisionador (del tipo que sea)\n> 🟨 - En el \"Mesh Renderer\"\n**Tu respuesta:**: 🟨 - En el \"Mesh Renderer\"\nℹ️ **Retroalimentación:** ||La respuesta correcta es: En el colisionador (del tipo que sea)||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1289539582802657301/1376179703106244658/1382416423074267306\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "En el \"Mesh Renderer\"",
+        "feedback": ""
+      },
+      "prefix_theme": "🟨"
+    }
+  ],
+  "1382416882740625552": [
+    {
+      "label": "🤿",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]Rise or lower terrain.\n📝 **Módulo:** deim\n📚 **Contexto:** Pregunta 200\n🔹 **Sección:** Unidad 6 / Pregunta 200\n❓ **Pregunta:** ¿Cómo se llama la técnica que aparece en la imagen para crear relieves en un terreno?\n> 🤿 - Rise or lower terrain.\n> 🥊 - Importar mapa de alturas.\n> 🛹 - Bridge.\n> 🛼 - Crear un \"layer\".\n**Tu respuesta:**: 🤿 - Rise or lower terrain.\nℹ️ **Retroalimentación:** ||La respuesta correcta es: Importar mapa de alturas.||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1289539582802657301/1376179703106244658/1382416882740625552\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "Rise or lower terrain.",
+        "feedback": ""
+      },
+      "prefix_theme": "🤿"
+    },
+    {
+      "label": "🥊",
+      "style": 2,
+      "message": "",
+      "direct_message": "✅[🎯{average_points}]Importar mapa de alturas.\n📝 **Módulo:** deim\n📚 **Contexto:** Pregunta 200\n🔹 **Sección:** Unidad 6 / Pregunta 200\n❓ **Pregunta:** ¿Cómo se llama la técnica que aparece en la imagen para crear relieves en un terreno?\n> 🤿 - Rise or lower terrain.\n> 🥊 - Importar mapa de alturas.\n> 🛹 - Bridge.\n> 🛼 - Crear un \"layer\".\n**Tu respuesta:**: 🥊 - Importar mapa de alturas.\nℹ️ **Retroalimentación:** La respuesta correcta es: Importar mapa de alturas.\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1289539582802657301/1376179703106244658/1382416882740625552\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "Importar mapa de alturas.",
+        "feedback": ""
+      },
+      "prefix_theme": "🥊"
+    },
+    {
+      "label": "🛹",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]Bridge.\n📝 **Módulo:** deim\n📚 **Contexto:** Pregunta 200\n🔹 **Sección:** Unidad 6 / Pregunta 200\n❓ **Pregunta:** ¿Cómo se llama la técnica que aparece en la imagen para crear relieves en un terreno?\n> 🤿 - Rise or lower terrain.\n> 🥊 - Importar mapa de alturas.\n> 🛹 - Bridge.\n> 🛼 - Crear un \"layer\".\n**Tu respuesta:**: 🛹 - Bridge.\nℹ️ **Retroalimentación:** ||La respuesta correcta es: Importar mapa de alturas.||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1289539582802657301/1376179703106244658/1382416882740625552\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "Bridge.",
+        "feedback": ""
+      },
+      "prefix_theme": "🛹"
+    },
+    {
+      "label": "🛼",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]Crear un \"layer\".\n📝 **Módulo:** deim\n📚 **Contexto:** Pregunta 200\n🔹 **Sección:** Unidad 6 / Pregunta 200\n❓ **Pregunta:** ¿Cómo se llama la técnica que aparece en la imagen para crear relieves en un terreno?\n> 🤿 - Rise or lower terrain.\n> 🥊 - Importar mapa de alturas.\n> 🛹 - Bridge.\n> 🛼 - Crear un \"layer\".\n**Tu respuesta:**: 🛼 - Crear un \"layer\".\nℹ️ **Retroalimentación:** ||La respuesta correcta es: Importar mapa de alturas.||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1289539582802657301/1376179703106244658/1382416882740625552\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "Crear un \"layer\".",
+        "feedback": ""
+      },
+      "prefix_theme": "🛼"
+    }
+  ],
+  "1382417141386711121": [
+    {
+      "label": "☮️",
+      "style": 2,
+      "message": "",
+      "direct_message": "✅[🎯{average_points}]Los prefabs en Unity suelen tener un icono distintivo para facilitar su identificación en la jerarquía del proyecto.  Observar la iconografía es una forma clave de identificar y gestionar recursos.\n📝 **Módulo:** deim\n📚 **Contexto:** Importación de Archivos FBX en Unity\n🔹 **Sección:** Unidad 6 / Pregunta P1546\n❓ **Pregunta:** En un motor de videojuegos como Unity, ¿qué característica visual suele identificar a un archivo FBX importado correctamente?\n> ☮️ - Un icono de color azul, similar al de los prefabs.\n> ✝️ - Un icono de color rojo, indicando posibles errores de importación.\n> ☪️ - Un icono de color verde, representando una importación exitosa.\n> ☸️ - No tiene un icono específico; se identifica por su nombre en el panel de Proyecto.\n> ✡️ - Un icono de color amarillo, indicando que el archivo requiere una configuración adicional.\n**Tu respuesta:**: ☮️ - Un icono de color azul, similar al de los prefabs.\nℹ️ **Retroalimentación:** Al importar el FBX al proyecto, verás que tiene un icono específico, de color azul como los prefabs:\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1289539582802657301/1376179703106244658/1382417141386711121\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "Un icono de color azul, similar al de los prefabs.",
+        "feedback": "Los prefabs en Unity suelen tener un icono distintivo para facilitar su identificación en la jerarquía del proyecto.  Observar la iconografía es una forma clave de identificar y gestionar recursos."
+      },
+      "prefix_theme": "☮️"
+    },
+    {
+      "label": "✝️",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]Un icono rojo usualmente alerta sobre problemas durante el proceso de importación.  Es importante revisarlos antes de continuar con el desarrollo.\n📝 **Módulo:** deim\n📚 **Contexto:** Importación de Archivos FBX en Unity\n🔹 **Sección:** Unidad 6 / Pregunta P1546\n❓ **Pregunta:** En un motor de videojuegos como Unity, ¿qué característica visual suele identificar a un archivo FBX importado correctamente?\n> ☮️ - Un icono de color azul, similar al de los prefabs.\n> ✝️ - Un icono de color rojo, indicando posibles errores de importación.\n> ☪️ - Un icono de color verde, representando una importación exitosa.\n> ☸️ - No tiene un icono específico; se identifica por su nombre en el panel de Proyecto.\n> ✡️ - Un icono de color amarillo, indicando que el archivo requiere una configuración adicional.\n**Tu respuesta:**: ✝️ - Un icono de color rojo, indicando posibles errores de importación.\nℹ️ **Retroalimentación:** ||Al importar el FBX al proyecto, verás que tiene un icono específico, de color azul como los prefabs:||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1289539582802657301/1376179703106244658/1382417141386711121\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "Un icono de color rojo, indicando posibles errores de importación.",
+        "feedback": "Un icono rojo usualmente alerta sobre problemas durante el proceso de importación.  Es importante revisarlos antes de continuar con el desarrollo."
+      },
+      "prefix_theme": "✝️"
+    },
+    {
+      "label": "☪️",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]Si bien el color verde se utiliza en otros contextos de Unity para indicar acciones exitosas, no es el estándar para la identificación de archivos FBX importados.\n📝 **Módulo:** deim\n📚 **Contexto:** Importación de Archivos FBX en Unity\n🔹 **Sección:** Unidad 6 / Pregunta P1546\n❓ **Pregunta:** En un motor de videojuegos como Unity, ¿qué característica visual suele identificar a un archivo FBX importado correctamente?\n> ☮️ - Un icono de color azul, similar al de los prefabs.\n> ✝️ - Un icono de color rojo, indicando posibles errores de importación.\n> ☪️ - Un icono de color verde, representando una importación exitosa.\n> ☸️ - No tiene un icono específico; se identifica por su nombre en el panel de Proyecto.\n> ✡️ - Un icono de color amarillo, indicando que el archivo requiere una configuración adicional.\n**Tu respuesta:**: ☪️ - Un icono de color verde, representando una importación exitosa.\nℹ️ **Retroalimentación:** ||Al importar el FBX al proyecto, verás que tiene un icono específico, de color azul como los prefabs:||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1289539582802657301/1376179703106244658/1382417141386711121\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "Un icono de color verde, representando una importación exitosa.",
+        "feedback": "Si bien el color verde se utiliza en otros contextos de Unity para indicar acciones exitosas, no es el estándar para la identificación de archivos FBX importados."
+      },
+      "prefix_theme": "☪️"
+    },
+    {
+      "label": "☸️",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]Si bien el nombre del archivo es una forma de identificarlo, Unity suele asignar iconos específicos a diferentes tipos de activos para una mejor gestión visual.\n📝 **Módulo:** deim\n📚 **Contexto:** Importación de Archivos FBX en Unity\n🔹 **Sección:** Unidad 6 / Pregunta P1546\n❓ **Pregunta:** En un motor de videojuegos como Unity, ¿qué característica visual suele identificar a un archivo FBX importado correctamente?\n> ☮️ - Un icono de color azul, similar al de los prefabs.\n> ✝️ - Un icono de color rojo, indicando posibles errores de importación.\n> ☪️ - Un icono de color verde, representando una importación exitosa.\n> ☸️ - No tiene un icono específico; se identifica por su nombre en el panel de Proyecto.\n> ✡️ - Un icono de color amarillo, indicando que el archivo requiere una configuración adicional.\n**Tu respuesta:**: ☸️ - No tiene un icono específico; se identifica por su nombre en el panel de Proyecto.\nℹ️ **Retroalimentación:** ||Al importar el FBX al proyecto, verás que tiene un icono específico, de color azul como los prefabs:||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1289539582802657301/1376179703106244658/1382417141386711121\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "No tiene un icono específico; se identifica por su nombre en el panel de Proyecto.",
+        "feedback": "Si bien el nombre del archivo es una forma de identificarlo, Unity suele asignar iconos específicos a diferentes tipos de activos para una mejor gestión visual."
+      },
+      "prefix_theme": "☸️"
+    },
+    {
+      "label": "✡️",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]El color amarillo, en algunos contextos de desarrollo, suele alertar sobre la necesidad de configuración o atención adicional a un archivo o elemento, pero no en este caso especifico.\n📝 **Módulo:** deim\n📚 **Contexto:** Importación de Archivos FBX en Unity\n🔹 **Sección:** Unidad 6 / Pregunta P1546\n❓ **Pregunta:** En un motor de videojuegos como Unity, ¿qué característica visual suele identificar a un archivo FBX importado correctamente?\n> ☮️ - Un icono de color azul, similar al de los prefabs.\n> ✝️ - Un icono de color rojo, indicando posibles errores de importación.\n> ☪️ - Un icono de color verde, representando una importación exitosa.\n> ☸️ - No tiene un icono específico; se identifica por su nombre en el panel de Proyecto.\n> ✡️ - Un icono de color amarillo, indicando que el archivo requiere una configuración adicional.\n**Tu respuesta:**: ✡️ - Un icono de color amarillo, indicando que el archivo requiere una configuración adicional.\nℹ️ **Retroalimentación:** ||Al importar el FBX al proyecto, verás que tiene un icono específico, de color azul como los prefabs:||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1289539582802657301/1376179703106244658/1382417141386711121\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "Un icono de color amarillo, indicando que el archivo requiere una configuración adicional.",
+        "feedback": "El color amarillo, en algunos contextos de desarrollo, suele alertar sobre la necesidad de configuración o atención adicional a un archivo o elemento, pero no en este caso especifico."
+      },
+      "prefix_theme": "✡️"
+    }
+  ],
+  "1383103154945523812": [
+    {
+      "label": "❤️💌",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]Un evento inesperado que ocurre en cualquier lugar.\n📝 **Módulo:** IPEI1\n📚 **Contexto:** Pregunta 8\n🔹 **Sección:** Unidad 1 / Pregunta 8\n❓ **Pregunta:** ¿Qué es un 'accidente de trabajo'?\n> ❤️💌 - Un evento inesperado que ocurre en cualquier lugar.\n> 💕🌹 - Un evento planificado en el trabajo para evaluar la seguridad.\n> 💘💋 - Un evento inesperado que ocurre en el trabajo y causa daño o enfermedad.\n> 💖💍 - Un evento planificado en el trabajo para evaluar la seguridad.\n**Tu respuesta:**: ❤️💌 - Un evento inesperado que ocurre en cualquier lugar.\nℹ️ **Retroalimentación:** ||La respuesta correcta es: Un evento inesperado que ocurre en el trabajo y causa\ndaño o enfermedad.||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1289539582802657301/1289539583305842711/1383103154945523812\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "Un evento inesperado que ocurre en cualquier lugar.",
+        "feedback": ""
+      },
+      "prefix_theme": "❤️💌"
+    },
+    {
+      "label": "💕🌹",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]Un evento planificado en el trabajo para evaluar la seguridad.\n📝 **Módulo:** IPEI1\n📚 **Contexto:** Pregunta 8\n🔹 **Sección:** Unidad 1 / Pregunta 8\n❓ **Pregunta:** ¿Qué es un 'accidente de trabajo'?\n> ❤️💌 - Un evento inesperado que ocurre en cualquier lugar.\n> 💕🌹 - Un evento planificado en el trabajo para evaluar la seguridad.\n> 💘💋 - Un evento inesperado que ocurre en el trabajo y causa daño o enfermedad.\n> 💖💍 - Un evento planificado en el trabajo para evaluar la seguridad.\n**Tu respuesta:**: 💕🌹 - Un evento planificado en el trabajo para evaluar la seguridad.\nℹ️ **Retroalimentación:** ||La respuesta correcta es: Un evento inesperado que ocurre en el trabajo y causa\ndaño o enfermedad.||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1289539582802657301/1289539583305842711/1383103154945523812\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "Un evento planificado en el trabajo para evaluar la seguridad.",
+        "feedback": ""
+      },
+      "prefix_theme": "💕🌹"
+    },
+    {
+      "label": "💘💋",
+      "style": 2,
+      "message": "",
+      "direct_message": "✅[🎯{average_points}]Un evento inesperado que ocurre en el trabajo y causa daño o enfermedad.\n📝 **Módulo:** IPEI1\n📚 **Contexto:** Pregunta 8\n🔹 **Sección:** Unidad 1 / Pregunta 8\n❓ **Pregunta:** ¿Qué es un 'accidente de trabajo'?\n> ❤️💌 - Un evento inesperado que ocurre en cualquier lugar.\n> 💕🌹 - Un evento planificado en el trabajo para evaluar la seguridad.\n> 💘💋 - Un evento inesperado que ocurre en el trabajo y causa daño o enfermedad.\n> 💖💍 - Un evento planificado en el trabajo para evaluar la seguridad.\n**Tu respuesta:**: 💘💋 - Un evento inesperado que ocurre en el trabajo y causa daño o enfermedad.\nℹ️ **Retroalimentación:** La respuesta correcta es: Un evento inesperado que ocurre en el trabajo y causa\ndaño o enfermedad.\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1289539582802657301/1289539583305842711/1383103154945523812\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "Un evento inesperado que ocurre en el trabajo y causa daño o enfermedad.",
+        "feedback": ""
+      },
+      "prefix_theme": "💘💋"
+    },
+    {
+      "label": "💖💍",
+      "style": 2,
+      "message": "",
+      "direct_message": "❌[🎯{average_points}]Un evento planificado en el trabajo para evaluar la seguridad.\n📝 **Módulo:** IPEI1\n📚 **Contexto:** Pregunta 8\n🔹 **Sección:** Unidad 1 / Pregunta 8\n❓ **Pregunta:** ¿Qué es un 'accidente de trabajo'?\n> ❤️💌 - Un evento inesperado que ocurre en cualquier lugar.\n> 💕🌹 - Un evento planificado en el trabajo para evaluar la seguridad.\n> 💘💋 - Un evento inesperado que ocurre en el trabajo y causa daño o enfermedad.\n> 💖💍 - Un evento planificado en el trabajo para evaluar la seguridad.\n**Tu respuesta:**: 💖💍 - Un evento planificado en el trabajo para evaluar la seguridad.\nℹ️ **Retroalimentación:** ||La respuesta correcta es: Un evento inesperado que ocurre en el trabajo y causa\ndaño o enfermedad.||\n📊 Tu progreso:\n✅ Correctas: {correct_points}\n❌ Incorrectas: {incorrect_points}\n🎯 Precisión: {average_points}\n**Enlace a la pregunta** https://discord.com/channels/1289539582802657301/1289539583305842711/1383103154945523812\n───────────────────────────────────────-\n\n",
+      "option_reply": {
+        "text": "Un evento planificado en el trabajo para evaluar la seguridad.",
+        "feedback": ""
+      },
+      "prefix_theme": "💖💍"
+    }
+  ]
+}

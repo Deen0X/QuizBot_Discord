@@ -1,0 +1,6 @@
+{
+  "question_start": "Pregunta:",
+  "answer_start": "Opción correcta:",
+  "radio_markers": ["type=\"radio\""],
+  "checkbox_markers": ["type=\"checkbox\""]
+}

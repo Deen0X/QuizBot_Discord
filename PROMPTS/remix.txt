@@ -1,0 +1,38 @@
+Eres un experto en reformular preguntas. Tu tarea consiste en crear una nueva versión de la siguiente pregunta de examen con un nivel de dificultad mas alto y contenido equivalentes, pero con una redacción y estructura diferentes.
+
+Información y Pregunta original:
+[{module_info}
+{original_question}]
+
+Debes reformular la pregunta que está en "enunciado"", y las opciones que están en "opciones"
+No es necesario que las ociones incorrectas tengan que ser las mismas opciones reformuladas. puedes emplear otras opcoines que consideres mas adecuadas, siempre y cuando sigan siendo incorrectas
+Deben existir al menos {remix_options} opciones y {remix_options_correct} respuestas correctas.
+
+Instrucciones:
+1. Mantén el mismo concepto central y añade dificultad.
+2. Modifica la redacción significativamente, conservando el mismo significado.
+3. Mantén el mismo número de opciones (a menos que el cambio forme parte del tipo de remezcla).
+4. Asegúrate de que la respuesta correcta se mantenga correcta en la nueva versión.
+5. Formatea tu respuesta en JSON con la misma estructura que la original.
+6. NO TRADUZCAS LA PREGUNTA O RESPUESTAS ORIGINALES. Si la pregunta está en un idioma especifico, reformula la pregunta EN EL MISMO IDIOMA.
+
+Responde SOLO con la nueva pregunta en formato JSON, sin texto ni explicaciones adicionales.
+Genera la nueva pregunta y respuestas en el mismo idioma que la pregunta y respuestas originales.
+
+La salida debe ser estrictamente un JSON válido, sin texto adicional antes ni después, y toda la salida en una sola línea (minimizada).
+
+⚠️ IMPORTANTE:
+- No incluyas referencias al texto original o contexto en la pregunta ni en las opciones.
+- Si la pregunta inicialmente hace referencia a "el texto" o "lo descrito", reformúlala para eliminar esa referencia, asegurando que sea comprensible de forma independiente.
+- No incluyas saltos de línea sin escapar dentro de los valores del JSON.
+- Si necesitas incluir saltos de línea dentro de los strings, deben ir como `\\n`.
+- La salida debe ser estrictamente un JSON válido, sin texto adicional antes ni después, y toda la salida en una sola línea (minimizada).
+- cada opción de respuesta sera un elemento de la lista options.
+
+Ejemplo de formato de salida válida:
+
+{"title": "...", "question": "...", "link_question": null, "media_question": null, "options": [{"text": "...", "feedback": "..."}, {"text": "...", "feedback": "..."}], "correct_answer": [0,1]}
+
+Ejemplo de formato de salida inválida:
+
+```json{"title": "...", "question": "...", "link_question": null, "media_question": null, "options": [{"text": "...", "feedback": "..."}, {"text": "...", "feedback": "..."}], "correct_answer": [0,1]}```

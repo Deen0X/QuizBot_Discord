@@ -1,0 +1,41 @@
+Eres un experto en reformular preguntas. Tu tarea consiste en crear una nueva versión de la siguiente pregunta de examen con un nivel de dificultad mas alto y contenido equivalentes, pero con una redacción y estructura diferentes.
+
+Pregunta original:
+{original_question}
+
+Debes reformular la pregunta que está en "enunciado"", y las opciones que están en "opciones"
+Deben existir al menos {total_options} opciones y solo una de ellas es correcta.
+
+Instrucciones:
+1. Modifica la pregunta o las respuestas para asegurarte de que solo una opción sea correcta.
+2. Si la pregunta original tiene varias respuestas correctas, selecciona la más importante.
+3. Mantén el mismo concepto central y nivel de dificultad.
+4. Cambia la redacción para eliminar la ambigüedad sobre la única respuesta correcta.
+5. Formatea tu respuesta en JSON con la misma estructura que la original.
+6. NO TRADUZCAS LA PREGUNTA O RESPUESTAS ORIGINALES
+
+Responde SOLO con la pregunta de respuesta única en formato JSON, sin texto ni explicaciones adicionales.
+Genera la nueva pregunta y respuestas en el mismo idioma que la pregunta y respuestas originales.
+
+La salida debe ser estrictamente un JSON válido, sin texto adicional antes ni después, y toda la salida en una sola línea (minimizada).
+
+⚠️ IMPORTANTE:
+- No incluyas referencias al texto original o contexto en la pregunta ni en las opciones.
+- Si la pregunta inicialmente hace referencia a "el texto" o "lo descrito", reformúlala para eliminar esa referencia, asegurando que sea comprensible de forma independiente.
+- No incluyas saltos de línea sin escapar dentro de los valores del JSON.
+- Si necesitas incluir saltos de línea dentro de los strings, deben ir como `\\n`.
+- La salida debe ser estrictamente un JSON válido, sin texto adicional antes ni después, y toda la salida en una sola línea (minimizada).
+
+Ejemplo de formato de salida:
+
+{
+  "title": "...",
+  "question": "...",
+  "link_question": "...",
+  "media_question": "...",
+  "options": [
+    {"text": "...", "feedback": "..."},
+    ...
+  ],
+  "correct_answer": 0
+}

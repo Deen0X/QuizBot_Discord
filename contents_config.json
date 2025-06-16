@@ -1,0 +1,4 @@
+{
+  "title_patterns": ["\\d+\\.\\d+", "<strong>.+</strong>"],
+  "image_extensions": [".jpg", ".png"]
+}

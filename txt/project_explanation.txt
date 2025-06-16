@@ -1,0 +1,20 @@
+Este proyecto consiste en un bot Discord que genera preguntas interactivas sobre contenidos parseados desde ficheros html
+
+El proyecto se divide en varios módulos:
+
+QuizBot/
+│── src/               # Código fuente del bot
+│   │── discordbot_V5.py              # Programa principal del Bot
+│   │── buttons_discord.py            # Módulo de botones persistentes de discord
+│   │── llm_connector.py              # Módulo con funciones para conectar un LLM (IA) para generar preguntas desde contenidos
+│   │── score_manager.py              # Módulo con funciones para administrar las puntuaciones del usuario.
+│   │── utils.py                      # Utilidades generales
+│   │── picker_CONTENTS.py            # Seleccionador de párrafos de contenidos (CONTENTS) para preparar una pregunta.
+│   │── picker_EVALS.py               # Seleccionador de preguntas de evaluación (EVALS) para volver a preguntar o reformularla con ayuda de IA
+│   │── parser_html_CONTENTS.py       # Parseador HTML para contenidos de módulos/asignaturas
+│   │── parser_html_EVALS.py          # Parseador HTML para contenidos de autoevaluaciones de los alumnos
+│   │── quiz_CONTENTS.py              # Generador de preguntas con IA. En base a la selección de picker_CONTENTS.py
+│   │── quiz_EVALS.py                 # Generador de preguntas basadas en la selección de picker_EVALS.py. Puede volver a enviar la misma pregunta o reformularla con ayuda de IA.
+│   │── config.json                   # Configuraciones generales del bot.
+
+

@@ -1,0 +1,56 @@
+🤖 AYUDA DEL BOT DE QUIZZES
+
+Este bot permite generar preguntas de autoevaluación y exámenes a partir de contenidos educativos, así como realizar remixes, mostrar botones interactivos, y listar módulos disponibles.
+
+📚 COMANDOS PRINCIPALES
+
+!help
+  Muestra este archivo de ayuda.
+
+!dir  (alias: !list)
+  Lista todos los módulos disponibles y muestra cuántas unidades de contenido y evaluación tiene cada uno.
+  Ejemplo de salida:
+    ✅ AEI: 📚 4 / 📝 4
+    ⚠️ DEIM: 📚 6 / 📝 5
+
+🧩 QUIZ COMMANDS
+
+!exam [modulo] [unidad]
+  Muestra una sola pregunta del módulo/unidad indicado (basada en CONTENIDOS).
+  !exam - si no se indican parámetros y estamos en una sala común de estudio (no es temática), se seleccionará un módulo y unidad al azar
+  !exam [modulo] si se indica el módulo, se seleccionará una  unidad al azar
+  !exam [modulo] [unidad] si se especifica módulo y unidad, se hará una pregunta de ese módulo y unidad.
+
+!exams [modulo] [unidad]
+  Genera varias preguntas de examen del módulo/unidad indicado.
+  Los parámetros funcionan igual que en !exam
+
+!eval [modulo] [unidad]
+  Muestra una sola pregunta de autoevaluación (basada en EVALS).
+  Los parámetros funcionan igual que en !exam
+
+!evals [modulo] [unidad]
+  Genera múltiples preguntas de autoevaluación.
+  Los parámetros funcionan igual que en !exam
+
+!remix [modulo] [unidad]
+  Muestra una pregunta reformulada automáticamente a partir de las EVALS originales.
+  Los parámetros funcionan igual que en !exam
+
+!remixes [modulo] [unidad]
+  Genera varias preguntas remix.
+  Los parámetros funcionan igual que en !exam
+
+si se ejecuta uno de los QUIZ COMMANDS en una sala que empiece con el nombre "quizbot_" tomará el texto que viene a continuación como tema de la sala
+en estos casos no es necesario lanzar el comando indicando el nombre del módulo.
+
+por ejemplo:
+quizbot_biologia    sera un canal temático de biología, y el boto solo mostrará resultados de biología.
+
+en estos canales se puede indicar directamente la unidad.
+
+!exam 3    lanzará preguntas de biologia (que es el canal temático) de la unidad 3
+
+
+!reset
+  Este comando sirve para resetear el contador personal de correctas/incorrectas.

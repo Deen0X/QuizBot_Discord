@@ -1,0 +1,6 @@
+> 🧠 **Tipo:** {SOURCE} [{source_icon}]
+> 📚 **Módulo:** {MODULE}/📝 {unit}/❓ ID: {question_id}
+> ℹ️ **Tipo pregunta:** {QUESTION_TYPE}
+> ```[{question_text}]```
+> 📋 **Selecciona la respuesta correcta:**
+{formatted_options}

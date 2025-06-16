@@ -1,0 +1,605 @@
+{
+  "module": "CIA",
+  "total_archivos": 5,
+  "total_parrafos": 785,
+  "contenidos": [
+    {
+      "title": "CIA01_Contenidos",
+      "sections": [
+        {
+          "title": "Generación de mapas UV.",
+          "subsections": [
+            {
+              "type": "Caso práctico",
+              "paragraphs": [
+                {
+                  "id": "P1",
+                  "text": "Raquel, tras montar su empresa de animación gracias a\n un gran premio en la Primitiva, se dispone a empezar un trabajo de más \nenvergadura. Ya ha hecho un cortometraje enstop motion, y aprendió mucho. Pero las gestiones de su madre y más valiosa consejera,Laura, han conseguido paraRaquelun contrato de una agencia publicitaria para realizar una animación en \n3D. Es necesario comprar equipamiento y comenzar a contratar a un \nequipo.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P2",
+                  "text": "Está hablando conPedro, el experto en animación, al que contrató gracias también a las gestiones de su madre (aPedrole gustaLaura), y conEva, antigua profesora suya, que también se ha incorporado al equipo.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P3",
+                  "text": "-Entonces, ¿crees que podemos afrontarlo?",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P4",
+                  "text": "-Yo pienso que sí, ya estás preparada para realizar algo un poco más serio –Pedromira aEva- Además, tienes que empezar a generar ingresos, y esta es una buena oportunidad.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P5",
+                  "text": "-Pero es que no sé nada todavía deC.G.I.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P6",
+                  "text": "-Sabes más de lo que crees –terciaEva-. Tampoco sabías nada destop motiony el corto te quedó guapísimo. Seguro que ganas algún premio con él.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P7",
+                  "text": "-Ya… y lo que me costó… -Raquelparece mustia.PedroyEvase miran.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P8",
+                  "text": "-No te preocupes,Raquel.Pacoacabará comprendiéndolo. Esta profesión requiere muchos sacrificios personales.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P9",
+                  "text": "-No es sólo eso. Se enfadó mucho porque no nos veíamos. Y yo creo que está algo celoso.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P10",
+                  "text": "-¿Celoso? –Pedrola mira con curiosidad- ¿De quién?",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P11",
+                  "text": "-Pues de ti… y de ti también –mira aEva.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P12",
+                  "text": "-Bueno,Raquel, yo creo que en realidad está celoso de tu trabajo. En elstop motionél no tenía mucho que hacer, pero ahora, con el 3D…",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P13",
+                  "text": "-¿Sí,Eva? Tú crees que puede tener algo que hacer en elspot?",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P14",
+                  "text": "-Por supuesto –intervienePedro-. ¿No es informático? Pues vamos a necesitar alguien que organice una aplicación, el rénder, la instalación…",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P15",
+                  "text": "-Yo pensé que lo harías tú…-diceRaquel.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P16",
+                  "text": "-Yo voy a estar un poco ocupado formando a alguien para hacer las u-uves.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P17",
+                  "text": "-¿Las qué? –Raquelabre mucho los ojos, yPedrosonríe.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P18",
+                  "text": "Empresa de 3D por supuesto.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            },
+            {
+              "type": "Contenido",
+              "paragraphs": []
+            }
+          ],
+          "global_links": [
+            {
+              "href": "http://www.educacion.gob.es/fponline/aviso-legal.html",
+              "text": "Aviso Legal"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "CIA1_files/web-web-EducacionCulturaYDeporte-_63px.jpg",
+              "alt": "Logotipo del Ministerio de Educación, Cultura y Deporte. Junto a una banda vertical que representa esquemáticamente la bandera de Europa y otra que representa la bandera de España, aparece el escudo de España, y el texto: Gobierno de España. Ministerio de Educación, Cultura y Deporte.",
+              "title": "Logotipo del Ministerio de Educación, Cultura y Deporte."
+            }
+          ]
+        },
+        {
+          "title": "1.- Parametrización bidimensional de objetos tridimensionales.",
+          "subsections": [
+            {
+              "type": "Caso práctico",
+              "paragraphs": [
+                {
+                  "id": "P19",
+                  "text": "Pedroestá explicando aPaco, el novio deRaquel, informático, lo que tiene que conseguir con la aplicación informática.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P20",
+                  "text": "-…Y así todos podremos renderizar de modo controlado.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P21",
+                  "text": "-Entonces, de lo que se trata es de organizar la red, ¿no?",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P22",
+                  "text": "-Y sobre todo, controlar los permisos de acceso para que nadie estropee \nel trabajo de otro, pero todos veamos los progresos de la animación.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P23",
+                  "text": "-Ajá –Pacoestudia el esquema que le ha hechoPedro.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P24",
+                  "text": "EntraRaquel, sonriente.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P25",
+                  "text": "-¿Qué, cariño, cómo lo ves? –Pacose vuelve hacia ella.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P26",
+                  "text": "-Bueno, creo que puedo hacerlo –señala aPedrocon un gesto-. Con su ayuda, claro.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P27",
+                  "text": "-Seguro, no te preocupes.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P28",
+                  "text": "-Oye,Pedro, explícame ahora eso de las u-uves que mencionaste el otro día.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P29",
+                  "text": "-OK. Se trata de las texturas.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            },
+            {
+              "type": "Contenido",
+              "paragraphs": [
+                {
+                  "id": "P30",
+                  "text": "Como se ve en el apartado de Modelado, los objetos se pueden \nconstruir en tres tipos de geometrías: NURBS, polígonos y subdivisiones.\n En el caso de los polígonos y las subdivisiones, antes de comenzar a \naplicar las texturas debemos hacer un análisis previo de la morfología \nde nuestra geometría para prever las deformaciones que puedan sufrir los\n mapas por causa de ésta (caso de las axilas o las comisuras de los \nlabios) y adecuarla para una correcta percepción visual.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P31",
+                  "text": "La representación bidimensional de una superficie poligonal 3D se conoce como mapaUV,\n ya que UVs son las coordenadas de ancho y alto de cada vértice de un \nmodelo 3D. Los mapas UV son los parámetros que determinan cómo va a \nquedar una textura posicionada en una geometría.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P32",
+                  "text": "Modelo de rostro sin texturas.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P33",
+                  "text": "Mapa de UVs del rostro.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P34",
+                  "text": "Modelo del rostro texturizado.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P35",
+                  "text": "En las primitivas (esferas, cilindros, cubos, conos, etc.) estos mapasUVya vienen generados por defecto, pero son susceptibles de ser \nmodificados (si en un cilindro y la base queda siempre tapada no hace \nfalta que esa superficie esté ocupando un espacio valioso en nuestra \nparrilla para el mapeado).",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P36",
+                  "text": "Cilindro con UVs por defecto.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P37",
+                  "text": "Separado de la base del cilindro que no se va a ver.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P38",
+                  "text": "Ampliado del resto de los UVs.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://aulavirtual37.educa.madrid.org/ies.ignacioellacuria.alcorcon/pluginfile.php/245385/mod_resource/content/1/CIA_UT01_WEB/CIA01_CONT_R04_cara3D.jpg",
+              "text": ""
+            },
+            {
+              "href": "https://aulavirtual37.educa.madrid.org/ies.ignacioellacuria.alcorcon/pluginfile.php/245385/mod_resource/content/1/CIA_UT01_WEB/CIA01_CONT_R05_caraUVs.jpg",
+              "text": ""
+            },
+            {
+              "href": "https://aulavirtual37.educa.madrid.org/ies.ignacioellacuria.alcorcon/pluginfile.php/245385/mod_resource/content/1/CIA_UT01_WEB/CIA01_CONT_R06_caraTex.jpg",
+              "text": ""
+            },
+            {
+              "href": "https://aulavirtual37.educa.madrid.org/ies.ignacioellacuria.alcorcon/pluginfile.php/245385/mod_resource/content/1/CIA_UT01_WEB/CIA01_CONT_R07_Cilindro1.jpg",
+              "text": ""
+            },
+            {
+              "href": "https://aulavirtual37.educa.madrid.org/ies.ignacioellacuria.alcorcon/pluginfile.php/245385/mod_resource/content/1/CIA_UT01_WEB/CIA01_CONT_R08_Cilindro2.jpg",
+              "text": ""
+            },
+            {
+              "href": "https://aulavirtual37.educa.madrid.org/ies.ignacioellacuria.alcorcon/pluginfile.php/245385/mod_resource/content/1/CIA_UT01_WEB/CIA01_CONT_R09_Cilindro3.jpg",
+              "text": ""
+            }
+          ],
+          "global_media": [
+            {
+              "src": "CIA1_files/CIA01_CONT_R03_CASO_PERSONAJES_14.jpg",
+              "alt": "Fotografía del personaje “Paco”.",
+              "title": "Paco."
+            },
+            {
+              "src": "CIA1_files/CIA01_CONT_R04_cara3D_miniatura.jpg",
+              "alt": "Primera de tres imágenes que muestran el modelo, las UVs y el modelo texturizado.",
+              "title": "Modelo de rostro sin texturas."
+            },
+            {
+              "src": "CIA1_files/CIA01_CONT_R05_caraUVs_miniatura.jpg",
+              "alt": "Segunda de tres imágenes que muestran el modelo, las UVs y el modelo texturizado.",
+              "title": "Mapa de UVs del rostro."
+            },
+            {
+              "src": "CIA1_files/CIA01_CONT_R06_caraTex_miniatura.jpg",
+              "alt": "Tercera de tres imágenes que muestran el modelo, las UVs y el modelo texturizado.",
+              "title": "Modelo del rostro texturizado."
+            },
+            {
+              "src": "CIA1_files/CIA01_CONT_R07_Cilindro1_miniatura.jpg",
+              "alt": "Primera de tres imágenes que muestran el proceso de optimizado de las UVs del cilindro de las primitivas básicas.",
+              "title": "Cilindro con UVs por defecto."
+            },
+            {
+              "src": "CIA1_files/CIA01_CONT_R08_Cilindro2_miniatura.jpg",
+              "alt": "Segunda de tres imágenes que muestran el proceso de optimizado de las UVs del cilindro de las primitivas básicas.",
+              "title": "Separado de la base del cilindro que no se va a ver."
+            },
+            {
+              "src": "CIA1_files/CIA01_CONT_R09_Cilindro3_miniatura.jpg",
+              "alt": "Y tercera de tres imágenes que muestran el proceso de optimizado de las UVs del cilindro de las primitivas básicas.",
+              "title": "Ampliado del resto de los UVs."
+            }
+          ]
+        },
+        {
+          "title": "2.- Características morfológicas de los objetos.",
+          "subsections": [
+            {
+              "type": "Caso práctico",
+              "paragraphs": [
+                {
+                  "id": "P39",
+                  "text": "Raquelrepasa cuentas con su madre,Laura, que además es la contable de la empresa.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P40",
+                  "text": "-Bueno, entonces sí que le podemos sacar un margen, ¿no?",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P41",
+                  "text": "-Sí, hija, dependiendo de lo que tardemos en hacerlo. Pero el margen \nahora no es muy importante.  Lo fundamental es que quede bien. –Lauramira aPaco, que está instalando unos cables de comunicaciones- ¿Se arregló ya?",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P42",
+                  "text": "Raqueltambién mira aPaco.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P43",
+                  "text": "-Sí, eso parece.Pedrole está dando caña con el trabajo, y parece que le gusta.  Ahora por lo menos se siente implicado.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P44",
+                  "text": "Lauradeja el bolígrafo sobre la mesa.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P45",
+                  "text": "-Oh, uncilindrical mapping! –exclamaRaquel.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P46",
+                  "text": "-¿Un qué?  Hija, ¿estás bien?",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P47",
+                  "text": "-Es una proyección cilíndrica, mamá.PedroyEvame han dicho que tengo que empezar a ver el mundo en 3D, y eso hago –parece contenta-",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P48",
+                  "text": "-Hija, mucho estás aprendiendo tú…",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            },
+            {
+              "type": "Contenido",
+              "paragraphs": [
+                {
+                  "id": "P49",
+                  "text": "Antes de comenzar la edición delmapeado UV, será necesario seleccionar el objeto, si estamos trabajando en Maya, abrimos en el menú deUVelUV Editory se nos abre la ventana deLayouty elUV Toolkit. También se puede abrir en el workspace llamadoUV Editing. Deberemos hacer una proyección del objeto seleccionado, eligiendo la que mejor se adapte a la forma de éste.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P50",
+                  "text": "Existen ocho tipos de proyecciones de texturas, las cuales generarán \nunas coordenadas según la opción que elijamos para crear un nuevo Mapa \nde UVs. Estas proyecciones (alojadas dentro de los menús del tipoCreatedelUV Toolkit) son:Planar,Cylindrical,Spherical,Automatic,Camera Based,Normal Based,Best PlaneyContour Stretch.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P51",
+                  "text": "En base a las características morfológicas del objeto, o sea a su \nforma y posibles deformaciones (bocas, cejas, etcétera), hemos de \naplicar una u otra, veamos cómo decidiremos cuál.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            },
+            {
+              "type": "Autoevaluación",
+              "paragraphs": [
+                {
+                  "id": "P52",
+                  "text": "¿Qué debemos hacer antes de comenzar la edición del mapeado UV?",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [],
+          "global_media": [
+            {
+              "src": "CIA1_files/CIA01_CONT_R10_CASO_PERSONAJES_24.png",
+              "alt": "Fotografía del personaje “Laura”.",
+              "title": "Laura."
+            }
+          ]
+        },
+        {
+          "title": "2.1.- Tipos de proyecciones.",
+          "subsections": [
+            {
+              "type": "Contenido",
+              "paragraphs": [
+                {
+                  "id": "P53",
+                  "text": "https://www.youtube.com/embed/5i437Q_vvCk",
+                  "links": [
+                    {
+                      "href": "https://www.youtube.com/embed/5i437Q_vvCk",
+                      "text": "https://www.youtube.com/embed/5i437Q_vvCk"
+                    }
+                  ],
+                  "media": []
+                },
+                {
+                  "id": "P54",
+                  "text": "https://www.youtube.com/embed/wGBOMlxEe6o",
+                  "links": [
+                    {
+                      "href": "https://www.youtube.com/embed/wGBOMlxEe6o",
+                      "text": "https://www.youtube.com/embed/wGBOMlxEe6o"
+                    }
+                  ],
+                  "media": []
+                },
+                {
+                  "id": "P55",
+                  "text": "https://www.youtube.com/embed/M3b8GXxEZN0",
+                  "links": [
+                    {
+                      "href": "https://www.youtube.com/embed/M3b8GXxEZN0",
+                      "text": "https://www.youtube.com/embed/M3b8GXxEZN0"
+                    }
+                  ],
+                  "media": []
+                },
+                {
+                  "id": "P56",
+                  "text": "https://www.youtube.com/embed/RLBq3Y2mZlY",
+                  "links": [
+                    {
+                      "href": "https://www.youtube.com/embed/RLBq3Y2mZlY",
+                      "text": "https://www.youtube.com/embed/RLBq3Y2mZlY"
+                    }
+                  ],
+                  "media": []
+                },
+                {
+                  "id": "P57",
+                  "text": "https://www.youtube.com/embed/TfCaAHILUlc",
+                  "links": [
+                    {
+                      "href": "https://www.youtube.com/embed/TfCaAHILUlc",
+                      "text": "https://www.youtube.com/embed/TfCaAHILUlc"
+                    }
+                  ],
+                  "media": []
+                }
+              ]
+            },
+            {
+              "type": "Debes conocer",
+              "paragraphs": [
+                {
+                  "id": "P58",
+                  "text": "En el siguiente enlace encontrarás información sobre el mapeado UV.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P59",
+                  "text": "¿Qué son las UVs?",
+                  "links": [
+                    {
+                      "href": "https://trazos.net/sabes-que-son-los-uvs-en-3d-te-lo-contamos-aqui/",
+                      "text": "¿Qué son las UVs?"
+                    }
+                  ],
+                  "media": []
+                }
+              ]
+            },
+            {
+              "type": "Autoevaluación",
+              "paragraphs": [
+                {
+                  "id": "P60",
+                  "text": "Relaciona los modelos, según su forma, con el tipo de \nproyección que le hemos de asignar para que el mapeado sea idóneo y sólo\n necesitemos recolocar unas pocas UVs.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            },
+            {
+              "type": "Contenido",
+              "paragraphs": [
+                {
+                  "id": "P61",
+                  "text": "Podemos encontrarnos con un modelo complejo (una mano, por ejemplo) al \nque si asignamos una sola proyección no nos dará un mapeado idóneo, en \nese caso hemos de seleccionar las caras (faces) de una de las partes \n(sea en este caso las del dorso) y hacer una proyección plana de esa \nzona, apartarlas, seleccionar después las de la palma, hacer otra \nproyección plana y luego unirlos, ya veremos cómo.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            },
+            {
+              "type": "Citas para pensar",
+              "paragraphs": []
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://www.youtube.com/embed/5i437Q_vvCk",
+              "text": "https://www.youtube.com/embed/5i437Q_vvCk"
+            },
+            {
+              "href": "https://www.youtube.com/embed/wGBOMlxEe6o",
+              "text": "https://www.youtube.com/embed/wGBOMlxEe6o"
+            },
+            {
+              "href": "https://www.youtube.com/embed/M3b8GXxEZN0",
+              "text": "https://www.youtube.com/embed/M3b8GXxEZN0"
+            },
+            {
+              "href": "https://www.youtube.com/embed/RLBq3Y2mZlY",
+              "text": "https://www.youtube.com/embed/RLBq3Y2mZlY"
+            },
+            {
+              "href": "https://www.youtube.com/embed/TfCaAHILUlc",
+              "text": "https://www.youtube.com/embed/TfCaAHILUlc"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "CIA1_files/PROYECCION_CILINDRICA_3.png",
+              "alt": "Proyección cilíndrica 3.",
+              "title": ""
+            },
+            {
+              "src": "CIA1_files/PROYECCION_CILINDRICA_1.png",
+              "alt": "Proyección cilíndrica 1.",
+              "title": ""
+            },
+            {
+              "src": "CIA1_files/PROYECCION_CILINDRICA_2.gif",
+              "alt": "Proyección cilíndrica 2.",
+              "title": ""
+            }
+          ]
+        },
