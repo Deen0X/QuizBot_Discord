@@ -426,3 +426,6 @@ Este proyecto está protegido bajo la licencia **Creative Commons Attribution-No
 Este bot ha sido desarrollado como una herramienta de aprendizaje comunitario, escalable y que se puede adaptar a múltiples formatos de contenidos. Espero que sea una herramienta útil.
 
 ¡Feliz aprendizaje con QuizBot! 🚀
+
+Project Coded By:
+DNX Projects
