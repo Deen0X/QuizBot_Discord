@@ -860,7 +860,7 @@ def start_bot():
             else:
                 # Si el texto es muy largo, dividirlo
                 for chunk in [help_text[i:i+1900] for i in range(0, len(help_text), 1900)]:
-                    await ctx.send(f"```{chunk}```")
+                    await ctx.send(f"{chunk}")
         
         except Exception as e:
             await ctx.send("Program by: Deen0X. [https://github.com/Deen0X/QuizBot_Discord]")
