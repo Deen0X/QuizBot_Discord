@@ -1,0 +1,119 @@
+{
+  "TOKEN": "[INSERT_YOUR_DISCORD_TOKEN]",
+  "HEALTH_CHECK_TIMEOUT": 300,
+  "COMMAND_PREFIX": "!",
+  "LLM_QUIZ_HISTORY": 0,
+  "OPTIONS_CONTENTS": 5,
+  "OPTIONS_EVALS_REMIX": 5,
+  "QUESTIONS_EXAM": 5,
+  "QUIZ_DELAY_SECONDS": 5,
+  "TOTAL_QUIZZES": 3,
+  "EVAL_DELAY_SECONDS": 0,
+  "TOTAL_EVALS": 5,
+  "REMIX_DELAY_SECONDS": 5,
+  "TOTAL_REMIX": 2,
+  "BASE_PATH_EXAMPLE": "D:/QuizBotData",
+  "BASE_PATH": "",
+  "SUFIX_EVALS_NAME": "_evals_v5",
+  "SUFIX_CONTENTS_NAME": "_contents_v5",
+  "OLLAMA_BASE_URL1": "http://localhost:11434",
+  "OLLAMA_BASE_URL2": "http://server2:11434",
+  "OLLAMA_BASE_URL3": "http://server1:11431",
+  "OLLAMA_DEFAULT_MODEL": "codegemma",
+  "selected_llm": "gemini_2_0_flash",
+  "llms": {
+    "localhost": {
+      "type": "local",
+      "url": "http://localhost:11434",
+      "model": "codegemma"
+    },
+    "gemini_2_0_flash": {
+      "type": "api",
+      "endpoint": "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=[INSERT_GEMINI_API_KEY_HERE]",
+      "method": "POST",
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "payload_template": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "{prompt}"
+              }
+            ]
+          }
+        ]
+      },
+      "response_path": ["candidates", 0, "content", "parts", 0, "text"]
+    },
+    "gemini_1_5_flash": {
+      "type": "api",
+      "endpoint": "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=[INSERT_GEMINI_API_KEY_HERE]",
+      "method": "POST",
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "payload_template": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "{prompt}"
+              }
+            ]
+          }
+        ]
+      },
+      "response_path": ["candidates", 0, "content", "parts", 0, "text"]
+    },
+    "gemini_1_5_pro": {
+      "type": "api",
+      "endpoint": "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent?key=[INSERT_GEMINI_API_KEY_HERE]",
+      "method": "POST",
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "payload_template": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "{prompt}"
+              }
+            ]
+          }
+        ]
+      },
+      "response_path": ["candidates", 0, "content", "parts", 0, "text"]
+    },
+    "deepseek_chat": {
+      "type": "api",
+      "endpoint": "https://api.deepseek.com/v1/chat/completions",
+      "method": "POST",
+      "headers": {
+        "Content-Type": "application/json",
+        "Authorization": "Bearer [INSERT_DEEPSEEK_API_KEY_HERE]"
+      },
+      "payload_template": {
+        "model": "deepseek-chat",
+        "messages": [
+          {
+            "role": "user",
+            "content": "{prompt}"
+          }
+        ]
+      },
+      "response_path": ["choices", 0, "message", "content"]
+    }
+  },
+
+  "quiz_generation": {
+    "prompt_template_path": "quiz_prompt.txt",
+    "num_options": 4
+  }  ,
+  "quiz_content_path": "test.json"
+}
