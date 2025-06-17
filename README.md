@@ -422,7 +422,7 @@ Este bot ha sido desarrollado como una herramienta de aprendizaje comunitario, e
 
 ## Algunas capturas
 
-Las siguientes son capturas utilizando contenido generado como ejemplo.
+[samples.md](https://github.com/Deen0X/QuizBot_Discord/blob/main/samples.md)
 
 
 ¡Feliz aprendizaje con QuizBot! 🚀
