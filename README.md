@@ -128,8 +128,9 @@ Los usuarios pueden pedir preguntas mediante los siguientes comandos:
 **!dir**  (alias: !list)
   Lista todos los módulos disponibles y muestra cuántas unidades de contenido y evaluación tiene cada uno.
   Ejemplo de salida:
-    ✅ AEI: 📚 4 / 📝 4
-    ⚠️ DEIM: 📚 6 / 📝 5
+    ✅ POKE: 📚 4 / 📝 4
+    
+    ⚠️ PCMT: 📚 6 / 📝 5
 
 ## 🧩 QUIZ COMMANDS
 
