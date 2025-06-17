@@ -1,0 +1,8 @@
+📌 **QuizBot para Discord**  
+✍️ **Autor:** Deen0X (DNX.projects)  
+🔗 **Website:** [GitHub - QuizBot_Discord](https://github.com/Deen0X/QuizBot_Discord)  
+🛡️ **Copyright:** [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+Este proyecto se distribuye bajo una licencia **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**, lo que significa que cualquiera puede compartir y adaptar el contenido, siempre y cuando se reconozca la autoría y no se utilice con fines comerciales.
+
+📌 Para más información, contribuciones y mejoras, visita el repositorio oficial en GitHub.  

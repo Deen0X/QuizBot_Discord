@@ -848,6 +848,23 @@ def start_bot():
         except Exception as e:
             await ctx.send(f"❌ Error al leer el archivo de ayuda: {e}")
 
+    @bot.command(name="about")
+    async def show_about(ctx):
+        """Muestra el texto about.txt"""
+        try:
+            with open("about.txt", "r", encoding="utf-8") as f:
+                help_text = f.read()
+            
+            if not help_text.strip():
+                return
+            else:
+                # Si el texto es muy largo, dividirlo
+                for chunk in [help_text[i:i+1900] for i in range(0, len(help_text), 1900)]:
+                    await ctx.send(f"```{chunk}```")
+        
+        except Exception as e:
+            await ctx.send("Program by: Deen0X. [https://github.com/Deen0X/QuizBot_Discord]")
+
     # ======== INICIAR BOT ========
     try:
         bot.run(token)
