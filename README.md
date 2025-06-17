@@ -85,7 +85,7 @@ BASE_PATH/                                           # Directorio con los datos 
 │   │   │── [Modulo N]_info.txt                      # Información resumida (unos 500 caracteres) sobre el módulo. N
 ```
 
-## ⚙️ Instalación
+## 📦 Instalación
 
 1. Clona el repositorio:
    ```bash
@@ -105,9 +105,22 @@ BASE_PATH/                                           # Directorio con los datos 
 python src/discordbot_V5.py
 
 
-## Configuración del Bot
+## ⚙️ Configuración del Bot
 
-Para poder ejecutar el bot, necesitas crear una cuenta de desarrollador en el [Portal de Desarrollador de Discord](https://discord.com/developers/applications)
+Para poder ejecutar el bot, necesitas crear una cuenta de desarrollador en el [Portal de Desarrollador de Discord](https://discord.com/developers/applications), y luego crear una nueva app para obtener el token discord del bot, que necesitas añadir en el fichero config.json, en el parámetro:
+
+```  "TOKEN": "[INSERT_YOUR_DISCORD_TOKEN]",```
+
+Con esto puedes ejecutar el bot, para utilizar las funciones básicas del comando !eval y !evals, que no necesitan resolver por IA (LLM)
+
+Para completar la configuración es necesario obtener una api key para utilizar la api de Gemini, para lo cual debes dirigirte al sitio web de [Google AI Studio](https://aistudio.google.com/), y en la sección Get Api Key puedes crear la key necesaria para utilizar la api de Gemini (al momento de publicar este artículo, el bot utiliza la versión Google Gemini 2.0-flash
+
+Hay que configurar la API de Gemini en el fichero config, en los placeholders "[INSERT_GEMINI_API_KEY_HERE]"
+
+Con esto el bot ya podrá utilizar la LLM (IA) de Gemini.
+
+También es posible configurar LLMs locales en el fichero config.json
+
 
 ## ✨ Uso del Bot
 
