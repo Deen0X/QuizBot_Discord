@@ -59,12 +59,8 @@ BASE_PATH/                                           # Directorio con los datos 
 │   │   │   │── Unidad N                             # Unidad N del módulo
 │   │   │── [Modulo 2]                               # Módulo o Asignatura 2.
 │   │   │   │── Unidad 1                             # Unidad 1 del módulo
-│   │   │   │── Unidad 2                             # Unidad 2 del módulo
 │   │   │   │── Unidad N                             # Unidad N del módulo
 │   │   │── [Modulo N]                               # Módulo o Asignatura N.
-│   │   │   │── Unidad 1                             # Unidad 1 del módulo
-│   │   │   │── Unidad 2                             # Unidad 2 del módulo
-│   │   │   │── Unidad N                             # Unidad N del módulo
 │   │── EVALS                                        # Carpeta con auto-evaluaciones de los alumnos
 │   │   │── [Modulo 1]                               # Módulo o Asignatura 1. Utilizar siglas para acortar el nombre
 │   │   │   │── Unidad 1                             # Unidad 1 del módulo
@@ -74,38 +70,15 @@ BASE_PATH/                                           # Directorio con los datos 
 │   │   │   │   |    │── eval_intentoN.html          # Fichero intento N
 │   │   │   │   │── [User 2 Evals]                   # Carpeta para las evaluaciones del usuario 2
 │   │   │   │   |    │── eval_intento1.html          # Fichero intento 1
-│   │   │   │   |    │── eval_intento2.html          # Fichero intento 2
 │   │   │   │   |    │── eval_intentoN.html          # Fichero intento N
 │   │   │   │   │── [User N Evals]                   # Carpeta para las evaluaciones del usuario N
-│   │   │   │   |    │── eval_intento1.html          # Fichero intento 1
-│   │   │   │   |    │── eval_intento2.html          # Fichero intento 2
-│   │   │   │   |    │── eval_intentoN.html          # Fichero intento N
 │   │   │   │── Unidad 2                             # Unidad 2 del módulo
 │   │   │   │   │── [User 1 Evals]                   # Carpeta para las evaluaciones del usuario 1
 │   │   │   │   |    │── eval_intento1.html          # Fichero intento 1
 │   │   │   │   |    │── eval_intento2.html          # Fichero intento 2
 │   │   │   │   |    │── eval_intentoN.html          # Fichero intento N
-│   │   │   │   │── [User 2 Evals]                   # Carpeta para las evaluaciones del usuario 2
-│   │   │   │   |    │── eval_intento1.html          # Fichero intento 1
-│   │   │   │   |    │── eval_intento2.html          # Fichero intento 2
-│   │   │   │   |    │── eval_intentoN.html          # Fichero intento N
 │   │   │   │   │── [User N Evals]                   # Carpeta para las evaluaciones del usuario N
-│   │   │   │   |    │── eval_intento1.html          # Fichero intento 1
-│   │   │   │   |    │── eval_intento2.html          # Fichero intento 2
-│   │   │   │   |    │── eval_intentoN.html          # Fichero intento N
 │   │   │   │── Unidad N                             # Unidad N del módulo
-│   │   │   │   │── [User 1 Evals]                   # Carpeta para las evaluaciones del usuario 1
-│   │   │   │   |    │── eval_intento1.html          # Fichero intento 1
-│   │   │   │   |    │── eval_intento2.html          # Fichero intento 2
-│   │   │   │   |    │── eval_intentoN.html          # Fichero intento N
-│   │   │   │   │── [User 2 Evals]                   # Carpeta para las evaluaciones del usuario 2
-│   │   │   │   |    │── eval_intento1.html          # Fichero intento 1
-│   │   │   │   |    │── eval_intento2.html          # Fichero intento 2
-│   │   │   │   |    │── eval_intentoN.html          # Fichero intento N
-│   │   │   │   │── [User N Evals]                   # Carpeta para las evaluaciones del usuario N
-│   │   │   │   |    │── eval_intento1.html          # Fichero intento 1
-│   │   │   │   |    │── eval_intento2.html          # Fichero intento 2
-│   │   │   │   |    │── eval_intentoN.html          # Fichero intento N
 │   │── INFO                                         # Carpeta con ficheros de información de cada módulo utilizado como información adicional para los prompts.
 │   │   │── [Modulo 1]_info.txt                      # Información resumida (unos 500 caracteres) sobre el módulo. 1
 │   │   │── [Modulo 2]_info.txt                      # Información resumida (unos 500 caracteres) sobre el módulo. 2
@@ -132,6 +105,10 @@ BASE_PATH/                                           # Directorio con los datos 
 python src/discordbot_V5.py
 
 
+## Configuración del Bot
+
+Para poder ejecutar el bot, necesitas crear una cuenta de desarrollador en el [Portal de Desarrollador de Discord](https://discord.com/developers/applications)
+
 ## ✨ Uso del Bot
 
 El bot funciona dentro de Discord y los usuarios pueden interactuar mediante comandos o botones persistentes. Existen dos tipos principales de preguntas:
@@ -151,8 +128,10 @@ Los usuarios pueden pedir preguntas mediante los siguientes comandos:
 **!dir**  (alias: !list)
   Lista todos los módulos disponibles y muestra cuántas unidades de contenido y evaluación tiene cada uno.
   Ejemplo de salida:
-    ✅ AEI: 📚 4 / 📝 4
-    ⚠️ DEIM: 📚 6 / 📝 5
+  
+  ✅ POKE: 📚 4 / 📝 4
+
+  ⚠️ PCMT: 📚 6 / 📝 5
 
 ## 🧩 QUIZ COMMANDS
 
