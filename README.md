@@ -49,6 +49,9 @@ QuizBot/
 ```
 
 Los datos se obtienen de la siguiente estructura de directorio.
+
+Este directorio se puede configurar en el parámetro "BASE_PATH" del fichero config.json.
+
 ```
 BASE_PATH/                                           # Directorio con los datos para que trabaje el bot. Este directorio se configura en el config.json
 │── DATA/                                            # Datos de contenidos y evaluaciones
