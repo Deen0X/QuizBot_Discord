@@ -1,0 +1,284 @@
+{
+  "module": "OVERWATCH_QUIZ",
+  "total_preguntas": 10,
+  "preguntas": [
+    {
+      "numero": "1",
+      "enunciado": "¿Qué rol de héroe tiene la función principal de proteger a sus aliados y controlar el campo de batalla?",
+      "opciones": [
+        "Daño (DPS)",
+        "Tanque",
+        "Apoyo (Support)",
+        "Flanqueador"
+      ],
+      "respuestas": [
+        "1"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Tanque. Los tanques son la vanguardia del equipo, absorbiendo daño y creando espacio.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "overwatch_quiz_files/tank_icon.png",
+          "alt": "Icono de rol de Tanque de Overwatch",
+          "title": "Rol de Tanque"
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "OVERWATCH_QUIZ",
+        "unidad": "Roles y Héroes",
+        "usuario": "Blizzard Entertainment",
+        "archivo": "OW_Quiz_Intro.html"
+      }
+    },
+    {
+      "numero": "2",
+      "enunciado": "¿Cuál de los siguientes héroes tiene la habilidad definitiva 'Dragonblade'?",
+      "opciones": [
+        "Hanzo",
+        "Genji",
+        "Tracer",
+        "Reaper"
+      ],
+      "respuestas": [
+        "1"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Genji. Su Dragonblade le permite desenvainar su katana y asestar golpes devastadores.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "overwatch_quiz_files/genji_dragonblade.png",
+          "alt": "Imagen de Genji usando Dragonblade",
+          "title": "Genji: Dragonblade"
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "OVERWATCH_QUIZ",
+        "unidad": "Habilidades de Héroes",
+        "usuario": "Blizzard Entertainment",
+        "archivo": "OW_Quiz_Habilidades.html"
+      }
+    },
+    {
+      "numero": "3",
+      "enunciado": "En el modo de juego 'Control', ¿qué objetivo deben capturar y defender los equipos?",
+      "opciones": [
+        "Cargar una carga útil",
+        "Capturar dos puntos en secuencia",
+        "Controlar un punto central hasta alcanzar un porcentaje",
+        "Eliminar a todos los oponentes"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Controlar un punto central hasta alcanzar un porcentaje. Los equipos luchan por el control de un único objetivo rotatorio.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "overwatch_quiz_files/control_map.png",
+          "alt": "Imagen de un mapa de Control en Overwatch",
+          "title": "Modo de juego Control"
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "OVERWATCH_QUIZ",
+        "unidad": "Modos de Juego",
+        "usuario": "Blizzard Entertainment",
+        "archivo": "OW_Quiz_Modos.html"
+      }
+    },
+    {
+      "numero": "4",
+      "enunciado": "¿Qué país de origen tiene el héroe Reinhardt?",
+      "opciones": [
+        "Alemania",
+        "Suecia",
+        "Rusia",
+        "Estados Unidos"
+      ],
+      "respuestas": [
+        "0"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Alemania. Reinhardt es un caballero cruzado de la Antigua República Federal de Alemania.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "overwatch_quiz_files/reinhardt.png",
+          "alt": "Imagen de Reinhardt",
+          "title": "Reinhardt"
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "OVERWATCH_QUIZ",
+        "unidad": "Lore y Personajes",
+        "usuario": "Blizzard Entertainment",
+        "archivo": "OW_Quiz_Lore.html"
+      }
+    },
+    {
+      "numero": "5",
+      "enunciado": "La 'Barrera de Partículas' es una habilidad de defensa de qué héroe?",
+      "opciones": [
+        "D.Va",
+        "Winston",
+        "Zarya",
+        "Sigma"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Zarya. Su Barrera de Partículas absorbe daño y aumenta su propia energía de arma.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "OVERWATCH_QUIZ",
+        "unidad": "Habilidades de Héroes",
+        "usuario": "Blizzard Entertainment",
+        "archivo": "OW_Quiz_Habilidades.html"
+      }
+    },
+    {
+      "numero": "6",
+      "enunciado": "¿Qué mapa está ambientado en el Observatorio: Gibraltar?",
+      "opciones": [
+        "Hollywood",
+        "Dorado",
+        "Watchpoint: Gibraltar",
+        "King's Row"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Watchpoint: Gibraltar. Es el punto de partida original de Overwatch.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "overwatch_quiz_files/watchpoint_gibraltar.png",
+          "alt": "Imagen del mapa Watchpoint: Gibraltar",
+          "title": "Watchpoint: Gibraltar"
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "OVERWATCH_QUIZ",
+        "unidad": "Mapas",
+        "usuario": "Blizzard Entertainment",
+        "archivo": "OW_Quiz_Mapas.html"
+      }
+    },
+    {
+      "numero": "7",
+      "enunciado": "¿Cuál de estas Ultimate anula las habilidades de los enemigos en un área?",
+      "opciones": [
+        "Cohete Congelador (Mei)",
+        "Graviton Surge (Zarya)",
+        "Hackeo (Sombra)",
+        "Death Blossom (Reaper)"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Hackeo (Sombra). Su definitiva, EMP, hackea a todos los enemigos en un amplio radio, interrumpiendo sus habilidades y escudos.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "OVERWATCH_QUIZ",
+        "unidad": "Habilidades Definitivas",
+        "usuario": "Blizzard Entertainment",
+        "archivo": "OW_Quiz_Ultimates.html"
+      }
+    },
+    {
+      "numero": "8",
+      "enunciado": "¿Qué personaje es el líder original de Overwatch?",
+      "opciones": [
+        "Soldado: 76 (Jack Morrison)",
+        "Reaper (Gabriel Reyes)",
+        "Ana Amari",
+        "Winston"
+      ],
+      "respuestas": [
+        "0"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Soldado: 76 (Jack Morrison). Fue el Comandante de Operaciones de Overwatch.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "overwatch_quiz_files/soldier76.png",
+          "alt": "Imagen de Soldado: 76",
+          "title": "Soldado: 76"
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "OVERWATCH_QUIZ",
+        "unidad": "Lore y Personajes",
+        "usuario": "Blizzard Entertainment",
+        "archivo": "OW_Quiz_Lore.html"
+      }
+    },
+    {
+      "numero": "9",
+      "enunciado": "¿Qué rol de héroe es esencial para curar y apoyar a sus compañeros de equipo?",
+      "opciones": [
+        "Daño (DPS)",
+        "Tanque",
+        "Apoyo (Support)",
+        "Flanqueador"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Apoyo (Support). Los héroes de apoyo proporcionan curación y utilidades que benefician al equipo.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "overwatch_quiz_files/support_icon.png",
+          "alt": "Icono de rol de Apoyo de Overwatch",
+          "title": "Rol de Apoyo"
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "OVERWATCH_QUIZ",
+        "unidad": "Roles y Héroes",
+        "usuario": "Blizzard Entertainment",
+        "archivo": "OW_Quiz_Intro.html"
+      }
+    },
+    {
+      "numero": "10",
+      "enunciado": "¿Qué héroe puede colocar un 'Campo de Inmortalidad' para salvar a sus aliados?",
+      "opciones": [
+        "Mercy",
+        "Baptiste",
+        "Moira",
+        "Zenyatta"
+      ],
+      "respuestas": [
+        "1"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Baptiste. Su Campo de Inmortalidad evita que los aliados dentro de su área mueran.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "overwatch_quiz_files/baptiste_immortality_field.png",
+          "alt": "Imagen de Baptiste usando Campo de Inmortalidad",
+          "title": "Baptiste: Campo de Inmortalidad"
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "OVERWATCH_QUIZ",
+        "unidad": "Habilidades de Héroes",
+        "usuario": "Blizzard Entertainment",
+        "archivo": "OW_Quiz_Habilidades.html"
+      }
+    }
+  ]
+}

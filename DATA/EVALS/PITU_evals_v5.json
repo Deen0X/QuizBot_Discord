@@ -1,0 +1,454 @@
+{
+  "module": "LOS_PITUFOS_EVAL_2",
+  "total_preguntas": 15,
+  "preguntas": [
+    {
+      "numero": "16",
+      "enunciado": "¿Qué revista de cómics belga fue crucial en la carrera de Peyo y donde debutaron Los Pitufos?",
+      "opciones": [
+        "Tintín Magazine",
+        "Spirou",
+        "Pilote",
+        "Métal Hurlant"
+      ],
+      "respuestas": [
+        "1"
+      ],
+      "retroalimentacion": "Peyo se unió a la revista Spirou en 1952, y fue en esta publicación donde sus creaciones más famosas, incluyendo Los Pitufos, vieron la luz.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [
+        {
+          "href": "LOS_PITUFOS_Unidad_1_Origen_y_Peyo_El_Creador.html",
+          "text": "Unidad 1: Origen y Peyo, El Creador"
+        }
+      ],
+      "origen": {
+        "modulo": "LOS_PITUFOS_EVAL_2",
+        "unidad": "Unidad 1",
+        "usuario": "AI",
+        "archivo": "LOS_PITUFOS_EVAL_2_Q1.html"
+      }
+    },
+    {
+      "numero": "17",
+      "enunciado": "¿Cuál fue la frase que Peyo pronunció accidentalmente, dando origen al nombre 'Schtroumpf'?",
+      "opciones": [
+        "\"Pásame el pitufo\"",
+        "\"Quiero un pitufo\"",
+        "\"Odio los pitufos\"",
+        "\"Pásame el schtroumpf\""
+      ],
+      "respuestas": [
+        "3"
+      ],
+      "retroalimentacion": "La palabra 'Schtroumpf' (Pitufo en español) surgió durante una comida cuando Peyo, olvidando la palabra 'sal', pidió 'pásame el schtroumpf'.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [
+        {
+          "href": "LOS_PITUFOS_Unidad_1_Origen_y_Peyo_El_Creador.html",
+          "text": "Unidad 1: Origen y Peyo, El Creador"
+        }
+      ],
+      "origen": {
+        "modulo": "LOS_PITUFOS_EVAL_2",
+        "unidad": "Unidad 1",
+        "usuario": "AI",
+        "archivo": "LOS_PITUFOS_EVAL_2_Q2.html"
+      }
+    },
+    {
+      "numero": "18",
+      "enunciado": "¿Qué Pitufo es conocido por su fuerza y por tener un tatuaje de corazón en el brazo?",
+      "opciones": [
+        "Pitufo Tontín",
+        "Pitufo Fortachón",
+        "Pitufo Perezoso",
+        "Pitufo Genio"
+      ],
+      "respuestas": [
+        "1"
+      ],
+      "retroalimentacion": "Pitufo Fortachón es el más fuerte de la aldea y se le reconoce fácilmente por su tatuaje de corazón.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [
+        {
+          "href": "LOS_PITUFOS_Unidad_2_Personajes_Principales_y_Sus_Roles.html",
+          "text": "Unidad 2: Personajes Principales y Sus Roles"
+        }
+      ],
+      "origen": {
+        "modulo": "LOS_PITUFOS_EVAL_2",
+        "unidad": "Unidad 2",
+        "usuario": "AI",
+        "archivo": "LOS_PITUFOS_EVAL_2_Q3.html"
+      }
+    },
+    {
+      "numero": "19",
+      "enunciado": "¿Quién es el compañero felino de Gargamel, que a menudo lo ayuda en sus planes para atrapar a los Pitufos?",
+      "opciones": [
+        "Bravucón",
+        "Felino",
+        "Azrael",
+        "Gatuno"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "Azrael es el leal, aunque a veces perezoso, gato de Gargamel, y su fiel compañero en la búsqueda de los Pitufos.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "LOS_PITUFOS_files/Gargamel_y_Azrael.jpg",
+          "alt": "Ilustración de Gargamel y Azrael."
+        }
+      ],
+      "links": [
+        {
+          "href": "LOS_PITUFOS_Unidad_2_Personajes_Principales_y_Sus_Roles.html",
+          "text": "Unidad 2: Personajes Principales y Sus Roles"
+        }
+      ],
+      "origen": {
+        "modulo": "LOS_PITUFOS_EVAL_2",
+        "unidad": "Unidad 2",
+        "usuario": "AI",
+        "archivo": "LOS_PITUFOS_EVAL_2_Q4.html"
+      }
+    },
+    {
+      "numero": "20",
+      "enunciado": "La ubicación de la aldea Pitufo es un secreto bien guardado para:",
+      "opciones": [
+        "Evitar que otros Pitufos la descubran.",
+        "Mantener a los visitantes alejados.",
+        "Protegerse de Gargamel y otros peligros.",
+        "Asegurar la privacidad de Papá Pitufo."
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La ubicación secreta de la aldea permite a los Pitufos vivir en paz y armonía, lejos de los peligros, especialmente de su archienemigo Gargamel.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [
+        {
+          "href": "LOS_PITUFOS_Unidad_3_El_Mundo_de_Los_Pitufos.html",
+          "text": "Unidad 3: El Mundo de Los Pitufos"
+        }
+      ],
+      "origen": {
+        "modulo": "LOS_PITUFOS_EVAL_2",
+        "unidad": "Unidad 3",
+        "usuario": "AI",
+        "archivo": "LOS_PITUFOS_EVAL_2_Q5.html"
+      }
+    },
+    {
+      "numero": "21",
+      "enunciado": "¿Qué elementos naturales son recurrentes en el entorno del Bosque Encantado de Los Pitufos? (Selecciona todas las que apliquen)",
+      "opciones": [
+        "Desiertos de arena.",
+        "Ríos y pantanos.",
+        "Montañas nevadas.",
+        "Cuevas y claros en el bosque."
+      ],
+      "respuestas": [
+        "1",
+        "3"
+      ],
+      "retroalimentacion": "El Bosque Encantado está lleno de vida y presenta elementos como ríos, pantanos, cuevas y claros, que son escenarios habituales de las aventuras de los Pitufos.",
+      "type_quiz": "multiple",
+      "media": [],
+      "links": [
+        {
+          "href": "LOS_PITUFOS_Unidad_3_El_Mundo_de_Los_Pitufos.html",
+          "text": "Unidad 3: El Mundo de Los Pitufos"
+        }
+      ],
+      "origen": {
+        "modulo": "LOS_PITUFOS_EVAL_2",
+        "unidad": "Unidad 3",
+        "usuario": "AI",
+        "archivo": "LOS_PITUFOS_EVAL_2_Q6.html"
+      }
+    },
+    {
+      "numero": "22",
+      "enunciado": "Además de series animadas y películas, ¿en qué otros medios se han expandido Los Pitufos? (Selecciona todas las que apliquen)",
+      "opciones": [
+        "Música (álbumes y canciones).",
+        "Videojuegos.",
+        "Libros de texto universitarios.",
+        "Merchandising y atracciones de parques temáticos."
+      ],
+      "respuestas": [
+        "0",
+        "1",
+        "3"
+      ],
+      "retroalimentacion": "Los Pitufos han tenido éxito en la música, los videojuegos, el merchandising y en parques temáticos, lo que demuestra su amplia adaptación a diferentes medios.",
+      "type_quiz": "multiple",
+      "media": [
+        {
+          "src": "LOS_PITUFOS_files/Smurf_Figures.jpg",
+          "alt": "Colección de figuras de Los Pitufos."
+        }
+      ],
+      "links": [
+        {
+          "href": "LOS_PITUFOS_Unidad_4_Expansion_a_Medios_y_Adaptaciones.html",
+          "text": "Unidad 4: Expansión a Medios y Adaptaciones Globales"
+        }
+      ],
+      "origen": {
+        "modulo": "LOS_PITUFOS_EVAL_2",
+        "unidad": "Unidad 4",
+        "usuario": "AI",
+        "archivo": "LOS_PITUFOS_EVAL_2_Q7.html"
+      }
+    },
+    {
+      "numero": "23",
+      "enunciado": "¿Qué tipo de series animadas de Los Pitufos se estrenó en 2021, manteniendo viva la franquicia?",
+      "opciones": [
+        "Animación stop-motion.",
+        "Animación en 2D tradicional.",
+        "Animación CGI.",
+        "Series live-action."
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "En 2021, se estrenó una nueva serie animada de Los Pitufos utilizando animación CGI, lo que les permite seguir llegando a nuevas generaciones.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [
+        {
+          "href": "LOS_PITUFOS_Unidad_4_Expansion_a_Medios_y_Adaptaciones.html",
+          "text": "Unidad 4: Expansión a Medios y Adaptaciones Globales"
+        }
+      ],
+      "origen": {
+        "modulo": "LOS_PITUFOS_EVAL_2",
+        "unidad": "Unidad 4",
+        "usuario": "AI",
+        "archivo": "LOS_PITUFOS_EVAL_2_Q8.html"
+      }
+    },
+    {
+      "numero": "24",
+      "enunciado": "La forma en que los Pitufos resuelven problemas frente a las amenazas de Gargamel demuestra su:",
+      "opciones": [
+        "Fuerza bruta.",
+        "Ignorancia.",
+        "Ingenio y creatividad.",
+        "Dependencia total de la magia."
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "Los Pitufos, liderados por Papá Pitufo, a menudo demuestran ingenio y creatividad para superar los desafíos y las amenazas de Gargamel.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [
+        {
+          "href": "LOS_PITUFOS_Unidad_5_Temas_Valores_y_Mensajes.html",
+          "text": "Unidad 5: Temas, Valores y Mensajes en Las Historias"
+        }
+      ],
+      "origen": {
+        "modulo": "LOS_PITUFOS_EVAL_2",
+        "unidad": "Unidad 5",
+        "usuario": "AI",
+        "archivo": "LOS_PITUFOS_EVAL_2_Q9.html"
+      }
+    },
+    {
+      "numero": "25",
+      "enunciado": "¿Qué valor se refleja en la aceptación de Pitufina por parte de Papá Pitufo, a pesar de su origen inicial creado por Gargamel?",
+      "opciones": [
+        "La superioridad masculina.",
+        "La intolerancia.",
+        "La tolerancia y la aceptación.",
+        "La venganza."
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La aceptación de Pitufina por parte de Papá Pitufo y su transformación en una 'verdadera' Pitufa es un claro mensaje de tolerancia y aceptación, incluso para aquellos con orígenes problemáticos.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "LOS_PITUFOS_files/Smurfette_Origin.jpg",
+          "alt": "Imagen de Pitufina siendo creada por Gargamel."
+        }
+      ],
+      "links": [
+        {
+          "href": "LOS_PITUFOS_Unidad_5_Temas_Valores_y_Mensajes.html",
+          "text": "Unidad 5: Temas, Valores y Mensajes en Las Historias"
+        }
+      ],
+      "origen": {
+        "modulo": "LOS_PITUFOS_EVAL_2",
+        "unidad": "Unidad 5",
+        "usuario": "AI",
+        "archivo": "LOS_PITUFOS_EVAL_2_Q10.html"
+      }
+    },
+    {
+      "numero": "26",
+      "enunciado": "Una de las controversias más discutidas sobre Gargamel se relaciona con:",
+      "opciones": [
+        "Su color de piel.",
+        "Sus habilidades de cocina.",
+        "Presuntas alusiones raciales o antisemitismo.",
+        "Su amor por los Pitufos."
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "Algunos críticos han señalado similitudes entre la apariencia de Gargamel y ciertos estereotipos antisemitas, aunque estas acusaciones son muy debatidas y no hay pruebas de la intención de Peyo.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "LOS_PITUFOS_files/Gargamel_Stereotype.jpg",
+          "alt": "Ilustración de Gargamel que algunos han asociado con estereotipos."
+        }
+      ],
+      "links": [
+        {
+          "href": "LOS_PITUFOS_Unidad_6_Controversias_e_Interpretaciones.html",
+          "text": "Unidad 6: Controversias e Interpretaciones"
+        }
+      ],
+      "origen": {
+        "modulo": "LOS_PITUFOS_EVAL_2",
+        "unidad": "Unidad 6",
+        "usuario": "AI",
+        "archivo": "LOS_PITUFOS_EVAL_2_Q11.html"
+      }
+    },
+    {
+      "numero": "27",
+      "enunciado": "¿Qué tipo de crítica surgió con la explosión de la popularidad de los Pitufos y su vasta comercialización?",
+      "opciones": [
+        "Críticas por falta de personajes.",
+        "Críticas por exceso de creatividad.",
+        "Críticas por consumismo y merchandising excesivo.",
+        "Críticas por la calidad de la animación."
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La masiva expansión de merchandising de Los Pitufos llevó a críticas sobre la excesiva comercialización de la marca, percibida como contraria a los valores de simplicidad.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [
+        {
+          "href": "LOS_PITUFOS_Unidad_6_Controversias_e_Interpretaciones.html",
+          "text": "Unidad 6: Controversias e Interpretaciones"
+        }
+      ],
+      "origen": {
+        "modulo": "LOS_PITUFOS_EVAL_2",
+        "unidad": "Unidad 6",
+        "usuario": "AI",
+        "archivo": "LOS_PITUFOS_EVAL_2_Q12.html"
+      }
+    },
+    {
+      "numero": "28",
+      "enunciado": "¿Qué estatus ha cimentado el éxito de Los Pitufos para su creador, Peyo, en el ámbito del cómic?",
+      "opciones": [
+        "Un ilustrador de libros infantiles.",
+        "Un crítico de arte.",
+        "Uno de los grandes maestros del cómic belga.",
+        "Un guionista de cine de acción."
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "El éxito global de Los Pitufos aseguró el lugar de Peyo como uno de los grandes maestros del cómic belga, junto a otras figuras icónicas.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "LOS_PITUFOS_files/Peyo.jpg",
+          "alt": "Foto de Pierre Culliford, 'Peyo'."
+        }
+      ],
+      "links": [
+        {
+          "href": "LOS_PITUFOS_Unidad_7_Legado_e_Impacto_Cultural.html",
+          "text": "Unidad 7: Legado e Impacto Cultural Global"
+        }
+      ],
+      "origen": {
+        "modulo": "LOS_PITUFOS_EVAL_2",
+        "unidad": "Unidad 7",
+        "usuario": "AI",
+        "archivo": "LOS_PITUFOS_EVAL_2_Q13.html"
+      }
+    },
+    {
+      "numero": "29",
+      "enunciado": "¿Qué papel juegan Los Pitufos, junto con Tintín y Lucky Luke, en la tradición de la historieta belga?",
+      "opciones": [
+        "Personajes menores y poco conocidos.",
+        "Figuras controversiales.",
+        "Pilares de la rica tradición de la historieta belga.",
+        "Obras de arte contemporáneo."
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "Junto a Tintín y Lucky Luke, Los Pitufos son considerados pilares de la rica tradición de la historieta belga, contribuyendo a su identidad cultural global.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [
+        {
+          "href": "LOS_PITUFOS_Unidad_7_Legado_e_Impacto_Cultural.html",
+          "text": "Unidad 7: Legado e Impacto Cultural Global"
+        }
+      ],
+      "origen": {
+        "modulo": "LOS_PITUFOS_EVAL_2",
+        "unidad": "Unidad 7",
+        "usuario": "AI",
+        "archivo": "LOS_PITUFOS_EVAL_2_Q14.html"
+      }
+    },
+    {
+      "numero": "30",
+      "enunciado": "La perdurabilidad de Los Pitufos a través de las décadas es un testimonio de la universalidad de sus:",
+      "opciones": [
+        "Efectos especiales.",
+        "Bandas sonoras.",
+        "Temas y la magia de sus personajes.",
+        "Estrategias de marketing."
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La capacidad de Los Pitufos para resonar con múltiples generaciones se debe a la universalidad de sus temas y la magia y atemporalidad de sus personajes.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [
+        {
+          "href": "LOS_PITUFOS_Unidad_7_Legado_e_Impacto_Cultural.html",
+          "text": "Unidad 7: Legado e Impacto Cultural Global"
+        }
+      ],
+      "origen": {
+        "modulo": "LOS_PITUFOS_EVAL_2",
+        "unidad": "Unidad 7",
+        "usuario": "AI",
+        "archivo": "LOS_PITUFOS_EVAL_2_Q15.html"
+      }
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "module": "NINTENDO_EVALS",
+  "total_preguntas": 10,
+  "preguntas": [
+    {
+      "numero": "1",
+      "enunciado": "¿En qué año se fundó Nintendo, originalmente como una empresa de naipes Hanafuda?",
+      "opciones": [
+        "1900",
+        "1983",
+        "1889",
+        "1975"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: 1889.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "NINTENDO_EVALS",
+        "unidad": "Historia Temprana",
+        "usuario": "Profesor Retro",
+        "archivo": "Nintendo_Quiz_Historia.html"
+      }
+    },
+    {
+      "numero": "2",
+      "enunciado": "¿Qué personaje icónico, inicialmente conocido como 'Jumpman', hizo su debut en el arcade 'Donkey Kong' de Nintendo?",
+      "opciones": [
+        "Luigi",
+        "Link",
+        "Mario",
+        "Samus Aran"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Mario.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "nintendo_evals_files/donkey_kong_arcade.png",
+          "alt": "Imagen del arcade Donkey Kong con Jumpman.",
+          "title": "Donkey Kong Arcade"
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "NINTENDO_EVALS",
+        "unidad": "Arcades y Personajes",
+        "usuario": "Profesor Retro",
+        "archivo": "Nintendo_Quiz_Historia.html"
+      }
+    },
+    {
+      "numero": "3",
+      "enunciado": "¿Cuál fue la consola que Nintendo lanzó para revitalizar la industria de los videojuegos después del 'Video Game Crash de 1983', implementando un estricto control de calidad?",
+      "opciones": [
+        "Super Nintendo Entertainment System (SNES)",
+        "Nintendo 64",
+        "Nintendo Entertainment System (NES)",
+        "Game Boy"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Nintendo Entertainment System (NES).",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "NINTENDO_EVALS",
+        "unidad": "El Renacimiento",
+        "usuario": "Profesor Retro",
+        "archivo": "Nintendo_Quiz_Renacimiento.html"
+      }
+    },
+    {
+      "numero": "4",
+      "enunciado": "¿Qué consola portátil de Nintendo, lanzada en 1989, se convirtió en un fenómeno mundial gracias a su durabilidad y a la inclusión del juego 'Tetris'?",
+      "opciones": [
+        "Nintendo DS",
+        "Game Boy Advance",
+        "Game Boy",
+        "Virtual Boy"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Game Boy.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "nintendo_evals_files/game_boy_tetris.png",
+          "alt": "Game Boy con Tetris.",
+          "title": "Game Boy y Tetris"
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "NINTENDO_EVALS",
+        "unidad": "Juego Portátil",
+        "usuario": "Profesor Retro",
+        "archivo": "Nintendo_Quiz_Portatil.html"
+      }
+    },
+    {
+      "numero": "5",
+      "enunciado": "¿Qué innovación clave introdujo el mando de la Nintendo 64 que se volvió estándar para el control de juegos en entornos 3D?",
+      "opciones": [
+        "Vibración Háptica",
+        "Doble Stick Analógico",
+        "Stick Analógico Único",
+        "Botones de Hombro (L/R)"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Stick Analógico Único. Revolucionó el movimiento en 3D.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "nintendo_evals_files/n64_controller.png",
+          "alt": "Mando de Nintendo 64.",
+          "title": "Mando N64"
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "NINTENDO_EVALS",
+        "unidad": "El Salto al 3D",
+        "usuario": "Profesor Retro",
+        "archivo": "Nintendo_Quiz_3D.html"
+      }
+    },
+    {
+      "numero": "6",
+      "enunciado": "¿Cuál de los siguientes juegos es considerado un hito en el diseño de plataformas 3D y fue un título de lanzamiento para Nintendo 64?",
+      "opciones": [
+        "The Legend of Zelda: Ocarina of Time",
+        "Super Mario World",
+        "Super Mario 64",
+        "Donkey Kong Country"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Super Mario 64.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "NINTENDO_EVALS",
+        "unidad": "Juegos Icónicos",
+        "usuario": "Profesor Retro",
+        "archivo": "Nintendo_Quiz_Juegos.html"
+      }
+    },
+    {
+      "numero": "7",
+      "enunciado": "La consola Wii logró un éxito masivo al priorizar la innovación en un aspecto sobre los gráficos de alta definición. ¿Cuál fue este aspecto?",
+      "opciones": [
+        "Uso de discos Blu-ray",
+        "Gráficos 4K",
+        "Control de movimiento y accesibilidad",
+        "Realidad Virtual (VR)"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Control de movimiento y accesibilidad. Esto atrajo a una audiencia muy amplia.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "nintendo_evals_files/wii_sports.png",
+          "alt": "Jugadores de Wii Sports.",
+          "title": "Wii Sports"
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "NINTENDO_EVALS",
+        "unidad": "Era Wii",
+        "usuario": "Profesor Retro",
+        "archivo": "Nintendo_Quiz_Wii.html"
+      }
+    },
+    {
+      "numero": "8",
+      "enunciado": "¿Qué consola de Nintendo es conocida por su concepto 'híbrido', permitiendo jugar tanto en casa como en modo portátil?",
+      "opciones": [
+        "Wii U",
+        "Nintendo Switch",
+        "Nintendo DS",
+        "GameCube"
+      ],
+      "respuestas": [
+        "1"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Nintendo Switch.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "NINTENDO_EVALS",
+        "unidad": "Era Actual",
+        "usuario": "Profesor Retro",
+        "archivo": "Nintendo_Quiz_Actual.html"
+      }
+    },
+    {
+      "numero": "9",
+      "enunciado": "¿Qué famosa franquicia de monstruos de bolsillo, lanzada por primera vez en Game Boy, se convirtió en un gigante mediático para Nintendo?",
+      "opciones": [
+        "Digimon",
+        "Yu-Gi-Oh!",
+        "Monster Hunter",
+        "Pokémon"
+      ],
+      "respuestas": [
+        "3"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Pokémon.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "nintendo_evals_files/pokemon_red_blue.png",
+          "alt": "Carátulas de Pokémon Rojo y Azul.",
+          "title": "Pokémon Rojo y Azul"
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "NINTENDO_EVALS",
+        "unidad": "Franquicias Clave",
+        "usuario": "Profesor Retro",
+        "archivo": "Nintendo_Quiz_Franquicias.html"
+      }
+    },
+    {
+      "numero": "10",
+      "enunciado": "¿Qué parque temático, abierto en Universal Studios, celebra el mundo de Mario y otros personajes de Nintendo?",
+      "opciones": [
+        "Disney World",
+        "Super Nintendo World",
+        "Nintendo Land",
+        "Game Land"
+      ],
+      "respuestas": [
+        "1"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Super Nintendo World.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "NINTENDO_EVALS",
+        "unidad": "Expansión de Marca",
+        "usuario": "Profesor Retro",
+        "archivo": "Nintendo_Quiz_Marca.html"
+      }
+    }
+  ]
+}

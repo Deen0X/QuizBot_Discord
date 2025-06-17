@@ -1,0 +1,266 @@
+{
+  "module": "POKEMON_QUIZ",
+  "total_preguntas": 10,
+  "preguntas": [
+    {
+      "numero": "1",
+      "enunciado": "¿Cuál de los siguientes Pokémon es de tipo Fuego/Volador y es conocido como el 'Pokémon Llama'?",
+      "opciones": [
+        "Charizard",
+        "Arcanine",
+        "Talonflame",
+        "Moltres"
+      ],
+      "respuestas": [
+        "0"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Charizard.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "pokemon_quiz_files/charizard.png",
+          "alt": "Imagen de Charizard",
+          "title": "Charizard"
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "POKEMON_QUIZ",
+        "unidad": "Unidad 1",
+        "usuario": "Profesor Oak",
+        "archivo": "POKEMON_Quiz1.html"
+      }
+    },
+    {
+      "numero": "2",
+      "enunciado": "¿Qué tipo de Pokémon es débil contra los ataques de tipo Agua y Tierra?",
+      "opciones": [
+        "Eléctrico",
+        "Planta",
+        "Roca",
+        "Fuego"
+      ],
+      "respuestas": [
+        "3"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Fuego.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "POKEMON_QUIZ",
+        "unidad": "Unidad 1",
+        "usuario": "Profesor Oak",
+        "archivo": "POKEMON_Quiz1.html"
+      }
+    },
+    {
+      "numero": "3",
+      "enunciado": "¿En qué región se descubrieron los primeros 151 Pokémon originales?",
+      "opciones": [
+        "Johto",
+        "Kanto",
+        "Hoenn",
+        "Sinnoh"
+      ],
+      "respuestas": [
+        "1"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Kanto.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "pokemon_quiz_files/kanto_map.png",
+          "alt": "Mapa de la región de Kanto",
+          "title": "Región de Kanto"
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "POKEMON_QUIZ",
+        "unidad": "Unidad 1",
+        "usuario": "Profesor Oak",
+        "archivo": "POKEMON_Quiz1.html"
+      }
+    },
+    {
+      "numero": "4",
+      "enunciado": "¿Cuál de estos Pokémon es un legendario de la primera generación que representa el elemento hielo?",
+      "opciones": [
+        "Zapdos",
+        "Articuno",
+        "Mewtwo",
+        "Raikou"
+      ],
+      "respuestas": [
+        "1"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Articuno.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "pokemon_quiz_files/articuno.png",
+          "alt": "Imagen de Articuno",
+          "title": "Articuno"
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "POKEMON_QUIZ",
+        "unidad": "Unidad 1",
+        "usuario": "Profesor Oak",
+        "archivo": "POKEMON_Quiz1.html"
+      }
+    },
+    {
+      "numero": "5",
+      "enunciado": "El movimiento 'Placaje' es un ataque de tipo...",
+      "opciones": [
+        "Normal",
+        "Lucha",
+        "Acero",
+        "Ninguno de los anteriores"
+      ],
+      "respuestas": [
+        "0"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Normal.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "POKEMON_QUIZ",
+        "unidad": "Unidad 1",
+        "usuario": "Profesor Oak",
+        "archivo": "POKEMON_Quiz1.html"
+      }
+    },
+    {
+      "numero": "6",
+      "enunciado": "¿Cuál es la evolución final de Eevee que es de tipo Psíquico?",
+      "opciones": [
+        "Jolteon",
+        "Flareon",
+        "Espeon",
+        "Umbreon"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Espeon.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "pokemon_quiz_files/espeon.png",
+          "alt": "Imagen de Espeon",
+          "title": "Espeon"
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "POKEMON_QUIZ",
+        "unidad": "Unidad 1",
+        "usuario": "Profesor Oak",
+        "archivo": "POKEMON_Quiz1.html"
+      }
+    },
+    {
+      "numero": "7",
+      "enunciado": "¿Qué objeto se necesita para evolucionar a Onix en Steelix?",
+      "opciones": [
+        "Piedra Solar",
+        "Revestimiento Metálico",
+        "Piedra Noche",
+        "Colmillo Dragón"
+      ],
+      "respuestas": [
+        "1"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Revestimiento Metálico.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "POKEMON_QUIZ",
+        "unidad": "Unidad 1",
+        "usuario": "Profesor Oak",
+        "archivo": "POKEMON_Quiz1.html"
+      }
+    },
+    {
+      "numero": "8",
+      "enunciado": "¿Cuál es la habilidad de Pikachu que evita que se le aplique el estado de parálisis?",
+      "opciones": [
+        "Pararrayos",
+        "Electricidad Estática",
+        "Compensación",
+        "Cuerpo Puro"
+      ],
+      "respuestas": [
+        "1"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Electricidad Estática.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "POKEMON_QUIZ",
+        "unidad": "Unidad 1",
+        "usuario": "Profesor Oak",
+        "archivo": "POKEMON_Quiz1.html"
+      }
+    },
+    {
+      "numero": "9",
+      "enunciado": "¿Qué es un 'Gimnasio Pokémon'?",
+      "opciones": [
+        "Un lugar donde los Pokémon se curan.",
+        "Una tienda donde se compran Poké Balls.",
+        "Un centro de entrenamiento y batalla para entrenadores.",
+        "Un lugar para criar Pokémon."
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Un centro de entrenamiento y batalla para entrenadores.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "pokemon_quiz_files/gym_battle.png",
+          "alt": "Imagen de una batalla en un Gimnasio Pokémon",
+          "title": "Gimnasio Pokémon"
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "POKEMON_QUIZ",
+        "unidad": "Unidad 1",
+        "usuario": "Profesor Oak",
+        "archivo": "POKEMON_Quiz1.html"
+      }
+    },
+    {
+      "numero": "10",
+      "enunciado": "¿Cuál es el nombre del protagonista masculino en los videojuegos originales de Pokémon Rojo y Azul?",
+      "opciones": [
+        "Brock",
+        "Gary",
+        "Ash",
+        "Red"
+      ],
+      "respuestas": [
+        "3"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Red.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "POKEMON_QUIZ",
+        "unidad": "Unidad 1",
+        "usuario": "Profesor Oak",
+        "archivo": "POKEMON_Quiz1.html"
+      }
+    }
+  ]
+}

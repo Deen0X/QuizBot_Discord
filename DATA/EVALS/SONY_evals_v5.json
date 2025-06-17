@@ -1,0 +1,266 @@
+{
+  "module": "PLAYSTATION_EVALS",
+  "total_preguntas": 10,
+  "preguntas": [
+    {
+      "numero": "1",
+      "enunciado": "¿Qué compañía iba a colaborar originalmente con Sony en un periférico de CD-ROM para la Super Nintendo antes de que la sociedad se rompiera, llevando a Sony a crear su propia consola?",
+      "opciones": [
+        "Sega",
+        "Microsoft",
+        "Nintendo",
+        "Atari"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Nintendo.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "PLAYSTATION_EVALS",
+        "unidad": "Orígenes de PlayStation",
+        "usuario": "Shawn Layden",
+        "archivo": "PS_Quiz_Historia.html"
+      }
+    },
+    {
+      "numero": "2",
+      "enunciado": "¿Qué tecnología de almacenamiento fue clave para el éxito de la PlayStation original (PS1) al ofrecer mayor capacidad para juegos con cinemáticas y gráficos detallados?",
+      "opciones": [
+        "Cartuchos",
+        "Discos CD-ROM",
+        "Minidiscos",
+        "Discos Duros (HDD)"
+      ],
+      "respuestas": [
+        "1"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Discos CD-ROM.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "playstation_evals_files/ps1_cd.png",
+          "alt": "Un disco de juego de PlayStation 1.",
+          "title": "CD de PS1."
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "PLAYSTATION_EVALS",
+        "unidad": "PS1",
+        "usuario": "Shawn Layden",
+        "archivo": "PS_Quiz_PS1.html"
+      }
+    },
+    {
+      "numero": "3",
+      "enunciado": "¿Qué función multimedia integrada en la PlayStation 2 fue un factor decisivo para su éxito masivo, convirtiéndola en un centro de entretenimiento doméstico asequible?",
+      "opciones": [
+        "Reproductor de cintas VHS",
+        "Reproductor de DVD",
+        "Sintonizador de TV",
+        "Grabador de CD"
+      ],
+      "respuestas": [
+        "1"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Reproductor de DVD.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "PLAYSTATION_EVALS",
+        "unidad": "PS2",
+        "usuario": "Shawn Layden",
+        "archivo": "PS_Quiz_PS2.html"
+      }
+    },
+    {
+      "numero": "4",
+      "enunciado": "¿Cuál de las siguientes consolas PlayStation es la más vendida de todos los tiempos?",
+      "opciones": [
+        "PlayStation 1",
+        "PlayStation 2",
+        "PlayStation 3",
+        "PlayStation 4"
+      ],
+      "respuestas": [
+        "1"
+      ],
+      "retroalimentacion": "La respuesta correcta es: PlayStation 2, con más de 155 millones de unidades vendidas.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "playstation_evals_files/ps2_slim.png",
+          "alt": "Consola PlayStation 2 Slim.",
+          "title": "PS2 Slim."
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "PLAYSTATION_EVALS",
+        "unidad": "Ventas y Legado",
+        "usuario": "Shawn Layden",
+        "archivo": "PS_Quiz_Ventas.html"
+      }
+    },
+    {
+      "numero": "5",
+      "enunciado": "La PlayStation 3 se destacó por incluir de serie un reproductor de qué formato de disco, que competía con el HD DVD?",
+      "opciones": [
+        "DVD-R",
+        "CD-RW",
+        "Blu-ray Disc",
+        "MiniDisc"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Blu-ray Disc.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "PLAYSTATION_EVALS",
+        "unidad": "PS3",
+        "usuario": "Shawn Layden",
+        "archivo": "PS_Quiz_PS3.html"
+      }
+    },
+    {
+      "numero": "6",
+      "enunciado": "¿Qué juego exclusivo de PlayStation 4 fue aclamado por revitalizar la saga de Kratos con un enfoque narrativo más maduro y una perspectiva de cámara diferente?",
+      "opciones": [
+        "Uncharted 4: A Thief's End",
+        "Marvel's Spider-Man",
+        "Horizon Zero Dawn",
+        "God of War (2018)"
+      ],
+      "respuestas": [
+        "3"
+      ],
+      "retroalimentacion": "La respuesta correcta es: God of War (2018).",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "playstation_evals_files/god_of_war_2018.png",
+          "alt": "Kratos y Atreus de God of War (2018).",
+          "title": "God of War (2018)."
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "PLAYSTATION_EVALS",
+        "unidad": "Juegos Exclusivos",
+        "usuario": "Shawn Layden",
+        "archivo": "PS_Quiz_Juegos.html"
+      }
+    },
+    {
+      "numero": "7",
+      "enunciado": "¿Qué característica principal del mando DualSense de PlayStation 5 ofrece una inmersión sensorial avanzada en los juegos?",
+      "opciones": [
+        "Sensor de movimiento únicamente",
+        "Panel táctil frontal",
+        "Retroalimentación háptica y gatillos adaptativos",
+        "Altavoz integrado solamente"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Retroalimentación háptica y gatillos adaptativos.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "PLAYSTATION_EVALS",
+        "unidad": "PS5 y Hardware",
+        "usuario": "Shawn Layden",
+        "archivo": "PS_Quiz_PS5.html"
+      }
+    },
+    {
+      "numero": "8",
+      "enunciado": "¿Qué tecnología de almacenamiento es una de las mayores innovaciones de la PlayStation 5 para reducir drásticamente los tiempos de carga?",
+      "opciones": [
+        "Unidad de disco duro (HDD) mejorada",
+        "Unidad de estado sólido (SSD) de alta velocidad",
+        "Unidad de cinta magnética",
+        "Cartuchos de memoria flash"
+      ],
+      "respuestas": [
+        "1"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Unidad de estado sólido (SSD) de alta velocidad.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "playstation_evals_files/ps5_ssd.png",
+          "alt": "Componente SSD de PlayStation 5.",
+          "title": "SSD de PS5."
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "PLAYSTATION_EVALS",
+        "unidad": "PS5 y Hardware",
+        "usuario": "Shawn Layden",
+        "archivo": "PS_Quiz_PS5.html"
+      }
+    },
+    {
+      "numero": "9",
+      "enunciado": "¿Qué servicio de suscripción de PlayStation ofrece acceso a un catálogo de juegos, modos multijugador online y títulos clásicos?",
+      "opciones": [
+        "PlayStation Now",
+        "PSN Plus",
+        "PlayStation Plus",
+        "PS Store"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: PlayStation Plus (en sus diferentes niveles como Essential, Extra y Premium).",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "PLAYSTATION_EVALS",
+        "unidad": "Servicios de PlayStation",
+        "usuario": "Shawn Layden",
+        "archivo": "PS_Quiz_Servicios.html"
+      }
+    },
+    {
+      "numero": "10",
+      "enunciado": "¿Qué exclusivo de PS1, considerado un hito en los juegos de sigilo y acción, fue dirigido por Hideo Kojima y narraba la historia de Solid Snake?",
+      "opciones": [
+        "Resident Evil",
+        "Crash Bandicoot",
+        "Metal Gear Solid",
+        "Spyro the Dragon"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Metal Gear Solid.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "playstation_evals_files/metal_gear_solid_ps1.png",
+          "alt": "Carátula de Metal Gear Solid para PS1.",
+          "title": "Metal Gear Solid (PS1)."
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "PLAYSTATION_EVALS",
+        "unidad": "Juegos Exclusivos",
+        "usuario": "Shawn Layden",
+        "archivo": "PS_Quiz_Juegos.html"
+      }
+    }
+  ]
+}

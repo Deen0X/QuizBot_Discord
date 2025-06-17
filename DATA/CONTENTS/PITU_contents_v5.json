@@ -1,0 +1,701 @@
+{
+  "module": "LOS_PITUFOS_CONTENTS",
+  "total_archivos": 7,
+  "total_parrafos": 70,
+  "contenidos": [
+    {
+      "title": "LOS_PITUFOS_Unidad_1_Origen_y_Peyo_El_Creador",
+      "sections": [
+        {
+          "title": "Origen y Peyo, El Creador",
+          "subsections": [
+            {
+              "type": "Historia",
+              "paragraphs": [
+                {
+                  "id": "P1",
+                  "text": "Los Pitufos, conocidos originalmente como 'Les Schtroumpfs' en francés, son una de las creaciones más icónicas y queridas de la historieta belga. Su origen se remonta a la mente de un talentoso dibujante: Pierre Culliford, más conocido por su seudónimo, **Peyo**.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P2",
+                  "text": "Peyo nació en Bruselas, Bélgica, en 1928. Su carrera en el cómic comenzó en la década de 1940, trabajando para diversas publicaciones. En 1952, se unió a la revista **Spirou**, una de las publicaciones de cómics más influyentes de Bélgica, donde crearía sus obras más famosas.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P3",
+                  "text": "La primera aparición de los Pitufos no fue en su propia serie, sino como personajes secundarios en otra de las creaciones de Peyo: **Johan y Pirlouit** (Johan et Pirlouit), una serie de aventuras medievales.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P4",
+                  "text": "Fue en el álbum 'La Flûte à Six Schtroumpfs' (La flauta de seis Pitufos), publicado en 1958, donde los pequeños seres azules hicieron su debut. La palabra 'Schtroumpf' surgió durante una comida, cuando Peyo pidió sal y, al no recordar la palabra, dijo 'pásame el schtroumpf'.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P5",
+                  "text": "La reacción del público ante estos pequeños seres azules, que hablaban un idioma peculiar donde 'pitufo' reemplazaba muchos sustantivos y verbos, fue abrumadoramente positiva. Su popularidad creció rápidamente, eclipsando incluso a los protagonistas de 'Johan y Pirlouit'.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P6",
+                  "text": "Debido a su éxito, los Pitufos obtuvieron su propia serie de cómics a partir de 1959. Peyo dedicó gran parte de su carrera a expandir el universo de los Pitufos, creando nuevos personajes, historias y adaptaciones.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P7",
+                  "text": "El estilo de dibujo de Peyo se caracterizaba por su claridad, dinamismo y un gran sentido del humor. Logró crear un mundo mágico y a la vez relatable, lleno de aventuras y mensajes positivos.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P8",
+                  "text": "Aunque Peyo falleció en 1992, su legado perdura. La marca 'Los Pitufos' ha sido cuidadosamente gestionada por su familia, asegurando que las nuevas generaciones puedan seguir disfrutando de sus entrañables personajes y sus mensajes universales.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P9",
+                  "text": "La creación de Los Pitufos es un testimonio del genio creativo de Peyo y de su capacidad para construir un universo fantástico que ha trascendido barreras culturales y generacionales.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P10",
+                  "text": "Esta unidad nos permitirá entender la génesis de estos personajes, desde la chispa inicial de Peyo hasta su consolidación como fenómeno global.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://www.smurfs.com/en/about-smurfs/history",
+              "text": "Historia oficial de Los Pitufos"
+            },
+            {
+              "href": "https://www.youtube.com/embed/TfCaAHILUlc4",
+              "text": "Documental sobre Peyo (video)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "LOS_PITUFOS_files/Peyo.jpg",
+              "alt": "Foto de Pierre Culliford, 'Peyo'.",
+              "title": "Peyo, el creador de Los Pitufos."
+            },
+            {
+              "src": "LOS_PITUFOS_files/Johan_y_Pirlouit.jpg",
+              "alt": "Portada del cómic 'Johan y Pirlouit' donde aparecieron por primera vez los Pitufos.",
+              "title": "Johan y Pirlouit, su primera aparición."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 1",
+      "archivo": "LOS_PITUFOS_Unidad_1_Origen_y_Peyo_El_Creador.html",
+      "ruta_completa": "DATA/CONTENTS/LOS_PITUFOS/Unidad 1/LOS_PITUFOS_Unidad_1_Origen_y_Peyo_El_Creador.html"
+    },
+    {
+      "title": "LOS_PITUFOS_Unidad_2_Personajes_Principales_y_Sus_Roles",
+      "sections": [
+        {
+          "title": "Personajes Principales y Sus Roles",
+          "subsections": [
+            {
+              "type": "Personajes",
+              "paragraphs": [
+                {
+                  "id": "P11",
+                  "text": "El universo de Los Pitufos está habitado por aproximadamente un centenar de pequeños seres azules, cada uno con su propia personalidad distintiva. Sin embargo, algunos destacan por su importancia y recurrencia en las historias.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P12",
+                  "text": "**Papá Pitufo:** Es el líder sabio y venerable de la aldea. Fácilmente reconocible por su barba blanca y su atuendo rojo, Papá Pitufo es la figura paterna que guía y protege a todos. Es experto en magia y alquimia, y siempre encuentra una solución a los problemas de los Pitufos.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P13",
+                  "text": "**Pitufina:** La única Pitufa original de la aldea (creada por Gargamel para sembrar discordia, pero convertida en una Pitufa 'verdadera' por Papá Pitufo). Es amable, coqueta y a menudo la fuente de inspiración o complicación en las historias, trayendo un toque femenino a la aldea.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P14",
+                  "text": "**Pitufo Gruñón:** Su nombre lo dice todo. Constantemente se queja y dice 'Odio...', pero en el fondo tiene un gran corazón y se preocupa por sus compañeros. Su gruñido es una de sus características más divertidas.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P15",
+                  "text": "**Pitufo Filósofo (o Pitufo Gafitas):** El intelectual de la aldea, aunque a menudo pedante y molesto. Siempre cita reglas y consejos, pero rara vez se le escucha. Su destino habitual es ser arrojado fuera de la aldea por sus fastidiosas opiniones.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P16",
+                  "text": "**Pitufo Fortachón:** El Pitufo más fuerte y valiente, reconocible por su tatuaje de corazón en el brazo. Es el héroe de la aldea en muchas ocasiones y se encarga de las tareas que requieren fuerza física.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P17",
+                  "text": "**Pitufo Tontín:** Ingenuo y torpe, Pitufo Tontín a menudo causa problemas sin querer, pero su bondad y simplicidad lo hacen entrañable. Siempre tiene un '¡Qué barbaridad!' listo.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P18",
+                  "text": "**Gargamel:** El archienemigo de los Pitufos. Un malvado y torpe hechicero que vive en un viejo castillo en ruinas con su gato, Azrael. Su obsesión es capturar a los Pitufos para convertirlos en oro, usarlos en pociones mágicas o simplemente comérselos. Siempre falla de manera cómica.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P19",
+                  "text": "**Azrael:** El leal, aunque algo perezoso, gato de Gargamel. A menudo es más astuto que su amo para detectar a los Pitufos, pero rara vez tiene éxito en atraparlos sin la ayuda de Gargamel.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P20",
+                  "text": "Cada Pitufo encarna un arquetipo o una cualidad humana, lo que facilita que el público, especialmente los niños, se identifiquen con ellos. Esta diversidad de personalidades es clave para la riqueza de las historias.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://www.smurfs.com/en/characters",
+              "text": "Personajes de Los Pitufos (sitio oficial)"
+            },
+            {
+              "href": "https://www.youtube.com/embed/TfCaAHILUlc5",
+              "text": "Presentación de los personajes de Los Pitufos (video)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "LOS_PITUFOS_files/Papa_Pitufo.jpg",
+              "alt": "Ilustración de Papá Pitufo.",
+              "title": "Papá Pitufo."
+            },
+            {
+              "src": "LOS_PITUFOS_files/Gargamel_y_Azrael.jpg",
+              "alt": "Ilustración de Gargamel y Azrael.",
+              "title": "Gargamel y Azrael."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 2",
+      "archivo": "LOS_PITUFOS_Unidad_2_Personajes_Principales_y_Sus_Roles.html",
+      "ruta_completa": "DATA/CONTENTS/LOS_PITUFOS/Unidad 2/LOS_PITUFOS_Unidad_2_Personajes_Principales_y_Sus_Roles.html"
+    },
+    {
+      "title": "LOS_PITUFOS_Unidad_3_El_Mundo_de_Los_Pitufos",
+      "sections": [
+        {
+          "title": "El Mundo de Los Pitufos: La Aldea y sus Alrededores",
+          "subsections": [
+            {
+              "type": "Escenario",
+              "paragraphs": [
+                {
+                  "id": "P21",
+                  "text": "El hogar de los Pitufos es una pintoresca aldea escondida en lo profundo de un bosque denso y mágico, conocida simplemente como **La Aldea Pitufo**.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P22",
+                  "text": "La aldea se compone de casas con forma de setas (hongos), adaptadas al tamaño de los Pitufos. Cada Pitufo tiene su propia casa-seta, y estas están dispersas alrededor de un claro central, donde a menudo se reúnen para festivales o para resolver problemas.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P23",
+                  "text": "La ubicación exacta de la aldea es un secreto bien guardado, lo que les permite vivir en paz y armonía, lejos de los peligros del mundo exterior, especialmente de Gargamel y Azrael.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P24",
+                  "text": "El bosque circundante, a menudo llamado el **Bosque Encantado**, es un lugar lleno de vida, con flora y fauna diversas. Aunque es su refugio, también puede ser una fuente de peligros y aventuras para los Pitufos curiosos o imprudentes.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P25",
+                  "text": "Dentro del bosque, hay varios puntos de referencia recurrentes, como el **río** que atraviesa el bosque, el **pantano**, las **cuevas** y los **claros** donde se encuentran ingredientes mágicos o se enfrentan a desafíos.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P26",
+                  "text": "El castillo en ruinas de **Gargamel y Azrael** se encuentra en algún lugar cercano al bosque, lo suficientemente cerca para que sea una amenaza constante, pero lo suficientemente lejos como para que los Pitufos tengan tiempo de huir o preparar una defensa.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P27",
+                  "text": "El mundo de Los Pitufos es un reflejo de la naturaleza idílica y la comunidad utópica que representan. La aldea es un lugar de seguridad y cooperación, donde cada Pitufo contribuye con sus habilidades al bienestar colectivo.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P28",
+                  "text": "La arquitectura de las casas-seta y el entorno natural contribuyen a la estética distintiva de la serie, creando un ambiente acogedor y mágico que es fácilmente reconocible por el público de todas las edades.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P29",
+                  "text": "A pesar de su aparente simplicidad, el diseño del mundo de Los Pitufos está cuidadosamente pensado para apoyar las diversas tramas, desde las más sencillas hasta las que involucran peligros y grandes aventuras.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P30",
+                  "text": "Esta unidad nos ayudará a visualizar el entorno donde se desarrollan las entrañables historias de los Pitufos, un lugar que es tanto un refugio como un escenario de infinitas posibilidades.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://smurfs.fandom.com/wiki/Smurf_Village",
+              "text": "La Aldea Pitufo (Smurfs Wiki)"
+            },
+            {
+              "href": "https://www.youtube.com/embed/TfCaAHILUlc6",
+              "text": "Recorrido por la Aldea Pitufo (video)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "LOS_PITUFOS_files/Smurf_Village.jpg",
+              "alt": "Ilustración de la Aldea Pitufo con casas en forma de setas.",
+              "title": "La Aldea Pitufo."
+            },
+            {
+              "src": "LOS_PITUFOS_files/Gargamel_Castle.jpg",
+              "alt": "Ilustración del castillo en ruinas de Gargamel y Azrael.",
+              "title": "El castillo de Gargamel."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 3",
+      "archivo": "LOS_PITUFOS_Unidad_3_El_Mundo_de_Los_Pitufos.html",
+      "ruta_completa": "DATA/CONTENTS/LOS_PITUFOS/Unidad 3/LOS_PITUFOS_Unidad_3_El_Mundo_de_Los_Pitufos.html"
+    },
+    {
+      "title": "LOS_PITUFOS_Unidad_4_Expansion_a_Medios_y_Adaptaciones",
+      "sections": [
+        {
+          "title": "Expansión a Medios y Adaptaciones Globales",
+          "subsections": [
+            {
+              "type": "Medios",
+              "paragraphs": [
+                {
+                  "id": "P31",
+                  "text": "La popularidad de Los Pitufos trascendió rápidamente las páginas de los cómics, llevando a su adaptación a una amplia variedad de medios y convirtiéndolos en un fenómeno global.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P32",
+                  "text": "**1. Series Animadas de Televisión:** La adaptación más influyente fue la serie animada producida por **Hanna-Barbera Productions** en Estados Unidos, que se estrenó en 1981 y duró hasta 1989. Esta serie fue un éxito masivo, introduciendo a los Pitufos a una audiencia mundial y estableciendo su imagen y voces icónicas para millones de personas.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P33",
+                  "text": "La serie de Hanna-Barbera se caracterizó por su formato de historias cortas, la introducción de nuevos personajes (como Pitufina, si bien su origen es del cómic, fue popularizada por la serie), y su enfoque en mensajes morales y de convivencia.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P34",
+                  "text": "Posteriormente, se han producido otras series animadas, incluyendo una nueva versión CGI que se estrenó en 2021, manteniendo viva la franquicia para las nuevas generaciones.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P35",
+                  "text": "**2. Películas:** Los Pitufos han llegado a la gran pantalla en varias ocasiones. Las películas de acción real/CGI ('Los Pitufos' en 2011 y 'Los Pitufos 2' en 2013) llevaron a los personajes a un entorno urbano moderno, mezclando animación con actores reales. Más tarde, la película totalmente animada 'Los Pitufos: La Aldea Escondida' (2017) volvió a las raíces del bosque encantado.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P36",
+                  "text": "**3. Música:** La pegadiza canción principal de la serie animada, así como numerosos álbumes musicales, han contribuido a la popularidad de los Pitufos. Artistas como 'Padre Abraham y Los Pitufos' tuvieron un éxito considerable en la década de 1970 y 1980.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P37",
+                  "text": "**4. Videojuegos:** Se han lanzado numerosos videojuegos de Los Pitufos para diversas plataformas, abarcando géneros desde plataformas y aventuras hasta juegos educativos, permitiendo a los fans interactuar directamente con sus personajes favoritos.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P38",
+                  "text": "**5. Merchandising y Parques Temáticos:** La franquicia de Los Pitufos ha generado una vasta cantidad de productos de merchandising, desde juguetes y figuras hasta ropa y material escolar. También han inspirado atracciones en parques temáticos alrededor del mundo.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P39",
+                  "text": "La capacidad de Los Pitufos para adaptarse a diferentes formatos y resonar con audiencias de diversas culturas es un testimonio de la atemporalidad de sus personajes y sus historias.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P40",
+                  "text": "Esta expansión ha asegurado que Los Pitufos se mantengan relevantes y continúen siendo una parte querida de la cultura pop a nivel mundial.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://www.warnerbros.com/smurfs",
+              "text": "Los Pitufos en Warner Bros."
+            },
+            {
+              "href": "https://www.youtube.com/embed/TfCaAHILUlc7",
+              "text": "Intro de la serie animada Los Pitufos (Hanna-Barbera)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "LOS_PITUFOS_files/Hanna_Barbera_Smurfs.jpg",
+              "alt": "Captura de pantalla de la serie animada de Hanna-Barbera 'Los Pitufos'.",
+              "title": "Serie Animada Hanna-Barbera."
+            },
+            {
+              "src": "LOS_PITUFOS_files/Smurfs_Movie.jpg",
+              "alt": "Cartel de la película de Los Pitufos de 2011.",
+              "title": "Película 'Los Pitufos' (2011)."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 4",
+      "archivo": "LOS_PITUFOS_Unidad_4_Expansion_a_Medios_y_Adaptaciones.html",
+      "ruta_completa": "DATA/CONTENTS/LOS_PITUFOS/Unidad 4/LOS_PITUFOS_Unidad_4_Expansion_a_Medios_y_Adaptaciones.html"
+    },
+    {
+      "title": "LOS_PITUFOS_Unidad_5_Temas_Valores_y_Mensajes",
+      "sections": [
+        {
+          "title": "Temas, Valores y Mensajes en Las Historias",
+          "subsections": [
+            {
+              "type": "Valores",
+              "paragraphs": [
+                {
+                  "id": "P41",
+                  "text": "Más allá de las divertidas aventuras y la colorida animación, las historias de Los Pitufos a menudo contienen importantes lecciones y reflejan valores universales que han contribuido a su perdurable atractivo.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P42",
+                  "text": "**1. Comunidad y Cooperación:** La aldea Pitufo es un modelo de sociedad comunitaria. Todos los Pitufos trabajan juntos por el bien común, compartiendo recursos y apoyándose mutuamente. Cada Pitufo, con sus habilidades únicas, contribuye a la armonía de la aldea, demostrando la importancia de la colaboración.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P43",
+                  "text": "**2. Tolerancia y Aceptación:** A pesar de sus peculiaridades individuales (Pitufo Gruñón, Pitufo Filósofo, etc.), los Pitufos se aceptan unos a otros tal como son. Aunque a veces se frustran, siempre regresan a la unidad. Incluso Pitufina, inicialmente creada por Gargamel, fue aceptada y transformada por Papá Pitufo, enseñando sobre la redención y la aceptación.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P44",
+                  "text": "**3. Ingenio y Resolución de Problemas:** Ante las constantes amenazas de Gargamel o los desafíos naturales, los Pitufos demuestran ingenio y creatividad para encontrar soluciones. Papá Pitufo a menudo lidera con sabiduría, pero todos los Pitufos contribuyen con sus ideas.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P45",
+                  "text": "**4. Respeto por la Naturaleza:** El hogar de los Pitufos es el bosque, y las historias a menudo resaltan la belleza y la importancia de la naturaleza. Los Pitufos viven en armonía con su entorno, y las aventuras a menudo giran en torno a elementos naturales.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P46",
+                  "text": "**5. La Lucha entre el Bien y el Mal:** La constante persecución de Gargamel simboliza la lucha entre el bien (los Pitufos) y el mal (Gargamel, con su codicia y egoísmo). Aunque Gargamel nunca triunfa, su presencia sirve para reforzar los valores positivos de los Pitufos.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P47",
+                  "text": "**6. Amistad y Lealtad:** La amistad entre los Pitufos es un pilar central de la serie. Se demuestran lealtad unos a otros y a Papá Pitufo, acudiendo en ayuda de quien lo necesite y valorando sus lazos.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P48",
+                  "text": "Estos valores, presentados de manera sutil y entretenida, hacen que Los Pitufos sean una herramienta educativa efectiva para niños, enseñándoles sobre la convivencia, la moralidad y la ética.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P49",
+                  "text": "La atemporalidad de estos mensajes es una de las razones por las que la franquicia ha perdurado durante décadas y continúa siendo relevante para nuevas generaciones.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P50",
+                  "text": "Al explorar estos temas, entendemos la profundidad del impacto cultural de Los Pitufos, más allá de ser solo \"pequeños seres azules\".",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://www.un.org/smurfs/index.html",
+              "text": "Los Pitufos y los Objetivos de Desarrollo Sostenible de la ONU"
+            },
+            {
+              "href": "https://www.youtube.com/embed/TfCaAHILUlc8",
+              "text": "Los Pitufos: Lecciones de vida (video)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "LOS_PITUFOS_files/Smurfs_Helping.jpg",
+              "alt": "Los Pitufos trabajando juntos en la aldea.",
+              "title": "Cooperación en la Aldea Pitufo."
+            },
+            {
+              "src": "LOS_PITUFOS_files/Smurfs_Nature.jpg",
+              "alt": "Los Pitufos interactuando con la naturaleza en el bosque.",
+              "title": "Respeto por la Naturaleza."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 5",
+      "archivo": "LOS_PITUFOS_Unidad_5_Temas_Valores_y_Mensajes.html",
+      "ruta_completa": "DATA/CONTENTS/LOS_PITUFOS/Unidad 5/LOS_PITUFOS_Unidad_5_Temas_Valores_y_Mensajes.html"
+    },
+    {
+      "title": "LOS_PITUFOS_Unidad_6_Controversias_e_Interpretaciones",
+      "sections": [
+        {
+          "title": "Controversias e Interpretaciones: El Lado Menos Azul",
+          "subsections": [
+            {
+              "type": "Crítica",
+              "paragraphs": [
+                {
+                  "id": "P51",
+                  "text": "A pesar de su imagen inocente y sus mensajes positivos, Los Pitufos no han estado exentos de controversias y diversas interpretaciones a lo largo de los años. Algunas de estas críticas han explorado aspectos menos obvios de su universo.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P52",
+                  "text": "**1. Acusaciones de Ideología Comunista/Socialista:** La estructura de la Aldea Pitufo, donde todos trabajan para el bien común, no hay propiedad privada aparente (excepto las casas-seta), y Papá Pitufo es la figura de autoridad que distribuye tareas y recursos, ha llevado a algunos críticos a interpretarla como una representación de una sociedad comunista o socialista. Aunque esta era probablemente una lectura no intencionada de Peyo, la falta de individualismo económico es un punto recurrente en el debate.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P53",
+                  "text": "**2. La Cuestión de 'Pitufina' y el Género:** La introducción de Pitufina como la única figura femenina en un principio, y su posterior 'creación' y 'transformación' por parte de Papá Pitufo (a partir de una creación de Gargamel), ha sido objeto de análisis sobre las representaciones de género y el rol de la mujer en la aldea. Más tarde se introdujeron otras Pitufas, pero la dinámica inicial ha sido criticada por su falta de diversidad de género.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P54",
+                  "text": "**3. Presuntas Alusiones Raciales o Antisemitismo (Gargamel y Azrael):** Una de las críticas más controvertidas se centra en la figura de Gargamel, el villano. Algunos han señalado similitudes entre su apariencia y ciertos estereotipos antisemitas de la propaganda nazi (nariz ganchuda, avaricia). Además, el nombre de su gato, Azrael, es el ángel de la muerte en algunas tradiciones judías e islámicas. Aunque estas acusaciones son muy discutidas y no hay pruebas de la intención de Peyo, han sido parte del debate académico.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P55",
+                  "text": "**4. Consumismo y Merchandising:** Con la explosión de la popularidad de los Pitufos, especialmente con la serie de Hanna-Barbera, la franquicia se convirtió en una máquina de merchandising masiva. Esto llevó a críticas sobre la comercialización excesiva de la marca, percibida por algunos como contraria a los valores de simplicidad y comunidad que la serie intentaba transmitir.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P56",
+                  "text": "**5. Simplicidad de la Trama y Fórmulas Repetitivas:** Aunque no es una 'controversia' en sí, algunos críticos han señalado la simplicidad o la naturaleza repetitiva de las tramas en la serie animada, especialmente en comparación con la profundidad ocasional de los cómics originales de Peyo. Esto se atribuye a menudo a las demandas de producción de series de larga duración.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P57",
+                  "text": "Es importante destacar que muchas de estas interpretaciones son post-hoc y a menudo carecen de evidencia directa de las intenciones de Peyo. Sin embargo, forman parte del análisis crítico de la cultura pop y demuestran cómo las obras pueden ser leídas de múltiples maneras.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P58",
+                  "text": "El hecho de que Los Pitufos generen tales debates es un testimonio de su impacto cultural y de la profundidad, incluso inconsciente, de su construcción de mundo y personajes.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P59",
+                  "text": "Esta unidad nos invita a mirar más allá de la superficie azul y a considerar las complejidades y las diversas lecturas que una obra de arte puede inspirar.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://www.theguardian.com/books/2011/jun/05/smurfs-racist-anti-semitic",
+              "text": "Artículo de The Guardian sobre controversias de Los Pitufos"
+            },
+            {
+              "href": "https://www.youtube.com/embed/TfCaAHILUlc9",
+              "text": "Análisis crítico de Los Pitufos (video)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "LOS_PITUFOS_files/Smurfette_Origin.jpg",
+              "alt": "Imagen de Pitufina siendo creada por Gargamel.",
+              "title": "Origen de Pitufina."
+            },
+            {
+              "src": "LOS_PITUFOS_files/Gargamel_Stereotype.jpg",
+              "alt": "Ilustración de Gargamel que algunos han asociado con estereotipos.",
+              "title": "Gargamel: Controversia."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 6",
+      "archivo": "LOS_PITUFOS_Unidad_6_Controversias_e_Interpretaciones.html",
+      "ruta_completa": "DATA/CONTENTS/LOS_PITUFOS/Unidad 6/LOS_PITUFOS_Unidad_6_Controversias_e_Interpretaciones.html"
+    },
+    {
+      "title": "LOS_PITUFOS_Unidad_7_Legado_e_Impacto_Cultural",
+      "sections": [
+        {
+          "title": "Legado e Impacto Cultural Global",
+          "subsections": [
+            {
+              "type": "Legado",
+              "paragraphs": [
+                {
+                  "id": "P60",
+                  "text": "Más de seis décadas después de su creación, Los Pitufos han dejado una huella indeleble en la cultura popular global, trascendiendo su origen como historieta belga para convertirse en un fenómeno cultural duradero.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P61",
+                  "text": "**1. Iconos de la Cultura Pop:** Los Pitufos son instantáneamente reconocibles en todo el mundo. Sus gorros frigios blancos, su color azul y su forma de hablar única se han convertido en sinónimos de la infancia para millones de personas. Son un ejemplo clásico de cómo los personajes de cómic pueden alcanzar un estatus icónico a nivel mundial.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P62",
+                  "text": "**2. Embajadores de Valores Positivos:** A través de sus historias, Los Pitufos han promovido consistentemente valores como la amistad, la cooperación, el respeto por la naturaleza, la ingeniosidad y la tolerancia. Esto los ha convertido en una herramienta educativa valiosa para padres y educadores, y han sido utilizados en campañas de bienestar social, incluso por la ONU.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P63",
+                  "text": "**3. Influencia en el Lenguaje:** La particular forma de hablar de los Pitufos, utilizando el verbo y el sustantivo 'pitufo' como un comodín, ha permeado el lenguaje popular en varios idiomas, creando frases y expresiones jocosas que aluden a su peculiar gramática.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P64",
+                  "text": "**4. Franquicia Multigeneracional:** Los Pitufos han logrado mantenerse relevantes para múltiples generaciones. Mientras los abuelos recuerdan los cómics originales y la serie de Hanna-Barbera, los niños de hoy disfrutan de las nuevas películas CGI y las series animadas, asegurando una continuidad generacional en su popularidad.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P65",
+                  "text": "**5. Legado de Peyo:** El éxito de Los Pitufos cimentó el estatus de Peyo como uno de los grandes maestros del cómic belga. Su estilo y su capacidad para crear personajes y mundos entrañables han influido en innumerables artistas y animadores posteriores.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P66",
+                  "text": "**6. Contribución a la Cultura Belga:** Junto con Tintín y Lucky Luke, Los Pitufos son un pilar de la rica tradición de la historieta belga, contribuyendo a la identidad cultural del país y a su reconocimiento en el arte del cómic a nivel mundial.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P67",
+                  "text": "A pesar de las críticas y las diversas interpretaciones, el legado positivo de Los Pitufos como fuente de entretenimiento sano y portador de mensajes constructivos es innegable.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P68",
+                  "text": "Su perdurabilidad es un testimonio de la universalidad de sus temas y la magia de sus personajes, que continúan capturando la imaginación de audiencias de todas las edades.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P69",
+                  "text": "Esta unidad cierra nuestro recorrido por el mundo de Los Pitufos, consolidando su lugar no solo como personajes de ficción, sino como un verdadero fenómeno cultural global.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://www.brussels.be/art-culture/museums/belgian-comic-strip-center/",
+              "text": "Centro Belga del Cómic (referencia a Peyo)"
+            },
+            {
+              "href": "https://www.youtube.com/watch?v=k1t64lF8h2Q0",
+              "text": "Celebración global de Los Pitufos (video)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "LOS_PITUFOS_files/Smurfs_UN_Campaign.jpg",
+              "alt": "Los Pitufos en una campaña de la ONU.",
+              "title": "Campaña de la ONU con Los Pitufos."
+            },
+            {
+              "src": "LOS_PITUFOS_files/Smurf_Figures.jpg",
+              "alt": "Colección de figuras de Los Pitufos.",
+              "title": "Merchandising de Los Pitufos."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 7",
+      "archivo": "LOS_PITUFOS_Unidad_7_Legado_e_Impacto_Cultural.html",
+      "ruta_completa": "DATA/CONTENTS/LOS_PITUFOS/Unidad 7/LOS_PITUFOS_Unidad_7_Legado_e_Impacto_Cultural.html"
+    }
+  ]
+}

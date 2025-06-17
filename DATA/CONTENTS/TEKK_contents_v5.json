@@ -1,0 +1,495 @@
+{
+  "module": "TEKKEN_CONTENTS",
+  "total_archivos": 4,
+  "total_parrafos": 48,
+  "contenidos": [
+    {
+      "title": "TEKKEN_Historia_Unidad_1_Tekken_1_y_2",
+      "sections": [
+        {
+          "title": "El Inicio del Torneo: Tekken 1 y 2.",
+          "subsections": [
+            {
+              "type": "Historia",
+              "paragraphs": [
+                {
+                  "id": "P1",
+                  "text": "La saga Tekken, un pilar en el género de los juegos de lucha, arranca su intrincada narrativa con la oscura historia de la familia Mishima. El patriarca, Heihachi Mishima, un maestro implacable de las artes marciales y el formidable CEO de la Mishima Zaibatsu, una vasta corporación global, es el cerebro detrás del primer 'King of Iron Fist Tournament'. Este torneo no es simplemente una competición; es una estratagema para atraer a los luchadores más poderosos del mundo y, lo más importante, para poner a prueba la fuerza y lealtad de su propio hijo.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P2",
+                  "text": "Tekken 1, lanzado en 1994, sirve como el telón de fondo para una de las venganzas más icónicas en la historia de los videojuegos. Kazuya Mishima, el hijo de Heihachi, regresa del abismo al que su padre lo arrojó cruelmente cuando era solo un niño. Esta herida, tanto física como emocional, se manifiesta en una cicatriz prominente en su pecho y un odio implacable que lo consume.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P3",
+                  "text": "Kazuya, impulsado por esta sed de venganza y el resentimiento acumulado durante años, entra en el torneo no por fama ni por dinero, sino con el único propósito de enfrentarse a Heihachi. Su objetivo es claro: derrocar a su padre del trono de la Mishima Zaibatsu y, de paso, pagarle con la misma moneda su brutalidad pasada. El público del torneo es testigo, sin saberlo, de un drama familiar shakesperiano desarrollándose en la arena.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P4",
+                  "text": "La confrontación final de Tekken 1 es un duelo visceral entre padre e hijo. Kazuya, con una fuerza sobrenatural que emana de un poder latente dentro de él –el misterioso 'Devil Gene'–, logra derrotar a un Heihachi confiado y arrogante. La victoria de Kazuya no es solo física, sino también simbólica; el ciclo de violencia de los Mishima comienza a repetirse.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P5",
+                  "text": "Consumado su acto de venganza, Kazuya replica la crueldad de su padre con un acto aún más frío y calculado: arroja a Heihachi, herido y humillado, por el mismo acantilado del que él mismo fue lanzado décadas atrás. Con este acto, Kazuya no solo se venga, sino que asume el control total de la Mishima Zaibatsu, transformando la corporación en un reflejo de su propia oscuridad y ambición.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P6",
+                  "text": "Bajo el liderazgo de Kazuya, la Mishima Zaibatsu se convierte en una entidad aún más temida y expande sus operaciones a escala global, a menudo mediante medios cuestionables. Dos años después de su ascensión al poder, Kazuya organiza el 'King of Iron Fist Tournament 2'. Su motivación para este segundo torneo es doble: por un lado, consolidar su reinado y eliminar a cualquier posible adversario; por otro, luchar internamente contra la creciente influencia del Devil Gene, que amenaza con consumirle por completo.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P7",
+                  "text": "Para sorpresa y horror de Kazuya, Heihachi Mishima emerge de las profundidades del abismo, habiendo sobrevivido milagrosamente a la caída y escalado el acantilado con una furia renovada. Determinado a recuperar su imperio y a castigar a Kazuya por su traición y su aparente intento de parricidio, Heihachi se inscribe en el segundo torneo, preparado para la revancha definitiva.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P8",
+                  "text": "Tekken 2 (1995) no solo profundiza en la rivalidad generacional entre Kazuya y Heihachi, sino que también introduce personajes cruciales para el futuro de la saga. Uno de ellos es Jun Kazama, una enigmática activista ambiental y maestra de un estilo de kárate tradicional que, de alguna manera, posee la habilidad de suprimir el Devil Gene. Jun se siente inexplicablemente atraída por la oscuridad de Kazuya, y busca liberarlo de la maldición demoníaca, aunque el destino tiene otros planes que la unirán a él para siempre.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P9",
+                  "text": "La batalla decisiva en Tekken 2 culmina con la derrota de Kazuya a manos de Heihachi. En un intento desesperado por erradicar la amenaza del Devil Gene y asegurarse de que Kazuya nunca más lo desafíe, Heihachi arroja a su hijo directamente a la boca de un volcán en erupción, aparentemente sellando su destino para siempre en las llamas. La Mishima Zaibatsu vuelve a estar bajo el control férreo y despiadado de Heihachi.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P10",
+                  "text": "Sin embargo, a pesar de la aparente desaparición de Kazuya, su legado ya estaba asegurado. Antes de los eventos finales de Tekken 2, Jun Kazama concibe a su hijo, Jin Kazama. Este niño se convertirá, sin saberlo, en la clave de la continuación de la saga y en el próximo portador de la compleja, trágica y maldita herencia de la familia Mishima, destinado a continuar la lucha entre la luz y la oscuridad.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://tekken.fandom.com/wiki/Tekken_(game)",
+              "text": "Tekken (juego) Wiki"
+            },
+            {
+              "href": "https://tekken.fandom.com/wiki/Tekken_2",
+              "text": "Tekken 2 Wiki"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "TEKKEN01_files/T1_Kazuya_Heihachi.jpg",
+              "alt": "Kazuya y Heihachi de Tekken 1.",
+              "title": "Kazuya y Heihachi (Tekken 1)."
+            },
+            {
+              "src": "TEKKEN01_files/T2_Kazuya_Devil.jpg",
+              "alt": "Devil Kazuya en Tekken 2.",
+              "title": "Devil Kazuya (Tekken 2)."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 1",
+      "archivo": "TEKKEN_Historia_Unidad_1_Tekken_1_y_2.html",
+      "ruta_completa": "T:/Bots/QUIZBOT_DATA_V5\\DATA\\CONTENTS\\TEKKEN\\Unidad 1\\TEKKEN_Historia_Unidad_1_Tekken_1_y_2.html"
+    },
+    {
+      "title": "TEKKEN_Historia_Unidad_2_Tekken_3_y_Tag_Tournament",
+      "sections": [
+        {
+          "title": "El Despertar del Diablo y el Nuevo Héroe: Tekken 3 y Tag Tournament.",
+          "subsections": [
+            {
+              "type": "Historia",
+              "paragraphs": [
+                {
+                  "id": "P11",
+                  "text": "Tekken 3, lanzado en 1997, representa un salto temporal significativo de quince años después de los eventos de Tekken 2. La historia introduce a Jin Kazama, un adolescente que, hasta entonces, ha vivido una vida tranquila y apartada de los conflictos de su familia paterna, criado por su madre, Jun Kazama. Su vida transcurre en aparente paz, ajeno a la turbulenta herencia que le espera.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P12",
+                  "text": "Sin embargo, esta calma se rompe abruptamente con la aparición de una entidad misteriosa y destructiva conocida como Ogre (también denominado Toshin). Este ser ancestral, que se alimenta de las almas de los luchadores más poderosos, ataca el dojo donde Jin y Jun viven. La confrontación es devastadora, y Ogre aparentemente acaba con la vida de Jun, dejando a Jin solo y lleno de dolor.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P13",
+                  "text": "Consumido por la sed de venganza por la pérdida de su madre, Jin busca a su abuelo, Heihachi Mishima. Heihachi, al percibir el incipiente Devil Gene latente en Jin, decide tomarlo bajo su tutela. Le enseña el brutal estilo de combate de los Mishima (Kárate de Estilo Mishima), no por afecto, sino con la esperanza secreta de manipular a Jin para atraer a Ogre y así poder absorber el poder del demonio para sí mismo.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P14",
+                  "text": "Heihachi organiza el tercer 'King of Iron Fist Tournament' con el propósito manifiesto de atraer a Ogre a un enfrentamiento directo. Jin se inscribe en el torneo, cegado por su deseo de venganza y sin ser plenamente consciente de los verdaderos y egoístas motivos de su abuelo. A lo largo del torneo, Jin se enfrenta a diversos luchadores, cada paso acercándolo a su objetivo.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P15",
+                  "text": "Finalmente, Jin se encuentra con Ogre y lo derrota en su forma 'humana'. Sin embargo, la batalla no termina ahí. Ogre se transforma en su verdadera y más monstruosa forma, True Ogre, una criatura alada y colosal. La lucha continúa, y Jin, con un último estallido de poder, logra derrotar a True Ogre, aparentemente vengando la muerte de su madre y poniendo fin a la amenaza.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P16",
+                  "text": "Pero la victoria de Jin se ve empañada por una traición impactante. En el Templo de la Familia Mishima, Heihachi, viendo a Jin herido y debilitado tras su arduo combate contra Ogre, revela su verdadera naturaleza. Considera a Jin un estorbo y un riesgo, y para eliminar la amenaza del Devil Gene en su propio linaje y quizás para intentar absorber su poder, le dispara a traición.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P17",
+                  "text": "La traición de Heihachi, sin embargo, desata una transformación aún más profunda en Jin. Al borde de la muerte, el Devil Gene se manifiesta completamente. Jin se transforma en Devil Jin, una forma demoníaca con alas negras y ojos rojos incandescentes. Con una fuerza y furia renovadas, embiste brutalmente a Heihachi a través de la pared del templo, escapando y jurando una nueva venganza, esta vez contra su propio abuelo.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P18",
+                  "text": "Tekken Tag Tournament (1999) es un spin-off que, a diferencia de los juegos de la línea principal, no forma parte de la narrativa canónica de la saga. Se concibió como un 'dream match', un evento en el que los jugadores pueden formar equipos de dos personajes, incluyendo a aquellos que se creía que habían muerto o desaparecido en la línea de tiempo principal, como Kazuya Mishima y Jun Kazama. No contribuye a la evolución de la historia de los Mishima.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P19",
+                  "text": "A pesar de su naturaleza no canónica, TTT fue inmensamente popular por su innovadora mecánica de equipos, que permitía a los jugadores alternar entre dos personajes durante el combate. Su extensa lista de personajes y la posibilidad de crear combinaciones únicas generaron un enorme entusiasmo, manteniendo la base de fans activa y expectante sobre el futuro de la franquicia y el posible regreso de ciertos personajes en la trama principal.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P20",
+                  "text": "Tekken 3 es un juego crucial para la saga, ya que establece a Jin Kazama como el nuevo protagonista central y hereda el conflicto del Devil Gene, que ahora no solo afecta a Kazuya, sino que también atormenta a Jin. La traición de Heihachi en este juego cimenta aún más el ciclo de violencia y odio dentro de la familia Mishima, preparando el escenario para las futuras y más complejas confrontaciones que definirán la saga.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://tekken.fandom.com/wiki/Tekken_3",
+              "text": "Tekken 3 Wiki"
+            },
+            {
+              "href": "https://tekken.fandom.com/wiki/Tekken_Tag_Tournament",
+              "text": "Tekken Tag Tournament Wiki"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "TEKKEN01_files/T3_Jin_Kazama.jpg",
+              "alt": "Jin Kazama de Tekken 3.",
+              "title": "Jin Kazama (Tekken 3)."
+            },
+            {
+              "src": "TEKKEN01_files/T3_True_Ogre.jpg",
+              "alt": "True Ogre de Tekken 3.",
+              "title": "True Ogre (Tekken 3)."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 2",
+      "archivo": "TEKKEN_Historia_Unidad_2_Tekken_3_y_Tag_Tournament.html",
+      "ruta_completa": "T:/Bots/QUIZBOT_DATA_V5\\DATA\\CONTENTS\\TEKKEN\\Unidad 2\\TEKKEN_Historia_Unidad_2_Tekken_3_y_Tag_Tournament.html"
+    },
+    {
+      "title": "TEKKEN_Historia_Unidad_3_Tekken_4_y_5",
+      "sections": [
+        {
+          "title": "El Regreso del Mal y la Venganza Global: Tekken 4 y 5.",
+          "subsections": [
+            {
+              "type": "Historia",
+              "paragraphs": [
+                {
+                  "id": "P21",
+                  "text": "Tekken 4, lanzado en 2001, impacta al mundo con el sorprendente regreso de Kazuya Mishima. Se revela que, después de ser arrojado al volcán por Heihachi en Tekken 2, Kazuya fue rescatado y posteriormente puesto bajo la experimentación de la G Corporation, una poderosa y misteriosa entidad rival de la Mishima Zaibatsu. Durante las dos décadas siguientes, la G Corporation llevó a cabo extensos experimentos con Kazuya, intentando desentrañar los secretos del Devil Gene y, más ambiciosamente, controlar su inmenso poder para sus propios fines.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P22",
+                  "text": "Mientras tanto, Heihachi Mishima, al descubrir no solo que Kazuya ha sobrevivido, sino que además está aliado con la G Corporation y que su nieto Jin Kazama posee el Devil Gene, urde un nuevo y ambicioso plan. Organiza el cuarto 'King of Iron Fist Tournament' con un objetivo oculto: atraer tanto a Kazuya como a Jin para capturarlos. Su intención es combinar el Devil Gene de ambos con su propio ADN para adquirir un poder inigualable, alcanzar la inmortalidad y, finalmente, dominar el mundo sin oposición.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P23",
+                  "text": "Jin Kazama, atormentado por la influencia creciente del Devil Gene y el profundo odio que siente hacia su linaje Mishima, ha pasado los últimos años viviendo una vida errante y entrenando en un estilo de kárate tradicional y más puro, el estilo Kazama, intentando reprimir su lado demoníaco. Al enterarse de la existencia del nuevo torneo y de la participación de Heihachi y Kazuya, Jin decide unirse para confrontar a su familia y, de una vez por todas, liberarse de la maldición que lo persigue.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P24",
+                  "text": "La historia de Tekken 4 culmina en una serie de confrontaciones intensas que reafirman la complejidad de la familia Mishima. Heihachi logra capturar a Jin en el Templo de Hon-Maru, donde procede con su intento de extraerle el Devil Gene. Sin embargo, Jin se libera de sus ataduras y, a pesar de tener la oportunidad de acabar con la vida de su abuelo, lo perdona, un acto influenciado por la memoria de su madre, Jun. Jin escapa volando con sus alas demoníacas, dejando a Heihachi frustrado y furioso.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P25",
+                  "text": "Tekken 5, lanzado en 2004, comienza con una escena explosiva que parece poner fin al reinado de Heihachi. Kazuya Mishima y Heihachi se encuentran en la Mishima Zaibatsu, cuando son asaltados por un ejército de robots Jack-4, enviados por la G Corporation para eliminar a Kazuya. En un acto de pura traición, Kazuya activa su forma demoníaca, derrota a los robots y escapa, dejando a Heihachi a merced de una masiva explosión que destruye el complejo. Se da por hecho que Heihachi ha muerto, poniendo un aparente fin a su vida.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P26",
+                  "text": "Sin embargo, la Mishima Zaibatsu no queda sin liderazgo por mucho tiempo. Poco después de la explosión, se anuncia un quinto 'King of Iron Fist Tournament'. El organizador es una figura misteriosa y completamente inesperada: Jinpachi Mishima, el padre de Heihachi y el fundador original de la Mishima Zaibatsu. Jinpachi, quien se creía muerto y había estado aprisionado bajo el Hon-Maru durante décadas, ha sido liberado, pero ha sido poseído por una entidad demoníaca que lo corrompe y busca ser derrotado antes de perder el control total y destruir el mundo.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P27",
+                  "text": "La noticia del torneo atrae a todos los principales protagonistas. Jin Kazama, aún luchando por controlar su Devil Gene y buscando la paz interior, se une al torneo para detener a Jinpachi y el caos que este podría desatar. Kazuya, siempre buscando capitalizar cualquier situación para su propio beneficio y el poder de su abuelo, también participa. Y, en un giro predecible para los fans de la saga, Heihachi Mishima, que una vez más sobrevivió a lo que parecía una muerte segura, se une al torneo para reclamar su legado y castigar a Kazuya por su traición en la explosión.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P28",
+                  "text": "La final de Tekken 5 enfrenta a Jin Kazama contra Jinpachi Mishima. Jinpachi, completamente consumido por su forma demoníaca, implora a Jin que lo detenga. Jin logra derrotar a su bisabuelo, liberándolo de la influencia demoníaca y poniendo fin a su sufrimiento. Al hacerlo, Jin se convierte en el nuevo y joven CEO de la Mishima Zaibatsu, heredando el control de la corporación más influyente del mundo de Tekken.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P29",
+                  "text": "Sin embargo, la victoria no le trae paz a Jin. El inmenso poder y la corrupción de la Mishima Zaibatsu, combinados con la creciente influencia de su Devil Gene, lo consumen por completo. En lugar de buscar la paz o la reconstrucción, Jin, ahora como un líder autoritario, utiliza los recursos de la corporación para declarar la guerra al mundo, llevando la saga a su conflicto más global y devastador hasta la fecha. La maldición de los Mishima continúa.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P30",
+                  "text": "Tekken 5 es crucial no solo por la resurrección de Kazuya y Jinpachi, sino por el cambio radical en el rol de Jin. De héroe que lucha contra su destino, se transforma en un antagonista movido por una motivación compleja, preparando el terreno para el conflicto a gran escala que definiría la próxima entrega.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://tekken.fandom.com/wiki/Tekken_4",
+              "text": "Tekken 4 Wiki"
+            },
+            {
+              "href": "https://tekken.fandom.com/wiki/Tekken_5",
+              "text": "Tekken 5 Wiki"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "TEKKEN01_files/T4_Jin_Kazuya_Heihachi.jpg",
+              "alt": "Trío Mishima en Tekken 4.",
+              "title": "Los Mishima (Tekken 4)."
+            },
+            {
+              "src": "TEKKEN01_files/T5_Jinpachi.jpg",
+              "alt": "Jinpachi Mishima en Tekken 5.",
+              "title": "Jinpachi Mishima (Tekken 5)."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 3",
+      "archivo": "TEKKEN_Historia_Unidad_3_Tekken_4_y_5.html",
+      "ruta_completa": "T:/Bots/QUIZBOT_DATA_V5\\DATA\\CONTENTS\\TEKKEN\\Unidad 3\\TEKKEN_Historia_Unidad_3_Tekken_4_y_5.html"
+    },
+    {
+      "title": "TEKKEN_Historia_Unidad_4_Tekken_6_y_Tag_Tournament_2",
+      "sections": [
+        {
+          "title": "El Conflicto Final y la Saga de la Sangre: Tekken 6 y Tag Tournament 2.",
+          "subsections": [
+            {
+              "type": "Historia",
+              "paragraphs": [
+                {
+                  "id": "P31",
+                  "text": "Tekken 6 (2007) sumerge al mundo en un estado de caos y guerra global sin precedentes. Jin Kazama, ahora completamente dominado por la oscuridad de su Devil Gene y actuando como el autoritario líder de la Mishima Zaibatsu, declara la guerra a todas las naciones. Su objetivo, aparentemente autodestructivo, es despertar a un antiguo y poderoso demonio, Azazel. Jin cree que al provocar y derrotar a Azazel, podrá erradicar el Devil Gene de su propio ser y, con ello, librarse de la maldición de su linaje para siempre, incluso si ello conlleva la destrucción del mundo.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P32",
+                  "text": "En una escalada de conflicto, la G Corporation, ahora bajo el control total de un Kazuya Mishima aún más poderoso y manifiestamente demoníaco, se alza en oposición directa a la Mishima Zaibatsu de Jin. Kazuya, viendo la guerra global como la oportunidad perfecta para consolidar su propio dominio y eliminar a cualquier rival, se posiciona como la única fuerza capaz de desafiar la hegemonía de Jin, sumiendo al mundo en un conflicto bipolar entre dos potencias demoníacas.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P33",
+                  "text": "La narrativa introduce a un nuevo protagonista clave: Lars Alexandersson, un oficial de las fuerzas especiales de la Mishima Zaibatsu que, secretamente, es el hijo ilegítimo de Heihachi Mishima. Lars se rebela contra la tiranía de Jin y forma un equipo de resistencia con diversos luchadores. Junto a su aliada principal, la androide Alisa Bosconovitch, Lars emprende una misión desesperada para detener la guerra, desvelar los verdaderos y enigmáticos planes de Jin, y restaurar el orden mundial.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P34",
+                  "text": "La historia de Tekken 6 culmina con el enfrentamiento de Jin y Lars contra Azazel en las profundidades de un templo ancestral en el desierto. Jin, al derrotar a Azazel con un golpe final que parece consumir su propia vida, aparentemente se sacrifica para sellar al demonio y, con él, la influencia de su Devil Gene. Sin embargo, su destino final queda incierto, y la guerra global continúa con Kazuya aún dominando gran parte del escenario mundial.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P35",
+                  "text": "Tekken Tag Tournament 2 (2011), al igual que su predecesor, es un spin-off no canónico. Su propósito principal es expandir el concepto de los combates por parejas introducido en el primer Tag Tournament, permitiendo a los jugadores formar equipos de dos personajes y ejecutar combos y movimientos especiales combinados. No contribuye a la narrativa principal de la saga Mishima, sino que ofrece una celebración del extenso elenco de Tekken.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://tekken.fandom.com/wiki/Tekken_6",
+              "text": "Tekken 6 Wiki"
+            },
+            {
+              "href": "https://tekken.fandom.com/wiki/Tekken_Tag_Tournament_2",
+              "text": "Tekken Tag Tournament 2 Wiki"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "TEKKEN01_files/T6_Jin_Lars.jpg",
+              "alt": "Jin Kazama y Lars Alexandersson en Tekken 6.",
+              "title": "Jin y Lars (Tekken 6)."
+            },
+            {
+              "src": "TEKKEN01_files/T6_Azazel.jpg",
+              "alt": "Azazel de Tekken 6.",
+              "title": "Azazel (Tekken 6)."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 4",
+      "archivo": "TEKKEN_Historia_Unidad_4_Tekken_6_y_Tag_Tournament_2.html",
+      "ruta_completa": "T:/Bots/QUIZBOT_DATA_V5\\DATA\\CONTENTS\\TEKKEN\\Unidad 4\\TEKKEN_Historia_Unidad_4_Tekken_6_y_Tag_Tournament_2.html"
+    },
+    {
+      "title": "TEKKEN_Historia_Unidad_5_Tekken_7_y_8",
+      "sections": [
+        {
+          "title": "El Conflicto Final y la Saga de la Sangre: Tekken 7 y 8.",
+          "subsections": [
+            {
+              "type": "Historia",
+              "paragraphs": [
+                {
+                  "id": "P36",
+                  "text": "Tekken 7 (2015) se presenta como el 'Final del Clan Mishima', centrándose en la conclusión definitiva del feudo de décadas entre Heihachi y Kazuya. La historia es narrada en gran parte desde la perspectiva de un periodista anónimo que investiga las maquinaciones de la Mishima Zaibatsu y la G Corporation, buscando comprender la verdadera causa detrás de su conflicto interminable y la raíz de la disfunción familiar Mishima.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P37",
+                  "text": "El juego profundiza en los orígenes del Devil Gene y la compleja relación de Heihachi con su difunta esposa, Kazumi Mishima, la madre de Kazuya. Se revela que Kazumi también poseía el Devil Gene y estaba destinada a matar a Heihachi para proteger al mundo de su ambición. Heihachi se vio forzado a matarla en defensa propia, un evento traumático que cimentó su odio por el linaje demoníaco en su familia, incluyendo a Kazuya.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P38",
+                  "text": "Heihachi, quien sorprendentemente (y predeciblemente) sobrevivió a la explosión de la Mishima Zaibatsu en Tekken 5, busca exponer y destruir públicamente a Kazuya. Aunque se organiza un último King of Iron Fist Tournament, el conflicto principal se desarrolla fuera de este, escalando a una guerra total entre sus corporaciones y culminando en un enfrentamiento personal a muerte entre padre e hijo.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P39",
+                  "text": "La narrativa de Tekken 7 alcanza su clímax en el enfrentamiento final y más brutal de la saga entre Kazuya y Heihachi, que tiene lugar en el cráter de un volcán activo. Después de una batalla encarnizada y sin cuartel, Kazuya finalmente derrota y asesina a Heihachi, arrojando su cuerpo al magma, poniendo fin a la larga, sangrienta y tumultuosa rivalidad que había definido gran parte de la historia de Tekken.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P40",
+                  "text": "Mientras tanto, Jin Kazama, quien se había recuperado de sus heridas en el desierto y estaba luchando por controlar el Devil Gene una vez más, permanece en la sombra. Ha presenciado la muerte de su abuelo y su papel al final de Tekken 7 lo posiciona como la única esperanza para detener a un Kazuya ahora sin oposición y completamente desatado, marcando el camino para el próximo capítulo.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P41",
+                  "text": "Tekken 8 (2024) retoma la historia seis meses después de los eventos de Tekken 7. El mundo está sumido en el caos bajo el control de Kazuya Mishima, cuya G Corporation utiliza su poder demoníaco para subyugar a las naciones. Jin Kazama, atormentado por su pasado y el Devil Gene que aún reside en él, toma la decisión trascendental de que debe detener a su padre de una vez por todas, incluso si eso significa abrazar y dominar su propio lado demoníaco.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P42",
+                  "text": "La narrativa de Tekken 8 se centra en el tema de la 'fuerza de la voluntad' versus la 'fuerza del poder'. Jin busca luchar contra el destino de su linaje y detener la expansión global de Kazuya, quien parece imparable en su búsqueda de dominio. Lars Alexandersson, junto con Jin y otros aliados, forma una resistencia global contra la G Corporation de Kazuya, buscando liberarse de su tiranía.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P43",
+                  "text": "El juego introduce a Reina, una misteriosa estudiante de la Politécnica de Mishima que posee un estilo de lucha similar al de Heihachi y una presencia carismática pero peligrosa. Su aparición insinúa nuevos giros y la posibilidad de que la saga Mishima, aunque aparentemente finalizada en Tekken 7, aún guarde secretos y descendientes inesperados.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P44",
+                  "text": "La batalla final de Tekken 8 se espera que sea la confrontación definitiva entre padre e hijo: Kazuya, el demonio que abraza plenamente su poder y ambición sin límites, y Jin, que lucha por controlar su propia oscuridad para salvar al mundo del caos. El juego promete un clímax emocional y explosivo, con la posibilidad de romper, por fin, el ciclo de odio y destrucción que ha definido a la familia Mishima durante generaciones.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P45",
+                  "text": "La presencia de 'Dark Awakened Jin' y 'Devil Kazuya' en el material promocional subraya la intensidad y el alcance de este conflicto, donde ambos personajes están en la cúspide de sus poderes demoníacos, reflejando la lucha interna y externa por el destino de la humanidad y el alma misma de la saga.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P46",
+                  "text": "Tekken 8 también busca expandir el universo con el regreso de personajes clásicos y la introducción de nuevos, prometiendo no solo la resolución de la saga Mishima, sino también la apertura de un nuevo capítulo en la intrincada narrativa de Tekken, que ha trascendido los meros torneos para convertirse en una épica a escala global.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P47",
+                  "text": "La saga Tekken se ha consolidado como una de las narrativas más profundas, oscuras y complejas en el género de los juegos de lucha. Va más allá de simples combates para contar una historia rica en venganza, destino, la lucha contra la propia naturaleza demoníaca y las complejidades de las relaciones familiares tóxicas.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P48",
+                  "text": "Con el 'fin' del feudo de los Mishima en Tekken 7 y la redefinición de la lucha entre Jin y Kazuya en Tekken 8, la serie busca cerrar arcos narrativos clave que han perdurado por décadas, al mismo tiempo que deja espacio para futuras expansiones y la introducción de nuevos personajes que heredarán el legado y continuarán la historia de este universo de lucha.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://tekken.fandom.com/wiki/Tekken_7",
+              "text": "Tekken 7 Wiki"
+            },
+            {
+              "href": "https://tekken.fandom.com/wiki/Tekken_8",
+              "text": "Tekken 8 Wiki"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "TEKKEN01_files/T7_Heihachi_Kazuya_Final.jpg",
+              "alt": "Enfrentamiento final de Heihachi y Kazuya en Tekken 7.",
+              "title": "Final Mishima (Tekken 7)."
+            },
+            {
+              "src": "TEKKEN01_files/T8_Jin_Kazuya_Artwork.jpg",
+              "alt": "Arte promocional de Jin y Kazuya en Tekken 8.",
+              "title": "Jin vs. Kazuya (Tekken 8)."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 5",
+      "archivo": "TEKKEN_Historia_Unidad_5_Tekken_7_y_8.html",
+      "ruta_completa": "T:/Bots/QUIZBOT_DATA_V5\\DATA\\CONTENTS\\TEKKEN\\Unidad 5\\TEKKEN_Historia_Unidad_5_Tekken_7_y_8.html"
+    }
+  ]
+}

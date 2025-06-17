@@ -1,0 +1,812 @@
+{
+  "module": "CONSOLAS_PORTATILES_CONTENTS",
+  "total_archivos": 8,
+  "total_parrafos": 80,
+  "contenidos": [
+    {
+      "title": "CONSOLAS_PORTATILES_Unidad_1_Los_Origenes_y_La_Era_Pionera",
+      "sections": [
+        {
+          "title": "Los Orígenes y la Era Pionera (1970s - 1980s)",
+          "subsections": [
+            {
+              "type": "Historia",
+              "paragraphs": [
+                {
+                  "id": "P1",
+                  "text": "Las consolas portátiles nacieron de la búsqueda de la jugabilidad en cualquier lugar, una idea que se remonta a los primeros dispositivos electrónicos de juego. La miniaturización de la tecnología fue clave para hacer esto posible.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P2",
+                  "text": "La **Microvision de Milton Bradley (1979)** es a menudo citada como la primera consola portátil con cartuchos intercambiables. Tenía una pantalla LCD rudimentaria y una selección limitada de juegos, pero sentó un precedente importante.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P3",
+                  "text": "La serie **Game & Watch de Nintendo (1980)**, creada por Gunpei Yokoi, popularizó el concepto de los juegos portátiles con pantallas LCD fijas. Cada unidad era un juego individual, y su éxito fue masivo, vendiendo millones de unidades en todo el mundo. Introdujeron el 'D-pad' o cruceta, que se convertiría en un estándar de la industria.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P4",
+                  "text": "Aunque la Game & Watch fue un éxito, su limitación a un solo juego por dispositivo impulsó la necesidad de un sistema más versátil. Esta limitación sería superada con el advenimiento de los cartuchos intercambiables de forma masiva.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P5",
+                  "text": "Estos primeros sistemas eran relativamente simples, con gráficos monocromáticos o de segmentos, y sonidos básicos. Sin embargo, su portabilidad y la novedad de poder jugar en movimiento los hicieron muy atractivos para el público.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P6",
+                  "text": "La durabilidad de la batería y el costo de producción fueron desafíos significativos en esta era. La eficiencia energética de las pantallas LCD ayudó a hacer viables estos dispositivos.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P7",
+                  "text": "La competencia en el mercado de juegos portátiles en esta fase fue limitada, con pocas empresas atreviéndose a innovar más allá de los juguetes electrónicos básicos.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P8",
+                  "text": "El éxito de Game & Watch no solo fue comercial, sino que también sirvió como campo de pruebas para Nintendo, permitiéndoles desarrollar la experiencia y la visión que aplicarían en su siguiente gran apuesta portátil.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P9",
+                  "text": "La tecnología de la época obligaba a compromisos en términos de potencia y fidelidad gráfica, pero la simplicidad a menudo conducía a una jugabilidad adictiva y duradera.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P10",
+                  "text": "Esta era sentó las bases para el boom de las consolas portátiles que se produciría en la década siguiente, demostrando que había un vasto mercado para el entretenimiento interactivo en movimiento.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://www.retrogamer.net/history/the-evolution-of-handheld-gaming/",
+              "text": "La evolución de los videojuegos portátiles (Retro Gamer)"
+            },
+            {
+              "href": "https://www.youtube.com/watch?v=F3aJ14M4Pio",
+              "text": "Historia de Game & Watch (video)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "CONSOLAS_PORTATILES_files/Microvision.jpg",
+              "alt": "Consola Milton Bradley Microvision.",
+              "title": "Milton Bradley Microvision (1979)."
+            },
+            {
+              "src": "CONSOLAS_PORTATILES_files/Game_Watch_Ball.jpg",
+              "alt": "Consola Nintendo Game & Watch (modelo Ball).",
+              "title": "Nintendo Game & Watch (1980)."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 1",
+      "archivo": "CONSOLAS_PORTATILES_Unidad_1_Los_Origenes_y_La_Era_Pionera.html",
+      "ruta_completa": "DATA/CONTENTS/CONSOLAS_PORTATILES/Unidad 1/CONSOLAS_PORTATILES_Unidad_1_Los_Origenes_y_La_Era_Pionera.html"
+    },
+    {
+      "title": "CONSOLAS_PORTATILES_Unidad_2_El_Fenomeno_Game_Boy_y_La_Competencia_16_bits",
+      "sections": [
+        {
+          "title": "El Fenómeno Game Boy y la Competencia de 16 bits (finales 1980s - 1990s)",
+          "subsections": [
+            {
+              "type": "Historia",
+              "paragraphs": [
+                {
+                  "id": "P11",
+                  "text": "La **Nintendo Game Boy (1989)**, también obra de Gunpei Yokoi, marcó un antes y un después en la historia de las consolas portátiles. Su bajo precio, robustez, increíble duración de batería y el lanzamiento con 'Tetris' la catapultaron a un éxito sin precedentes.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P12",
+                  "text": "A pesar de su pantalla monocromática de cuatro tonos de gris frente a la competencia a color, la Game Boy dominó el mercado. Su simplicidad, accesibilidad y una biblioteca de juegos masiva la hicieron la consola portátil por excelencia.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P13",
+                  "text": "La competencia en la era de los 16 bits intentó desafiar el dominio de Nintendo con hardware más potente y pantallas a color. La **Atari Lynx (1989)** fue una de las primeras en ofrecer gráficos a color y una pantalla retroiluminada, pero su alto precio y corta duración de batería la lastraron.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P14",
+                  "text": "La **Sega Game Gear (1990)**, la apuesta de Sega, ofrecía una pantalla a color de alta calidad y un catálogo de juegos atractivo, similar al de la Master System. Sin embargo, su enorme consumo de batería (requería 6 pilas AA para 3-4 horas de juego) y su tamaño la hicieron menos práctica que la Game Boy.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P15",
+                  "text": "Otras consolas como la **TurboExpress/PC Engine GT (1990)** de NEC ofrecían una pantalla a color y la capacidad de jugar cartuchos de la consola de sobremesa PC Engine, siendo una de las consolas portátiles más avanzadas de su tiempo, pero también muy cara y con poca batería.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P16",
+                  "text": "El éxito de la Game Boy demostró que la portabilidad, la duración de la batería y un precio asequible eran más importantes para el mercado masivo que los gráficos de última generación en el ámbito portátil.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P17",
+                  "text": "La evolución de la Game Boy incluyó la **Game Boy Pocket (1996)**, una versión más pequeña y ligera, y la **Game Boy Color (1998)**, que finalmente añadió color a la icónica pantalla, manteniendo la compatibilidad con el extenso catálogo de juegos originales.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P18",
+                  "text": "La **Sega Nomad (1995)** fue el intento de Sega de llevar la experiencia de la Mega Drive/Genesis a un formato portátil. Aunque técnicamente impresionante, su alto precio y su ridículo consumo de batería (6 pilas AA para 2 horas) la condenaron al fracaso comercial.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P19",
+                  "text": "A finales de los 90, la **Neo Geo Pocket Color (1999)** de SNK, a pesar de ser una consola técnica y estéticamente superior a la Game Boy Color en muchos aspectos, con un joystick muy preciso, no pudo competir con el enorme dominio de Nintendo y la inminente llegada de la Game Boy Advance.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P20",
+                  "text": "Esta fue una era de consolidación para Nintendo en el mercado portátil, donde la simplicidad y la eficiencia superaron a la potencia bruta de la competencia.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://www.ign.com/articles/2009/04/21/history-of-the-game-boy",
+              "text": "Historia de la Game Boy (IGN)"
+            },
+            {
+              "href": "https://www.youtube.com/watch?v=yYJ4S45zH1k",
+              "text": "La historia de Game Gear (video)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "CONSOLAS_PORTATILES_files/Game_Boy_Original.jpg",
+              "alt": "Consola Nintendo Game Boy original.",
+              "title": "Nintendo Game Boy (1989)."
+            },
+            {
+              "src": "CONSOLAS_PORTATILES_files/Sega_Game_Gear.jpg",
+              "alt": "Consola Sega Game Gear.",
+              "title": "Sega Game Gear (1990)."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 2",
+      "archivo": "CONSOLAS_PORTATILES_Unidad_2_El_Fenomeno_Game_Boy_y_La_Competencia_16_bits.html",
+      "ruta_completa": "DATA/CONTENTS/CONSOLAS_PORTATILES/Unidad 2/CONSOLAS_PORTATILES_Unidad_2_El_Fenomeno_Game_Boy_y_La_Competencia_16_bits.html"
+    },
+    {
+      "title": "CONSOLAS_PORTATILES_Unidad_3_La_Era_32_bits_y_La_Llegada_de_Sony",
+      "sections": [
+        {
+          "title": "La Era de los 32 bits y la Llegada de Sony (principios 2000s)",
+          "subsections": [
+            {
+              "type": "Historia",
+              "paragraphs": [
+                {
+                  "id": "P21",
+                  "text": "La **Game Boy Advance (GBA) (2001)** de Nintendo representó un salto significativo, ofreciendo gráficos de 32 bits que rivalizaban con la SNES, una pantalla a color más grande y apaisada. Fue un éxito instantáneo, manteniendo el dominio de Nintendo en el mercado portátil.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P22",
+                  "text": "La GBA tuvo varias revisiones: la **GBA SP (2003)** que añadió una pantalla retroiluminada y un diseño de concha, y la **Game Boy Micro (2005)**, una versión ultrapequeña, mostrando la constante innovación de Nintendo en el formato.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P23",
+                  "text": "En esta era, Sony hizo su entrada en el mercado portátil con la **PlayStation Portable (PSP) (2004)**. La PSP fue la primera consola portátil en desafiar seriamente a Nintendo, ofreciendo gráficos 3D impresionantes, capacidades multimedia avanzadas (reproducción de vídeo, música, navegación web) y conectividad Wi-Fi.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P24",
+                  "text": "La PSP utilizaba el formato UMD (Universal Media Disc) para sus juegos y películas, un formato propietario que intentó replicar el éxito del CD y DVD, pero que con el tiempo se vio limitado por las descargas digitales.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P25",
+                  "text": "Nintendo, en respuesta a la PSP, lanzó la **Nintendo DS (2004)**. A pesar de tener hardware menos potente que la PSP, la DS innovó con una doble pantalla (una táctil), micrófono, conectividad Wi-Fi y una interfaz de usuario creativa, lo que atrajo a una audiencia muy amplia, incluyendo jugadores casuales.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P26",
+                  "text": "La batalla entre la PSP y la DS se convirtió en una de las rivalidades más interesantes en la historia de los videojuegos, con Nintendo priorizando la innovación en la jugabilidad y la PSP el poder gráfico y las capacidades multimedia.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P27",
+                  "text": "Otros competidores, como la **Nokia N-Gage (2003)**, que intentó fusionar un teléfono móvil con una consola de juegos, y la **Tapwave Zodiac (2003)**, una PDA de gaming, tuvieron un éxito limitado, mostrando lo difícil que era competir con los gigantes establecidos.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P28",
+                  "text": "La DS superó en ventas a la PSP por un amplio margen, demostrando nuevamente que la innovación en la experiencia de juego y la accesibilidad podían superar la mera potencia gráfica en el segmento portátil. Sus revisiones, la DS Lite, DSi y DSi XL, mantuvieron su relevancia.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P29",
+                  "text": "La PSP, aunque no logró el mismo nivel de ventas que la DS, fue un éxito considerable, especialmente en Japón, y demostró que había un mercado para juegos más complejos y 'hardcore' en formato portátil.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P30",
+                  "text": "Esta era consolidó las consolas portátiles como un segmento maduro y lucrativo de la industria del videojuego, con una fuerte presencia de hardware potente y una diversidad de experiencias de juego.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://www.eurogamer.es/articles/2014-06-16-la-historia-de-psp",
+              "text": "La historia de PSP (Eurogamer)"
+            },
+            {
+              "href": "https://www.youtube.com/watch?v=Vl3rD4F_548",
+              "text": "La Nintendo DS - Una revolución silenciosa (video)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "CONSOLAS_PORTATILES_files/Game_Boy_Advance.jpg",
+              "alt": "Consola Nintendo Game Boy Advance.",
+              "title": "Nintendo Game Boy Advance (2001)."
+            },
+            {
+              "src": "CONSOLAS_PORTATILES_files/PSP_Original.jpg",
+              "alt": "Consola PlayStation Portable (PSP) original.",
+              "title": "PlayStation Portable (PSP) (2004)."
+            },
+            {
+              "src": "CONSOLAS_PORTATILES_files/Nintendo_DS.jpg",
+              "alt": "Consola Nintendo DS original.",
+              "title": "Nintendo DS (2004)."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 3",
+      "archivo": "CONSOLAS_PORTATILES_Unidad_3_La_Era_32_bits_y_La_Llegada_de_Sony.html",
+      "ruta_completa": "DATA/CONTENTS/CONSOLAS_PORTATILES/Unidad 3/CONSOLAS_PORTATILES_Unidad_3_La_Era_32_bits_y_La_Llegada_de_Sony.html"
+    },
+    {
+      "title": "CONSOLAS_PORTATILES_Unidad_4_El_Impacto_Movil_y_La_Realidad_3D",
+      "sections": [
+        {
+          "title": "El Impacto del Móvil y la Realidad 3D (finales 2000s - principios 2010s)",
+          "subsections": [
+            {
+              "type": "Historia",
+              "paragraphs": [
+                {
+                  "id": "P31",
+                  "text": "La proliferación de los smartphones con pantallas táctiles y tiendas de aplicaciones asequibles (App Store, Google Play) comenzó a tener un impacto significativo en el mercado de las consolas portátiles. Los juegos casuales y gratuitos o de bajo costo en móviles se convirtieron en un competidor formidable.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P32",
+                  "text": "Nintendo, buscando innovar y diferenciarse del auge móvil, lanzó la **Nintendo 3DS (2011)**, una consola capaz de mostrar gráficos en 3D estereoscópico sin necesidad de gafas. A pesar de un comienzo lento, encontró su ritmo con una fuerte alineación de juegos y varias revisiones (3DS XL, New 3DS, 2DS, New 2DS XL).",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P33",
+                  "text": "Sony continuó en el espacio portátil con la **PlayStation Vita (PS Vita) (2011)**, una sucesora más potente de la PSP con una pantalla OLED, dos joysticks analógicos y panel táctil trasero. Buscaba ofrecer una experiencia de consola de sobremesa en formato portátil, con gráficos de alta calidad.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P34",
+                  "text": "A pesar de su impresionante hardware, la PS Vita luchó por ganar tracción frente a la 3DS y, lo que es más importante, frente al creciente dominio de los juegos móviles. La falta de soporte de juegos third-party y el uso de tarjetas de memoria propietarias y costosas fueron factores importantes en su menor éxito.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P35",
+                  "text": "La batalla entre la 3DS y la PS Vita mostró la creciente dificultad de vender hardware dedicado de juegos en un mundo donde casi todo el mundo lleva un potente 'mini-ordenador' con juegos en su bolsillo.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P36",
+                  "text": "El modelo de negocio de los juegos móviles, a menudo basados en microtransacciones o publicidad, era muy diferente al de las consolas tradicionales, que dependían de la venta de software a precio completo.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P37",
+                  "text": "La 3DS, sin embargo, logró sobrevivir y prosperar gracias a la fuerza de las franquicias first-party de Nintendo (Pokémon, Mario, Zelda) y una base de usuarios fieles que valoraban la experiencia de juego dedicada.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P38",
+                  "text": "Esta generación vio a las consolas portátiles tradicionales adaptarse y encontrar su nicho frente a la competencia masiva de los smartphones, enfocándose en experiencias de juego más profundas y dedicadas.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P39",
+                  "text": "El concepto de realidad 3D sin gafas, aunque innovador, no fue el factor decisivo para el éxito de la 3DS, sino más bien su catálogo de juegos de alta calidad y la familiaridad con las franquicias de Nintendo.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P40",
+                  "text": "La lección de esta era fue que las consolas portátiles necesitaban ofrecer algo distintivo y valioso que los smartphones no pudieran replicar fácilmente para justificar su existencia.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://www.digitaltrends.com/gaming/history-of-the-nintendo-3ds/",
+              "text": "La historia de la Nintendo 3DS (Digital Trends)"
+            },
+            {
+              "href": "https://www.vg247.com/ps-vita-retrospective-was-it-really-that-bad",
+              "text": "Retrospectiva de PS Vita: ¿Fue tan mala? (VG247)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "CONSOLAS_PORTATILES_files/Nintendo_3DS.jpg",
+              "alt": "Consola Nintendo 3DS.",
+              "title": "Nintendo 3DS (2011)."
+            },
+            {
+              "src": "CONSOLAS_PORTATILES_files/PS_Vita.jpg",
+              "alt": "Consola PlayStation Vita.",
+              "title": "PlayStation Vita (2011)."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 4",
+      "archivo": "CONSOLAS_PORTATILES_Unidad_4_El_Impacto_Movil_y_La_Realidad_3D.html",
+      "ruta_completa": "DATA/CONTENTS/CONSOLAS_PORTATILES/Unidad 4/CONSOLAS_PORTATILES_Unidad_4_El_Impacto_Movil_y_La_Realidad_3D.html"
+    },
+    {
+      "title": "CONSOLAS_PORTATILES_Unidad_5_La_Era_Hibrida_Nintendo_Switch",
+      "sections": [
+        {
+          "title": "La Era Híbrida: Nintendo Switch y el Resurgimiento (finales 2010s)",
+          "subsections": [
+            {
+              "type": "Historia",
+              "paragraphs": [
+                {
+                  "id": "P41",
+                  "text": "La **Nintendo Switch (2017)** revolucionó el mercado al introducir un concepto 'híbrido' innovador, que difuminó la línea entre consolas de sobremesa y portátiles. Su capacidad de transformarse de un dispositivo de mano a una consola de TV en segundos la hizo increíblemente versátil.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P42",
+                  "text": "La Switch no solo fue un éxito comercial masivo, sino que también revitalizó la categoría de consolas portátiles dedicadas, demostrando que todavía había un gran apetito por experiencias de juego de alta calidad en movimiento, diferentes a las que ofrecían los móviles.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P43",
+                  "text": "Su diseño modular, con los Joy-Con desmontables, permitió nuevas formas de juego y modos multijugador instantáneos, aumentando su atractivo para diferentes públicos y situaciones.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P44",
+                  "text": "La potente alineación de juegos first-party de Nintendo, incluyendo títulos aclamados como 'The Legend of Zelda: Breath of the Wild' y 'Super Mario Odyssey', fue fundamental para el éxito de la Switch.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P45",
+                  "text": "Nintendo también lanzó revisiones de la Switch, como la **Switch Lite (2019)**, una versión solo portátil más pequeña y económica, y la **Switch OLED (2021)**, con una pantalla mejorada, consolidando el ecosistema de la consola.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P46",
+                  "text": "El modelo de negocio de la Switch se centró en la experiencia de juego premium, con juegos a precio completo y un servicio de suscripción online (Nintendo Switch Online) que ofrecía acceso a juegos clásicos y funciones multijugador.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P47",
+                  "text": "La Switch demostró que la innovación en el formato y la calidad del software podían permitir que una consola dedicada prosperara incluso en un mercado dominado por los smartphones.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P48",
+                  "text": "Aunque no tan potente como las consolas de sobremesa de la misma generación, la capacidad de la Switch para ofrecer experiencias AAA en formato portátil fue su principal diferenciador y punto de venta.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P49",
+                  "text": "El éxito de la Switch inspiró a otros fabricantes a considerar el potencial del gaming portátil de alta gama, marcando el comienzo de una nueva era para el sector.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P50",
+                  "text": "Esta unidad cierra la era donde las consolas portátiles pasaron de ser dispositivos secundarios a ser un centro de innovación y una opción principal para muchos jugadores.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://www.cnet.com/tech/gaming/nintendo-switch-history-success/",
+              "text": "La historia de éxito de Nintendo Switch (CNET)"
+            },
+            {
+              "href": "https://www.youtube.com/watch?v=f2GfH4bJp5U",
+              "text": "Cómo se hizo la Nintendo Switch (video)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "CONSOLAS_PORTATILES_files/Nintendo_Switch_Hybrid.jpg",
+              "alt": "Consola Nintendo Switch mostrando su capacidad híbrida (portátil y conectada al TV).",
+              "title": "Nintendo Switch (2017) - Híbrido."
+            },
+            {
+              "src": "CONSOLAS_PORTATILES_files/Nintendo_Switch_Lite.jpg",
+              "alt": "Consola Nintendo Switch Lite.",
+              "title": "Nintendo Switch Lite (2019)."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 5",
+      "archivo": "CONSOLAS_PORTATILES_Unidad_5_La_Era_Hibrida_Nintendo_Switch.html",
+      "ruta_completa": "DATA/CONTENTS/CONSOLAS_PORTATILES/Unidad 5/CONSOLAS_PORTATILES_Unidad_5_La_Era_Hibrida_Nintendo_Switch.html"
+    },
+    {
+      "title": "CONSOLAS_PORTATILES_Unidad_6_El_Resurgimiento_del_PC_Portatil",
+      "sections": [
+        {
+          "title": "El Resurgimiento del PC Portátil de Gaming (principios 2020s)",
+          "subsections": [
+            {
+              "type": "Historia",
+              "paragraphs": [
+                {
+                  "id": "P51",
+                  "text": "El éxito de la Nintendo Switch y los avances en la eficiencia de los procesadores móviles de AMD e Intel abrieron la puerta a una nueva categoría de consolas portátiles: los PC portátiles de gaming, capaces de ejecutar juegos de PC completos.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P52",
+                  "text": "La **Steam Deck (2022)** de Valve fue la pionera y la más influyente en esta categoría. Diseñada para jugar la biblioteca de Steam de forma portátil, ofrece un hardware potente, controles integrados y un sistema operativo basado en Linux optimizado para juegos.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P53",
+                  "text": "La Steam Deck permitió a los jugadores llevar sus bibliotecas de juegos de PC consigo, difuminando aún más las líneas entre el gaming de sobremesa y el portátil. Su precio competitivo y el soporte de Valve la hicieron muy popular.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P54",
+                  "text": "Otros fabricantes siguieron el ejemplo de Valve, lanzando sus propias consolas PC portátiles. La **ASUS ROG Ally (2023)** es un ejemplo, ofreciendo Windows 11 de forma nativa, una pantalla de mayor tasa de refresco y un diseño más compacto.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P55",
+                  "text": "La **Lenovo Legion Go (2023)** llevó el concepto aún más lejos, con una pantalla más grande, Joy-Cons desmontables al estilo Switch, y una batería de mayor capacidad, compitiendo directamente en el segmento premium de estos dispositivos.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P56",
+                  "text": "Estas consolas PC portátiles se benefician de la vastísima biblioteca de juegos de PC, que incluye títulos AAA modernos, indies y una gran cantidad de juegos antiguos, algo que las consolas dedicadas a menudo no pueden igualar.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P57",
+                  "text": "Los desafíos de esta nueva categoría incluyen la gestión de la batería (los juegos de PC son más exigentes), el calentamiento, la optimización de los juegos para pantallas pequeñas y controles integrados, y la complejidad de Windows en un factor de forma de mano.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P58",
+                  "text": "La capacidad de ejecutar un sistema operativo de escritorio completo también permite a estos dispositivos ser más que solo consolas de juegos, ofreciendo una versatilidad que otros dispositivos portátiles no tienen.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P59",
+                  "text": "El futuro de las consolas portátiles parece estar en la diversificación, con Nintendo manteniendo su enfoque en la experiencia única y el gaming optimizado, mientras que el espacio del PC portátil continúa empujando los límites del hardware y la flexibilidad.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P60",
+                  "text": "Esta unidad muestra cómo el mercado portátil se ha expandido para incluir no solo consolas dedicadas, sino también potentes PC de mano, ofreciendo a los jugadores más opciones que nunca.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://www.ign.com/articles/steam-deck-review",
+              "text": "Análisis de Steam Deck (IGN)"
+            },
+            {
+              "href": "https://www.youtube.com/watch?v=sI909t7fP04",
+              "text": "Análisis de ASUS ROG Ally (video)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "CONSOLAS_PORTATILES_files/Steam_Deck.jpg",
+              "alt": "Consola Steam Deck de Valve.",
+              "title": "Steam Deck (2022)."
+            },
+            {
+              "src": "CONSOLAS_PORTATILES_files/ASUS_ROG_Ally.jpg",
+              "alt": "Consola ASUS ROG Ally.",
+              "title": "ASUS ROG Ally (2023)."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 6",
+      "archivo": "CONSOLAS_PORTATILES_Unidad_6_El_Resurgimiento_del_PC_Portatil.html",
+      "ruta_completa": "DATA/CONTENTS/CONSOLAS_PORTATILES/Unidad 6/CONSOLAS_PORTATILES_Unidad_6_El_Resurgimiento_del_PC_Portatil.html"
+    },
+    {
+      "title": "CONSOLAS_PORTATILES_Unidad_7_Impacto_Cultural_y_Legado",
+      "sections": [
+        {
+          "title": "Impacto Cultural y Legado",
+          "subsections": [
+            {
+              "type": "Análisis",
+              "paragraphs": [
+                {
+                  "id": "P61",
+                  "text": "Las consolas portátiles han tenido un impacto inmenso en la cultura popular y en la industria del videojuego. Han democratizado el acceso al gaming, permitiendo a millones de personas disfrutar de los videojuegos en cualquier momento y lugar.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P62",
+                  "text": "El fenómeno **Pokémon** no se entendería sin la Game Boy. Sus juegos portátiles crearon una legión de fans, impulsaron las ventas de hardware y se convirtieron en una de las franquicias de medios más grandes del mundo.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P63",
+                  "text": "Juegos como 'Tetris' en Game Boy, 'Nintendogs' y 'Brain Training' en Nintendo DS, o 'Animal Crossing: New Horizons' en Nintendo Switch, se convirtieron en fenómenos culturales que trascendieron la comunidad de jugadores tradicionales.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P64",
+                  "text": "Las consolas portátiles han sido un laboratorio de innovación para la jugabilidad y la interfaz de usuario, desde la cruceta de Game & Watch hasta las dos pantallas y la táctil de la DS, o el giroscopio y los Joy-Con de la Switch.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P65",
+                  "text": "Han fomentado el juego social y multijugador local, permitiendo a amigos conectarse y jugar juntos sin necesidad de una televisión o una conexión a internet compleja, a través de 'link cables' o comunicaciones inalámbricas locales.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P66",
+                  "text": "El concepto de 'jugar en movimiento' se ha arraigado profundamente en la sociedad, y las consolas portátiles fueron pioneras en esta idea mucho antes de la era de los smartphones.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P67",
+                  "text": "El mercado de segunda mano y el coleccionismo de consolas portátiles y sus juegos han florecido, con muchos dispositivos y títulos clásicos alcanzando valores significativos para los aficionados y coleccionistas.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P68",
+                  "text": "El legado de las consolas portátiles es evidente en el diseño y las características de los smartphones modernos, muchos de los cuales incorporan elementos de control y jugabilidad que se originaron en estos dispositivos dedicados.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P69",
+                  "text": "La resiliencia de este segmento del mercado, que ha sobrevivido y evolucionado a pesar de la competencia de los móviles, demuestra que todavía hay un lugar para el hardware de juego dedicado que ofrece experiencias únicas.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P70",
+                  "text": "En resumen, las consolas portátiles no son solo aparatos electrónicos; son artefactos culturales que han moldeado la forma en que jugamos y nos relacionamos con el entretenimiento digital.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://www.wired.com/story/the-history-of-portable-gaming/",
+              "text": "La historia del gaming portátil (Wired)"
+            },
+            {
+              "href": "https://www.youtube.com/watch?v=F3aJ14M4Pio",
+              "text": "Documental sobre el impacto de la Game Boy (video)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "CONSOLAS_PORTATILES_files/Pokemon_Game_Boy.jpg",
+              "alt": "Captura de pantalla de un juego de Pokémon en Game Boy.",
+              "title": "El impacto de Pokémon."
+            },
+            {
+              "src": "CONSOLAS_PORTATILES_files/Multijugador_Portatil.jpg",
+              "alt": "Grupo de personas jugando juntas con sus consolas portátiles conectadas.",
+              "title": "Juego Multijugador Portátil."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 7",
+      "archivo": "CONSOLAS_PORTATILES_Unidad_7_Impacto_Cultural_y_Legado.html",
+      "ruta_completa": "DATA/CONTENTS/CONSOLAS_PORTATILES/Unidad 7/CONSOLAS_PORTATILES_Unidad_7_Impacto_Cultural_y_Legado.html"
+    },
+    {
+      "title": "CONSOLAS_PORTATILES_Unidad_8_El_Futuro_del_Gaming_Portatil",
+      "sections": [
+        {
+          "title": "El Futuro del Gaming Portátil",
+          "subsections": [
+            {
+              "type": "Tendencias",
+              "paragraphs": [
+                {
+                  "id": "P71",
+                  "text": "El futuro del gaming portátil se vislumbra vibrante y diverso, con varias tendencias tecnológicas y de mercado que moldearán la próxima generación de dispositivos.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P72",
+                  "text": "El **Cloud Gaming (Juego en la Nube)** es una de las tendencias más prometedoras. Servicios como Xbox Cloud Gaming, GeForce Now y PlayStation Plus Premium permiten a los usuarios transmitir juegos de alta calidad a dispositivos portátiles con una conexión a internet estable, reduciendo la necesidad de hardware potente y local.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P73",
+                  "text": "La mejora continua en la **eficiencia energética y la potencia de los procesadores móviles** permitirá a las futuras consolas portátiles y PC de mano ofrecer gráficos aún más impresionantes y duraciones de batería más prolongadas.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P74",
+                  "text": "La **convergencia** entre consolas portátiles y dispositivos móviles es cada vez mayor. Aunque las consolas dedicadas seguirán existiendo, veremos más dispositivos móviles con capacidades de juego avanzadas y accesorios que los transforman en consolas.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P75",
+                  "text": "La **realidad aumentada (RA)** podría tener un papel creciente en el gaming portátil, integrando elementos virtuales en el mundo real a través de las cámaras de los dispositivos.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P76",
+                  "text": "Los **ecosistemas y servicios de suscripción** serán cada vez más importantes. Plataformas como Xbox Game Pass, PlayStation Plus y Nintendo Switch Online continuarán expandiendo sus bibliotecas de juegos, ofreciendo un valor añadido a los usuarios.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P77",
+                  "text": "La **innovación en el diseño y los controles** persistirá. Desde pantallas plegables hasta nuevos tipos de mandos modulares, los fabricantes seguirán buscando formas de mejorar la ergonomía y la experiencia de juego en movimiento.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P78",
+                  "text": "El **PC portátil de gaming** es una categoría en crecimiento que probablemente verá más actores y una competencia feroz, empujando los límites de lo que es posible en un factor de forma de mano.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P79",
+                  "text": "La diversidad de la audiencia de juegos portátiles (desde jugadores casuales hasta entusiastas hardcore) impulsará la creación de una gama más amplia de dispositivos, desde opciones asequibles hasta máquinas de alto rendimiento.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P80",
+                  "text": "En definitiva, el futuro del gaming portátil es emocionante y promete ofrecer experiencias de juego aún más inmersivas, flexibles y accesibles para todos.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://www.gamesindustry.biz/the-future-of-handheld-gaming",
+              "text": "El futuro del gaming portátil (GamesIndustry.biz)"
+            },
+            {
+              "href": "https://www.youtube.com/watch?v=F3aJ14M4Pio",
+              "text": "El auge del Cloud Gaming (video)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "CONSOLAS_PORTATILES_files/Cloud_Gaming.jpg",
+              "alt": "Persona jugando a un juego en la nube en una tableta con un mando conectado.",
+              "title": "Cloud Gaming en dispositivos portátiles."
+            },
+            {
+              "src": "CONSOLAS_PORTATILES_files/Futuro_Portatiles.jpg",
+              "alt": "Concepto de una futura consola portátil con diseño futurista.",
+              "title": "El futuro de las Consolas Portátiles."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 8",
+      "archivo": "CONSOLAS_PORTATILES_Unidad_8_El_Futuro_del_Gaming_Portatil.html",
+      "ruta_completa": "DATA/CONTENTS/CONSOLAS_PORTATILES/Unidad 8/CONSOLAS_PORTATILES_Unidad_8_El_Futuro_del_Gaming_Portatil.html"
+    }
+  ]
+}

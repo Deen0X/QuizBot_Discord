@@ -1,0 +1,615 @@
+{
+  "module": "POKEMON_CONTENTS",
+  "total_archivos": 6,
+  "total_parrafos": 60,
+  "contenidos": [
+    {
+      "title": "POKEMON_Historia_Unidad_1_Generacion_I_Kanto",
+      "sections": [
+        {
+          "title": "El Inicio de la Aventura: Generación I (Kanto)",
+          "subsections": [
+            {
+              "type": "Historia",
+              "paragraphs": [
+                {
+                  "id": "P1",
+                  "text": "La saga Pokémon se inició en 1996 con el lanzamiento de Pokémon Rojo y Verde (luego Azul en occidente) para la consola Game Boy. Ambientados en la región de Kanto, estos juegos introdujeron al mundo el concepto de criaturas llamadas Pokémon que coexisten con los humanos. El objetivo principal era convertirse en el Campeón de la Liga Pokémon, derrotando a ocho Líderes de Gimnasio y luego a los 'Alto Cuatro'.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P2",
+                  "text": "Los tres Pokémon iniciales ofrecidos a los jóvenes entrenadores por el Profesor Oak eran Bulbasaur, Charmander y Squirtle, cada uno representando los tipos Planta, Fuego y Agua respectivamente. Estos Pokémon no solo definían las primeras etapas del viaje, sino que también establecieron un 'triángulo' elemental fundamental para las batallas.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P3",
+                  "text": "El protagonista, un joven de Pueblo Paleta, se embarcaba en su aventura junto a su rival, Gary Oak (o Azul), el nieto del Profesor Oak. Esta rivalidad se convertiría en un elemento central de la trama, impulsando al jugador a mejorar y a desafiar constantemente al rival en su camino hacia la cima.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P4",
+                  "text": "Además de la Liga Pokémon, el juego introdujo la meta secundaria de 'atraparlos a todos', completando la Pokédex con los 150 Pokémon originales. El Pokémon número 151, Mew, era un Pokémon mítico que solo podía obtenerse a través de eventos especiales o glitches, añadiendo un aura de misterio y exclusividad.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P5",
+                  "text": "La organización criminal de esta generación fue el Team Rocket, liderado por el misterioso Giovanni. Este equipo se dedicaba a robar Pokémon, utilizarlos para sus propios fines malvados y explotar la naturaleza para sus ganancias, sirviendo como los principales antagonistas a lo largo del juego.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P6",
+                  "text": "El Team Rocket operaba desde varios puntos clave en Kanto, incluyendo Ciudad Celeste, la Torre Pokémon de Pueblo Lavanda y el Casino de Ciudad Azulona, antes de establecer su base principal en el edificio de la Silph S.A. en Ciudad Azafrán. Sus planes incluían el control de empresas legítimas para financiar sus operaciones ilícitas.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P7",
+                  "text": "El enfrentamiento final contra Giovanni se producía en el Gimnasio de Ciudad Viridian, revelando que el líder del Team Rocket era, de hecho, el último Líder de Gimnasio que el jugador debía derrotar para acceder a la Liga Pokémon. Tras su derrota, Giovanni disolvía el Team Rocket, prometiendo una nueva dirección para su vida.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P8",
+                  "text": "El éxito masivo de Pokémon Rojo y Verde sentó las bases para una franquicia global que abarcó anime, películas, cartas y una vasta línea de merchandising. El anime, centrado en Ash Ketchum, Pikachu y sus amigos, se convirtió en un fenómeno cultural que introdujo Pokémon a una audiencia aún más amplia.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P9",
+                  "text": "Pokémon Amarillo, lanzado en 1998 (1999 en occidente), fue una versión especial que seguía más de cerca la trama del anime. Presentaba a Pikachu como el Pokémon inicial fijo que seguía al jugador, y permitía obtener los tres iniciales de Kanto a lo largo del juego. También añadió pequeños ajustes gráficos y de jugabilidad.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P10",
+                  "text": "La Generación I, con Kanto, estableció los pilares fundamentales de la jugabilidad de Pokémon: explorar un mundo, capturar y entrenar criaturas, desafiar a los Líderes de Gimnasio, frustrar los planes de un equipo malvado y convertirse en el Campeón. Su impacto cultural es innegable y sentó un precedente para todas las futuras entregas.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://pokemon.fandom.com/es/wiki/Kanto",
+              "text": "Región de Kanto"
+            },
+            {
+              "href": "https://pokemon.fandom.com/es/wiki/Generaci%C3%B3n_I",
+              "text": "Generación I (Fandom)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "POKEMON_files/Kanto_Map.png",
+              "alt": "Mapa de la región de Kanto.",
+              "title": "Mapa de Kanto (Gen I)."
+            },
+            {
+              "src": "POKEMON_files/Starters_Kanto.png",
+              "alt": "Bulbasaur, Charmander y Squirtle.",
+              "title": "Iniciales de Kanto."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 1",
+      "archivo": "POKEMON_Historia_Unidad_1_Generacion_I_Kanto.html",
+      "ruta_completa": "T:/Bots/QUIZBOT_DATA_V5\\DATA\\CONTENTS\\POKEMON\\Unidad 1\\POKEMON_Historia_Unidad_1_Generacion_I_Kanto.html"
+    },
+    {
+      "title": "POKEMON_Historia_Unidad_2_Generacion_II_Johto",
+      "sections": [
+        {
+          "title": "La Segunda Generación: Johto y los Viajes en el Tiempo.",
+          "subsections": [
+            {
+              "type": "Historia",
+              "paragraphs": [
+                {
+                  "id": "P11",
+                  "text": "Pokémon Oro y Plata (seguido de Cristal) se lanzaron en 1999 (2000-2001 en occidente) para Game Boy Color, introduciendo la región de Johto y 100 nuevos Pokémon, elevando el total a 251. Esta generación es recordada por sus importantes innovaciones en la jugabilidad, incluyendo el ciclo día/noche y la cría de Pokémon.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P12",
+                  "text": "Los iniciales de Johto eran Chikorita (Planta), Cyndaquil (Fuego) y Totodile (Agua). Estos Pokémon rápidamente se ganaron el corazón de los fans y fueron la puerta de entrada a las nuevas aventuras de la región, que se sentía más grande y vibrante gracias a las adiciones de jugabilidad.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P13",
+                  "text": "Una de las características más aclamadas fue la inclusión de la región de Kanto de la Generación I como contenido post-juego, permitiendo a los jugadores regresar y desafiar a los 8 Líderes de Gimnasio originales, además de enfrentarse al mismísimo Red (Ash en el manga) en la Cima Plateada, un guiño nostálgico y un desafío formidable.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P14",
+                  "text": "La trama de Johto giraba en torno a la resurrección del Team Rocket, ahora operando en la clandestinidad y buscando el regreso de su líder, Giovanni. Sus actividades se centraban en la Torre Radio de Ciudad Trigal y el Lago de la Furia, intentando explotar a los Pokémon para sus fines malvados.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P15",
+                  "text": "Los Pokémon legendarios de esta generación fueron el trío de las Bestias Legendarias (Raikou, Entei y Suicune), que vagaban por Johto, y los imponentes Lugia y Ho-Oh, asociados a las torres y la historia mitológica de la región. Suicune, en particular, tuvo un papel más prominente en Pokémon Cristal.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P16",
+                  "text": "Pokémon Cristal (2000-2001) mejoró la experiencia de Oro y Plata añadiendo, por primera vez, la opción de elegir el género del protagonista. También incluyó animaciones de sprites para los Pokémon en combate y una subtrama más profunda centrada en Suicune.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P17",
+                  "text": "La Generación II es a menudo elogiada por la profundidad de su contenido y su conexión con la región original, ofreciendo una de las experiencias más completas de la saga. La capacidad de explorar dos regiones en un solo juego fue una hazaña técnica y de diseño impresionante para la época.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P18",
+                  "text": "La introducción del tipo Acero y Siniestro equilibró el meta-juego, ofreciendo nuevas estrategias y resistencias. Las bayas, los objetos equipables y la compatibilidad con los juegos de la Generación I a través del Cable Link fomentaron aún más la interacción entre los jugadores.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P19",
+                  "text": "El sistema de amistad con los Pokémon fue otra adición clave, influyendo en la evolución de ciertos Pokémon y en la efectividad de algunos ataques. Esto añadió una capa más emocional a la relación entre el entrenador y sus compañeros Pokémon.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P20",
+                  "text": "La Generación II solidificó muchas de las mecánicas que se convertirían en estándares de la franquicia, demostrando la capacidad de Game Freak para innovar y expandir el universo Pokémon sin perder la esencia que lo hizo tan popular en primer lugar.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://pokemon.fandom.com/es/wiki/Johto",
+              "text": "Región de Johto"
+            },
+            {
+              "href": "https://pokemon.fandom.com/es/wiki/Generaci%C3%B3n_II",
+              "text": "Generación II (Fandom)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "POKEMON_files/Johto_Map.png",
+              "alt": "Mapa de la región de Johto.",
+              "title": "Mapa de Johto (Gen II)."
+            },
+            {
+              "src": "POKEMON_files/Red_Vs_Gold.png",
+              "alt": "Red y Gold en la cima plateada.",
+              "title": "Red vs. Gold (Cima Plateada)."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 2",
+      "archivo": "POKEMON_Historia_Unidad_2_Generacion_II_Johto.html",
+      "ruta_completa": "T:/Bots/QUIZBOT_DATA_V5\\DATA\\CONTENTS\\POKEMON\\Unidad 2\\POKEMON_Historia_Unidad_2_Generacion_II_Johto.html"
+    },
+    {
+      "title": "POKEMON_Historia_Unidad_3_Generacion_III_Hoenn",
+      "sections": [
+        {
+          "title": "Un Nuevo Mundo: Generación III (Hoenn)",
+          "subsections": [
+            {
+              "type": "Historia",
+              "paragraphs": [
+                {
+                  "id": "P21",
+                  "text": "Pokémon Rubí y Zafiro (seguido de Esmeralda) marcaron el salto a la Game Boy Advance en 2002 (2003 en occidente), introduciendo la región de Hoenn y 135 nuevos Pokémon, elevando el total a 386. Esta generación se centró en los combates dobles y la naturaleza, con una gran cantidad de agua y rutas complejas.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P22",
+                  "text": "Los Pokémon iniciales de Hoenn eran Treecko (Planta), Torchic (Fuego) y Mudkip (Agua). Estos tres se convirtieron rápidamente en favoritos de los fans, y sus evoluciones finales, Sceptile, Blaziken y Swampert, se destacaron por su diseño y poder en combate.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P23",
+                  "text": "La trama de Rubí y Zafiro giraba en torno a dos organizaciones rivales: el Equipo Magma, que buscaba expandir la tierra con Groudon, y el Equipo Aqua, que intentaba expandir los océanos con Kyogre. El protagonista se veía atrapado en medio de su conflicto, buscando detener el desequilibrio natural.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P24",
+                  "text": "En Pokémon Esmeralda (2004-2005), el Pokémon legendario Rayquaza jugaba un papel central, interviniendo para detener el conflicto entre Groudon y Kyogre, asumiendo el rol de un guardián del equilibrio ambiental en la región de Hoenn.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P25",
+                  "text": "Los concursos Pokémon fueron una nueva característica destacada, permitiendo a los jugadores exhibir la belleza y los talentos de sus Pokémon en lugar de solo su fuerza en combate. Esta adición ofreció una alternativa al camino de la Liga Pokémon.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P26",
+                  "text": "La base secreta, personalizable por el jugador, se convirtió en un lugar de descanso y una forma de socializar con otros entrenadores. Se podían decorar con objetos y desafiar a amigos, fomentando un sentido de comunidad y creatividad.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P27",
+                  "text": "La Generación III también introdujo las habilidades únicas de los Pokémon, que daban a cada especie un efecto pasivo en combate, y las naturalezas, que influían en el crecimiento de las estadísticas. Esto añadió una capa de complejidad estratégica al entrenamiento de los Pokémon.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P28",
+                  "text": "A pesar de no tener una conexión directa con Kanto/Johto en el post-juego (debido a limitaciones técnicas), Hoenn ofreció una experiencia fresca y auto-contenida que muchos fans apreciaron. Los gráficos mejorados y el sonido de la Game Boy Advance dieron nueva vida al mundo Pokémon.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P29",
+                  "text": "Los Remakes, Pokémon Rubí Omega y Zafiro Alfa, lanzados para Nintendo 3DS en 2014, trajeron la región de Hoenn a la era moderna con gráficos 3D, Megaevoluciones y una historia expandida, reavivando la nostalgia por esta generación.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P30",
+                  "text": "La Generación III es crucial por su enfoque en la jugabilidad competitiva y la introducción de mecánicas que influirían en el diseño de futuros juegos, marcando una evolución significativa para la franquicia más allá de las bases sentadas por Kanto y Johto.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://pokemon.fandom.com/es/wiki/Hoenn",
+              "text": "Región de Hoenn"
+            },
+            {
+              "href": "https://pokemon.fandom.com/es/wiki/Generaci%C3%B3n_III",
+              "text": "Generación III (Fandom)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "POKEMON_files/Hoenn_Map.png",
+              "alt": "Mapa de la región de Hoenn.",
+              "title": "Mapa de Hoenn (Gen III)."
+            },
+            {
+              "src": "POKEMON_files/Groudon_Kyogre_Rayquaza.png",
+              "alt": "Groudon, Kyogre y Rayquaza.",
+              "title": "Trío del clima (Hoenn)."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 3",
+      "archivo": "POKEMON_Historia_Unidad_3_Generacion_III_Hoenn.html",
+      "ruta_completa": "T:/Bots/QUIZBOT_DATA_V5\\DATA\\CONTENTS\\POKEMON\\Unidad 3\\POKEMON_Historia_Unidad_3_Generacion_III_Hoenn.html"
+    },
+    {
+      "title": "POKEMON_Historia_Unidad_4_Generacion_IV_Sinnoh",
+      "sections": [
+        {
+          "title": "La Gran Aventura: Generación IV (Sinnoh)",
+          "subsections": [
+            {
+              "type": "Historia",
+              "paragraphs": [
+                {
+                  "id": "P31",
+                  "text": "Pokémon Diamante y Perla (seguido de Platino) llegaron a Nintendo DS en 2006 (2007-2009 en occidente), marcando la cuarta generación con la región de Sinnoh y 107 nuevos Pokémon, elevando el total a 493. Esta generación se destacó por sus impresionantes paisajes montañosos y un enfoque en la mitología y la creación del universo Pokémon.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P32",
+                  "text": "Los Pokémon iniciales de Sinnoh eran Turtwig (Planta), Chimchar (Fuego) y Piplup (Agua). Sus diseños y evoluciones finales, Torterra, Infernape y Empoleon, se hicieron muy populares, con Torterra siendo el primer inicial en tener el tipo Planta/Tierra.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P33",
+                  "text": "La trama de Sinnoh se centró en el Equipo Galaxia, una organización que buscaba recrear el universo a su propia imagen, liderada por el enigmático y nihilista Cyrus. Sus planes involucraban a los Pokémon legendarios Dialga (tiempo) y Palkia (espacio), y posteriormente a Giratina (antimateria) en Pokémon Platino.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P34",
+                  "text": "La exploración subterránea, conocida como la Gran Underground, fue una de las adiciones más innovadoras, permitiendo a los jugadores excavar en busca de tesoros, fósiles y crear sus propias bases secretas para interaccionar con otros jugadores de forma local.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P35",
+                  "text": "La conectividad con la Nintendo DS permitió nuevas funciones online, como el Intercambio Global (GTS) y los combates Wi-Fi. Esto revolucionó la forma en que los jugadores podían interactuar y competir globalmente, expandiendo la comunidad Pokémon más allá de las conexiones locales.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P36",
+                  "text": "Pokémon Platino (2008-2009) expandió significativamente la región de Sinnoh, introduciendo el Mundo Distorsión, un reino alternativo gobernado por Giratina, y mejorando la historia con un enfoque más profundo en la mitología de los Pokémon legendarios y el equilibrio entre dimensiones.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P37",
+                  "text": "La Generación IV también trajo consigo la división entre ataques físicos y especiales, basándose en la categoría del movimiento en lugar del tipo. Esto transformó la estrategia de combate, permitiendo una mayor diversidad en los sets de movimientos y roles de los Pokémon.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P38",
+                  "text": "Los Remakes, Pokémon Diamante Brillante y Perla Reluciente, lanzados para Nintendo Switch en 2021, recrearon los juegos originales con un estilo artístico chibi, mientras que Leyendas Pokémon: Arceus (2022) ofreció una experiencia de mundo abierto en un Sinnoh feudal, reinventando la jugabilidad de la saga.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P39",
+                  "text": "La historia de Leyendas Pokémon: Arceus se centra en la investigación de los orígenes de los Pokémon y la creación de la primera Pokédex en la región de Hisui (antiguo Sinnoh), con el mítico Pokémon Arceus como figura central de la trama, revelando detalles sobre el lore profundo de Pokémon.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P40",
+                  "text": "Sinnoh es muy apreciada por su rica historia, sus desafiantes batallas y la profundidad de su post-juego. Marcó un punto de inflexión en la conectividad online y en la exploración del trasfondo mitológico del universo Pokémon, influyendo en futuras entregas.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://pokemon.fandom.com/es/wiki/Sinnoh",
+              "text": "Región de Sinnoh"
+            },
+            {
+              "href": "https://pokemon.fandom.com/es/wiki/Generaci%C3%B3n_IV",
+              "text": "Generación IV (Fandom)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "POKEMON_files/Sinnoh_Map.png",
+              "alt": "Mapa de la región de Sinnoh.",
+              "title": "Mapa de Sinnoh (Gen IV)."
+            },
+            {
+              "src": "POKEMON_files/Dialga_Palkia_Giratina.png",
+              "alt": "Dialga, Palkia y Giratina.",
+              "title": "Trío de la creación (Sinnoh)."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 4",
+      "archivo": "POKEMON_Historia_Unidad_4_Generacion_IV_Sinnoh.html",
+      "ruta_completa": "T:/Bots/QUIZBOT_DATA_V5\\DATA\\CONTENTS\\POKEMON\\Unidad 4\\POKEMON_Historia_Unidad_4_Generacion_IV_Sinnoh.html"
+    },
+    {
+      "title": "POKEMON_Historia_Unidad_5_Generacion_V_Unova",
+      "sections": [
+        {
+          "title": "Una Nueva Perspectiva: Generación V (Teselia/Unova)",
+          "subsections": [
+            {
+              "type": "Historia",
+              "paragraphs": [
+                {
+                  "id": "P41",
+                  "text": "Pokémon Blanco y Negro (seguido de Blanco 2 y Negro 2) llegaron a Nintendo DS en 2010 (2011 en occidente), introduciendo la región de Teselia (Unova en inglés) y 156 nuevos Pokémon, elevando el total a 649. Esta generación se destacó por un reinicio en el enfoque de Pokémon, presentando solo Pokémon nuevos hasta el post-juego.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P42",
+                  "text": "Los Pokémon iniciales de Teselia eran Snivy (Planta), Tepig (Fuego) y Oshawott (Agua). Sus diseños, aunque inicialmente divisivos para algunos fans, se integraron bien en la temática más madura y filosófica de la narrativa de esta generación.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P43",
+                  "text": "La trama se centró en el Equipo Plasma, una organización que buscaba 'liberar' a todos los Pokémon de sus entrenadores, argumentando que estaban siendo explotados. Su líder, N, era una figura carismática con una profunda conexión con los Pokémon legendarios Reshiram (Verdad) y Zekrom (Ideales).",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P44",
+                  "text": "El juego exploró temas más profundos como la ética de la relación entre humanos y Pokémon, el medio ambiente y la búsqueda de la verdad. N era un personaje complejo que cuestionaba las bases de la sociedad Pokémon, lo que lo hacía un antagonista inusual y fascinante.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P45",
+                  "text": "Pokémon Blanco 2 y Negro 2 (2012) fueron las primeras secuelas directas en la saga principal, continuando la historia dos años después de los eventos originales. Introdujeron nuevos líderes de gimnasio, una Pokédex expandida y una trama que involucraba a Kyurem y las formas de Fusión con Reshiram y Zekrom.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P46",
+                  "text": "El sistema de temporadas (primavera, verano, otoño, invierno) afectaba la aparición de ciertos Pokémon, la accesibilidad de rutas y los gráficos del juego, añadiendo un realismo dinámico a la exploración de Teselia.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P47",
+                  "text": "Los PGL (Pokémon Global Link) y el Dream World permitieron una interacción online más profunda, con minijuegos y la posibilidad de obtener Pokémon con habilidades ocultas, expandiendo las opciones para el entrenamiento competitivo y la recolección.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P48",
+                  "text": "Teselia es a menudo elogiada por su narrativa madura y sus personajes memorables, así como por intentar refrescar la fórmula de Pokémon. Es una generación que dividió a los fans inicialmente, pero que con el tiempo ha sido reevaluada positivamente por muchos.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P49",
+                  "text": "Los remakes de Blanco y Negro son muy esperados por la comunidad, dada la calidad de su historia y la profundidad de su mundo, lo que podría traer de vuelta a esta región a una nueva generación de jugadores con mejoras gráficas y de jugabilidad.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P50",
+                  "text": "La Generación V representa un esfuerzo ambicioso por parte de Game Freak para mantener la frescura de la franquicia, desafiando las expectativas y entregando una experiencia más centrada en la trama y la evolución de los personajes, además de innovaciones significativas en el metajuego.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://pokemon.fandom.com/es/wiki/Teselia",
+              "text": "Región de Teselia (Unova)"
+            },
+            {
+              "href": "https://pokemon.fandom.com/es/wiki/Generaci%C3%B3n_V",
+              "text": "Generación V (Fandom)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "POKEMON_files/Unova_Map.png",
+              "alt": "Mapa de la región de Teselia (Unova).",
+              "title": "Mapa de Teselia (Gen V)."
+            },
+            {
+              "src": "POKEMON_files/Reshiram_Zekrom.png",
+              "alt": "Reshiram y Zekrom.",
+              "title": "Reshiram y Zekrom (Teselia)."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 5",
+      "archivo": "POKEMON_Historia_Unidad_5_Generacion_V_Unova.html",
+      "ruta_completa": "T:/Bots/QUIZBOT_DATA_V5\\DATA\\CONTENTS\\POKEMON\\Unidad 5\\POKEMON_Historia_Unidad_5_Generacion_V_Unova.html"
+    },
+    {
+      "title": "POKEMON_Historia_Unidad_6_Generacion_VI_Kalos_a_actualidad",
+      "sections": [
+        {
+          "title": "La Evolución Continúa: Generación VI (Kalos) en adelante.",
+          "subsections": [
+            {
+              "type": "Historia",
+              "paragraphs": [
+                {
+                  "id": "P51",
+                  "text": "Pokémon X e Y (2013) marcaron el debut de la saga en Nintendo 3DS, introduciendo la región de Kalos y 72 nuevos Pokémon, elevando el total a 721. Esta generación fue revolucionaria por su completo salto a los gráficos 3D y la introducción de las Megaevoluciones, transformaciones temporales para algunos Pokémon.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P52",
+                  "text": "Los iniciales de Kalos fueron Chespin (Planta), Fennekin (Fuego) y Froakie (Agua). Froakie, con su evolución final Greninja, se convirtió en uno de los Pokémon más populares de la franquicia, incluso apareciendo en Super Smash Bros. y en el anime con su forma Ash-Greninja.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P53",
+                  "text": "La trama de Kalos se centró en el Equipo Flare, liderado por Lysandre, quien buscaba la belleza eterna y creía que la única forma de conseguirla era eliminar a la mayoría de la humanidad y los Pokémon usando el Arma Definitiva, un arma ancestral que funcionaba con la energía de los Pokémon.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P54",
+                  "text": "La introducción del tipo Hada fue una de las adiciones más importantes en el balance del juego, actuando como una contramedida efectiva contra el tipo Dragón, que hasta entonces había sido dominante. Esto obligó a los jugadores a repensar sus estrategias de equipo.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P55",
+                  "text": "Pokémon Sol y Luna (2016) y sus secuelas Ultra Sol y Ultra Luna (2017) llevaron la saga a la región tropical de Alola, inspirada en Hawái. Introdujeron las Formas Alola para Pokémon de generaciones anteriores y los Movimientos Z, ataques únicos de gran poder que se podían usar una vez por combate.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P56",
+                  "text": "En Alola, la mecánica de los Líderes de Gimnasio fue reemplazada por el 'Recorrido Insular', donde los entrenadores debían superar pruebas temáticas dirigidas por Capitanes y luego enfrentar a un Pokémon Dominante. El objetivo final seguía siendo derrotar al Campeón de la Liga Pokémon de Alola.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P57",
+                  "text": "Pokémon Espada y Escudo (2019) marcaron el debut de la saga principal en Nintendo Switch, introduciendo la región de Galar, inspirada en el Reino Unido. Destacaron por los fenómenos Dinamax y Gigamax, que hacían a los Pokémon gigantes y aumentaban sus estadísticas, y los 'Wild Areas', zonas de mundo semi-abierto.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P58",
+                  "text": "La trama de Galar se centró en el presidente Rose y su ambicioso plan de generar energía para el futuro del mundo activando el fenómeno del 'Día Oscuro' con el Pokémon Eternatus, lo que amenazaba con destruir la región. Los legendarios Zacian y Zamazenta tuvieron un papel crucial en detener esta amenaza.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P59",
+                  "text": "Pokémon Escarlata y Púrpura (2022) llevaron la saga a un mundo completamente abierto por primera vez, con la región de Paldea, inspirada en la Península Ibérica. Introdujeron el fenómeno Teracristalización, que cambiaba el tipo y potenciaba a los Pokémon, y permitió al jugador elegir entre tres rutas narrativas no lineales.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P60",
+                  "text": "La franquicia Pokémon continúa evolucionando con cada nueva generación, experimentando con nuevas mecánicas de combate, estructuras narrativas y enfoques de exploración, pero siempre manteniendo la esencia de la aventura, la amistad con los Pokémon y el deseo de 'atraparlos a todos'.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://pokemon.fandom.com/es/wiki/Generaci%C3%B3n_VI",
+              "text": "Generación VI (Fandom)"
+            },
+            {
+              "href": "https://pokemon.fandom.com/es/wiki/Generaci%C3%B3n_VII",
+              "text": "Generación VII (Fandom)"
+            },
+            {
+              "href": "https://pokemon.fandom.com/es/wiki/Generaci%C3%B3n_VIII",
+              "text": "Generación VIII (Fandom)"
+            },
+            {
+              "href": "https://pokemon.fandom.com/es/wiki/Generaci%C3%B3n_IX",
+              "text": "Generación IX (Fandom)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "POKEMON_files/Kalos_Map.png",
+              "alt": "Mapa de la región de Kalos.",
+              "title": "Mapa de Kalos (Gen VI)."
+            },
+            {
+              "src": "POKEMON_files/Mega_Charizard_X.png",
+              "alt": "Mega-Charizard X.",
+              "title": "Mega-Charizard X (Megaevolución)."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 6",
+      "archivo": "POKEMON_Historia_Unidad_6_Generacion_VI_Kalos_a_actualidad.html",
+      "ruta_completa": "T:/Bots/QUIZBOT_DATA_V5\\DATA\\CONTENTS\\POKEMON\\Unidad 6\\POKEMON_Historia_Unidad_6_Generacion_VI_Kalos_a_actualidad.html"
+    }
+  ]
+}

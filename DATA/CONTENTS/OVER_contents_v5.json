@@ -1,0 +1,413 @@
+{
+  "module": "OVERWATCH_CONTENTS",
+  "total_archivos": 4,
+  "total_parrafos": 42,
+  "contenidos": [
+    {
+      "title": "OVERWATCH_Historia_Unidad_1_Los_Origenes_y_La_Crisis_Omnica",
+      "sections": [
+        {
+          "title": "Los Orígenes y la Crisis Ómnica: El Nacimiento de Overwatch",
+          "subsections": [
+            {
+              "type": "Historia",
+              "paragraphs": [
+                {
+                  "id": "P1",
+                  "text": "La historia de Overwatch se sitúa en un futuro cercano de la Tierra, aproximadamente 60 años después de la actualidad. El punto de inflexión que define este universo es la 'Crisis Ómnica', un conflicto global que estalló décadas antes de los eventos del juego. Ómnicos, robots con inteligencia artificial autoconsciente, que inicialmente fueron creados para servir a la humanidad, se alzaron en una rebelión masiva contra sus creadores.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P2",
+                  "text": "Esta guerra, de proporciones catastróficas, llevó a la humanidad al borde de la aniquilación. Los gobiernos y ejércitos tradicionales se vieron superados por la velocidad, la coordinación y la brutalidad de los ejércitos ómnicos, que contaban con vastos recursos de producción y tecnología avanzada. Ciudades enteras fueron arrasadas y la desesperación cundió en el planeta.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P3",
+                  "text": "Ante la inminente derrota, las Naciones Unidas tomaron una medida extrema: autorizaron la formación de una fuerza de ataque de élite internacional. Esta organización, conocida como Overwatch, fue creada con los mejores y más brillantes individuos de todo el mundo, uniendo a científicos, soldados y especialistas con habilidades extraordinarias.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P4",
+                  "text": "Los fundadores clave de Overwatch incluyeron a Jack Morrison (futuro Soldado: 76), Gabriel Reyes (futuro Reaper), Ana Amari, Reinhardt Wilhelm, Torbjörn Lindholm y Liao. Estos individuos carismáticos y talentosos se convirtieron en héroes de guerra, liderando la resistencia contra los ómnicos y desarrollando tácticas y armamento innovadores.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P5",
+                  "text": "Bajo el liderazgo estratégico de Jack Morrison, Overwatch logró una serie de victorias decisivas que cambiaron el rumbo de la Crisis Ómnica. Sus operaciones encubiertas, sus asaltos directos a las fortalezas ómnicas y el desarrollo de contramedidas tecnológicas fueron cruciales para debilitar a la insurgencia robótica. La moral de la humanidad se disparó.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P6",
+                  "text": "Finalmente, Overwatch logró poner fin a la Crisis Ómnica, trayendo una era de paz y prosperidad sin precedentes. La organización fue aclamada como salvadores de la humanidad, y sus miembros se convirtieron en íconos globales, figuras inspiradoras que representaban la esperanza y la cooperación internacional.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P7",
+                  "text": "Tras la guerra, Overwatch pasó de ser una fuerza de ataque a una agencia de mantenimiento de la paz global. Sus misiones se expandieron para incluir investigación científica, protección civil, ayuda humanitaria y la resolución de conflictos menores. Se estableció una red de bases y personal por todo el mundo.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P8",
+                  "text": "Durante esta 'Era Dorada' de Overwatch, se unieron nuevos reclutas, muchos de ellos jóvenes talentos con habilidades únicas, como Lena Oxton (Tracer), Genji Shimada, Mercy, Winston y Mei. La organización representaba lo mejor de la humanidad, una utopía de cooperación global.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P9",
+                  "text": "Sin embargo, esta era de paz estaba destinada a ser efímera. Las tensiones internas, la desconfianza pública y las conspiraciones políticas comenzaron a gestarse en las sombras, sembrando las semillas de la disolución que marcaría el siguiente capítulo en la historia de Overwatch.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P10",
+                  "text": "La Crisis Ómnica y el ascenso de Overwatch son el telón de fondo esencial para comprender el estado actual del mundo en el juego. Establecen la existencia de los ómnicos como seres sensibles, la necesidad de héroes y el legado de una organización que, a pesar de sus fallas, una vez salvó al mundo.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://playoverwatch.com/es-es/story/",
+              "text": "Historia de Overwatch (Oficial)"
+            },
+            {
+              "href": "https://overwatch.fandom.com/wiki/Omnic_Crisis",
+              "text": "Crisis Ómnica (Fandom)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "OVERWATCH_files/Overwatch_Founders.jpg",
+              "alt": "Los fundadores de Overwatch: Morrison, Reyes, Ana, Reinhardt, Torbjörn y Liao.",
+              "title": "Fundadores de Overwatch."
+            },
+            {
+              "src": "OVERWATCH_files/Omnic_War.jpg",
+              "alt": "Arte conceptual de la Crisis Ómnica, mostrando robots luchando.",
+              "title": "La Crisis Ómnica."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 1",
+      "archivo": "OVERWATCH_Historia_Unidad_1_Los_Origenes_y_La_Crisis_Omnica.html",
+      "ruta_completa": "T:/Bots/QUIZBOT_DATA_V5\\DATA\\CONTENTS\\OVERWATCH\\Unidad 1\\OVERWATCH_Historia_Unidad_1_Los_Origenes_y_La_Crisis_Omnica.html"
+    },
+    {
+      "title": "OVERWATCH_Historia_Unidad_2_La_Caida_y_Disolucion",
+      "sections": [
+        {
+          "title": "La Caída de Overwatch: Conspiración y Disolución",
+          "subsections": [
+            {
+              "type": "Historia",
+              "paragraphs": [
+                {
+                  "id": "P11",
+                  "text": "A pesar de su éxito inicial y su popularidad, Overwatch comenzó a enfrentar una creciente ola de críticas y desconfianza pública. Varios escándalos, filtraciones y acusaciones de corrupción y abuso de poder minaron la reputación de la organización. La gente empezó a cuestionar la verdadera autoridad y las operaciones encubiertas de Overwatch.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P12",
+                  "text": "Las tensiones internas también se dispararon, especialmente entre Jack Morrison y Gabriel Reyes. Morrison, el líder oficial de Overwatch, se enfocaba en la diplomacia y la exposición pública, mientras que Reyes, al mando de la división de Operaciones Encubiertas 'Blackwatch', se volcó en métodos más oscuros y brutales, lo que generó un resentimiento mutuo.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P13",
+                  "text": "La división Blackwatch, liderada por Reyes, llevó a cabo operaciones no autorizadas y moralmente cuestionables para lograr sus objetivos. Este oscurantismo y la falta de supervisión contribuyeron a la percepción negativa de Overwatch, ya que las acciones de Blackwatch empezaron a ser asociadas con la organización principal.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P14",
+                  "text": "El punto de no retorno fue una explosión devastadora en la sede de Overwatch en Suiza, conocida como el 'Incidente de la Sede Suiza'. Se especuló que fue el resultado de una confrontación interna entre Morrison y Reyes, que escaló a una batalla a gran escala. Ambos fueron dados por muertos en el incidente, lo que marcó el fin de la organización tal como se conocía.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P15",
+                  "text": "Tras el incidente de Suiza, las Naciones Unidas, bajo la presión pública y la evidencia de corrupción y caos interno, votaron para disolver oficialmente Overwatch. La 'Ley Petras' prohibió cualquier actividad relacionada con la organización y desmanteló sus bases, marcando el fin de la era de los héroes globales.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P16",
+                  "text": "Sin embargo, ni Morrison ni Reyes murieron en la explosión. Jack Morrison emergió de las sombras como 'Soldado: 76', un vigilante enmascarado que opera por su cuenta, buscando exponer la verdad detrás de la caída de Overwatch y castigar a los responsables. Su búsqueda lo lleva a desmantelar operaciones de la Corporación Vishkar y de otras facciones corruptas.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P17",
+                  "text": "Gabriel Reyes, gravemente desfigurado por la explosión y sometido a experimentos genéticos, resurgió como 'Reaper', una figura sombría y sobrenatural con la capacidad de volverse etéreo. Reaper se une a la organización terrorista Talon, una fuerza opuesta a los ideales de Overwatch, y busca eliminar a todos los antiguos agentes de la organización.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P18",
+                  "text": "La disolución de Overwatch dejó un vacío de poder global. Organizaciones criminales como Talon, la mafia Shimada y la Secta Null Sector (ómnicos extremistas) comenzaron a crecer y operar con impunidad, sumiendo al mundo en un nuevo estado de caos y conflicto, libre de la supervisión de los antiguos héroes.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P19",
+                  "text": "Los antiguos agentes de Overwatch se dispersaron por el mundo, algunos intentando llevar vidas normales, otros operando en secreto para ayudar a la gente, y algunos uniéndose a las mismas fuerzas oscuras que Overwatch combatió. El mundo se convirtió en un lugar más peligroso, sin los protectores que una vez lo salvaron.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P20",
+                  "text": "La caída de Overwatch es el evento central que da forma al mundo actual del juego. Es el punto de partida para que los héroes, tanto antiguos como nuevos, se vean obligados a tomar sus propias decisiones sobre si el mundo necesita de nuevo a Overwatch o si es hora de seguir adelante por su cuenta.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://overwatch.fandom.com/wiki/Overwatch%27s_Fall",
+              "text": "La Caída de Overwatch (Fandom)"
+            },
+            {
+              "href": "https://overwatch.fandom.com/wiki/Petras_Act",
+              "text": "Ley Petras (Fandom)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "OVERWATCH_files/Swiss_Headquarters_Explosion.jpg",
+              "alt": "Explosión de la sede de Overwatch en Suiza.",
+              "title": "Incidente de la Sede Suiza."
+            },
+            {
+              "src": "OVERWATCH_files/Soldier76_Reaper.jpg",
+              "alt": "Soldado: 76 y Reaper, antiguos Morrison y Reyes.",
+              "title": "Viejos amigos, nuevos enemigos."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 2",
+      "archivo": "OVERWATCH_Historia_Unidad_2_La_Caida_y_Disolucion.html",
+      "ruta_completa": "T:/Bots/QUIZBOT_DATA_V5\\DATA\\CONTENTS\\OVERWATCH\\Unidad 2\\OVERWATCH_Historia_Unidad_2_La_Caida_y_Disolucion.html"
+    },
+    {
+      "title": "OVERWATCH_Historia_Unidad_3_La_Llamada_y_Nuevos_Conflictos",
+      "sections": [
+        {
+          "title": "La Llamada: El Intento de Reagrupación y Nuevos Conflictos",
+          "subsections": [
+            {
+              "type": "Historia",
+              "paragraphs": [
+                {
+                  "id": "P21",
+                  "text": "Años después de la disolución de Overwatch, el mundo se encuentra en un estado precario. A pesar de los esfuerzos de héroes individuales y organizaciones locales, las amenazas globales han resurgido y la estabilidad está en juego. La proliferación de grupos terroristas como Talon, la reaparición de ómnicos hostiles como el Null Sector y la escalada de tensiones internacionales ponen en peligro la paz mundial.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P22",
+                  "text": "El ómnico genio y antiguo miembro de Overwatch, Winston, incapaz de permanecer inactivo ante el caos creciente, decide emitir una 'Llamada' global, intentando reagrupar a los antiguos agentes de Overwatch. Su objetivo es revivir los ideales de la organización y unir a los héroes para proteger al mundo una vez más, a pesar de la ilegalidad de sus acciones.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P23",
+                  "text": "La respuesta a la Llamada es variada. Algunos, como Tracer, se unen a Winston de inmediato, ansiosos por volver a la acción. Otros, como Mei, son reacios al principio, habiendo encontrado nuevos propósitos en sus vidas post-Overwatch. Algunos antiguos miembros, como Soldado: 76 y Mercy, continúan operando de forma independiente, mientras que otros, como Reaper, ahora son antagonistas.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P24",
+                  "text": "Mientras tanto, Talon, la organización terrorista liderada por figuras como Doomfist y con Reaper, Sombra, Widowmaker y Moira entre sus filas, busca sumir al mundo en el caos para acelerar la evolución de la humanidad a través del conflicto. Sus operaciones se extienden por todo el globo, desde infiltraciones hasta ataques directos.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P25",
+                  "text": "El conflicto con el Null Sector, una facción ómnica extremista, resurge con fuerza en varias partes del mundo, especialmente en ciudades como Londres (en la sublevación de King's Row) y Estambul. Null Sector busca la supremacía ómnica y la erradicación de la humanidad, representando una nueva amenaza a la coexistencia entre especies.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P26",
+                  "text": "La narrativa de Overwatch 2, en sus misiones de historia (PvE), se centra en esta nueva era de conflicto global. Los jugadores asumen el papel de los héroes de Overwatch que responden a la Llamada de Winston, trabajando juntos para repeler los ataques del Null Sector, frustrar los planes de Talon y enfrentar las nuevas amenazas que acechan al planeta.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P27",
+                  "text": "La historia en curso explora las repercusiones de la caída de Overwatch, los dilemas morales de los héroes y su lucha por recuperar la confianza del público y el apoyo de las Naciones Unidas. Se presentan nuevos personajes y se profundiza en las motivaciones de los ya existentes.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P28",
+                  "text": "Cada misión de la historia de Overwatch 2 revela más sobre el estado actual del mundo, los nuevos planes de los villanos y cómo los héroes intentan unirse para enfrentar desafíos que son demasiado grandes para que un solo agente los maneje. La cooperación vuelve a ser un tema central.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P29",
+                  "text": "Los eventos narrativos se desarrollan de forma episódica, permitiendo a los jugadores experimentar la evolución de la historia a medida que se lanzan nuevas misiones. Esto crea una narrativa dinámica que se expande más allá de los modos de juego competitivos de PvP.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P30",
+                  "text": "El futuro de la humanidad y de la relación entre humanos y ómnicos depende de la capacidad de los héroes de Overwatch para superar sus diferencias, aprender de los errores del pasado y unirse para enfrentar las amenazas que buscan destruir la paz de una vez por todas. La 'Llamada' es un nuevo comienzo para la esperanza.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://overwatch.fandom.com/wiki/The_Calling",
+              "text": "La Llamada (Fandom)"
+            },
+            {
+              "href": "https://playoverwatch.com/es-es/overwatch-2/story",
+              "text": "Historia de Overwatch 2 (Oficial)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "OVERWATCH_files/Winston_Calling.jpg",
+              "alt": "Winston activando la Llamada de Overwatch.",
+              "title": "Winston: La Llamada."
+            },
+            {
+              "src": "OVERWATCH_files/Talon_Members.jpg",
+              "alt": "Miembros de Talon: Reaper, Widowmaker, Sombra, Doomfist y Moira.",
+              "title": "Talon."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 3",
+      "archivo": "OVERWATCH_Historia_Unidad_3_La_Llamada_y_Nuevos_Conflictos.html",
+      "ruta_completa": "T:/Bots/QUIZBOT_DATA_V5\\DATA\\CONTENTS\\OVERWATCH\\Unidad 3\\OVERWATCH_Historia_Unidad_3_La_Llamada_y_Nuevos_Conflictos.html"
+    },
+    {
+      "title": "OVERWATCH_Historia_Unidad_4_Personajes_Clave_y_Lore",
+      "sections": [
+        {
+          "title": "Personajes Clave y la Profundidad del Lore de Overwatch",
+          "subsections": [
+            {
+              "type": "Historia",
+              "paragraphs": [
+                {
+                  "id": "P31",
+                  "text": "El universo de Overwatch se enriquece enormemente a través de su diverso elenco de personajes, cada uno con una historia de origen, motivaciones y relaciones complejas que se entrelazan para formar un tapiz narrativo profundo. Desde héroes que buscan redención hasta villanos con ideologías retorcidas, la riqueza de sus trasfondos es fundamental.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P32",
+                  "text": "**Tracer (Lena Oxton)**: Una expiloto de pruebas británica que sufrió un 'desacoplamiento cronal', dejándola desincronizada con el tiempo. Fue salvada por Winston y su acelerador cronal, convirtiéndola en una de las agentes más icónicas y optimistas de Overwatch. Su personalidad vibrante la ha convertido en la cara visible del juego.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P33",
+                  "text": "**Genji Shimada**: Un cyborg ninja japonés, hermano menor de Hanzo, que casi muere a manos de su propio clan. Fue rescatado por Mercy y restaurado por Overwatch, convirtiéndose en un agente. Su lucha por aceptar su cuerpo cibernético y encontrar la paz interior es un arco narrativo clave, influenciado por su maestro Zenyatta.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P34",
+                  "text": "**Mercy (Angela Ziegler)**: Una brillante científica y médica suiza, y la jefa de investigación médica de Overwatch. A pesar de sus diferencias éticas con ciertos métodos de la organización, se dedicó a sanar a los heridos y salvar vidas, abogando por la paz y la ética en la guerra.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P35",
+                  "text": "**Doomfist (Akande Ogundimu)**: Un brillante estratega y maestro de las artes marciales de Nigeria, que cree que la humanidad solo puede evolucionar a través del conflicto. Es uno de los líderes de Talon, una figura imponente y filosóficamente opuesta a los ideales de Overwatch.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P36",
+                  "text": "**Sombra (Olivia Colomar)**: Una hacker mexicana brillante y anarquista. Antigua miembro de la banda Los Muertos, ahora opera como una agente libre y oportunista para Talon, buscando descubrir la verdad detrás de una conspiración global que la llevó a ser quién es. Su ingenio y su red de información la hacen extremadamente peligrosa.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P37",
+                  "text": "**D.Va (Hana Song)**: Una ex-jugadora profesional de eSports de Corea del Sur que pilotea un MEKA de combate para proteger a su país de los ataques de ómnicos. Es una heroína moderna que representa la nueva generación de defensores, popular y habilidosa, pero con sus propias luchas internas.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P38",
+                  "text": "**Junkrat y Roadhog**: Un dúo caótico y explosivo de Australia, resultado de la explosión de una central de fusión en su tierra natal. Son anarquistas, ladrones y mercenarios, que solo buscan caos y riqueza, causando estragos allá donde van y ajenos a la política de facciones mayores.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P39",
+                  "text": "El lore de Overwatch se expande activamente a través de cortometrajes animados de alta calidad, cómics digitales, novelas gráficas y eventos en el juego. Estas piezas de contenido no solo desarrollan las historias individuales de los héroes, sino que también revelan facetas ocultas del mundo y los conflictos subyacentes.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P40",
+                  "text": "La narrativa se construye a través de la interacción entre personajes, diálogos en el juego y referencias ambientales en los mapas. Cada mapa cuenta una historia, revelando fragmentos del pasado o del presente del universo, haciendo que la experiencia de juego sea más inmersiva.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P41",
+                  "text": "Overwatch es un ejemplo de cómo un juego principalmente multijugador puede construir un universo narrativo rico y atractivo. La profundidad de su lore y la complejidad de sus personajes son factores clave que han contribuido a su éxito y al apego de la comunidad a la franquicia.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://playoverwatch.com/es-es/heroes/",
+              "text": "Héroes de Overwatch (Oficial)"
+            },
+            {
+              "href": "https://overwatch.fandom.com/wiki/Category:Characters",
+              "text": "Personajes (Fandom)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "OVERWATCH_files/Overwatch_Heroes_Group.jpg",
+              "alt": "Grupo de héroes de Overwatch, incluyendo Tracer, Winston, Mei y Genji.",
+              "title": "Héroes de Overwatch."
+            },
+            {
+              "src": "OVERWATCH_files/Doomfist_Sombra_Reaper.jpg",
+              "alt": "Doomfist, Sombra y Reaper de Talon.",
+              "title": "Villanos de Talon."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 4",
+      "archivo": "OVERWATCH_Historia_Unidad_4_Personajes_Clave_y_Lore.html",
+      "ruta_completa": "T:/Bots/QUIZBOT_DATA_V5\\DATA\\CONTENTS\\OVERWATCH\\Unidad 4\\OVERWATCH_Historia_Unidad_4_Personajes_Clave_y_Lore.html"
+    }
+  ]
+}

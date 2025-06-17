@@ -1,0 +1,266 @@
+{
+  "module": "CONSOLAS_X86_EVALS",
+  "total_preguntas": 10,
+  "preguntas": [
+    {
+      "numero": "1",
+      "enunciado": "¿Qué compañía lanzó la GPD WIN 1 en 2016, considerada una de las pioneras en consolas portátiles x86?",
+      "opciones": [
+        "ASUS",
+        "Valve",
+        "GamePad Digital (GPD)",
+        "Lenovo"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: GamePad Digital (GPD).",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "CONSOLAS_X86_EVALS",
+        "unidad": "Inicios",
+        "usuario": "Tecnólogo Portátil",
+        "archivo": "CX86_Quiz_Historia.html"
+      }
+    },
+    {
+      "numero": "2",
+      "enunciado": "¿Qué sistema operativo completo ejecutaba la GPD WIN 1, permitiendo acceso a librerías de juegos de PC como Steam?",
+      "opciones": [
+        "SteamOS",
+        "Android",
+        "Windows 10",
+        "Linux (personalizado)"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Windows 10.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "consolas_x86_evals_files/gpd_win1_windows.png",
+          "alt": "Interfaz de Windows en GPD WIN 1.",
+          "title": "Windows 10 en GPD WIN 1."
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "CONSOLAS_X86_EVALS",
+        "unidad": "GPD WIN 1",
+        "usuario": "Tecnólogo Portátil",
+        "archivo": "CX86_Quiz_GPD.html"
+      }
+    },
+    {
+      "numero": "3",
+      "enunciado": "¿Qué tipo de procesador principal se utilizó en las primeras versiones de AyaNeo y en modelos posteriores de GPD (como WIN 3, WIN 4), que ofrecía un rendimiento gráfico integrado superior?",
+      "opciones": [
+        "Intel Atom",
+        "Intel Core i7",
+        "AMD Ryzen APU",
+        "Qualcomm Snapdragon"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: AMD Ryzen APU (Accelerated Processing Unit).",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "CONSOLAS_X86_EVALS",
+        "unidad": "AyaNeo y GPD",
+        "usuario": "Tecnólogo Portátil",
+        "archivo": "CX86_Quiz_AyaNeo.html"
+      }
+    },
+    {
+      "numero": "4",
+      "enunciado": "¿Qué empresa lanzó la Steam Deck en 2022, revolucionando el mercado de consolas portátiles x86?",
+      "opciones": [
+        "Microsoft",
+        "Sony",
+        "Valve",
+        "ASUS"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Valve.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "consolas_x86_evals_files/steam_deck_logo.png",
+          "alt": "Logo de Steam Deck.",
+          "title": "Steam Deck Logo."
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "CONSOLAS_X86_EVALS",
+        "unidad": "Steam Deck",
+        "usuario": "Tecnólogo Portátil",
+        "archivo": "CX86_Quiz_SteamDeck.html"
+      }
+    },
+    {
+      "numero": "5",
+      "enunciado": "¿Qué sistema operativo optimizado, basado en Linux, utiliza la Steam Deck para ofrecer una experiencia de usuario fluida y acceso a Proton?",
+      "opciones": [
+        "Windows 11",
+        "Android",
+        "SteamOS",
+        "Batocera"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: SteamOS.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "CONSOLAS_X86_EVALS",
+        "unidad": "Steam Deck",
+        "usuario": "Tecnólogo Portátil",
+        "archivo": "CX86_Quiz_SteamDeck.html"
+      }
+    },
+    {
+      "numero": "6",
+      "enunciado": "¿Cuál es una característica de control única de la Steam Deck que la distingue de la mayoría de las otras consolas portátiles?",
+      "opciones": [
+        "Pantalla secundaria",
+        "Teclado QWERTY físico",
+        "Trackpads táctiles",
+        "Gatillos hápticos"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Trackpads táctiles.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "consolas_x86_evals_files/steam_deck_trackpads.png",
+          "alt": "Trackpads en la Steam Deck.",
+          "title": "Trackpads de Steam Deck."
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "CONSOLAS_X86_EVALS",
+        "unidad": "Steam Deck",
+        "usuario": "Tecnólogo Portátil",
+        "archivo": "CX86_Quiz_SteamDeck.html"
+      }
+    },
+    {
+      "numero": "7",
+      "enunciado": "¿Qué gran fabricante de hardware para PC lanzó la ASUS ROG Ally en respuesta al éxito de la Steam Deck?",
+      "opciones": [
+        "HP",
+        "Dell",
+        "ASUS",
+        "Acer"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: ASUS.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "CONSOLAS_X86_EVALS",
+        "unidad": "Competencia Actual",
+        "usuario": "Tecnólogo Portátil",
+        "archivo": "CX86_Quiz_ROGAlly.html"
+      }
+    },
+    {
+      "numero": "8",
+      "enunciado": "¿Qué sistema operativo utiliza la ASUS ROG Ally de forma nativa, permitiendo acceso directo a múltiples lanzadores de juegos sin capas de compatibilidad?",
+      "opciones": [
+        "SteamOS",
+        "Windows 11",
+        "ChromeOS",
+        "Android"
+      ],
+      "respuestas": [
+        "1"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Windows 11.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "consolas_x86_evals_files/rog_ally_windows.png",
+          "alt": "Interfaz de Windows en ASUS ROG Ally.",
+          "title": "Windows 11 en ROG Ally."
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "CONSOLAS_X86_EVALS",
+        "unidad": "Competencia Actual",
+        "usuario": "Tecnólogo Portátil",
+        "archivo": "CX86_Quiz_ROGAlly.html"
+      }
+    },
+    {
+      "numero": "9",
+      "enunciado": "¿Qué nueva consola portátil x86, lanzada por Lenovo, se distingue por su pantalla grande y sus mandos desmontables?",
+      "opciones": [
+        "GPD WIN 4",
+        "AyaNeo Slide",
+        "MSI Claw",
+        "Lenovo Legion Go"
+      ],
+      "respuestas": [
+        "3"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Lenovo Legion Go.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "CONSOLAS_X86_EVALS",
+        "unidad": "Competencia Actual",
+        "usuario": "Tecnólogo Portátil",
+        "archivo": "CX86_Quiz_Otros.html"
+      }
+    },
+    {
+      "numero": "10",
+      "enunciado": "La 'arquitectura Velocity' de las Steam Deck, ROG Ally y otras consolas modernas, ¿qué componente clave utiliza para reducir drásticamente los tiempos de carga?",
+      "opciones": [
+        "Memoria RAM DDR4",
+        "Disco duro mecánico (HDD)",
+        "Unidad de estado sólido (SSD) NVMe",
+        "Tarjeta gráfica dedicada (GPU)"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Unidad de estado sólido (SSD) NVMe.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "consolas_x86_evals_files/ssd_nvme.png",
+          "alt": "Componente de SSD NVMe.",
+          "title": "SSD NVMe."
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "CONSOLAS_X86_EVALS",
+        "unidad": "Tecnología Clave",
+        "usuario": "Tecnólogo Portátil",
+        "archivo": "CX86_Quiz_Tecnologia.html"
+      }
+    }
+  ]
+}

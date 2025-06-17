@@ -1,0 +1,830 @@
+{
+  "module": "TARJETAS_GRAFICAS_CONTENTS",
+  "total_archivos": 8,
+  "total_parrafos": 80,
+  "contenidos": [
+    {
+      "title": "TARJETAS_GRAFICAS_Unidad_1_Introduccion_y_Historia",
+      "sections": [
+        {
+          "title": "Introducción y Breve Historia de las Tarjetas Gráficas",
+          "subsections": [
+            {
+              "type": "Historia",
+              "paragraphs": [
+                {
+                  "id": "P1",
+                  "text": "Las tarjetas gráficas, también conocidas como GPU (Graphics Processing Unit) o tarjetas de vídeo, son componentes esenciales de cualquier sistema informático moderno. Su función principal es procesar y generar imágenes para visualizarlas en una pantalla.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P2",
+                  "text": "Originalmente, la funcionalidad gráfica estaba integrada en la placa base de los ordenadores. Sin embargo, con la creciente demanda de gráficos más complejos (especialmente en videojuegos y aplicaciones profesionales), se hizo necesaria una unidad de procesamiento dedicada.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P3",
+                  "text": "Los primeros adaptadores de vídeo (como el IBM Monochrome Display Adapter - MDA y el Color Graphics Adapter - CGA en la década de 1980) eran muy rudimentarios, ofreciendo solo capacidades de texto o gráficos muy básicos y limitados en color.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P4",
+                  "text": "La **Enhanced Graphics Adapter (EGA) (1984)** y la **Video Graphics Array (VGA) (1987)** de IBM fueron mejoras significativas, introduciendo más colores y resoluciones, estableciendo el estándar 'VGA' que aún se usa como un modo gráfico básico.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P5",
+                  "text": "En la década de 1990, la computación gráfica 2D avanzó rápidamente. Compañías como S3 Graphics, ATI Technologies y Matrox compitieron por ofrecer los adaptadores de gráficos 2D más rápidos y capaces para entornos Windows.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P6",
+                  "text": "El verdadero punto de inflexión llegó con el auge de los gráficos 3D acelerados por hardware. Las primeras tarjetas 3D dedicadas, como la **3dfx Voodoo Graphics (1996)**, revolucionaron los videojuegos, ofreciendo gráficos en 3D que antes solo eran posibles en estaciones de trabajo caras.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P7",
+                  "text": "El éxito de 3dfx impulsó a otros fabricantes a invertir en el desarrollo de GPU 3D. Esto llevó al surgimiento de **NVIDIA (con su GeForce 256 en 1999, que popularizó el término GPU)** y **ATI (posteriormente adquirida por AMD)** como los principales actores del mercado.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P8",
+                  "text": "A principios de los 2000, las GPU se convirtieron en procesadores altamente especializados, capaces de manejar no solo gráficos, sino también tareas computacionales generales (GPGPU - General-Purpose computing on Graphics Processing Units).",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P9",
+                  "text": "Hoy en día, las tarjetas gráficas son componentes complejos que integran millones de transistores, memoria dedicada de alta velocidad y avanzados motores de procesamiento, esenciales para el gaming, la creación de contenido, la inteligencia artificial y el cálculo científico.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P10",
+                  "text": "Esta unidad sentará las bases para entender la evolución y la importancia actual de las tarjetas gráficas en el mundo de la computación.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://www.pcgamer.com/history-of-the-graphics-card/",
+              "text": "La historia de la tarjeta gráfica (PC Gamer)"
+            },
+            {
+              "href": "https://www.youtube.com/watch?v=F3aJ14M4Pio",
+              "text": "Breve historia de las tarjetas gráficas (video)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "TARJETAS_GRAFICAS_files/3dfx_Voodoo_Graphics.jpg",
+              "alt": "Tarjeta gráfica 3dfx Voodoo Graphics.",
+              "title": "3dfx Voodoo Graphics (1996)."
+            },
+            {
+              "src": "TARJETAS_GRAFICAS_files/NVIDIA_GeForce_256.jpg",
+              "alt": "Tarjeta gráfica NVIDIA GeForce 256.",
+              "title": "NVIDIA GeForce 256 (1999)."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 1",
+      "archivo": "TARJETAS_GRAFICAS_Unidad_1_Introduccion_y_Historia.html",
+      "ruta_completa": "DATA/CONTENTS/TARJETAS_GRAFICAS/Unidad 1/TARJETAS_GRAFICAS_Unidad_1_Introduccion_y_Historia.html"
+    },
+    {
+      "title": "TARJETAS_GRAFICAS_Unidad_2_Componentes_Clave_de_una_GPU",
+      "sections": [
+        {
+          "title": "Componentes Clave de una Tarjeta Gráfica (GPU)",
+          "subsections": [
+            {
+              "type": "Hardware",
+              "paragraphs": [
+                {
+                  "id": "P11",
+                  "text": "Una tarjeta gráfica es un subsistema completo con varios componentes trabajando en conjunto para procesar y renderizar imágenes.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P12",
+                  "text": "El corazón de la tarjeta gráfica es la **GPU (Graphics Processing Unit)**. Es un microprocesador especializado optimizado para el cálculo paralelo, ideal para renderizar gráficos 2D, 3D y video. A diferencia de una CPU, que tiene pocos núcleos potentes, una GPU tiene miles de núcleos más pequeños y especializados (shaders) para manejar múltiples operaciones gráficas simultáneamente.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P13",
+                  "text": "La **Memoria de Video (VRAM - Video Random Access Memory)** es la memoria dedicada de alta velocidad que utiliza la GPU para almacenar datos gráficos como texturas, búferes de fotogramas, búferes Z y otros datos necesarios para el renderizado. Cuanta más VRAM, más grandes y complejas pueden ser las texturas y resoluciones que la tarjeta puede manejar eficientemente.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P14",
+                  "text": "Los tipos comunes de VRAM incluyen GDDR5, GDDR6 y la más reciente GDDR6X, que ofrecen anchos de banda muy altos para transferir grandes cantidades de datos rápidamente entre la GPU y la memoria.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P15",
+                  "text": "El **PCB (Printed Circuit Board)** es la placa base donde se montan todos los componentes. Es el esqueleto físico de la tarjeta gráfica y contiene las conexiones eléctricas entre la GPU, la VRAM, los reguladores de voltaje y los conectores.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P16",
+                  "text": "El **Sistema de Refrigeración** es crucial para el rendimiento y la longevidad de la tarjeta. Las GPU generan mucho calor debido a su alto rendimiento. Los sistemas de refrigeración pueden ser activos (ventiladores y disipadores de calor) o pasivos (solo disipadores), siendo los activos los más comunes en tarjetas de alto rendimiento.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P17",
+                  "text": "Los **Conectores de Alimentación** (PCIe de 6, 8 o 16 pines) suministran energía adicional a la tarjeta gráfica directamente desde la fuente de alimentación del PC. Las GPU modernas y potentes requieren más energía de la que puede proporcionar la ranura PCIe por sí sola.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P18",
+                  "text": "Los **Puertos de Salida de Vídeo** (HDMI, DisplayPort, DVI, VGA) son los conectores que permiten enviar la señal de vídeo desde la tarjeta a un monitor o pantalla. DisplayPort y HDMI son los estándares actuales por su capacidad de manejar altas resoluciones y tasas de refresco.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P19",
+                  "text": "El **VRM (Voltage Regulator Module)** es un circuito que regula el voltaje suministrado a la GPU y la VRAM, asegurando una entrega de energía estable y eficiente, vital para la estabilidad del rendimiento y la capacidad de overclocking.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P20",
+                  "text": "Entender estos componentes es fundamental para comprender cómo una tarjeta gráfica procesa y muestra las imágenes en tu pantalla.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://www.tomshardware.com/reviews/gpu-components-architecture-explained,6078.html",
+              "text": "Componentes de la GPU explicados (Tom's Hardware)"
+            },
+            {
+              "href": "https://www.youtube.com/watch?v=yYJ4S45zH1k",
+              "text": "Cómo funciona una tarjeta gráfica (video)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "TARJETAS_GRAFICAS_files/GPU_Diagrama.jpg",
+              "alt": "Diagrama de los componentes principales de una tarjeta gráfica.",
+              "title": "Componentes de una GPU."
+            },
+            {
+              "src": "TARJETAS_GRAFICAS_files/VRAM.jpg",
+              "alt": "Chips de memoria VRAM en una tarjeta gráfica.",
+              "title": "Memoria de Video (VRAM)."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 2",
+      "archivo": "TARJETAS_GRAFICAS_Unidad_2_Componentes_Clave_de_una_GPU.html",
+      "ruta_completa": "DATA/CONTENTS/TARJETAS_GRAFICAS/Unidad 2/TARJETAS_GRAFICAS_Unidad_2_Componentes_Clave_de_una_GPU.html"
+    },
+    {
+      "title": "TARJETAS_GRAFICAS_Unidad_3_Como_Funciona_Una_GPU",
+      "sections": [
+        {
+          "title": "Cómo Funciona una Tarjeta Gráfica",
+          "subsections": [
+            {
+              "type": "Funcionamiento",
+              "paragraphs": [
+                {
+                  "id": "P21",
+                  "text": "El funcionamiento de una tarjeta gráfica implica un complejo proceso de renderizado que convierte datos de un juego o aplicación en píxeles visibles en pantalla. Este proceso se puede simplificar en varias etapas.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P22",
+                  "text": "**1. Modelado y Ensamblaje de la Escena (CPU):** La CPU inicializa los datos de la escena 3D, incluyendo la geometría de los objetos, la posición de las luces y cámaras, y las propiedades de los materiales. Estos datos se envían a la GPU.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P23",
+                  "text": "**2. Procesamiento de Vértices (Vertex Shaders):** La GPU recibe los vértices de los modelos 3D. Los 'shaders de vértices' procesan la posición, color y otras propiedades de cada vértice en el espacio 3D, transformándolos según la perspectiva de la cámara.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P24",
+                  "text": "**3. Rasterización:** Una vez que los vértices están procesados, la GPU los conecta para formar polígonos (generalmente triángulos). El proceso de rasterización convierte estos polígonos 3D en píxeles 2D que pueden ser mostrados en la pantalla. Aquí también se realiza el 'culling' (eliminación de polígonos que no son visibles).",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P25",
+                  "text": "**4. Procesamiento de Fragmentos/Píxeles (Pixel Shaders):** Por cada píxel generado en la rasterización, los 'shaders de píxeles' (o fragmentos) calculan el color final del píxel. Esto implica aplicar texturas, iluminación, sombreado, reflejos y otros efectos visuales complejos.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P26",
+                  "text": "**5. Búfer Z (Depth Buffer):** Para determinar qué objetos están más cerca de la cámara y cuáles deben ocultarse detrás de otros, la GPU utiliza un 'búfer Z' o búfer de profundidad. Esto asegura que los objetos se rendericen en el orden correcto de superposición.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P27",
+                  "text": "**6. Salida de Vídeo:** Finalmente, los píxeles procesados se almacenan en el 'búfer de fotogramas' (Framebuffer) en la VRAM. El 'RAMDAC' (o su equivalente digital en tarjetas modernas) convierte esta información digital en una señal analógica o digital que se envía al monitor a través de los puertos de salida.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P28",
+                  "text": "Todo este proceso se repite para cada fotograma (frame) que se muestra en pantalla. Para una experiencia de juego fluida, se busca una tasa de fotogramas de 60 FPS (fotogramas por segundo) o más, lo que significa que la GPU debe renderizar 60 imágenes completas cada segundo.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P29",
+                  "text": "La arquitectura paralela de la GPU, con miles de núcleos funcionando simultáneamente, es lo que le permite realizar estas complejas operaciones de cálculo de manera extremadamente rápida, a diferencia de la CPU que es más adecuada para tareas secuenciales.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P30",
+                  "text": "Las tecnologías modernas como el Ray Tracing y DLSS (NVIDIA) o FSR (AMD) añaden capas adicionales de complejidad y optimización a este proceso, mejorando la fidelidad visual y el rendimiento.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://www.intel.com/content/www/us/en/gaming/resources/how-gpus-work.html",
+              "text": "Cómo funcionan las GPU (Intel)"
+            },
+            {
+              "href": "https://www.youtube.com/watch?v=Vl3rD4F_548",
+              "text": "El Pipeline de renderizado (video)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "TARJETAS_GRAFICAS_files/Render_Pipeline.jpg",
+              "alt": "Diagrama simplificado del pipeline de renderizado de una GPU.",
+              "title": "Pipeline de Renderizado de la GPU."
+            },
+            {
+              "src": "TARJETAS_GRAFICAS_files/Shader_Units.jpg",
+              "alt": "Representación de unidades shader dentro de una GPU.",
+              "title": "Unidades Shader."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 3",
+      "archivo": "TARJETAS_GRAFICAS_Unidad_3_Como_Funciona_Una_GPU.html",
+      "ruta_completa": "DATA/CONTENTS/TARJETAS_GRAFICAS/Unidad 3/TARJETAS_GRAFICAS_Unidad_3_Como_Funciona_Una_GPU.html"
+    },
+    {
+      "title": "TARJETAS_GRAFICAS_Unidad_4_Tipos_y_Aplicaciones",
+      "sections": [
+        {
+          "title": "Tipos de Tarjetas Gráficas y Sus Aplicaciones",
+          "subsections": [
+            {
+              "type": "Tipos",
+              "paragraphs": [
+                {
+                  "id": "P31",
+                  "text": "Existen dos categorías principales de tarjetas gráficas, cada una con sus propias características y casos de uso:",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P32",
+                  "text": "**1. Gráficos Integrados (iGPU - Integrated Graphics Processing Unit):** Estas GPU están integradas directamente en el mismo chip que la CPU (procesador principal) o en la placa base. Son comunes en ordenadores portátiles, PCs de oficina, mini PCs y sistemas de bajo costo.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P33",
+                  "text": "Las iGPU comparten la memoria RAM del sistema con la CPU y son adecuadas para tareas básicas como navegación web, reproducción de video en alta definición, trabajo de oficina y juegos poco exigentes. Ofrecen un menor consumo de energía y costo, pero su rendimiento es limitado para aplicaciones gráficas intensivas.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P34",
+                  "text": "**2. Tarjetas Gráficas Dedicadas (dGPU - Dedicated Graphics Processing Unit):** También conocidas como tarjetas gráficas discretas, son componentes separados que se conectan a la placa base a través de una ranura de expansión (generalmente PCIe). Tienen su propia GPU y VRAM dedicada, lo que les permite un rendimiento mucho mayor.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P35",
+                  "text": "Las dGPU son esenciales para: **Gaming (videojuegos)**, permitiendo altas resoluciones, tasas de fotogramas y efectos visuales complejos. **Diseño Gráfico y Edición de Vídeo**, acelerando el renderizado, la manipulación de imágenes y la edición de efectos especiales.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P36",
+                  "text": "También son cruciales para **Modelado 3D y CAD/CAM**, permitiendo la visualización y manipulación de modelos complejos. **Inteligencia Artificial y Machine Learning**, ya que la arquitectura paralela de las GPU es ideal para el entrenamiento de modelos de IA. Y **Minería de Criptomonedas**, aunque esta aplicación ha fluctuado en popularidad.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P37",
+                  "text": "Dentro de las dGPU, existen gamas: **Entrada/Básica:** Para gaming casual o mejoras sobre iGPU. **Media:** El punto dulce para la mayoría de jugadores que buscan buen rendimiento a 1080p o 1440p. **Alta/Premium:** Para entusiastas que buscan el máximo rendimiento en resoluciones 4K, realidad virtual o tasas de refresco muy altas.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P38",
+                  "text": "Las tarjetas gráficas también se clasifican por su arquitectura (NVIDIA Ada Lovelace, AMD RDNA 3) y la generación de sus componentes, lo que impacta directamente en su rendimiento y características (Ray Tracing, DLSS/FSR).",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P39",
+                  "text": "La elección entre una iGPU y una dGPU, o entre diferentes rangos de dGPU, depende totalmente del uso previsto del sistema y del presupuesto disponible. Para cualquier tarea gráfica intensiva, una dGPU es indispensable.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P40",
+                  "text": "La versatilidad de las GPU las ha convertido en un caballo de batalla no solo para los gráficos, sino también para la computación de propósito general, expandiendo su influencia mucho más allá del mero display.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://www.digitaltrends.com/computing/discrete-vs-integrated-graphics/",
+              "text": "Gráficos discretos vs. integrados (Digital Trends)"
+            },
+            {
+              "href": "https://www.youtube.com/watch?v=f2GfH4bJp5U",
+              "text": "¿Qué es una tarjeta gráfica? (video)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "TARJETAS_GRAFICAS_files/iGPU_vs_dGPU.jpg",
+              "alt": "Comparación visual entre gráficos integrados (CPU con GPU) y una tarjeta gráfica dedicada.",
+              "title": "Gráficos Integrados vs. Dedicados."
+            },
+            {
+              "src": "TARJETAS_GRAFICAS_files/Gaming_GPU.jpg",
+              "alt": "Imagen de una tarjeta gráfica de gaming de alta gama instalada en un PC.",
+              "title": "Tarjeta Gráfica Dedicada para Gaming."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 4",
+      "archivo": "TARJETAS_GRAFICAS_Unidad_4_Tipos_y_Aplicaciones.html",
+      "ruta_completa": "DATA/CONTENTS/TARJETAS_GRAFICAS/Unidad 4/TARJETAS_GRAFICAS_Unidad_4_Tipos_y_Aplicaciones.html"
+    },
+    {
+      "title": "TARJETAS_GRAFICAS_Unidad_5_Fabricantes_y_Tecnologias_Clave",
+      "sections": [
+        {
+          "title": "Fabricantes y Tecnologías Clave",
+          "subsections": [
+            {
+              "type": "Tecnología",
+              "paragraphs": [
+                {
+                  "id": "P41",
+                  "text": "El mercado de las tarjetas gráficas está dominado por unos pocos fabricantes principales, cada uno con sus propias arquitecturas y tecnologías distintivas.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P42",
+                  "text": "**NVIDIA:** Es el líder del mercado en GPU de alto rendimiento para gaming y profesional. Sus series GeForce (gaming) y Quadro/RTX Ada (profesional) son ampliamente reconocidas. NVIDIA es pionera en tecnologías como:",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P43",
+                  "text": "**Ray Tracing (RTX):** Una técnica de renderizado que simula el comportamiento físico de la luz para producir reflejos, refracciones y sombras ultrarrealistas. Requiere hardware dedicado (núcleos RT) en las GPUs NVIDIA.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P44",
+                  "text": "**DLSS (Deep Learning Super Sampling):** Una tecnología de escalado de imagen basada en IA que utiliza núcleos Tensor (hardware dedicado en GPUs RTX) para renderizar a una resolución más baja y luego escalar la imagen a una resolución más alta con una calidad sorprendente, mejorando drásticamente el rendimiento.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P45",
+                  "text": "**AMD:** El principal competidor de NVIDIA, con sus GPU Radeon (gaming) y Radeon Pro (profesional). AMD también ofrece soluciones integradas con sus APUs (CPU con gráficos integrados). Sus tecnologías clave incluyen:",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P46",
+                  "text": "**FSR (FidelityFX Super Resolution):** La alternativa de AMD a DLSS. Es una tecnología de escalado espacial de código abierto que no requiere hardware dedicado y puede funcionar en una gama más amplia de tarjetas gráficas (incluyendo NVIDIA y antiguas AMD), aunque con resultados variables en comparación con DLSS.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P47",
+                  "text": "**Ray Tracing (RDNA):** Las GPU de AMD también soportan Ray Tracing, aunque su implementación y rendimiento han sido tradicionalmente un paso por detrás de NVIDIA en las primeras generaciones.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P48",
+                  "text": "**Intel:** Después de años de dominar los gráficos integrados, Intel ha reingresado al mercado de las dGPU con su serie **Intel Arc**. Buscan competir en las gamas media y baja-media, ofreciendo sus propias tecnologías de escalado (XeSS) y soporte para Ray Tracing.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P49",
+                  "text": "La competencia entre estos fabricantes impulsa la innovación, llevando a GPU cada vez más potentes y eficientes. La elección de un fabricante u otro a menudo se reduce a preferencias personales, presupuesto y la optimización de los juegos para cada arquitectura.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P50",
+                  "text": "Las tecnologías de escalado como DLSS, FSR y XeSS son cada vez más importantes, ya que permiten a los jugadores disfrutar de altas resoluciones y framerates sin necesidad de adquirir el hardware más caro, extendiendo la vida útil de las tarjetas gráficas.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://www.techradar.com/news/gpu-makers-compared-nvidia-amd-intel",
+              "text": "Comparación de fabricantes de GPU (TechRadar)"
+            },
+            {
+              "href": "https://www.youtube.com/watch?v=sI909t7fP04",
+              "text": "Explicación de Ray Tracing y DLSS (video)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "TARJETAS_GRAFICAS_files/NVIDIA_RTX_Card.jpg",
+              "alt": "Tarjeta gráfica NVIDIA GeForce RTX.",
+              "title": "NVIDIA GeForce RTX."
+            },
+            {
+              "src": "TARJETAS_GRAFICAS_files/AMD_Radeon_Card.jpg",
+              "alt": "Tarjeta gráfica AMD Radeon.",
+              "title": "AMD Radeon."
+            },
+            {
+              "src": "TARJETAS_GRAFICAS_files/Intel_Arc_Card.jpg",
+              "alt": "Tarjeta gráfica Intel Arc.",
+              "title": "Intel Arc."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 5",
+      "archivo": "TARJETAS_GRAFICAS_Unidad_5_Fabricantes_y_Tecnologias_Clave.html",
+      "ruta_completa": "DATA/CONTENTS/TARJETAS_GRAFICAS/Unidad 5/TARJETAS_GRAFICAS_Unidad_5_Fabricantes_y_Tecnologias_Clave.html"
+    },
+    {
+      "title": "TARJETAS_GRAFICAS_Unidad_6_Factores_de_Rendimiento_y_Mantenimiento",
+      "sections": [
+        {
+          "title": "Factores de Rendimiento y Mantenimiento",
+          "subsections": [
+            {
+              "type": "Mantenimiento",
+              "paragraphs": [
+                {
+                  "id": "P51",
+                  "text": "El rendimiento de una tarjeta gráfica depende de varios factores, y un mantenimiento adecuado es esencial para asegurar su longevidad y eficiencia.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P52",
+                  "text": "**Factores Clave de Rendimiento:**",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P53",
+                  "text": "**Frecuencia de Reloj (Core Clock):** La velocidad a la que la GPU procesa datos. Una mayor frecuencia generalmente significa mejor rendimiento. Se mide en MHz o GHz.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P54",
+                  "text": "**Cantidad y Tipo de VRAM:** Cuanta más VRAM y más rápida (GDDR6X > GDDR6 > GDDR5), mejor capacidad para manejar texturas de alta resolución y escenas complejas, especialmente en resoluciones 4K o juegos muy exigentes.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P55",
+                  "text": "**Ancho de Banda de Memoria:** La velocidad a la que la VRAM puede transferir datos a la GPU. Se ve afectado por el tipo de VRAM y la interfaz de memoria (bus). Un mayor ancho de banda es crucial.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P56",
+                  "text": "**Número de Núcleos/Shaders:** Más núcleos de procesamiento paralelo (CUDA Cores en NVIDIA, Stream Processors en AMD) permiten a la GPU realizar más cálculos simultáneamente, mejorando el rendimiento.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P57",
+                  "text": "**Arquitectura de la GPU:** La eficiencia del diseño interno de la GPU (ej., NVIDIA Ampere vs. Ada Lovelace, AMD RDNA 2 vs. RDNA 3) es fundamental. Las arquitecturas más nuevas suelen ofrecer más rendimiento por vatio y nuevas características.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P58",
+                  "text": "**Mantenimiento de la Tarjeta Gráfica:**",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P59",
+                  "text": "**Limpieza Regular:** Es fundamental limpiar el polvo de los ventiladores y disipadores de la tarjeta gráfica con aire comprimido o un cepillo suave. El polvo acumulado puede obstruir el flujo de aire y provocar sobrecalentamiento.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P60",
+                  "text": "**Control de Temperatura:** Monitorear las temperaturas de la GPU con software (ej., HWMonitor, MSI Afterburner) es crucial. Temperaturas excesivas pueden reducir el rendimiento (thermal throttling) y acortar la vida útil de la tarjeta. Asegurar una buena ventilación del chasis es vital.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P61",
+                  "text": "**Actualización de Controladores (Drivers):** Mantener los drivers de la tarjeta gráfica actualizados es imprescindible para obtener el mejor rendimiento, la máxima compatibilidad con los juegos nuevos y las últimas correcciones de errores. Los fabricantes lanzan actualizaciones regularmente.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P62",
+                  "text": "**Fuente de Alimentación (PSU) Adecuada:** Asegurarse de que la fuente de alimentación tenga la potencia (Watts) y los conectores adecuados para la tarjeta gráfica. Una PSU insuficiente puede causar inestabilidad o incluso dañar componentes.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P63",
+                  "text": "**Repaste de la Pasta Térmica (Opcional y Avanzado):** Después de varios años, la pasta térmica entre la GPU y el disipador puede secarse y perder efectividad. Reemplazarla puede mejorar las temperaturas, pero es una tarea que requiere cuidado y conocimientos.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P64",
+                  "text": "Un buen equilibrio entre estos factores de rendimiento y un mantenimiento preventivo garantizan que la tarjeta gráfica opere a su máximo potencial y dure el mayor tiempo posible.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://www.pcworld.com/article/393739/how-to-keep-your-graphics-card-cool.html",
+              "text": "Cómo mantener tu tarjeta gráfica fría (PCWorld)"
+            },
+            {
+              "href": "https://www.youtube.com/embed/TfCaAHILUlc1",
+              "text": "Cómo limpiar tu tarjeta gráfica (video)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "TARJETAS_GRAFICAS_files/GPU_Fans_Dust.jpg",
+              "alt": "Ventiladores de una tarjeta gráfica con acumulación de polvo.",
+              "title": "Acumulación de Polvo en Ventiladores de GPU."
+            },
+            {
+              "src": "TARJETAS_GRAFICAS_files/GPU_Temperature_Monitoring.jpg",
+              "alt": "Captura de pantalla de un software de monitoreo de temperatura de GPU.",
+              "title": "Monitoreo de Temperatura de GPU."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 6",
+      "archivo": "TARJETAS_GRAFICAS_Unidad_6_Factores_de_Rendimiento_y_Mantenimiento.html",
+      "ruta_completa": "DATA/CONTENTS/TARJETAS_GRAFICAS/Unidad 6/TARJETAS_GRAFICAS_Unidad_6_Factores_de_Rendimiento_y_Mantenimiento.html"
+    },
+    {
+      "title": "TARJETAS_GRAFICAS_Unidad_7_El_Impacto_de_las_GPUs_Mas_Alla_del_Gaming",
+      "sections": [
+        {
+          "title": "El Impacto de las GPUs Más Allá del Gaming",
+          "subsections": [
+            {
+              "type": "Aplicaciones Avanzadas",
+              "paragraphs": [
+                {
+                  "id": "P65",
+                  "text": "Aunque las tarjetas gráficas son sinónimo de gaming, su poder de procesamiento paralelo las ha hecho indispensables en muchos otros campos, extendiendo su impacto mucho más allá del entretenimiento.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P66",
+                  "text": "**1. Inteligencia Artificial (IA) y Machine Learning (ML):** Las GPUs son el motor de la revolución de la IA. Sus miles de núcleos son ideales para el entrenamiento de redes neuronales profundas, que requieren enormes cantidades de cálculos matriciales en paralelo. Esto incluye aplicaciones como reconocimiento facial, procesamiento de lenguaje natural, conducción autónoma y análisis de datos masivos.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P67",
+                  "text": "**2. Computación de Alto Rendimiento (HPC) y Cálculo Científico:** Las GPU, especialmente las de grado profesional (NVIDIA Tesla/H100, AMD Instinct), se utilizan en superordenadores para simulaciones complejas en campos como la meteorología, la física, la química, la biología molecular y la investigación médica, acelerando descubrimientos científicos.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P68",
+                  "text": "**3. Edición de Video y Diseño Gráfico Profesional:** Programas como Adobe Premiere Pro, After Effects, DaVinci Resolve, Autodesk Maya y Blender dependen en gran medida de la GPU para acelerar el renderizado, la previsualización en tiempo real de efectos complejos, la gradación de color y la manipulación de escenas 3D, reduciendo drásticamente los tiempos de producción.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P69",
+                  "text": "**4. Realidad Virtual (RV) y Realidad Aumentada (RA):** Para ofrecer experiencias inmersivas y fluidas en RV/RA, se requiere renderizar imágenes de alta resolución a tasas de fotogramas muy elevadas para cada ojo. Las GPUs potentes son fundamentales para evitar el mareo y proporcionar una experiencia realista.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P70",
+                  "text": "**5. Cryptominado (Blockchain):** Aunque su popularidad ha fluctuado, las GPU fueron (y en algunos casos, siguen siendo) utilizadas para minar criptomonedas como Ethereum, debido a su eficiencia en la resolución de los complejos algoritmos criptográficos requeridos.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P71",
+                  "text": "**6. Streaming y Creación de Contenido:** Las GPU modernas incluyen codificadores de hardware dedicados (ej. NVIDIA NVENC, AMD VCN) que permiten a los streamers transmitir juegos en vivo con mínima pérdida de rendimiento, y a los creadores de contenido exportar videos rápidamente.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P72",
+                  "text": "La capacidad de las GPU para procesar grandes volúmenes de datos en paralelo las ha convertido en una tecnología transformadora, impulsando avances en casi todos los sectores de la tecnología y la ciencia.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P73",
+                  "text": "La investigación y el desarrollo en el campo de las GPU no solo se centran en mejorar los gráficos de los juegos, sino también en optimizar su arquitectura para estas aplicaciones de computación de propósito general.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P74",
+                  "text": "El futuro promete una integración aún mayor de las capacidades de la GPU en soluciones de IA y computación de borde, haciendo que su influencia sea aún más ubicua en nuestra vida diaria.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://developer.nvidia.com/discover",
+              "text": "Descubre el poder de las GPU (NVIDIA Developer)"
+            },
+            {
+              "href": "https://www.youtube.com/embed/TfCaAHILUlc2",
+              "text": "El papel de las GPUs en la IA (video)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "TARJETAS_GRAFICAS_files/AI_GPU.jpg",
+              "alt": "Representación de una red neuronal siendo procesada por una GPU, simbolizando la IA y Machine Learning.",
+              "title": "GPU en Inteligencia Artificial."
+            },
+            {
+              "src": "TARJETAS_GRAFICAS_files/Video_Editing_GPU.jpg",
+              "alt": "Persona editando un video en un software con la GPU acelerando el proceso.",
+              "title": "GPU para Edición de Video."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 7",
+      "archivo": "TARJETAS_GRAFICAS_Unidad_7_El_Impacto_de_las_GPUs_Mas_Alla_del_Gaming.html",
+      "ruta_completa": "DATA/CONTENTS/TARJETAS_GRAFICAS/Unidad 7/TARJETAS_GRAFICAS_Unidad_7_El_Impacto_de_las_GPUs_Mas_Alla_del_Gaming.html"
+    },
+    {
+      "title": "TARJETAS_GRAFICAS_Unidad_8_Tendencias_Futuras_e_Innovacion",
+      "sections": [
+        {
+          "title": "Tendencias Futuras e Innovación en Tarjetas Gráficas",
+          "subsections": [
+            {
+              "type": "Tendencias",
+              "paragraphs": [
+                {
+                  "id": "P75",
+                  "text": "El campo de las tarjetas gráficas sigue evolucionando a un ritmo vertiginoso. Varias tendencias y tecnologías prometen definir el futuro de la renderización y la computación acelerada.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P76",
+                  "text": "**1. Integración y Procesamiento Heterogéneo:** Veremos una mayor integración de la GPU con la CPU (APUs más potentes) y quizás también con otras unidades de procesamiento especializadas (NPU para IA). La computación heterogénea, donde cada tarea se asigna al procesador más eficiente para ella, será la norma.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P77",
+                  "text": "**2. Escalado de Chips (Chiplets):** Para superar los límites de la fabricación de chips monolíticos, los fabricantes están adoptando diseños de 'chiplets' donde diferentes partes de la GPU (o la GPU y la memoria) se fabrican como chips separados y luego se interconectan en un solo paquete. Esto mejora el rendimiento, la eficiencia y los rendimientos de fabricación.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P78",
+                  "text": "**3. Avances en Ray Tracing y Path Tracing:** El Ray Tracing seguirá madurando, volviéndose más eficiente y accesible en una gama más amplia de hardware. El 'Path Tracing', una forma aún más fotorrealista de renderizado basada en trazo de rayos, empezará a ser más viable en tiempo real, llevando los gráficos a niveles de realismo cinematográfico.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P79",
+                  "text": "**4. Inteligencia Artificial en Gráficos (IA-Powered Graphics):** Las tecnologías de escalado basadas en IA como DLSS y FSR continuarán mejorando y serán aún más prevalentes. Además, la IA se utilizará cada vez más para generar texturas, animaciones, personajes y entornos en tiempo real, reduciendo la carga de trabajo de los desarrolladores y permitiendo mundos más dinámicos.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P80",
+                  "text": "**5. Nuevos Estándares de Conectividad y Memoria:** La evolución de PCIe (hacia PCIe 5.0 y más allá) y la adopción de tipos de memoria más rápidos y eficientes como HBM (High Bandwidth Memory) y GDDR7 impulsarán el rendimiento y el ancho de banda, eliminando cuellos de botella.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P81",
+                  "text": "**6. Realidad Extendida (XR) y Metaversos:** A medida que la Realidad Virtual y Aumentada evolucionan hacia la Realidad Extendida (XR) y la visión de metaversos persistentes se materializa, las GPUs serán el motor crucial para renderizar estos mundos virtuales inmersivos con la latencia y fidelidad necesarias.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P82",
+                  "text": "**7. Sostenibilidad y Eficiencia Energética:** Con el creciente consumo de energía de las GPUs de alta gama, la eficiencia energética será una prioridad aún mayor. Los fabricantes se enfocarán en lograr más rendimiento por vatio, así como en soluciones de refrigeración más innovadoras.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P83",
+                  "text": "Estas tendencias apuntan hacia un futuro donde las tarjetas gráficas serán no solo herramientas de visualización, sino verdaderos centros de computación paralela, esenciales para la próxima generación de experiencias digitales y avances tecnológicos.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://www.nvidia.com/en-us/geforce/news/ai-powered-graphics-future/",
+              "text": "El futuro de los gráficos impulsado por IA (NVIDIA)"
+            },
+            {
+              "href": "https://www.youtube.com/embed/TfCaAHILUlc3",
+              "text": "Tendencias futuras en GPUs (video)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "TARJETAS_GRAFICAS_files/AI_Generated_Graphics.jpg",
+              "alt": "Imagen abstracta de gráficos generados por IA, simbolizando el futuro.",
+              "title": "Gráficos Generados por IA."
+            },
+            {
+              "src": "TARJETAS_GRAFICAS_files/Future_GPU_Concept.jpg",
+              "alt": "Concepto de una futura tarjeta gráfica con diseño innovador y disipación de calor avanzada.",
+              "title": "Concepto de GPU Futura."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 8",
+      "archivo": "TARJETAS_GRAFICAS_Unidad_8_Tendencias_Futuras_e_Innovacion.html",
+      "ruta_completa": "DATA/CONTENTS/TARJETAS_GRAFICAS/Unidad 8/TARJETAS_GRAFICAS_Unidad_8_Tendencias_Futuras_e_Innovacion.html"
+    }
+  ]
+}

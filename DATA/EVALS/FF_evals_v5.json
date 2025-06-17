@@ -1,0 +1,266 @@
+{
+  "module": "FINAL_FANTASY_EVALS",
+  "total_preguntas": 10,
+  "preguntas": [
+    {
+      "numero": "1",
+      "enunciado": "¿Qué sistema de combate innovador fue introducido por primera vez en Final Fantasy IV (conocido en Occidente como FFII en su lanzamiento) y se convirtió en un pilar de la serie?",
+      "opciones": [
+        "Sistema de Materia",
+        "Batalla de Tiempo Activo (ATB)",
+        "Sistema de Gambits",
+        "Combate por Turnos Tradicional"
+      ],
+      "respuestas": [
+        "1"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Batalla de Tiempo Activo (ATB). Este sistema añadía un elemento de tiempo real al combate por turnos.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "FINAL_FANTASY_EVALS",
+        "unidad": "Historia de la Saga",
+        "usuario": "Cid Highwind",
+        "archivo": "FF_Quiz_Historia.html"
+      }
+    },
+    {
+      "numero": "2",
+      "enunciado": "¿Cuál de los siguientes juegos de Final Fantasy fue el primero en presentar voces en off completas para los personajes?",
+      "opciones": [
+        "Final Fantasy VII",
+        "Final Fantasy VIII",
+        "Final Fantasy IX",
+        "Final Fantasy X"
+      ],
+      "respuestas": [
+        "3"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Final Fantasy X (PS2).",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "final_fantasy_evals_files/ffx_cutscene.png",
+          "alt": "Escena de Final Fantasy X con personajes hablando",
+          "title": "Final Fantasy X"
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "FINAL_FANTASY_EVALS",
+        "unidad": "Innovaciones Técnicas",
+        "usuario": "Cid Highwind",
+        "archivo": "FF_Quiz_Innovaciones.html"
+      }
+    },
+    {
+      "numero": "3",
+      "enunciado": "En Final Fantasy VII, ¿qué elemento se utiliza para invocar poderosas criaturas conocidas como 'Summons' o 'Eidolons'?",
+      "opciones": [
+        "Guardian Forces",
+        "Espers",
+        "Materia",
+        "Quickenings"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Materia. Esferas mágicas que otorgan habilidades y magias.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "FINAL_FANTASY_EVALS",
+        "unidad": "Sistemas de Juego",
+        "usuario": "Cid Highwind",
+        "archivo": "FF_Quiz_Sistemas.html"
+      }
+    },
+    {
+      "numero": "4",
+      "enunciado": "¿Qué villano icónico de Final Fantasy VI es conocido por su risa maníaca y su ambición de convertirse en un dios?",
+      "opciones": [
+        "Sephiroth",
+        "Kefka Palazzo",
+        "Ultimecia",
+        "Ardyn Izunia"
+      ],
+      "respuestas": [
+        "1"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Kefka Palazzo.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "final_fantasy_evals_files/kefka_laugh.png",
+          "alt": "Imagen de Kefka riendo",
+          "title": "Kefka Palazzo"
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "FINAL_FANTASY_EVALS",
+        "unidad": "Personajes y Lore",
+        "usuario": "Cid Highwind",
+        "archivo": "FF_Quiz_Lore.html"
+      }
+    },
+    {
+      "numero": "5",
+      "enunciado": "¿Cuál fue el primer juego de la serie principal de Final Fantasy en ofrecer un combate de acción en tiempo real más pronunciado, alejándose de los sistemas por turnos o ATB?",
+      "opciones": [
+        "Final Fantasy X",
+        "Final Fantasy XII",
+        "Final Fantasy XIII",
+        "Final Fantasy XV"
+      ],
+      "respuestas": [
+        "3"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Final Fantasy XV (aunque FFXII ya introdujo elementos de tiempo real, FFXV lo llevó a un combate de acción directo).",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "FINAL_FANTASY_EVALS",
+        "unidad": "Evolución del Combate",
+        "usuario": "Cid Highwind",
+        "archivo": "FF_Quiz_Gameplay.html"
+      }
+    },
+    {
+      "numero": "6",
+      "enunciado": "¿Qué personaje es el protagonista principal de Final Fantasy VIII y miembro de SeeD, una organización mercenaria de élite?",
+      "opciones": [
+        "Cloud Strife",
+        "Squall Leonhart",
+        "Zidane Tribal",
+        "Tidus"
+      ],
+      "respuestas": [
+        "1"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Squall Leonhart.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "final_fantasy_evals_files/squall.png",
+          "alt": "Imagen de Squall Leonhart",
+          "title": "Squall Leonhart"
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "FINAL_FANTASY_EVALS",
+        "unidad": "Personajes Principales",
+        "usuario": "Cid Highwind",
+        "archivo": "FF_Quiz_Personajes.html"
+      }
+    },
+    {
+      "numero": "7",
+      "enunciado": "¿Cuál de estos juegos de Final Fantasy se considera un homenaje a las raíces fantásticas de la serie, con un estilo artístico más estilizado y un tono más ligero que sus predecesores de PS1?",
+      "opciones": [
+        "Final Fantasy VII",
+        "Final Fantasy VIII",
+        "Final Fantasy IX",
+        "Final Fantasy X"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Final Fantasy IX.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "FINAL_FANTASY_EVALS",
+        "unidad": "Estilo y Tono",
+        "usuario": "Cid Highwind",
+        "archivo": "FF_Quiz_Historia.html"
+      }
+    },
+    {
+      "numero": "8",
+      "enunciado": "El 'Job System' (Sistema de Oficios), que permite a los personajes cambiar de rol y habilidades, fue introducido por primera vez en: ",
+      "opciones": [
+        "Final Fantasy I",
+        "Final Fantasy II",
+        "Final Fantasy III",
+        "Final Fantasy IV"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Final Fantasy III.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "final_fantasy_evals_files/ff3_jobs.png",
+          "alt": "Sistema de oficios de Final Fantasy III",
+          "title": "FFIII Job System"
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "FINAL_FANTASY_EVALS",
+        "unidad": "Sistemas de Juego",
+        "usuario": "Cid Highwind",
+        "archivo": "FF_Quiz_Sistemas.html"
+      }
+    },
+    {
+      "numero": "9",
+      "enunciado": "¿Qué compositor es el responsable de la icónica banda sonora de la mayoría de los juegos de la serie principal de Final Fantasy?",
+      "opciones": [
+        "Yoko Shimomura",
+        "Masashi Hamauzu",
+        "Nobuo Uematsu",
+        "Hitoshi Sakimoto"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Nobuo Uematsu.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "FINAL_FANTASY_EVALS",
+        "unidad": "Arte y Música",
+        "usuario": "Cid Highwind",
+        "archivo": "FF_Quiz_Cultura.html"
+      }
+    },
+    {
+      "numero": "10",
+      "enunciado": "¿En qué mundo se ambienta Final Fantasy XII, un mundo conocido por su intriga política y guerras entre naciones?",
+      "opciones": [
+        "Gaia",
+        "Spira",
+        "Ivalice",
+        "Eos"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Ivalice, un mundo compartido con otros juegos como Final Fantasy Tactics y Vagrant Story.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "final_fantasy_evals_files/ivalice_map.png",
+          "alt": "Mapa del mundo de Ivalice",
+          "title": "Mundo de Ivalice"
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "FINAL_FANTASY_EVALS",
+        "unidad": "Lore y Ambientación",
+        "usuario": "Cid Highwind",
+        "archivo": "FF_Quiz_Lore.html"
+      }
+    }
+  ]
+}

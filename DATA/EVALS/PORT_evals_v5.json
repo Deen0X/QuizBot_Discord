@@ -1,0 +1,501 @@
+{
+  "module": "CONSOLAS_PORTATILES_EVAL",
+  "total_preguntas": 15,
+  "preguntas": [
+    {
+      "numero": "1",
+      "enunciado": "¿Qué consola portátil es ampliamente reconocida como la primera con cartuchos intercambiables?",
+      "opciones": [
+        "Nintendo Game & Watch",
+        "Atari Lynx",
+        "Milton Bradley Microvision",
+        "Sega Game Gear"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La Milton Bradley Microvision, lanzada en 1979, es considerada la primera consola portátil con cartuchos intercambiables, un hito importante en la evolución del gaming portátil.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "CONSOLAS_PORTATILES_files/Microvision.jpg",
+          "alt": "Consola Milton Bradley Microvision."
+        }
+      ],
+      "links": [
+        {
+          "href": "CONSOLAS_PORTATILES_Unidad_1_Los_Origenes_y_La_Era_Pionera.html",
+          "text": "Unidad 1: Los Orígenes y la Era Pionera"
+        }
+      ],
+      "origen": {
+        "modulo": "CONSOLAS_PORTATILES_EVAL",
+        "unidad": "Unidad 1",
+        "usuario": "AI",
+        "archivo": "CONSOLAS_PORTATILES_EVAL_Q1.html"
+      }
+    },
+    {
+      "numero": "2",
+      "enunciado": "¿Qué innovación importante introdujo la serie Game & Watch de Nintendo, que se convertiría en un estándar de la industria?",
+      "opciones": [
+        "Pantallas a color",
+        "Conectividad Wi-Fi",
+        "El 'D-pad' o cruceta",
+        "Juegos en 3D estereoscópico"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La serie Game & Watch de Nintendo, además de popularizar los juegos portátiles, fue pionera en la implementación del 'D-pad' o cruceta, un método de control que se volvió fundamental en casi todas las consolas posteriores.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "CONSOLAS_PORTATILES_files/Game_Watch_Ball.jpg",
+          "alt": "Consola Nintendo Game & Watch (modelo Ball)."
+        }
+      ],
+      "links": [
+        {
+          "href": "CONSOLAS_PORTATILES_Unidad_1_Los_Origenes_y_La_Era_Pionera.html",
+          "text": "Unidad 1: Los Orígenes y la Era Pionera"
+        }
+      ],
+      "origen": {
+        "modulo": "CONSOLAS_PORTATILES_EVAL",
+        "unidad": "Unidad 1",
+        "usuario": "AI",
+        "archivo": "CONSOLAS_PORTATILES_EVAL_Q2.html"
+      }
+    },
+    {
+      "numero": "3",
+      "enunciado": "La Game Boy de Nintendo dominó el mercado a pesar de su pantalla monocromática debido a (selecciona todas las que apliquen):",
+      "opciones": [
+        "Su alto precio de lanzamiento.",
+        "Su robustez y durabilidad.",
+        "La increíble duración de su batería.",
+        "El éxito masivo de 'Tetris' incluido con la consola."
+      ],
+      "respuestas": [
+        "1",
+        "2",
+        "3"
+      ],
+      "retroalimentacion": "La Game Boy se impuso gracias a su durabilidad, una batería de larga duración y el impacto de juegos como 'Tetris', que atrajo a una audiencia masiva. Su bajo precio también fue un factor clave.",
+      "type_quiz": "multiple",
+      "media": [
+        {
+          "src": "CONSOLAS_PORTATILES_files/Game_Boy_Original.jpg",
+          "alt": "Consola Nintendo Game Boy original."
+        }
+      ],
+      "links": [
+        {
+          "href": "CONSOLAS_PORTATILES_Unidad_2_El_Fenomeno_Game_Boy_y_La_Competencia_16_bits.html",
+          "text": "Unidad 2: El Fenómeno Game Boy y la Competencia de 16 bits"
+        }
+      ],
+      "origen": {
+        "modulo": "CONSOLAS_PORTATILES_EVAL",
+        "unidad": "Unidad 2",
+        "usuario": "AI",
+        "archivo": "CONSOLAS_PORTATILES_EVAL_Q3.html"
+      }
+    },
+    {
+      "numero": "4",
+      "enunciado": "¿Qué consola de 16 bits, competidora de la Game Boy, fue conocida por su alta calidad de pantalla a color pero también por su alto consumo de batería?",
+      "opciones": [
+        "Atari Lynx",
+        "TurboExpress/PC Engine GT",
+        "Sega Game Gear",
+        "Neo Geo Pocket Color"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La Sega Game Gear ofrecía una pantalla a color de gran calidad, pero su principal desventaja era el elevado consumo de batería, lo que limitaba significativamente su tiempo de juego portátil.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "CONSOLAS_PORTATILES_files/Sega_Game_Gear.jpg",
+          "alt": "Consola Sega Game Gear."
+        }
+      ],
+      "links": [
+        {
+          "href": "CONSOLAS_PORTATILES_Unidad_2_El_Fenomeno_Game_Boy_y_La_Competencia_16_bits.html",
+          "text": "Unidad 2: El Fenómeno Game Boy y la Competencia de 16 bits"
+        }
+      ],
+      "origen": {
+        "modulo": "CONSOLAS_PORTATILES_EVAL",
+        "unidad": "Unidad 2",
+        "usuario": "AI",
+        "archivo": "CONSOLAS_PORTATILES_EVAL_Q4.html"
+      }
+    },
+    {
+      "numero": "5",
+      "enunciado": "La PlayStation Portable (PSP) de Sony se diferenció de sus competidoras al ofrecer (selecciona todas las que apliquen):",
+      "opciones": [
+        "Un diseño de doble pantalla.",
+        "Gráficos 3D impresionantes y capacidades multimedia avanzadas.",
+        "Uso exclusivo de cartuchos como medio de almacenamiento.",
+        "Conectividad Wi-Fi y reproductor de películas UMD."
+      ],
+      "respuestas": [
+        "1",
+        "3"
+      ],
+      "retroalimentacion": "La PSP fue la primera en traer gráficos 3D avanzados y capacidades multimedia (como reproducción de vídeo y música, y navegación web) a una consola portátil, utilizando el formato UMD y ofreciendo Wi-Fi. La doble pantalla fue una característica de la Nintendo DS.",
+      "type_quiz": "multiple",
+      "media": [
+        {
+          "src": "CONSOLAS_PORTATILES_files/PSP_Original.jpg",
+          "alt": "Consola PlayStation Portable (PSP) original."
+        }
+      ],
+      "links": [
+        {
+          "href": "CONSOLAS_PORTATILES_Unidad_3_La_Era_32_bits_y_La_Llegada_de_Sony.html",
+          "text": "Unidad 3: La Era de los 32 bits y la Llegada de Sony"
+        }
+      ],
+      "origen": {
+        "modulo": "CONSOLAS_PORTATILES_EVAL",
+        "unidad": "Unidad 3",
+        "usuario": "AI",
+        "archivo": "CONSOLAS_PORTATILES_EVAL_Q5.html"
+      }
+    },
+    {
+      "numero": "6",
+      "enunciado": "La Nintendo DS, a pesar de ser menos potente que la PSP, logró un mayor éxito comercial gracias a:",
+      "opciones": [
+        "Su pantalla 3D sin gafas.",
+        "Su diseño de doble pantalla (una táctil) y una jugabilidad innovadora.",
+        "Un precio mucho más elevado.",
+        "Su enfoque exclusivo en juegos 'hardcore'."
+      ],
+      "respuestas": [
+        "1"
+      ],
+      "retroalimentacion": "La Nintendo DS triunfó por su innovación en la jugabilidad con la doble pantalla y la pantalla táctil, atrayendo a una audiencia muy amplia, no solo a los jugadores tradicionales.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "CONSOLAS_PORTATILES_files/Nintendo_DS.jpg",
+          "alt": "Consola Nintendo DS original."
+        }
+      ],
+      "links": [
+        {
+          "href": "CONSOLAS_PORTATILES_Unidad_3_La_Era_32_bits_y_La_Llegada_de_Sony.html",
+          "text": "Unidad 3: La Era de los 32 bits y la Llegada de Sony"
+        }
+      ],
+      "origen": {
+        "modulo": "CONSOLAS_PORTATILES_EVAL",
+        "unidad": "Unidad 3",
+        "usuario": "AI",
+        "archivo": "CONSOLAS_PORTATILES_EVAL_Q6.html"
+      }
+    },
+    {
+      "numero": "7",
+      "enunciado": "¿Qué factor fue el principal competidor de las consolas portátiles dedicadas a finales de los 2000 y principios de los 2010?",
+      "opciones": [
+        "El resurgimiento de los juegos de arcade.",
+        "Los juegos de PC de alta gama.",
+        "La proliferación de smartphones con juegos casuales.",
+        "La falta de interés general en los videojuegos."
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "El auge de los smartphones con tiendas de aplicaciones y juegos asequibles se convirtió en el principal competidor para las consolas portátiles dedicadas, cambiando el panorama del gaming en movimiento.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [
+        {
+          "href": "CONSOLAS_PORTATILES_Unidad_4_El_Impacto_Movil_y_La_Realidad_3D.html",
+          "text": "Unidad 4: El Impacto del Móvil y la Realidad 3D"
+        }
+      ],
+      "origen": {
+        "modulo": "CONSOLAS_PORTATILES_EVAL",
+        "unidad": "Unidad 4",
+        "usuario": "AI",
+        "archivo": "CONSOLAS_PORTATILES_EVAL_Q7.html"
+      }
+    },
+    {
+      "numero": "8",
+      "enunciado": "La Nintendo 3DS se lanzó con la característica principal de:",
+      "opciones": [
+        "Gráficos en 4K.",
+        "Realidad virtual inmersiva.",
+        "Pantalla 3D estereoscópico sin necesidad de gafas.",
+        "Un reproductor de Blu-ray integrado."
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La Nintendo 3DS fue pionera en ofrecer gráficos en 3D estereoscópico sin necesidad de gafas, una característica distintiva que la diferenció de sus competidores.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "CONSOLAS_PORTATILES_files/Nintendo_3DS.jpg",
+          "alt": "Consola Nintendo 3DS."
+        }
+      ],
+      "links": [
+        {
+          "href": "CONSOLAS_PORTATILES_Unidad_4_El_Impacto_Movil_y_La_Realidad_3D.html",
+          "text": "Unidad 4: El Impacto del Móvil y la Realidad 3D"
+        }
+      ],
+      "origen": {
+        "modulo": "CONSOLAS_PORTATILES_EVAL",
+        "unidad": "Unidad 4",
+        "usuario": "AI",
+        "archivo": "CONSOLAS_PORTATILES_EVAL_Q8.html"
+      }
+    },
+    {
+      "numero": "9",
+      "enunciado": "La PlayStation Vita (PS Vita) luchó por ganar tracción frente a la 3DS y los móviles debido a (selecciona todas las que apliquen):",
+      "opciones": [
+        "Su hardware menos potente.",
+        "La falta de soporte de juegos third-party.",
+        "El uso de tarjetas de memoria propietarias y costosas.",
+        "Una duración de batería excesivamente larga."
+      ],
+      "respuestas": [
+        "1",
+        "2"
+      ],
+      "retroalimentacion": "La PS Vita, a pesar de su hardware potente, se vio afectada por la escasez de juegos de terceros y el alto costo y el carácter propietario de sus tarjetas de memoria. Su duración de batería era comparable, no excesivamente larga.",
+      "type_quiz": "multiple",
+      "media": [
+        {
+          "src": "CONSOLAS_PORTATILES_files/PS_Vita.jpg",
+          "alt": "Consola PlayStation Vita."
+        }
+      ],
+      "links": [
+        {
+          "href": "CONSOLAS_PORTATILES_Unidad_4_El_Impacto_Movil_y_La_Realidad_3D.html",
+          "text": "Unidad 4: El Impacto del Móvil y la Realidad 3D"
+        }
+      ],
+      "origen": {
+        "modulo": "CONSOLAS_PORTATILES_EVAL",
+        "unidad": "Unidad 4",
+        "usuario": "AI",
+        "archivo": "CONSOLAS_PORTATILES_EVAL_Q9.html"
+      }
+    },
+    {
+      "numero": "10",
+      "enunciado": "La Nintendo Switch revolucionó el mercado al introducir un concepto:",
+      "opciones": [
+        "Solo para juegos de realidad virtual.",
+        "Exclusivamente para juegos digitales de bajo costo.",
+        "Híbrido, combinando consola de sobremesa y portátil.",
+        "Enfocado únicamente en el streaming de juegos."
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La Nintendo Switch es famosa por su diseño híbrido, que permite a los jugadores cambiar sin problemas entre el modo portátil y el modo de sobremesa conectado a un televisor.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "CONSOLAS_PORTATILES_files/Nintendo_Switch_Hybrid.jpg",
+          "alt": "Consola Nintendo Switch mostrando su capacidad híbrida."
+        }
+      ],
+      "links": [
+        {
+          "href": "CONSOLAS_PORTATILES_Unidad_5_La_Era_Hibrida_Nintendo_Switch.html",
+          "text": "Unidad 5: La Era Híbrida: Nintendo Switch y el Resurgimiento"
+        }
+      ],
+      "origen": {
+        "modulo": "CONSOLAS_PORTATILES_EVAL",
+        "unidad": "Unidad 5",
+        "usuario": "AI",
+        "archivo": "CONSOLAS_PORTATILES_EVAL_Q10.html"
+      }
+    },
+    {
+      "numero": "11",
+      "enunciado": "¿Qué consola fue pionera en la categoría de los 'PC portátiles de gaming', permitiendo jugar la biblioteca de Steam de forma portátil?",
+      "opciones": [
+        "ASUS ROG Ally",
+        "Nintendo Switch",
+        "Steam Deck",
+        "Lenovo Legion Go"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La Steam Deck de Valve fue la consola pionera que popularizó el concepto de los PC portátiles de gaming, abriendo la puerta a jugar bibliotecas de Steam en formato portátil.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "CONSOLAS_PORTATILES_files/Steam_Deck.jpg",
+          "alt": "Consola Steam Deck de Valve."
+        }
+      ],
+      "links": [
+        {
+          "href": "CONSOLAS_PORTATILES_Unidad_6_El_Resurgimiento_del_PC_Portatil.html",
+          "text": "Unidad 6: El Resurgimiento del PC Portátil de Gaming"
+        }
+      ],
+      "origen": {
+        "modulo": "CONSOLAS_PORTATILES_EVAL",
+        "unidad": "Unidad 6",
+        "usuario": "AI",
+        "archivo": "CONSOLAS_PORTATILES_EVAL_Q11.html"
+      }
+    },
+    {
+      "numero": "12",
+      "enunciado": "¿Cuáles de las siguientes son ventajas de los PC portátiles de gaming como la Steam Deck o la ROG Ally? (Selecciona todas las que apliquen)",
+      "opciones": [
+        "Son significativamente más económicos que las consolas dedicadas.",
+        "Permiten el acceso a la vasta biblioteca de juegos de PC.",
+        "Suelen tener una mayor duración de batería en comparación con las consolas dedicadas.",
+        "Ofrecen la versatilidad de ejecutar un sistema operativo de escritorio completo."
+      ],
+      "respuestas": [
+        "1",
+        "3"
+      ],
+      "retroalimentacion": "Los PC portátiles de gaming destacan por su acceso a la enorme biblioteca de juegos de PC y la versatilidad de un sistema operativo de escritorio. Suelen ser más caros y, a menudo, tienen una menor duración de batería debido a la mayor demanda de hardware.",
+      "type_quiz": "multiple",
+      "media": [
+        {
+          "src": "CONSOLAS_PORTATILES_files/ASUS_ROG_Ally.jpg",
+          "alt": "Consola ASUS ROG Ally."
+        }
+      ],
+      "links": [
+        {
+          "href": "CONSOLAS_PORTATILES_Unidad_6_El_Resurgimiento_del_PC_Portatil.html",
+          "text": "Unidad 6: El Resurgimiento del PC Portátil de Gaming"
+        }
+      ],
+      "origen": {
+        "modulo": "CONSOLAS_PORTATILES_EVAL",
+        "unidad": "Unidad 6",
+        "usuario": "AI",
+        "archivo": "CONSOLAS_PORTATILES_EVAL_Q12.html"
+      }
+    },
+    {
+      "numero": "13",
+      "enunciado": "El fenómeno Pokémon se asocia directamente con el éxito de qué consola portátil:",
+      "opciones": [
+        "PlayStation Portable (PSP)",
+        "Nintendo DS",
+        "Game Boy",
+        "Nintendo Switch"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "El fenómeno Pokémon, especialmente sus primeras entregas, fue fundamental para el éxito masivo de la Nintendo Game Boy, convirtiéndose en una de las franquicias más influyentes de la historia.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "CONSOLAS_PORTATILES_files/Pokemon_Game_Boy.jpg",
+          "alt": "Captura de pantalla de un juego de Pokémon en Game Boy."
+        }
+      ],
+      "links": [
+        {
+          "href": "CONSOLAS_PORTATILES_Unidad_7_Impacto_Cultural_y_Legado.html",
+          "text": "Unidad 7: Impacto Cultural y Legado"
+        }
+      ],
+      "origen": {
+        "modulo": "CONSOLAS_PORTATILES_EVAL",
+        "unidad": "Unidad 7",
+        "usuario": "AI",
+        "archivo": "CONSOLAS_PORTATILES_EVAL_Q13.html"
+      }
+    },
+    {
+      "numero": "14",
+      "enunciado": "¿Qué tendencia actual en el gaming portátil permite a los usuarios jugar títulos de alta calidad sin necesidad de hardware potente local?",
+      "opciones": [
+        "El uso exclusivo de cartuchos físicos.",
+        "El aumento del tamaño de las pantallas.",
+        "El Cloud Gaming (Juego en la Nube).",
+        "La disminución de la duración de la batería."
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "El Cloud Gaming (juego en la nube) es una tendencia creciente que permite la transmisión de juegos desde servidores remotos a dispositivos portátiles, eliminando la necesidad de un hardware local muy potente.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "CONSOLAS_PORTATILES_files/Cloud_Gaming.jpg",
+          "alt": "Persona jugando a un juego en la nube en una tableta."
+        }
+      ],
+      "links": [
+        {
+          "href": "CONSOLAS_PORTATILES_Unidad_8_El_Futuro_del_Gaming_Portatil.html",
+          "text": "Unidad 8: El Futuro del Gaming Portátil"
+        }
+      ],
+      "origen": {
+        "modulo": "CONSOLAS_PORTATILES_EVAL",
+        "unidad": "Unidad 8",
+        "usuario": "AI",
+        "archivo": "CONSOLAS_PORTATILES_EVAL_Q14.html"
+      }
+    },
+    {
+      "numero": "15",
+      "enunciado": "¿Cuál de las siguientes es una característica que las consolas portátiles han fomentado significativamente en la cultura del videojuego?",
+      "opciones": [
+        "El desarrollo de esports a gran escala.",
+        "La creación de complejos sistemas de realidad virtual.",
+        "El juego social y multijugador local.",
+        "La necesidad de una conexión a internet constante para jugar."
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "Las consolas portátiles, con sus capacidades de link cable y comunicación inalámbrica local, han sido fundamentales para fomentar el juego social y multijugador entre amigos en persona.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "CONSOLAS_PORTATILES_files/Multijugador_Portatil.jpg",
+          "alt": "Grupo de personas jugando juntas con sus consolas portátiles."
+        }
+      ],
+      "links": [
+        {
+          "href": "CONSOLAS_PORTATILES_Unidad_7_Impacto_Cultural_y_Legado.html",
+          "text": "Unidad 7: Impacto Cultural y Legado"
+        }
+      ],
+      "origen": {
+        "modulo": "CONSOLAS_PORTATILES_EVAL",
+        "unidad": "Unidad 7",
+        "usuario": "AI",
+        "archivo": "CONSOLAS_PORTATILES_EVAL_Q15.html"
+      }
+    }
+  ]
+}

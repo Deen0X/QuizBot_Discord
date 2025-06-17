@@ -1,0 +1,266 @@
+{
+  "module": "XBOX_EVALS",
+  "total_preguntas": 10,
+  "preguntas": [
+    {
+      "numero": "1",
+      "enunciado": "¿Qué empresa de hardware/software era la principal preocupación de Microsoft al decidir entrar en el mercado de las consolas, creyendo que podría desplazar al PC como centro de entretenimiento?",
+      "opciones": [
+        "Nintendo",
+        "Sega",
+        "Sony",
+        "Apple"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Sony (con su PlayStation 2).",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "XBOX_EVALS",
+        "unidad": "Inicios de Xbox",
+        "usuario": "Phil Spencer",
+        "archivo": "Xbox_Quiz_Historia.html"
+      }
+    },
+    {
+      "numero": "2",
+      "enunciado": "¿Cuál fue el 'killer app' de la Xbox original que se convirtió en un fenómeno cultural y definió la marca en sus inicios?",
+      "opciones": [
+        "Fable",
+        "Forza Motorsport",
+        "Halo: Combat Evolved",
+        "Project Gotham Racing"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Halo: Combat Evolved.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "xbox_evals_files/halo_master_chief.png",
+          "alt": "Master Chief de Halo.",
+          "title": "Master Chief."
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "XBOX_EVALS",
+        "unidad": "Juegos Icónicos",
+        "usuario": "Phil Spencer",
+        "archivo": "Xbox_Quiz_Juegos.html"
+      }
+    },
+    {
+      "numero": "3",
+      "enunciado": "¿Qué servicio de suscripción online, lanzado en 2002, revolucionó el juego multijugador en consolas con funciones unificadas y 'Gamerscore'?",
+      "opciones": [
+        "PlayStation Network",
+        "Nintendo Wi-Fi Connection",
+        "Xbox Live",
+        "Steam"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Xbox Live.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "XBOX_EVALS",
+        "unidad": "Servicios Xbox",
+        "usuario": "Phil Spencer",
+        "archivo": "Xbox_Quiz_Servicios.html"
+      }
+    },
+    {
+      "numero": "4",
+      "enunciado": "La Xbox 360 se adelantó un año a su principal competidor de la séptima generación. ¿Qué consola era esta?",
+      "opciones": [
+        "Nintendo Wii",
+        "PlayStation 3",
+        "Nintendo GameCube",
+        "PlayStation 2"
+      ],
+      "respuestas": [
+        "1"
+      ],
+      "retroalimentacion": "La respuesta correcta es: PlayStation 3.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "xbox_evals_files/xbox360_ps3.png",
+          "alt": "Xbox 360 y PlayStation 3.",
+          "title": "Xbox 360 y PS3."
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "XBOX_EVALS",
+        "unidad": "Xbox 360",
+        "usuario": "Phil Spencer",
+        "archivo": "Xbox_Quiz_Xbox360.html"
+      }
+    },
+    {
+      "numero": "5",
+      "enunciado": "¿Qué problema de hardware masivo afectó a las primeras unidades de Xbox 360, llevando a Microsoft a incurrir en costos multimillonarios para su reparación?",
+      "opciones": [
+        "La Pantalla Azul de la Muerte",
+        "El Anillo Rojo de la Muerte",
+        "La Luz Amarilla de la Muerte",
+        "El Error del Disco Duro"
+      ],
+      "respuestas": [
+        "1"
+      ],
+      "retroalimentacion": "La respuesta correcta es: El Anillo Rojo de la Muerte.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "XBOX_EVALS",
+        "unidad": "Xbox 360",
+        "usuario": "Phil Spencer",
+        "archivo": "Xbox_Quiz_Xbox360.html"
+      }
+    },
+    {
+      "numero": "6",
+      "enunciado": "La Xbox One tuvo un lanzamiento controvertido debido a su énfasis inicial en una característica obligatoria. ¿Cuál era esa característica?",
+      "opciones": [
+        "Compatibilidad con PC",
+        "La inclusión obligatoria de Kinect",
+        "Soporte solo para juegos digitales",
+        "Conexión a internet solo por cable"
+      ],
+      "respuestas": [
+        "1"
+      ],
+      "retroalimentacion": "La respuesta correcta es: La inclusión obligatoria de Kinect.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "xbox_evals_files/xbox_one_kinect.png",
+          "alt": "Xbox One con Kinect.",
+          "title": "Xbox One + Kinect."
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "XBOX_EVALS",
+        "unidad": "Xbox One",
+        "usuario": "Phil Spencer",
+        "archivo": "Xbox_Quiz_XboxOne.html"
+      }
+    },
+    {
+      "numero": "7",
+      "enunciado": "¿Qué servicio de suscripción de Xbox, lanzado en 2017, ofrece acceso a un catálogo rotatorio de más de cien juegos, incluyendo todos los títulos de Xbox Game Studios desde el día de su lanzamiento?",
+      "opciones": [
+        "Xbox Live Gold",
+        "Xbox Cloud Gaming",
+        "Xbox Game Pass",
+        "EA Play"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Xbox Game Pass.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "XBOX_EVALS",
+        "unidad": "Servicios Xbox",
+        "usuario": "Phil Spencer",
+        "archivo": "Xbox_Quiz_Servicios.html"
+      }
+    },
+    {
+      "numero": "8",
+      "enunciado": "¿Qué característica de Xbox Series X|S permite a los jugadores alternar instantáneamente entre múltiples juegos sin perder el progreso?",
+      "opciones": [
+        "Smart Delivery",
+        "Xbox Cloud Gaming",
+        "Quick Resume",
+        "FPS Boost"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Quick Resume.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "xbox_evals_files/quick_resume.png",
+          "alt": "Iconos de juegos en Quick Resume.",
+          "title": "Quick Resume."
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "XBOX_EVALS",
+        "unidad": "Xbox Series X|S",
+        "usuario": "Phil Spencer",
+        "archivo": "Xbox_Quiz_Series.html"
+      }
+    },
+    {
+      "numero": "9",
+      "enunciado": "¿Cuál de las siguientes es una de las consolas de novena generación de Microsoft, diseñada para ser una opción más asequible y totalmente digital?",
+      "opciones": [
+        "Xbox One X",
+        "Xbox Series X",
+        "Xbox Series S",
+        "Xbox 360 E"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Xbox Series S.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "XBOX_EVALS",
+        "unidad": "Xbox Series X|S",
+        "usuario": "Phil Spencer",
+        "archivo": "Xbox_Quiz_Series.html"
+      }
+    },
+    {
+      "numero": "10",
+      "enunciado": "La estrategia a largo plazo de Xbox se centra en expandir el ecosistema Game Pass a través de diversas plataformas, con la visión de convertirse en el 'Netflix de los videojuegos'. ¿Qué importante adquisición ha contribuido a esta estrategia?",
+      "opciones": [
+        "Zynga",
+        "Bungie",
+        "Activision Blizzard",
+        "CD Projekt Red"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Activision Blizzard.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "xbox_evals_files/microsoft_activision_blizzard.png",
+          "alt": "Logo de Microsoft y Activision Blizzard.",
+          "title": "Microsoft y Activision Blizzard."
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "XBOX_EVALS",
+        "unidad": "Futuro de Xbox",
+        "usuario": "Phil Spencer",
+        "archivo": "Xbox_Quiz_Futuro.html"
+      }
+    }
+  ]
+}

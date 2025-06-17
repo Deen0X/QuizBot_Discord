@@ -1,0 +1,1011 @@
+{
+  "module": "GUIA_MONTAJE_PC_CONTENTS",
+  "total_archivos": 10,
+  "total_parrafos": 100,
+  "contenidos": [
+    {
+      "title": "GUIA_MONTAJE_PC_Unidad_1_Introduccion_y_Planificacion",
+      "sections": [
+        {
+          "title": "Introducción y Planificación",
+          "subsections": [
+            {
+              "type": "Información General",
+              "paragraphs": [
+                {
+                  "id": "P1",
+                  "text": "Bienvenido a la guía completa para montar tu propio PC. Montar un ordenador puede parecer una tarea intimidante, pero con las herramientas adecuadas, la información precisa y una buena dosis de paciencia, es un proceso gratificante y relativamente sencillo. Esta guía te llevará paso a paso desde la selección de componentes hasta el primer encendido de tu nuevo equipo.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P2",
+                  "text": "Montar tu propio PC ofrece numerosas ventajas. Te permite personalizar cada componente para satisfacer tus necesidades específicas, ya sea para gaming de alta gama, edición de vídeo, trabajo de oficina o uso general. Además, a menudo resulta más económico que comprar un PC pre-ensamblado con especificaciones similares y te proporciona un conocimiento invaluable sobre el funcionamiento interno de tu máquina.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P3",
+                  "text": "Antes de comenzar con el ensamblaje, la planificación es crucial. Una buena planificación no solo te ahorrará tiempo y frustración, sino que también asegurará la compatibilidad de todos los componentes y evitará problemas durante el montaje.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P4",
+                  "text": "El primer paso en la planificación es definir el propósito principal de tu PC. ¿Será para jugar? ¿Trabajo profesional (diseño gráfico, edición de vídeo, programación)? ¿Uso doméstico general? La respuesta a esta pregunta determinará la potencia y el tipo de componentes que necesitarás.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P5",
+                  "text": "Establece un presupuesto realista. Los precios de los componentes varían enormemente, y es fácil excederse si no tienes un límite claro. Prioriza los componentes más importantes para tu uso principal y asigna el presupuesto en consecuencia.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P6",
+                  "text": "Considera la compatibilidad de los componentes. Los sockets de la CPU deben coincidir con la placa base, la RAM debe ser del tipo correcto (DDR4, DDR5) y compatible con la placa, y la tarjeta gráfica debe caber físicamente en la caja y ser compatible con la fuente de alimentación.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P7",
+                  "text": "Herramientas necesarias: Un destornillador Phillips magnético (esencial), bridas o velcro para la gestión de cables, una pulsera antiestática (altamente recomendada para proteger los componentes), y un paño de microfibra. Evita herramientas eléctricas para los tornillos, ya que puedes aplicar demasiada fuerza.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P8",
+                  "text": "El espacio de trabajo es importante. Asegúrate de tener una superficie de trabajo limpia, bien iluminada y libre de estática (una mesa de madera o un suelo duro son preferibles a la alfombra). Ten a mano todos los manuales de los componentes.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P9",
+                  "text": "Desempaca los componentes con cuidado y familiarízate con ellos. No tires las cajas ni los envoltorios hasta que el PC esté completamente montado y funcionando correctamente, ya que los necesitarás si tienes que devolver o cambiar algo.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P10",
+                  "text": "Antes de tocar cualquier componente electrónico, asegúrate de descargar cualquier electricidad estática de tu cuerpo. Toca una superficie metálica sin pintar, como el chasis de la caja del PC o un radiador, o utiliza una pulsera antiestática conectada al chasis. Esto es vital para evitar daños a los componentes sensibles.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://www.pcgamer.com/how-to-build-a-gaming-pc/",
+              "text": "Guía de montaje de PC para gaming (PC Gamer)"
+            },
+            {
+              "href": "https://www.intel.es/content/www/es/es/gaming/resources/how-to-build-gaming-pc.html",
+              "text": "Cómo construir un PC de gaming (Intel)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "GUIA_MONTAJE_PC_files/Preparacion_Componentes.jpg",
+              "alt": "Componentes de PC listos para el montaje.",
+              "title": "Componentes del PC."
+            },
+            {
+              "src": "GUIA_MONTAJE_PC_files/Pulsera_Antiestatica.jpg",
+              "alt": "Persona utilizando una pulsera antiestática.",
+              "title": "Pulsera Antiestática."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 1",
+      "archivo": "GUIA_MONTAJE_PC_Unidad_1_Introduccion_y_Planificacion.html",
+      "ruta_completa": "T:/Bots/QUIZBOT_DATA_V5\\DATA\\CONTENTS\\GUIA_MONTAJE_PC\\Unidad 1\\GUIA_MONTAJE_PC_Unidad_1_Introduccion_y_Planificacion.html"
+    },
+    {
+      "title": "GUIA_MONTAJE_PC_Unidad_2_Instalacion_CPU_y_Cooler",
+      "sections": [
+        {
+          "title": "Instalación de CPU y Cooler",
+          "subsections": [
+            {
+              "type": "Pasos de Montaje",
+              "paragraphs": [
+                {
+                  "id": "P11",
+                  "text": "La instalación de la CPU (Unidad Central de Procesamiento) es el primer paso crítico en el ensamblaje de tu PC, ya que es el 'cerebro' del sistema. Manipúlala siempre con extrema precaución, sujetándola solo por los bordes.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P12",
+                  "text": "Identifica el socket de la CPU en tu placa base. Existen dos tipos principales: LGA (Land Grid Array) para Intel y PGA (Pin Grid Array) para AMD. El proceso de instalación varía ligeramente entre ellos, pero la precaución es la misma.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P13",
+                  "text": "Para CPUs Intel (LGA): Abre el pestillo de retención del socket y levanta el brazo metálico. La cubierta de plástico negra del socket se soltará o se quedará enganchada al brazo. No la toques. Alinea las muescas de la CPU con las del socket (busca un pequeño triángulo o flecha en una de las esquinas) y colócala suavemente. No apliques fuerza; debe encajar sin resistencia. Baja el brazo metálico y cierra el pestillo para asegurar la CPU en su lugar. La cubierta de plástico saldrá al bajar el brazo.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P14",
+                  "text": "Para CPUs AMD (PGA): Abre el pestillo del socket levantando la palanca metálica. Alinea la flecha dorada de la CPU con la flecha en el socket de la placa base (generalmente en una esquina). Coloca la CPU suavemente; los pines deben deslizarse en los agujeros sin resistencia. Si encuentras resistencia, algo no está alineado. Una vez encajada, baja la palanca para asegurar la CPU.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P15",
+                  "text": "Una vez instalada la CPU, es el momento de aplicar la pasta térmica (si tu cooler no la trae pre-aplicada). Esta pasta es crucial para transferir el calor de la CPU al disipador del cooler. Aplica una pequeña cantidad (del tamaño de un guisante) en el centro de la CPU. No es necesario extenderla; la presión del cooler la distribuirá de manera uniforme.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P16",
+                  "text": "Instalación del cooler (ventilador/disipador): Sigue las instrucciones específicas de tu cooler, ya que varían entre modelos (stock, torres de aire, refrigeración líquida). Generalmente, implican alinear el disipador con los agujeros de montaje de la placa base y atornillarlo o fijarlo con los clips provistos. Asegúrate de que el disipador esté bien apretado y en contacto uniforme con la CPU.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P17",
+                  "text": "Conecta el cable del ventilador del cooler al conector 'CPU_FAN' de la placa base. Este conector es crucial, ya que la placa base lo monitorea para controlar la velocidad del ventilador y asegurarse de que la CPU se refrigere correctamente. Suele estar etiquetado cerca del socket de la CPU.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P18",
+                  "text": "Para refrigeraciones líquidas (AIO): Monta el bloque de agua sobre la CPU (aplicando pasta térmica si es necesario), siguiendo las instrucciones de montaje específicas. Luego, instala el radiador y sus ventiladores en la ubicación designada de tu caja (generalmente la parte superior o frontal), y conecta los cables del ventilador y de la bomba a los conectores correspondientes de la placa base (FAN_PUMP o SYS_FAN).",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P19",
+                  "text": "Verifica que el cooler esté firmemente sujeto y no se mueva. Un mal contacto entre el disipador y la CPU puede provocar un sobrecalentamiento grave y daños en el procesador.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P20",
+                  "text": "Una vez instalado, es recomendable revisar visualmente que no haya cables obstruyendo los ventiladores del cooler y que todo el conjunto esté estable.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://www.youtube.com/watch?v=PXaA-Z9G-6k",
+              "text": "Cómo instalar un CPU Intel (video)"
+            },
+            {
+              "href": "https://www.youtube.com/watch?v=PXaA-Z9G-6k",
+              "text": "Cómo instalar un CPU AMD (video)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "GUIA_MONTAJE_PC_files/CPU_Instalacion.jpg",
+              "alt": "Instalación de la CPU en el socket de la placa base.",
+              "title": "Instalación de la CPU."
+            },
+            {
+              "src": "GUIA_MONTAJE_PC_files/Aplicacion_Pasta_Termica.jpg",
+              "alt": "Aplicación de pasta térmica sobre la CPU.",
+              "title": "Pasta Térmica."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 2",
+      "archivo": "GUIA_MONTAJE_PC_Unidad_2_Instalacion_CPU_y_Cooler.html",
+      "ruta_completa": "T:/Bots/QUIZBOT_DATA_V5\\DATA\\CONTENTS\\GUIA_MONTAJE_PC\\Unidad 2\\GUIA_MONTAJE_PC_Unidad_2_Instalacion_CPU_y_Cooler.html"
+    },
+    {
+      "title": "GUIA_MONTAJE_PC_Unidad_3_Instalacion_RAM_y_Placa_Base_en_Caja",
+      "sections": [
+        {
+          "title": "Instalación de RAM y Placa Base en la Caja",
+          "subsections": [
+            {
+              "type": "Pasos de Montaje",
+              "paragraphs": [
+                {
+                  "id": "P21",
+                  "text": "Con la CPU y el cooler ya instalados en la placa base, el siguiente paso es instalar los módulos de RAM (Memoria de Acceso Aleatorio). La RAM es crucial para el rendimiento general del sistema, y su instalación es sencilla pero requiere atención.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P22",
+                  "text": "Identifica las ranuras DIMM para la RAM en tu placa base. Generalmente hay 2 o 4 ranuras. Para un rendimiento óptimo, especialmente en configuraciones de doble canal (dual channel), asegúrate de consultar el manual de tu placa base para saber en qué ranuras específicas debes instalar los módulos (suelen ser las ranuras 2 y 4, o 1 y 3, contando desde la CPU).",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P23",
+                  "text": "Abre los clips de retención en los extremos de las ranuras DIMM. Sostén el módulo de RAM por los bordes y alinea la muesca central del módulo con la muesca de la ranura. Esta muesca evita que la RAM sea insertada incorrectamente.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P24",
+                  "text": "Presiona firmemente y de manera uniforme en ambos extremos del módulo de RAM hasta que los clips de retención se cierren automáticamente (o escuches un 'clic'). Si los clips no se cierran, la RAM no está completamente asentada. No uses fuerza excesiva, pero sí presión firme.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P25",
+                  "text": "Ahora es el momento de instalar la placa base en la caja del PC. Antes de hacerlo, asegúrate de que los espaciadores de la placa base (standoffs) estén correctamente instalados en la caja. Estos elevadores metálicos evitan que la parte trasera de la placa base toque directamente el chasis, previniendo cortocircuitos.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P26",
+                  "text": "Si tu caja no tiene el escudo de E/S (Input/Output Shield) pre-instalado, instálalo ahora en la apertura trasera de la caja. Asegúrate de que encaje perfectamente y de que la orientación sea correcta para los puertos de tu placa base.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P27",
+                  "text": "Con cuidado, baja la placa base dentro de la caja, alineando los agujeros de los tornillos de la placa con los espaciadores. Asegúrate también de que los puertos de E/S de la placa base encajen en las aberturas del escudo de E/S.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P28",
+                  "text": "Una vez que la placa base esté alineada, atorníllala firmemente a los espaciadores utilizando los tornillos proporcionados con la caja o la placa base. Aprieta los tornillos de manera uniforme, pero no los aprietes en exceso para evitar dañar la placa.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P29",
+                  "text": "Conecta los cables del panel frontal de la caja a la placa base. Esto incluye los cables de encendido (Power SW), reinicio (Reset SW), indicadores LED (HDD LED, Power LED), y los conectores USB frontales (USB 2.0, USB 3.0/3.1) y de audio (HD Audio). Consulta el manual de tu placa base, ya que la ubicación y polaridad de estos pequeños conectores son cruciales.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P30",
+                  "text": "Asegúrate de que todos los cables estén correctamente conectados y, si es posible, utiliza los pasacables de la caja para una gestión de cables más limpia, que ayudará a mejorar el flujo de aire y la estética del sistema.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://www.youtube.com/watch?v=F3_l8A31f4o",
+              "text": "Cómo instalar RAM (video)"
+            },
+            {
+              "href": "https://www.youtube.com/watch?v=i9g4jE8g_xM",
+              "text": "Cómo instalar la placa base en la caja (video)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "GUIA_MONTAJE_PC_files/Instalacion_RAM.jpg",
+              "alt": "Instalación de módulos de RAM en la placa base.",
+              "title": "Instalación de RAM."
+            },
+            {
+              "src": "GUIA_MONTAJE_PC_files/Placa_Base_en_Caja.jpg",
+              "alt": "Placa base instalada dentro de la caja del PC.",
+              "title": "Placa Base en la Caja."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 3",
+      "archivo": "GUIA_MONTAJE_PC_Unidad_3_Instalacion_RAM_y_Placa_Base_en_Caja.html",
+      "ruta_completa": "T:/Bots/QUIZBOT_DATA_V5\\DATA\\CONTENTS\\GUIA_MONTAJE_PC\\Unidad 3\\GUIA_MONTAJE_PC_Unidad_3_Instalacion_RAM_y_Placa_Base_en_Caja.html"
+    },
+    {
+      "title": "GUIA_MONTAJE_PC_Unidad_4_Instalacion_Almacenamiento",
+      "sections": [
+        {
+          "title": "Instalación de Almacenamiento (SSD/HDD)",
+          "subsections": [
+            {
+              "type": "Pasos de Montaje",
+              "paragraphs": [
+                {
+                  "id": "P31",
+                  "text": "La instalación de las unidades de almacenamiento es el siguiente paso. Puedes optar por SSDs (Unidades de Estado Sólido) SATA, SSDs M.2 NVMe, o HDDs (Discos Duros tradicionales), o una combinación de ellos.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P32",
+                  "text": "Instalación de SSD M.2 NVMe: Estos SSDs compactos se instalan directamente en una ranura M.2 de la placa base. Localiza la ranura (generalmente etiquetada como 'M.2' y a veces con un disipador propio). Retira el tornillo de retención o el clip de plástico. Inserta el SSD M.2 en la ranura en un ángulo de 45 grados. Presiona hacia abajo y asegura el SSD con el tornillo o clip que retiraste. Muchas placas base vienen con un disipador para SSD M.2 que debes instalar encima del SSD una vez fijado.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P33",
+                  "text": "Instalación de SSD SATA de 2.5 pulgadas: Estos SSDs se montan en las bahías de 2.5 pulgadas de la caja (a menudo detrás de la bandeja de la placa base). Fija el SSD en la bahía con tornillos o mediante el sistema 'tool-less' de la caja. Conecta un cable de datos SATA desde el SSD a uno de los puertos SATA de la placa base y un cable de alimentación SATA desde la fuente de alimentación al SSD.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P34",
+                  "text": "Instalación de HDDs de 3.5 pulgadas: Los HDDs se instalan en las bahías de 3.5 pulgadas de la caja, que a menudo están ubicadas en la parte frontal inferior. Desliza el HDD en la bahía hasta que encaje o asegúralo con tornillos. Al igual que los SSD SATA, conecta un cable de datos SATA desde el HDD a la placa base y un cable de alimentación SATA desde la fuente de alimentación.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P35",
+                  "text": "Gestión de cables SATA: Intenta pasar los cables SATA por la parte trasera de la bandeja de la placa base para mantener el interior de la caja limpio y mejorar el flujo de aire. Asegúrate de que no haya tensión en los cables y de que estén bien conectados.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P36",
+                  "text": "Priorización de puertos SATA: Si tienes varias unidades SATA, ten en cuenta que algunas placas base pueden deshabilitar ciertos puertos SATA cuando se utiliza un SSD M.2 NVMe. Consulta el manual de tu placa base para confirmar esto y evitar sorpresas.",
+                  "links": [],
+            "media": []
+                },
+                {
+                  "id": "P37",
+                  "text": "Revisión de conexiones: Verifica que todas las unidades de almacenamiento estén firmemente montadas en sus bahías y que los cables de datos y alimentación estén correctamente conectados tanto a las unidades como a la placa base y la fuente de alimentación.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P38",
+                  "text": "Consideraciones de flujo de aire: Al organizar los cables de datos y alimentación, intenta mantenerlos lo más ordenados posible para no obstruir el flujo de aire generado por los ventiladores de la caja, lo que podría afectar la temperatura de los componentes.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P39",
+                  "text": "Si tu caja tiene un concentrador de ventiladores o un controlador RGB, asegúrate de que las unidades de almacenamiento no impidan el acceso a estos componentes o sus cables.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P40",
+                  "text": "La correcta instalación del almacenamiento es fundamental para que el sistema operativo y tus juegos/programas carguen rápidamente y funcionen sin problemas. Unidades mal conectadas pueden causar errores o no ser detectadas por el sistema.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://www.youtube.com/watch?v=n7sQ-7gNq-0",
+              "text": "Cómo instalar un SSD M.2 (video)"
+            },
+            {
+              "href": "https://www.youtube.com/watch?v=F0S18-yQ6J4",
+              "text": "Cómo instalar un SSD/HDD SATA (video)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "GUIA_MONTAJE_PC_files/SSD_M2_Instalacion.jpg",
+              "alt": "Instalación de un SSD M.2 NVMe en la placa base.",
+              "title": "Instalación de SSD M.2."
+            },
+            {
+              "src": "GUIA_MONTAJE_PC_files/HDD_SSD_SATA_Instalacion.jpg",
+              "alt": "Instalación de un HDD de 3.5 pulgadas en la bahía de la caja.",
+              "title": "Instalación de HDD/SSD SATA."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 4",
+      "archivo": "GUIA_MONTAJE_PC_Unidad_4_Instalacion_Almacenamiento.html",
+      "ruta_completa": "T:/Bots/QUIZBOT_DATA_V5\\DATA\\CONTENTS\\GUIA_MONTAJE_PC\\Unidad 4\\GUIA_MONTAJE_PC_Unidad_4_Instalacion_Almacenamiento.html"
+    },
+    {
+      "title": "GUIA_MONTAJE_PC_Unidad_5_Instalacion_Tarjeta_Grafica",
+      "sections": [
+        {
+          "title": "Instalación de la Tarjeta Gráfica (GPU)",
+          "subsections": [
+            {
+              "type": "Pasos de Montaje",
+              "paragraphs": [
+                {
+                  "id": "P41",
+                  "text": "La tarjeta gráfica (GPU) es uno de los componentes más importantes para el gaming y las tareas intensivas en gráficos. Su instalación es sencilla, pero dada su importancia y tamaño, requiere cuidado.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P42",
+                  "text": "Localiza la ranura PCIe x16 en tu placa base. Generalmente es la ranura más grande y la primera (o la superior) de color diferente a las demás, y está reforzada en placas de gama media/alta. Es la ranura donde se conectará tu tarjeta gráfica.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P43",
+                  "text": "Retira las tapas de las ranuras PCIe de la parte trasera de tu caja que coincidan con la altura de tu tarjeta gráfica (generalmente 2 o 3, dependiendo del modelo). Algunas cajas tienen tapas que se atornillan, otras tienen tapas que se rompen (asegúrate de quitarlas con cuidado para no doblar el chasis).",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P44",
+                  "text": "Abre el clip de retención en el extremo de la ranura PCIe x16. Sostén la tarjeta gráfica firmemente por los bordes, alineando el conector PCIe de la tarjeta con la ranura de la placa base.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P45",
+                  "text": "Presiona la tarjeta gráfica firmemente hacia abajo hasta que encaje completamente en la ranura. Escucharás un 'clic' cuando el clip de retención se cierre, lo que indica que la tarjeta está correctamente asentada. Asegúrate de que esté nivelada y no se incline.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P46",
+                  "text": "Asegura la tarjeta gráfica a la caja con los tornillos que retiraste de las tapas PCIe. Esto evitará que la tarjeta se mueva y proporcione estabilidad adicional.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P47",
+                  "text": "Conecta los cables de alimentación PCIe de la fuente de alimentación a la tarjeta gráfica. La mayoría de las tarjetas gráficas modernas requieren uno o dos conectores de 6 u 8 pines. Asegúrate de que todos los conectores necesarios estén conectados firmemente. No uses adaptadores si tu fuente de alimentación tiene los conectores nativos.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P48",
+                  "text": "Gestión de cables de la GPU: Pasa los cables de alimentación de la GPU por la parte trasera de la bandeja de la placa base y sácalos por una de las aberturas cerca de la tarjeta gráfica para una apariencia limpia y un buen flujo de aire.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P49",
+                  "text": "Verifica visualmente que la tarjeta gráfica esté firmemente asentada, sin juego, y que todos sus cables de alimentación estén conectados. Una GPU mal instalada puede no funcionar o causar problemas de estabilidad en el sistema.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P50",
+                  "text": "Algunas tarjetas gráficas grandes o pesadas pueden beneficiarse de un soporte anti-sag (soporte para evitar que se doble por su propio peso), que se instala en la caja para ayudar a mantener la GPU nivelada y reducir la tensión en la ranura PCIe. Considera uno si tu GPU es particularmente grande.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://www.youtube.com/watch?v=d_56PHL5x-0",
+              "text": "Cómo instalar una tarjeta gráfica (video)"
+            },
+            {
+              "href": "https://www.youtube.com/watch?v=d_56PHL5x-0",
+              "text": "Qué es el PCIe y cómo funciona (video)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "GUIA_MONTAJE_PC_files/Instalacion_GPU.jpg",
+              "alt": "Instalación de una tarjeta gráfica en la ranura PCIe de la placa base.",
+              "title": "Instalación de la GPU."
+            },
+            {
+              "src": "GUIA_MONTAJE_PC_files/Conexion_Energia_GPU.jpg",
+              "alt": "Conexión de los cables de alimentación PCIe a la tarjeta gráfica.",
+              "title": "Conexión de Energía GPU."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 5",
+      "archivo": "GUIA_MONTAJE_PC_Unidad_5_Instalacion_Tarjeta_Grafica.html",
+      "ruta_completa": "T:/Bots/QUIZBOT_DATA_V5\\DATA\\CONTENTS\\GUIA_MONTAJE_PC\\Unidad 5\\GUIA_MONTAJE_PC_Unidad_5_Instalacion_Tarjeta_Grafica.html"
+    },
+    {
+      "title": "GUIA_MONTAJE_PC_Unidad_6_Instalacion_Fuente_Alimentacion",
+      "sections": [
+        {
+          "title": "Instalación de la Fuente de Alimentación (PSU)",
+          "subsections": [
+            {
+              "type": "Pasos de Montaje",
+              "paragraphs": [
+                {
+                  "id": "P51",
+                  "text": "La fuente de alimentación (PSU) es el corazón de tu PC, ya que suministra energía a todos los componentes. Su instalación es crucial y debe realizarse con cuidado para asegurar un funcionamiento estable y seguro.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P52",
+                  "text": "Identifica la ubicación de la fuente de alimentación en tu caja. La mayoría de las cajas modernas la colocan en la parte inferior trasera, pero algunas más antiguas o compactas pueden tenerla en la parte superior.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P53",
+                  "text": "Si tu fuente de alimentación es modular o semi-modular, es una buena práctica conectar los cables que sabes que vas a necesitar antes de instalarla en la caja. Esto puede facilitar la gestión de cables en espacios reducidos.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P54",
+                  "text": "Desliza la fuente de alimentación en su bahía, asegurándote de que el ventilador de la PSU esté orientado correctamente. Si la bahía tiene una apertura para el ventilador en la parte inferior de la caja, el ventilador de la PSU debe mirar hacia abajo para tomar aire fresco. Si no hay apertura inferior, el ventilador debe mirar hacia arriba, dentro de la caja.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P55",
+                  "text": "Asegura la fuente de alimentación a la parte trasera de la caja con los cuatro tornillos proporcionados con la PSU. Apriétalos firmemente, pero sin excederse.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P56",
+                  "text": "Conecta el cable de alimentación principal ATX de 24 pines de la PSU a la placa base. Este es el cable más grande y suele requerir bastante fuerza para encajarlo. Asegúrate de que el clip de retención se acople.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P57",
+                  "text": "Conecta el cable de alimentación EPS/CPU de 4+4 u 8 pines de la PSU al conector de alimentación de la CPU en la parte superior izquierda de la placa base (cerca de la CPU).",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P58",
+                  "text": "Conecta los cables de alimentación PCIe a la tarjeta gráfica (si aún no lo has hecho, como se mencionó en la unidad anterior).",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P59",
+                  "text": "Conecta los cables de alimentación SATA a tus unidades de almacenamiento (SSDs y HDDs). Asegúrate de que cada unidad reciba un cable de alimentación independiente o utiliza las derivaciones del cable si es necesario, pero evita sobrecargar un solo conector.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P60",
+                  "text": "Realiza una buena gestión de cables. Pasa todos los cables por la parte trasera de la bandeja de la placa base. Utiliza las bridas o velcros para agrupar los cables y mantenerlos organizados. Una buena gestión de cables mejora el flujo de aire y la estética del PC.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://www.youtube.com/watch?v=aGg5K7fI0vQ",
+              "text": "Cómo instalar la Fuente de Alimentación (video)"
+            },
+            {
+              "href": "https://www.youtube.com/watch?v=Qp_D6h42-c0",
+              "text": "Gestión de Cables de PC (video)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "GUIA_MONTAJE_PC_files/Instalacion_PSU.jpg",
+              "alt": "Instalación de la fuente de alimentación en la caja del PC.",
+              "title": "Instalación de la PSU."
+            },
+            {
+              "src": "GUIA_MONTAJE_PC_files/Conexion_Cables_PSU.jpg",
+              "alt": "Conexión de los cables de la fuente de alimentación a la placa base.",
+              "title": "Conexión de Cables PSU."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 6",
+      "archivo": "GUIA_MONTAJE_PC_Unidad_6_Instalacion_Fuente_Alimentacion.html",
+      "ruta_completa": "T:/Bots/QUIZBOT_DATA_V5\\DATA\\CONTENTS\\GUIA_MONTAJE_PC\\Unidad 6\\GUIA_MONTAJE_PC_Unidad_6_Instalacion_Fuente_Alimentacion.html"
+    },
+    {
+      "title": "GUIA_MONTAJE_PC_Unidad_7_Instalacion_Ventiladores_y_Finalizacion",
+      "sections": [
+        {
+          "title": "Instalación de Ventiladores y Finalización",
+          "subsections": [
+            {
+              "type": "Pasos de Montaje",
+              "paragraphs": [
+                {
+                  "id": "P61",
+                  "text": "La correcta instalación de los ventiladores de la caja es esencial para mantener una buena circulación de aire y asegurar que los componentes no se sobrecalienten. Una buena configuración de flujo de aire prolongará la vida útil de tu PC.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P62",
+                  "text": "Planifica el flujo de aire: Generalmente, los ventiladores frontales y/o inferiores deben actuar como 'entrada' (metiendo aire fresco en la caja), mientras que los ventiladores traseros y/o superiores deben actuar como 'salida' (expulsando el aire caliente). La dirección del flujo de aire en un ventilador suele indicarse con flechas en el marco.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P63",
+                  "text": "Instala los ventiladores en las bahías designadas de la caja (frontal, trasera, superior, inferior). Utiliza los tornillos de ventilador proporcionados y apriétalos firmemente, pero sin dañar el plástico del ventilador.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P64",
+                  "text": "Conecta los cables de los ventiladores de la caja a los conectores 'SYS_FAN' o 'CHA_FAN' de la placa base. Si tienes muchos ventiladores y pocos conectores, puedes usar un concentrador de ventiladores (fan hub) o divisores (splitters), asegurándote de no sobrecargar un solo conector.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P65",
+                  "text": "Ahora es el momento de realizar la gestión de cables final. Agrupa todos los cables sobrantes con bridas o velcro y mételos por la parte trasera de la caja, en el compartimento de la gestión de cables. Esto no solo mejora la estética, sino que también optimiza el flujo de aire y facilita futuras actualizaciones.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P66",
+                  "text": "Asegúrate de que no haya cables obstruyendo los ventiladores (de la CPU, GPU, caja, o PSU). Un cable suelto que toque un ventilador puede generar ruido y, con el tiempo, dañar el cable o el ventilador.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P67",
+                  "text": "Instala cualquier componente adicional que hayas comprado, como tarjetas de expansión PCIe (tarjetas de red, tarjetas de sonido), o accesorios como soportes para GPU.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P68",
+                  "text": "Antes de cerrar la caja, haz una última revisión general de todas las conexiones: ¿Están la CPU, RAM, GPU, SSD/HDD y PSU firmemente instaladas y conectadas? ¿Todos los cables del panel frontal están en su sitio? ¿No hay tornillos sueltos o herramientas dentro de la caja?",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P69",
+                  "text": "Una vez satisfecho con la revisión, coloca los paneles laterales de la caja. Asegúralos con los tornillos de mano o clips. Si tu caja tiene paneles de cristal templado, manéjalos con extremo cuidado.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P70",
+                  "text": "¡Felicidades! Has terminado el montaje físico de tu PC. El siguiente paso es la configuración inicial y la instalación del sistema operativo, que abordaremos en la próxima unidad.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://www.youtube.com/watch?v=F0S18-yQ6J4",
+              "text": "Cómo instalar ventiladores de caja (video)"
+            },
+            {
+              "href": "https://www.youtube.com/watch?v=PXaA-Z9G-6k",
+              "text": "Guía completa de gestión de cables (video)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "GUIA_MONTAJE_PC_files/Ventiladores_Caja.jpg",
+              "alt": "Instalación de ventiladores en la caja del PC.",
+              "title": "Instalación de Ventiladores."
+            },
+            {
+              "src": "GUIA_MONTAJE_PC_files/Gestion_Cables_Final.jpg",
+              "alt": "Interior del PC con gestión de cables finalizada.",
+              "title": "Gestión de Cables Finalizada."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 7",
+      "archivo": "GUIA_MONTAJE_PC_Unidad_7_Instalacion_Ventiladores_y_Finalizacion.html",
+      "ruta_completa": "T:/Bots/QUIZBOT_DATA_V5\\DATA\\CONTENTS\\GUIA_MONTAJE_PC\\Unidad 7\\GUIA_MONTAJE_PC_Unidad_7_Instalacion_Ventiladores_y_Finalizacion.html"
+    },
+    {
+      "title": "GUIA_MONTAJE_PC_Unidad_8_Primer_Encendido_y_BIOS",
+      "sections": [
+        {
+          "title": "Primer Encendido y Configuración de BIOS/UEFI",
+          "subsections": [
+            {
+              "type": "Configuración Inicial",
+              "paragraphs": [
+                {
+                  "id": "P71",
+                  "text": "Con el montaje físico completado, llega el emocionante momento del primer encendido. Antes de conectar todo, realiza una última inspección visual para asegurarte de que no haya cables sueltos, herramientas dentro de la caja o conexiones incorrectas.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P72",
+                  "text": "Conecta el cable de alimentación de la PSU a la toma de corriente y asegúrate de que el interruptor de la PSU esté en la posición 'ON' (generalmente 'I'). Conecta tu monitor a la tarjeta gráfica (no a los puertos de la placa base, a menos que tu CPU tenga gráficos integrados y no tengas GPU dedicada). Conecta un teclado y un ratón.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P73",
+                  "text": "Presiona el botón de encendido de tu PC. Si todo ha ido bien, deberías ver las luces encenderse, los ventiladores girar y, lo más importante, una imagen en tu monitor. Puede que la pantalla muestre el logo del fabricante de la placa base o un mensaje para entrar en la BIOS/UEFI.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P74",
+                  "text": "Si no hay señal de vídeo o el PC no arranca, no te asustes. Desconecta la alimentación y revisa los siguientes puntos: ¿Están los cables de alimentación principal (24 pines) y de la CPU (8 pines) firmemente conectados? ¿La tarjeta gráfica está bien asentada y conectada a la energía? ¿Los módulos de RAM están bien insertados? ¿El cable del monitor está conectado a la GPU? ¿El interruptor de la PSU está encendido?",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P75",
+                  "text": "Para entrar en la BIOS/UEFI, presiona repetidamente la tecla indicada en pantalla durante el arranque (comúnmente 'Supr', 'F2', 'F10' o 'Esc'). La BIOS/UEFI es el firmware de tu placa base que te permite configurar el hardware y ajustar diversas opciones del sistema.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P76",
+                  "text": "Dentro de la BIOS/UEFI, verifica que la CPU, la RAM y las unidades de almacenamiento sean detectadas correctamente. También puedes verificar las temperaturas de la CPU y otros componentes (aunque las temperaturas en BIOS suelen ser más altas que en Windows).",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P77",
+                  "text": "Configura la secuencia de arranque (Boot Order) para que tu unidad USB de instalación del sistema operativo sea la primera opción. Si vas a instalar Windows, asegúrate de que el modo de arranque esté en UEFI (recomendado) y que la opción 'CSM' o 'Legacy Boot' esté deshabilitada (siempre que tu instalación de Windows sea en modo UEFI).",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P78",
+                  "text": "Activa el perfil XMP/DOCP para tu RAM. Este perfil permite que tu memoria funcione a la velocidad anunciada (más allá de la velocidad base JEDEC). Busca esta opción en la sección de 'Overclocking' o 'Memoria' de tu BIOS/UEFI y actívala. Esto es importante para el rendimiento.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P79",
+                  "text": "Guarda los cambios y sal de la BIOS/UEFI. El sistema se reiniciará, y si has configurado correctamente la secuencia de arranque, debería iniciarse desde tu USB de instalación de Windows o el sistema operativo que hayas preparado.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P80",
+                  "text": "Este primer arranque es una prueba crucial de tu trabajo. Si todo funciona, has superado el mayor obstáculo del montaje del PC. Si hay problemas, el manual de la placa base y los foros de soporte son tus mejores aliados para la resolución de problemas.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://www.youtube.com/watch?v=F0S18-yQ6J4",
+              "text": "Primer encendido y BIOS (video)"
+            },
+            {
+              "href": "https://www.youtube.com/watch?v=D-y-3Y0nL6c",
+              "text": "Guía completa de BIOS/UEFI (video)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "GUIA_MONTAJE_PC_files/Primer_Encendido.jpg",
+              "alt": "PC recién montado con luces encendidas y pantalla de BIOS/UEFI.",
+              "title": "Primer Encendido del PC."
+            },
+            {
+              "src": "GUIA_MONTAJE_PC_files/BIOS_UEFI_Screen.jpg",
+              "alt": "Pantalla de configuración de la BIOS/UEFI de una placa base.",
+              "title": "Interfaz de BIOS/UEFI."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 8",
+      "archivo": "GUIA_MONTAJE_PC_Unidad_8_Primer_Encendido_y_BIOS.html",
+      "ruta_completa": "T:/Bots/QUIZBOT_DATA_V5\\DATA\\CONTENTS\\GUIA_MONTAJE_PC\\Unidad 8\\GUIA_MONTAJE_PC_Unidad_8_Primer_Encendido_y_BIOS.html"
+    },
+    {
+      "title": "GUIA_MONTAJE_PC_Unidad_9_Instalacion_Sistema_Operativo_y_Drivers",
+      "sections": [
+        {
+          "title": "Instalación del Sistema Operativo y Drivers",
+          "subsections": [
+            {
+              "type": "Configuración Software",
+              "paragraphs": [
+                {
+                  "id": "P81",
+                  "text": "Con el PC arrancando y la BIOS/UEFI configurada, el siguiente paso es instalar el sistema operativo de tu elección, siendo Windows el más común para la mayoría de los usuarios. Asegúrate de tener una licencia válida y el medio de instalación (USB booteable) preparado.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P82",
+                  "text": "Inserta tu USB de instalación de Windows (o de otro SO como Linux) en un puerto USB del PC. Si configuraste correctamente la secuencia de arranque en la BIOS/UEFI, el PC debería arrancar directamente desde el USB.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P83",
+                  "text": "Sigue las instrucciones en pantalla para el proceso de instalación del sistema operativo. Esto incluirá seleccionar el idioma, la distribución del teclado, aceptar los términos de la licencia, y elegir la unidad donde deseas instalarlo (generalmente tu SSD principal). Asegúrate de seleccionar la unidad correcta para evitar borrar datos importantes si tienes varias unidades.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P84",
+                  "text": "Durante la instalación, Windows te pedirá una clave de producto. Puedes introducirla en este momento o hacerlo después de la instalación. El PC se reiniciará varias veces durante el proceso. Asegúrate de retirar el USB de instalación cuando se te indique o después del primer reinicio importante para evitar que se reinicie el proceso de instalación.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P85",
+                  "text": "Una vez que el sistema operativo esté instalado y hayas completado la configuración inicial (cuenta de usuario, red, etc.), el siguiente paso crucial es instalar los drivers (controladores) de todos tus componentes. Los drivers permiten que el sistema operativo se comunique correctamente con el hardware.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P86",
+                  "text": "Drivers de la placa base: Descarga los drivers más recientes para tu placa base desde el sitio web del fabricante (chipset, LAN/Ethernet, audio, USB, etc.). Puedes usar otro PC para descargarlos y transferirlos mediante un USB.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P87",
+                  "text": "Drivers de la tarjeta gráfica (GPU): Visita el sitio web de NVIDIA, AMD o Intel (dependiendo de tu GPU) y descarga los drivers gráficos más recientes. Una instalación limpia es preferible. Los drivers de la GPU son esenciales para el rendimiento en juegos y aplicaciones gráficas.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P88",
+                  "text": "Drivers de almacenamiento (si es necesario): Para algunos SSDs NVMe o controladores RAID específicos, es posible que necesites drivers adicionales del fabricante del SSD o de la placa base para un rendimiento óptimo.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P89",
+                  "text": "Verifica el Administrador de dispositivos: Después de instalar los drivers, abre el 'Administrador de dispositivos' en Windows (busca 'Administrador de dispositivos' en el menú de inicio). Asegúrate de que no haya signos de exclamación amarillos o signos de interrogación en ningún dispositivo, lo que indicaría que falta un driver o que hay un problema.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P90",
+                  "text": "Actualizaciones del sistema operativo: Después de instalar todos los drivers, ejecuta las actualizaciones de Windows para asegurarte de que tu sistema está al día con los últimos parches de seguridad y mejoras de rendimiento. Reinicia el PC cuando sea necesario.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://www.microsoft.com/es-es/software-download/windows10",
+              "text": "Descargar herramienta de creación de medios de Windows 10/11"
+            },
+            {
+              "href": "https://www.nvidia.com/drivers",
+              "text": "Drivers NVIDIA"
+            },
+            {
+              "href": "https://www.amd.com/en/support",
+              "text": "Drivers AMD"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "GUIA_MONTAJE_PC_files/Instalacion_Windows.jpg",
+              "alt": "Pantalla de instalación del sistema operativo Windows.",
+              "title": "Instalación de Windows."
+            },
+            {
+              "src": "GUIA_MONTAJE_PC_files/Administrador_Dispositivos.jpg",
+              "alt": "Pantalla del Administrador de Dispositivos de Windows.",
+              "title": "Administrador de Dispositivos."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 9",
+      "archivo": "GUIA_MONTAJE_PC_Unidad_9_Instalacion_Sistema_Operativo_y_Drivers.html",
+      "ruta_completa": "T:/Bots/QUIZBOT_DATA_V5\\DATA\\CONTENTS\\GUIA_MONTAJE_PC\\Unidad 9\\GUIA_MONTAJE_PC_Unidad_9_Instalacion_Sistema_Operativo_y_Drivers.html"
+    },
+    {
+      "title": "GUIA_MONTAJE_PC_Unidad_10_Pruebas_Rendimiento_y_Mantenimiento",
+      "sections": [
+        {
+          "title": "Pruebas de Rendimiento y Mantenimiento",
+          "subsections": [
+            {
+              "type": "Post-Montaje",
+              "paragraphs": [
+                {
+                  "id": "P91",
+                  "text": "Una vez que tu PC está completamente montado y el sistema operativo con todos los drivers instalados, es fundamental realizar pruebas de estabilidad y rendimiento para asegurarte de que todo funciona correctamente y a su máximo potencial.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P92",
+                  "text": "Pruebas de estrés de la CPU: Utiliza herramientas como Prime95 o Cinebench para someter tu CPU a una carga del 100% durante al menos 15-30 minutos. Monitorea las temperaturas con software como HWMonitor o Core Temp para asegurarte de que no haya sobrecalentamiento. Las temperaturas ideales bajo carga suelen estar por debajo de los 85°C.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P93",
+                  "text": "Pruebas de estrés de la GPU: Programas como FurMark o 3DMark te permiten poner a prueba tu tarjeta gráfica. Ejecuta un benchmark para ver cómo se comporta y monitorea las temperaturas y el uso. Las temperaturas de la GPU bajo carga suelen ser aceptables por debajo de los 85°C, aunque pueden variar según el modelo.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P94",
+                  "text": "Pruebas de memoria RAM: Utiliza MemTest86 (desde un USB booteable) o la Herramienta de diagnóstico de memoria de Windows para verificar si hay errores en tu RAM. Esto es crucial para la estabilidad general del sistema.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P95",
+                  "text": "Pruebas de juego: Instala y juega algunos de tus juegos favoritos para evaluar el rendimiento en escenarios reales. Presta atención a los FPS (cuadros por segundo), la estabilidad y cualquier artefacto gráfico. Ajusta la configuración del juego para encontrar el equilibrio entre rendimiento y calidad visual.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P96",
+                  "text": "Monitoreo continuo: Acostúmbrate a utilizar herramientas de monitoreo (como HWMonitor, MSI Afterburner, o el propio Administrador de Tareas de Windows) para vigilar las temperaturas y el uso de los componentes mientras utilizas el PC. Esto te ayudará a identificar posibles problemas antes de que se agraven.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P97",
+                  "text": "Mantenimiento regular: Para prolongar la vida útil de tu PC y mantener su rendimiento, el mantenimiento es clave. Limpia el polvo de los ventiladores y disipadores cada pocos meses con aire comprimido. Mantén el software actualizado (SO, drivers, juegos).",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P98",
+                  "text": "Gestión de actualizaciones: Asegúrate de que tu sistema operativo y tus drivers estén siempre actualizados. Los fabricantes de GPU y placa base lanzan regularmente nuevas versiones de drivers que mejoran el rendimiento, la estabilidad y la compatibilidad con nuevos juegos.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P99",
+                  "text": "Optimización del software: Desinstala programas que no uses, mantén tu disco de arranque lo más libre posible, y considera la desfragmentación periódica de tus HDDs (los SSDs no necesitan desfragmentación).",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P100",
+                  "text": "¡Disfruta de tu nuevo PC! Has completado el viaje desde la selección de componentes hasta un sistema completamente funcional y optimizado. El conocimiento adquirido te servirá para futuras actualizaciones y resolución de problemas.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://www.ccleaner.com/guides/how-to-optimize-windows-for-gaming",
+              "text": "Cómo optimizar Windows para gaming"
+            },
+            {
+              "href": "https://www.techspot.com/guides/1770-monitor-pc-temperatures/",
+              "text": "Cómo monitorear temperaturas de PC"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "GUIA_MONTAJE_PC_files/Benchmark_Software.jpg",
+              "alt": "Software de benchmark ejecutándose en un PC.",
+              "title": "Software de Benchmark."
+            },
+            {
+              "src": "GUIA_MONTAJE_PC_files/Limpieza_PC.jpg",
+              "alt": "Persona limpiando el polvo de los ventiladores del PC con aire comprimido.",
+              "title": "Mantenimiento del PC."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 10",
+      "archivo": "GUIA_MONTAJE_PC_Unidad_10_Pruebas_Rendimiento_y_Mantenimiento.html",
+      "ruta_completa": "T:/Bots/QUIZBOT_DATA_V5\\DATA\\CONTENTS\\GUIA_MONTAJE_PC\\Unidad 10\\GUIA_MONTAJE_PC_Unidad_10_Pruebas_Rendimiento_y_Mantenimiento.html"
+    }
+  ]
+}

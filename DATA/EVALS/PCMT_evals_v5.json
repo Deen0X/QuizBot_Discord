@@ -1,0 +1,272 @@
+{
+  "module": "MONTAJE_PC_QUIZ",
+  "total_preguntas": 10,
+  "preguntas": [
+    {
+      "numero": "1",
+      "enunciado": "¿Qué componente es el 'cerebro' del ordenador y ejecuta las instrucciones de los programas?",
+      "opciones": [
+        "Tarjeta Gráfica (GPU)",
+        "Memoria RAM",
+        "Unidad Central de Procesamiento (CPU)",
+        "Placa Base (Motherboard)"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Unidad Central de Procesamiento (CPU).",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "montaje_pc_quiz_files/cpu_processor.png",
+          "alt": "Imagen de un procesador CPU",
+          "title": "Unidad Central de Procesamiento (CPU)"
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "MONTAJE_PC_QUIZ",
+        "unidad": "Componentes Fundamentales",
+        "usuario": "Experto en Hardware",
+        "archivo": "PC_Build_Intro.html"
+      }
+    },
+    {
+      "numero": "2",
+      "enunciado": "¿Cuál es el propósito principal de la pasta térmica al instalar un disipador de CPU?",
+      "opciones": [
+        "Fijar el disipador al procesador de forma permanente.",
+        "Mejorar la conductividad eléctrica entre CPU y disipador.",
+        "Rellenar las micro-imperfecciones para una mejor transferencia de calor.",
+        "Prevenir cortocircuitos."
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Rellenar las micro-imperfecciones para una mejor transferencia de calor.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "MONTAJE_PC_QUIZ",
+        "unidad": "Instalación de CPU y Refrigeración",
+        "usuario": "Experto en Hardware",
+        "archivo": "PC_Build_CPU.html"
+      }
+    },
+    {
+      "numero": "3",
+      "enunciado": "¿Qué tipo de ranura se utiliza comúnmente para conectar una tarjeta gráfica a la placa base?",
+      "opciones": [
+        "PCI",
+        "AGP",
+        "PCI Express (PCIe)",
+        "ISA"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: PCI Express (PCIe). Específicamente, PCIe x16 para tarjetas gráficas.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "montaje_pc_quiz_files/pcie_slot.png",
+          "alt": "Imagen de una ranura PCIe en una placa base",
+          "title": "Ranura PCI Express"
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "MONTAJE_PC_QUIZ",
+        "unidad": "Instalación de Tarjeta Gráfica",
+        "usuario": "Experto en Hardware",
+        "archivo": "PC_Build_GPU.html"
+      }
+    },
+    {
+      "numero": "4",
+      "enunciado": "¿Cuál es la función principal de la fuente de alimentación (PSU) en un PC?",
+      "opciones": [
+        "Almacenar datos a largo plazo.",
+        "Controlar el flujo de aire dentro del gabinete.",
+        "Suministrar energía eléctrica a todos los componentes del PC.",
+        "Procesar las imágenes para la pantalla."
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Suministrar energía eléctrica a todos los componentes del PC.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "montaje_pc_quiz_files/psu_power_supply.png",
+          "alt": "Imagen de una fuente de alimentación de PC",
+          "title": "Fuente de Alimentación (PSU)"
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "MONTAJE_PC_QUIZ",
+        "unidad": "Fuente de Alimentación",
+        "usuario": "Experto en Hardware",
+        "archivo": "PC_Build_PSU.html"
+      }
+    },
+    {
+      "numero": "5",
+      "enunciado": "¿Qué tipo de almacenamiento es más rápido para el sistema operativo y los programas, los SSD o los HDD?",
+      "opciones": [
+        "HDD (Disco Duro Tradicional)",
+        "SSD (Unidad de Estado Sólido)",
+        "Ambos son igual de rápidos.",
+        "Depende del tamaño."
+      ],
+      "respuestas": [
+        "1"
+      ],
+      "retroalimentacion": "La respuesta correcta es: SSD (Unidad de Estado Sólido). Los SSD ofrecen velocidades de lectura y escritura significativamente superiores.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "MONTAJE_PC_QUIZ",
+        "unidad": "Almacenamiento",
+        "usuario": "Experto en Hardware",
+        "archivo": "PC_Build_Storage.html"
+      }
+    },
+    {
+      "numero": "6",
+      "enunciado": "¿Qué debes hacer antes de tocar cualquier componente interno de tu PC para evitar daños por electricidad estática?",
+      "opciones": [
+        "Beber un vaso de agua.",
+        "Tocar una superficie metálica sin pintar o usar una pulsera antiestática.",
+        "Encender el PC por unos segundos.",
+        "Usar guantes de goma."
+      ],
+      "respuestas": [
+        "1"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Tocar una superficie metálica sin pintar o usar una pulsera antiestática.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "montaje_pc_quiz_files/anti_static_wristband.png",
+          "alt": "Imagen de una pulsera antiestática",
+          "title": "Pulsera Antiestática"
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "MONTAJE_PC_QUIZ",
+        "unidad": "Precauciones de Seguridad",
+        "usuario": "Experto en Hardware",
+        "archivo": "PC_Build_Safety.html"
+      }
+    },
+    {
+      "numero": "7",
+      "enunciado": "¿Qué componente interconecta todos los demás componentes del PC, permitiendo su comunicación?",
+      "opciones": [
+        "Tarjeta de Sonido",
+        "Tarjeta de Red",
+        "Placa Base (Motherboard)",
+        "Ventilador del CPU"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Placa Base (Motherboard).",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "montaje_pc_quiz_files/motherboard.png",
+          "alt": "Imagen de una placa base de PC",
+          "title": "Placa Base (Motherboard)"
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "MONTAJE_PC_QUIZ",
+        "unidad": "Componentes Fundamentales",
+        "usuario": "Experto en Hardware",
+        "archivo": "PC_Build_Intro.html"
+      }
+    },
+    {
+      "numero": "8",
+      "enunciado": "¿Qué tipo de memoria es volátil y se utiliza para almacenar temporalmente los datos que la CPU necesita acceder rápidamente?",
+      "opciones": [
+        "ROM",
+        "SSD",
+        "RAM (Memoria de Acceso Aleatorio)",
+        "BIOS"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: RAM (Memoria de Acceso Aleatorio).",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "MONTAJE_PC_QUIZ",
+        "unidad": "Memoria",
+        "usuario": "Experto en Hardware",
+        "archivo": "PC_Build_RAM.html"
+      }
+    },
+    {
+      "numero": "9",
+      "enunciado": "¿Cuál es el orden general recomendado para instalar los componentes principales en un gabinete de PC?",
+      "opciones": [
+        "PSU -> CPU -> Placa Base -> GPU -> Almacenamiento.",
+        "Placa Base (con CPU y RAM) -> PSU -> GPU -> Almacenamiento.",
+        "GPU -> CPU -> Placa Base -> PSU -> Almacenamiento.",
+        "Almacenamiento -> PSU -> CPU -> Placa Base -> GPU."
+      ],
+      "respuestas": [
+        "1"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Placa Base (con CPU y RAM) -> PSU -> GPU -> Almacenamiento. Montar la CPU y RAM en la placa base antes de instalarla en el gabinete facilita el proceso.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "MONTAJE_PC_QUIZ",
+        "unidad": "Proceso de Montaje",
+        "usuario": "Experto en Hardware",
+        "archivo": "PC_Build_Process.html"
+      }
+    },
+    {
+      "numero": "10",
+      "enunciado": "¿Qué conexión de cable se utiliza para alimentar una tarjeta gráfica de alta gama directamente desde la fuente de alimentación?",
+      "opciones": [
+        "SATA Power",
+        "CPU Power (EPS)",
+        "PCIe Power (6+2 pin)",
+        "Molex"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: PCIe Power (6+2 pin).",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "montaje_pc_quiz_files/pcie_power_cable.png",
+          "alt": "Imagen de un cable de alimentación PCIe (6+2 pin)",
+          "title": "Cable de Alimentación PCIe"
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "MONTAJE_PC_QUIZ",
+        "unidad": "Conectores y Cableado",
+        "usuario": "Experto en Hardware",
+        "archivo": "PC_Build_Cables.html"
+      }
+    }
+  ]
+}

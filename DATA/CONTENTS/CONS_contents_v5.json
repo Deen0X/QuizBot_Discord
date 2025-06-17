@@ -1,0 +1,839 @@
+{
+  "module": "CONSOLAS_SOBREMESA_CONTENTS",
+  "total_archivos": 8,
+  "total_parrafos": 80,
+  "contenidos": [
+    {
+      "title": "CONSOLAS_SOBREMESA_Unidad_1_Los_Origenes_y_La_Era_Dorada",
+      "sections": [
+        {
+          "title": "Los Orígenes y la Era Dorada (1ª y 2ª Generación)",
+          "subsections": [
+            {
+              "type": "Historia",
+              "paragraphs": [
+                {
+                  "id": "P1",
+                  "text": "La historia de las consolas de sobremesa comienza en la década de 1970 con el lanzamiento de la Magnavox Odyssey en 1972, considerada la primera consola de videojuegos doméstica. Con su tecnología analógica y sus rudimentarios gráficos, sentó las bases para el entretenimiento interactivo en el hogar.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P2",
+                  "text": "Sin embargo, fue Atari, con el lanzamiento de su consola doméstica PONG en 1975, la que popularizó el concepto del videojuego en los hogares. PONG replicaba el éxito de su máquina arcade, ofreciendo una experiencia simple pero adictiva que capturó la imaginación del público.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P3",
+                  "text": "La primera generación de consolas se caracterizó por ser 'dedicadas' o 'máquinas con un solo juego', es decir, el hardware estaba diseñado para jugar solo a un título específico (como PONG). No ofrecían cartuchos ni la posibilidad de cargar diferentes juegos.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P4",
+                  "text": "La segunda generación (finales de los 70 y principios de los 80) marcó un cambio revolucionario con la introducción de los cartuchos intercambiables. Esto permitió a los consumidores comprar nuevos juegos sin tener que adquirir una consola diferente, abriendo un vasto mercado de software.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P5",
+                  "text": "La Atari 2600 (originalmente Video Computer System, VCS), lanzada en 1977, fue la consola dominante de esta generación y se convirtió en un icono cultural. Con su procesador MOS Technology 6507 y su chip gráfico TIA, podía generar gráficos a color y sonido simple.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P6",
+                  "text": "La Atari 2600 fue el hogar de innumerables juegos que se convirtieron en clásicos, como 'Space Invaders', 'Pac-Man', 'Pitfall!' y 'Adventure'. Su éxito masivo atrajo a numerosos desarrolladores y consolidó la industria del videojuego como un negocio lucrativo.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P7",
+                  "text": "Otras consolas importantes de esta era incluyeron la Intellivision de Mattel (1979), que ofrecía gráficos superiores a la Atari 2600 pero a un precio más alto, y la ColecoVision (1982), conocida por su capacidad de arcade-perfect ports de juegos populares.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P8",
+                  "text": "A pesar del auge, la segunda generación culminó en la 'crisis del videojuego de 1983'. Una saturación del mercado con consolas y juegos de baja calidad, junto con la competencia de los ordenadores personales, llevó a un colapso de la industria que casi la aniquila.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P9",
+                  "text": "La crisis resultó en pérdidas masivas y la quiebra de muchas compañías. El infame 'entierro de E.T. el Extraterrestre' de Atari en un vertedero de Nuevo México se convirtió en un símbolo de este declive.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P10",
+                  "text": "No obstante, esta era sentó las bases para el modelo de negocio de las consolas de videojuegos con cartuchos intercambiables y demostró el inmenso potencial del entretenimiento interactivo en el hogar, preparando el terreno para la siguiente ola de innovación.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://es.wikipedia.org/wiki/Magnavox_Odyssey",
+              "text": "Magnavox Odyssey (Wikipedia)"
+            },
+            {
+              "href": "https://es.wikipedia.org/wiki/Atari_2600",
+              "text": "Atari 2600 (Wikipedia)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "CONSOLAS_SOBREMESA_files/Magnavox_Odyssey.jpg",
+              "alt": "Consola Magnavox Odyssey.",
+              "title": "Magnavox Odyssey (1972)."
+            },
+            {
+              "src": "CONSOLAS_SOBREMESA_files/Atari_2600.jpg",
+              "alt": "Consola Atari 2600.",
+              "title": "Atari 2600 (1977)."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 1",
+      "archivo": "CONSOLAS_SOBREMESA_Unidad_1_Los_Origenes_y_La_Era_Dorada.html",
+      "ruta_completa": "T:/Bots/QUIZBOT_DATA_V5\\DATA\\CONTENTS\\CONSOLAS_SOBREMESA\\Unidad 1\\CONSOLAS_SOBREMESA_Unidad_1_Los_Origenes_y_La_Era_Dorada.html"
+    },
+    {
+      "title": "CONSOLAS_SOBREMESA_Unidad_2_El_Renacimiento_Nintendo_Dominio",
+      "sections": [
+        {
+          "title": "El Renacimiento y el Dominio de Nintendo (3ª y 4ª Generación)",
+          "subsections": [
+            {
+              "type": "Historia",
+              "paragraphs": [
+                {
+                  "id": "P11",
+                  "text": "La industria del videojuego fue rescatada del colapso por la llegada de la Nintendo Entertainment System (NES) en Norteamérica y Europa (Famicom en Japón), lanzada por Nintendo en 1983/1985. La NES no solo revivió el mercado, sino que lo transformó en una industria masiva y estructurada.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P12",
+                  "text": "Nintendo implementó rigurosos controles de calidad sobre los juegos de terceros, evitando la saturación de títulos de baja calidad que causaron la crisis de 1983. El sello 'Seal of Quality' de Nintendo garantizaba un estándar mínimo, restaurando la confianza del consumidor.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P13",
+                  "text": "La NES fue el hogar de icónicas franquicias que aún perduran hoy. 'Super Mario Bros.' revolucionó el género de plataformas con su diseño de niveles innovador y su jugabilidad fluida. 'The Legend of Zelda' sentó las bases para los juegos de acción-aventura de mundo abierto, y 'Metroid' popularizó un nuevo estilo de juego exploratorio.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P14",
+                  "text": "Otras series como 'Castlevania', 'Mega Man' y 'Final Fantasy' (cuyas primeras entregas aparecieron en NES) se convirtieron en pilares de la industria, demostrando la versatilidad y el potencial creativo de la plataforma.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P15",
+                  "text": "La 4ª generación, conocida como la era de los 16 bits, fue una de las más competitivas y queridas. La Super Nintendo Entertainment System (SNES), lanzada por Nintendo en 1990/1991, se enfrentó a la Sega Mega Drive/Genesis, que había sido lanzada en 1988/1989.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P16",
+                  "text": "La SNES destacó por sus potentes capacidades gráficas (Modo 7 para efectos 3D pseudo-tridimensionales) y de sonido, ofreciendo una experiencia visual y auditiva superior a la de su predecesora. Sus juegos eran más grandes y ambiciosos.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P17",
+                  "text": "Las joyas de la corona de la SNES incluyen 'Super Mario World', 'The Legend of Zelda: A Link to the Past', 'Super Metroid' y 'Chrono Trigger'. Estos juegos son considerados obras maestras y definieron el estándar para los géneros de plataformas, aventuras y RPG.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P18",
+                  "text": "Sega, con su campaña publicitaria 'Genesis Does What Nintendon't', se posicionó como la alternativa 'cool' y 'madura', con juegos más rápidos y agresivos como 'Sonic the Hedgehog', su mascota rival de Mario.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P19",
+                  "text": "La competencia entre Nintendo y Sega impulsó la innovación y ofreció a los jugadores una diversidad sin precedentes. Ambas consolas vendieron decenas de millones de unidades, marcando una edad de oro para los videojuegos de sobremesa.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P20",
+                  "text": "Esta era consolidó el modelo de negocio de las consolas de sobremesa y estableció las rivalidades que darían forma a la industria durante las décadas siguientes, demostrando el poder duradero de las franquicias y el contenido exclusivo.",
+                  "links": [],
+                            "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://es.wikipedia.org/wiki/Nintendo_Entertainment_System",
+              "text": "NES (Wikipedia)"
+            },
+            {
+              "href": "https://es.wikipedia.org/wiki/Super_Nintendo_Entertainment_System",
+              "text": "SNES (Wikipedia)"
+            },
+            {
+              "href": "https://es.wikipedia.org/wiki/Sega_Mega_Drive",
+              "text": "Sega Mega Drive (Wikipedia)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "CONSOLAS_SOBREMESA_files/NES_Console.jpg",
+              "alt": "Consola Nintendo Entertainment System (NES).",
+              "title": "NES (1983)."
+            },
+            {
+              "src": "CONSOLAS_SOBREMESA_files/SNES_Console.jpg",
+              "alt": "Consola Super Nintendo Entertainment System (SNES).",
+              "title": "SNES (1990)."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 2",
+      "archivo": "CONSOLAS_SOBREMESA_Unidad_2_El_Renacimiento_Nintendo_Dominio.html",
+      "ruta_completa": "T:/Bots/QUIZBOT_DATA_V5\\DATA\\CONTENTS\\CONSOLAS_SOBREMESA\\Unidad 2\\CONSOLAS_SOBREMESA_Unidad_2_El_Renacimiento_Nintendo_Dominio.html"
+    },
+    {
+      "title": "CONSOLAS_SOBREMESA_Unidad_3_La_Revolucion_3D_y_CD-ROM",
+      "sections": [
+        {
+          "title": "La Revolución 3D y el CD-ROM (5ª Generación)",
+          "subsections": [
+            {
+              "type": "Historia",
+              "paragraphs": [
+                {
+                  "id": "P21",
+                  "text": "La 5ª generación (mediados de los 90) fue una era de profunda transformación, marcada por el salto a los gráficos tridimensionales y la adopción masiva del CD-ROM como formato de almacenamiento. Esto permitió juegos con mayor capacidad de datos, cinemáticas FMV y bandas sonoras de alta calidad.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P22",
+                  "text": "La PlayStation (PS1) de Sony, lanzada en 1994, emergió como la gran vencedora de esta generación. Su uso de CD-ROMs, su precio competitivo y una agresiva estrategia de marketing que la posicionó como una máquina de entretenimiento 'cool' la hicieron un éxito masivo.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P23",
+                  "text": "La PS1 fue el hogar de franquicias que definieron la era 3D: 'Final Fantasy VII' (que se cambió de Nintendo a PlayStation), 'Resident Evil', 'Metal Gear Solid', 'Gran Turismo' y 'Crash Bandicoot'. Estos juegos demostraron el potencial de los gráficos 3D y las narrativas cinematográficas.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P24",
+                  "text": "Sega, con la Sega Saturn (1994), ofreció un hardware potente pero complejo, lo que dificultó el desarrollo de juegos para terceros. Aunque tuvo un éxito considerable en Japón, fue superada por PlayStation en Occidente, llevando a Sega a retirarse del mercado de hardware en el futuro.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P25",
+                  "text": "Nintendo, con la Nintendo 64 (1996), optó por mantener los cartuchos, lo que ofreció tiempos de carga instantáneos y mayor resistencia a la piratería, pero limitó el tamaño de los juegos y los costes de producción para los desarrolladores. Su enfoque en los juegos first-party fue clave.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P26",
+                  "text": "La Nintendo 64 produjo algunos de los juegos 3D más influyentes de la historia, como 'Super Mario 64' (que redefinió el género de plataformas 3D), 'The Legend of Zelda: Ocarina of Time' (considerado por muchos como uno de los mejores juegos de todos los tiempos) y 'GoldenEye 007' (que sentó las bases para los shooters multijugador en consola).",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P27",
+                  "text": "La 5ª generación también vio la aparición de otras consolas menos exitosas pero innovadoras, como la 3DO Interactive Multiplayer, el Atari Jaguar (la última consola de Atari) y el Amiga CD32, que intentaron competir pero no lograron establecerse.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P28",
+                  "text": "La transición del 2D al 3D fue un desafío para muchos desarrolladores, pero también una oportunidad para la creatividad. Los juegos experimentaron con nuevas perspectivas de cámara, mecánicas de juego basadas en la profundidad y mundos más inmersivos.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P29",
+                  "text": "El auge del CD-ROM también cambió la forma en que se presentaban los juegos, con la inclusión de secuencias cinematográficas pre-renderizadas que enriquecían la narrativa y añadían un valor de producción más alto.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P30",
+                  "text": "Esta generación fue fundamental para la evolución del medio, estableciendo el 3D como el estándar visual para los videojuegos futuros y consolidando a Sony como un nuevo gigante en la industria de las consolas, alterando el paisaje competitivo para siempre.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://es.wikipedia.org/wiki/PlayStation_(consola)",
+              "text": "PlayStation (PS1) (Wikipedia)"
+            },
+            {
+              "href": "https://es.wikipedia.org/wiki/Nintendo_64",
+              "text": "Nintendo 64 (Wikipedia)"
+            },
+            {
+              "href": "https://es.wikipedia.org/wiki/Sega_Saturn",
+              "text": "Sega Saturn (Wikipedia)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "CONSOLAS_SOBREMESA_files/PS1_Console.jpg",
+              "alt": "Consola PlayStation (PS1).",
+              "title": "PlayStation (1994)."
+            },
+            {
+              "src": "CONSOLAS_SOBREMESA_files/N64_Console.jpg",
+              "alt": "Consola Nintendo 64.",
+              "title": "Nintendo 64 (1996)."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 3",
+      "archivo": "CONSOLAS_SOBREMESA_Unidad_3_La_Revolucion_3D_y_CD-ROM.html",
+      "ruta_completa": "T:/Bots/QUIZBOT_DATA_V5\\DATA\\CONTENTS\\CONSOLAS_SOBREMESA\\Unidad 3\\CONSOLAS_SOBREMESA_Unidad_3_La_Revolucion_3D_y_CD-ROM.html"
+    },
+    {
+      "title": "CONSOLAS_SOBREMESA_Unidad_4_El_Dominio_Multimedia_y_Nuevos_Actores",
+      "sections": [
+        {
+          "title": "El Dominio Multimedia y los Nuevos Actores (6ª Generación)",
+          "subsections": [
+            {
+              "type": "Historia",
+              "paragraphs": [
+                {
+                  "id": "P31",
+                  "text": "La 6ª generación (finales de los 90 y principios de los 2000) fue testigo de un cambio de guardia y la consolidación de los videojuegos como una forma de entretenimiento masiva. También marcó la salida de Sega del mercado de hardware y la entrada de un nuevo y formidable competidor: Microsoft.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P32",
+                  "text": "Sega lanzó la Dreamcast en 1998 (1999 en Occidente), una consola innovadora y adelantada a su tiempo. Fue la primera en incluir un módem integrado para el juego online y un formato de disco GD-ROM (propio de Sega). A pesar de su excelente catálogo inicial ('Soulcalibur', 'Shenmue', 'Jet Set Radio'), las ventas no fueron suficientes para competir con la inminente PS2.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P33",
+                  "text": "La PlayStation 2 (PS2) de Sony, lanzada en 2000, se convirtió en la consola más vendida de todos los tiempos (más de 155 millones de unidades). Su éxito fue inmenso gracias a una combinación de factores: retrocompatibilidad con PS1, una vasta biblioteca de juegos y, crucialmente, la inclusión de un reproductor de DVD asequible, que la convirtió en un centro multimedia familiar.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P34",
+                  "text": "La PS2 fue el hogar de innumerables clásicos que definieron la generación: 'Grand Theft Auto III' y sus secuelas (revolucionando los mundos abiertos), 'God of War', 'Metal Gear Solid 2 & 3', 'Final Fantasy X', 'Kingdom Hearts', 'Jak and Daxter' y 'Ratchet & Clank'.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P35",
+                  "text": "Nintendo lanzó la GameCube en 2001, una consola potente y compacta que optó por mini-DVDs propietarios en lugar de DVD estándar, lo que limitó sus capacidades multimedia. Aunque no vendió tan bien como la PS2, la GameCube fue aclamada por su impresionante catálogo de exclusivos ('Super Smash Bros. Melee', 'Metroid Prime', 'The Legend of Zelda: The Wind Waker').",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P36",
+                  "text": "En el mismo año, Microsoft hizo su entrada triunfal en el mercado con la Xbox original. Impulsada por un hardware robusto (similar a un PC) y un énfasis pionero en el juego online (Xbox Live), la Xbox buscó establecerse como la plataforma preferida para el juego hardcore.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P37",
+                  "text": "El juego de lanzamiento 'Halo: Combat Evolved' fue el 'killer app' de Xbox, convirtiéndose en un fenómeno y demostrando el potencial del juego online en consolas. Otras exclusivas como 'Fable' y 'Project Gotham Racing' ayudaron a construir la marca Xbox.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P38",
+                  "text": "La 6ª generación fue intensamente competitiva y consolidó la transición al 3D, el juego online y las capacidades multimedia como elementos esenciales de las consolas de sobremesa. Marcó el fin de la era de Sega en hardware y el comienzo de la 'guerra' entre Sony y Microsoft.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P39",
+                  "text": "La PS2 se convirtió en un gigante cultural, presente en millones de hogares. El debut de Xbox sentó las bases para un nuevo duopolio en el futuro, y la GameCube, aunque menos exitosa comercialmente, fue un tributo al arte del diseño de videojuegos de Nintendo.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P40",
+                  "text": "Esta era estableció las expectativas para las futuras consolas: no solo debían ser potentes máquinas de juego, sino también centros de entretenimiento capaces de reproducir medios y ofrecer experiencias online fluidas.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://es.wikipedia.org/wiki/Sega_Dreamcast",
+              "text": "Sega Dreamcast (Wikipedia)"
+            },
+            {
+              "href": "https://es.wikipedia.org/wiki/PlayStation_2",
+              "text": "PlayStation 2 (Wikipedia)"
+            },
+            {
+              "href": "https://es.wikipedia.org/wiki/Nintendo_GameCube",
+              "text": "Nintendo GameCube (Wikipedia)"
+            },
+            {
+              "href": "https://es.wikipedia.org/wiki/Xbox",
+              "text": "Xbox (Original) (Wikipedia)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "CONSOLAS_SOBREMESA_files/PS2_Console.jpg",
+              "alt": "Consola PlayStation 2.",
+              "title": "PlayStation 2 (2000)."
+            },
+            {
+              "src": "CONSOLAS_SOBREMESA_files/Xbox_Original.jpg",
+              "alt": "Consola Xbox Original.",
+              "title": "Xbox Original (2001)."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 4",
+      "archivo": "CONSOLAS_SOBREMESA_Unidad_4_El_Dominio_Multimedia_y_Nuevos_Actores.html",
+      "ruta_completa": "T:/Bots/QUIZBOT_DATA_V5\\DATA\\CONTENTS\\CONSOLAS_SOBREMESA\\Unidad 4\\CONSOLAS_SOBREMESA_Unidad_4_El_Dominio_Multimedia_y_Nuevos_Actores.html"
+    },
+    {
+      "title": "CONSOLAS_SOBREMESA_Unidad_5_La_Alta_Definicion_y_El_Control_por_Movimiento",
+      "sections": [
+        {
+          "title": "La Alta Definición y el Control por Movimiento (7ª Generación)",
+          "subsections": [
+            {
+              "type": "Historia",
+              "paragraphs": [
+                {
+                  "id": "P41",
+                  "text": "La 7ª generación (mediados de los 2000 a principios de los 2010) fue una de las más diversas y disputadas. Estuvo marcada por la transición generalizada a la alta definición (HD), el perfeccionamiento del juego online y la inesperada irrupción del control por movimiento como un fenómeno masivo.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P42",
+                  "text": "Microsoft lanzó la Xbox 360 en 2005, un año antes que sus competidores, lo que le dio una ventaja inicial crucial. La 360 fue un éxito rotundo, consolidando Xbox Live como el estándar del juego online en consolas y ofreciendo una robusta línea de juegos en HD desde el principio ('Gears of War', 'Halo 3').",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P43",
+                  "text": "La PlayStation 3 (PS3) de Sony, lanzada en 2006, tuvo un inicio más difícil debido a su alto precio (por el reproductor Blu-ray), su compleja arquitectura ('Cell Processor') y la fuerte competencia de Xbox 360. Sin embargo, se recuperó significativamente gracias a sus potentes exclusivas ('Uncharted', 'God of War III', 'The Last of Us') y la reducción de precios.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P44",
+                  "text": "Nintendo tomó un camino diferente con la Wii, lanzada en 2006. En lugar de competir en potencia gráfica, la Wii se centró en la innovación en la jugabilidad a través de su control por movimiento (Wii Remote), atrayendo a una audiencia masiva y casual que tradicionalmente no jugaba videojuegos.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P45",
+                  "text": "'Wii Sports' fue el juego 'killer app' que vino incluido con la consola en muchas regiones, demostrando la facilidad y diversión del control por movimiento. La Wii se convirtió en un fenómeno cultural y la consola más vendida de la generación, superando a PS3 y Xbox 360.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P46",
+                  "text": "Mientras la Wii dominaba el mercado casual, Xbox 360 y PS3 ofrecían experiencias gráficamente intensivas para los jugadores hardcore. La competencia fue feroz en el espacio de los juegos multiplataforma ('Call of Duty', 'Grand Theft Auto V', 'Skyrim').",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P47",
+                  "text": "Microsoft intentó replicar el éxito de la Wii con Kinect (2010), un periférico de detección de movimiento sin controlador que se vendió bien inicialmente, pero no logró capturar la misma magia que la Wii debido a la falta de juegos de calidad y el enfoque en experiencias más casuales.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P48",
+                  "text": "Sony también lanzó el PlayStation Move (2010), su propio sistema de control por movimiento basado en el rastreo de un controlador luminoso, que fue más preciso que Kinect pero tampoco logró una adopción masiva fuera de algunos títulos.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P49",
+                  "text": "Esta generación fue el período en que los juegos se volvieron verdaderamente de alta definición y el juego online se consolidó como una característica estándar. También demostró que la innovación en la jugabilidad (Wii) podía ser tan importante como la potencia bruta del hardware.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P50",
+                  "text": "La 7ª generación dejó un legado de consolas diversas y éxitos culturales, redefiniendo las expectativas del consumidor sobre lo que una consola de sobremesa podía ofrecer y marcando un período de gran crecimiento e innovación en la industria.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://es.wikipedia.org/wiki/Xbox_360",
+              "text": "Xbox 360 (Wikipedia)"
+            },
+            {
+              "href": "https://es.wikipedia.org/wiki/PlayStation_3",
+              "text": "PlayStation 3 (Wikipedia)"
+            },
+            {
+              "href": "https://es.wikipedia.org/wiki/Wii",
+              "text": "Wii (Wikipedia)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "CONSOLAS_SOBREMESA_files/Xbox_360_Console.jpg",
+              "alt": "Consola Xbox 360.",
+              "title": "Xbox 360 (2005)."
+            },
+            {
+              "src": "CONSOLAS_SOBREMESA_files/Wii_Console.jpg",
+              "alt": "Consola Nintendo Wii con un mando Wii Remote.",
+              "title": "Wii (2006)."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 5",
+      "archivo": "CONSOLAS_SOBREMESA_Unidad_5_La_Alta_Definicion_y_El_Control_por_Movimiento.html",
+      "ruta_completa": "T:/Bots/QUIZBOT_DATA_V5\\DATA\\CONTENTS\\CONSOLAS_SOBREMESA\\Unidad 5\\CONSOLAS_SOBREMESA_Unidad_5_La_Alta_Definicion_y_El_Control_por_Movimiento.html"
+    },
+    {
+      "title": "CONSOLAS_SOBREMESA_Unidad_6_El_Dominio_Digital_y_Servicios",
+      "sections": [
+        {
+          "title": "El Dominio Digital y los Servicios (8ª Generación)",
+          "subsections": [
+            {
+              "type": "Historia",
+              "paragraphs": [
+                {
+                  "id": "P51",
+                  "text": "La 8ª generación (principios de los 2010 a principios de los 2020) se caracterizó por la consolidación del juego digital, el auge de los servicios de suscripción y una mayor integración de los aspectos sociales y de streaming en las consolas.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P52",
+                  "text": "Nintendo lanzó la Wii U en 2012, buscando combinar el éxito de la Wii con una pantalla táctil en el mando (Gamepad) para una jugabilidad asimétrica. Sin embargo, su confusa estrategia de marketing, el pobre soporte de terceros y la falta de juegos 'killer app' en sus primeros años la llevaron a un fracaso comercial, siendo la consola menos vendida de Nintendo.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P53",
+                  "text": "La PlayStation 4 (PS4) de Sony, lanzada en 2013, se convirtió en la consola dominante de la generación (superando los 117 millones de unidades). Su éxito se basó en una estrategia centrada en los jugadores, un precio competitivo y una impresionante biblioteca de juegos exclusivos de alta calidad ('God of War', 'Marvel's Spider-Man', 'Horizon Zero Dawn', 'The Last of Us Part II').",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P54",
+                  "text": "La Xbox One de Microsoft, también lanzada en 2013, tuvo un inicio complicado debido a sus políticas iniciales de DRM y su enfoque multimedia (obligando a la inclusión de Kinect), lo que alienó a parte de la base de jugadores. Microsoft rectificó rápidamente bajo un nuevo liderazgo, centrándose en Game Pass y la retrocompatibilidad.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P55",
+                  "text": "Xbox Game Pass, lanzado en 2017, revolucionó la industria al ofrecer una vasta biblioteca de juegos (incluyendo todos los exclusivos de Xbox desde el día uno) por una tarifa mensual. Se convirtió en el principal diferenciador de Xbox y un modelo de negocio innovador.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P56",
+                  "text": "Nintendo se recuperó espectacularmente con la Nintendo Switch, lanzada en 2017. Su innovador concepto híbrido (consola de sobremesa y portátil en una) y una línea de juegos excepcionales desde el principio ('The Legend of Zelda: Breath of the Wild', 'Super Mario Odyssey') la convirtieron en un éxito rotundo y una de las consolas más vendidas de todos los tiempos.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P57",
+                  "text": "La Switch demostró que el concepto de juego flexible y la innovación en la jugabilidad podían superar la potencia bruta del hardware, capturando tanto el mercado casual como el hardcore y reviviendo la gloria de Nintendo en el espacio doméstico y portátil.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P58",
+                  "text": "La realidad virtual también hizo su aparición en esta generación, con PlayStation VR (PSVR) en 2016 como la opción más accesible para consolas, ofreciendo experiencias inmersivas, aunque aún como un nicho dentro del gaming.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P59",
+                  "text": "Esta generación consolidó el modelo de negocio de los servicios de suscripción (PlayStation Plus, Xbox Game Pass), la distribución digital como la norma y las consolas como centros sociales con funciones de compartir contenido y streaming integradas.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P60",
+                  "text": "La 8ª generación fue un período de gran diversidad, con estrategias de mercado muy diferentes (potencia vs. innovación vs. servicios) que dieron lugar a éxitos y fracasos, sentando las bases para las tendencias actuales del gaming.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://es.wikipedia.org/wiki/Wii_U",
+              "text": "Wii U (Wikipedia)"
+            },
+            {
+              "href": "https://es.wikipedia.org/wiki/PlayStation_4",
+              "text": "PlayStation 4 (Wikipedia)"
+            },
+            {
+              "href": "https://es.wikipedia.org/wiki/Xbox_One",
+              "text": "Xbox One (Wikipedia)"
+            },
+            {
+              "href": "https://es.wikipedia.org/wiki/Nintendo_Switch",
+              "text": "Nintendo Switch (Wikipedia)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "CONSOLAS_SOBREMESA_files/PS4_Console.jpg",
+              "alt": "Consola PlayStation 4.",
+              "title": "PlayStation 4 (2013)."
+            },
+            {
+              "src": "CONSOLAS_SOBREMESA_files/Nintendo_Switch_Console.jpg",
+              "alt": "Consola Nintendo Switch en modo sobremesa.",
+              "title": "Nintendo Switch (2017)."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 6",
+      "archivo": "CONSOLAS_SOBREMESA_Unidad_6_El_Dominio_Digital_y_Servicios.html",
+      "ruta_completa": "T:/Bots/QUIZBOT_DATA_V5\\DATA\\CONTENTS\\CONSOLAS_SOBREMESA\\Unidad 6\\CONSOLAS_SOBREMESA_Unidad_6_El_Dominio_Digital_y_Servicios.html"
+    },
+    {
+      "title": "CONSOLAS_SOBREMESA_Unidad_7_La_Era_Actual_y_El_Futuro",
+      "sections": [
+        {
+          "title": "La Era Actual y el Futuro (9ª Generación)",
+          "subsections": [
+            {
+              "type": "Historia",
+              "paragraphs": [
+                {
+                  "id": "P61",
+                  "text": "La 9ª generación de consolas (iniciada a finales de 2020) está marcada por la rápida carga gracias a los SSD, gráficos fotorrealistas con trazado de rayos, audio 3D inmersivo y la consolidación de los servicios de suscripción y el juego en la nube como pilares del ecosistema.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P62",
+                  "text": "La PlayStation 5 (PS5) de Sony, lanzada en noviembre de 2020, ofrece un potente hardware con un SSD personalizado que elimina casi por completo los tiempos de carga. Su controlador DualSense con retroalimentación háptica y gatillos adaptativos proporciona una inmersión táctil sin precedentes.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P63",
+                  "text": "La PS5 ha lanzado exclusivas impresionantes que aprovechan su hardware, como 'Marvel's Spider-Man: Miles Morales', 'Ratchet & Clank: Rift Apart', 'Demon's Souls Remake' y secuelas muy esperadas como 'God of War Ragnarök' y 'Horizon Forbidden West'.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P64",
+                  "text": "Microsoft lanzó la Xbox Series X (la consola más potente) y la Xbox Series S (una versión digital y más asequible) también en noviembre de 2020. Su estrategia se centra en Xbox Game Pass y el ecosistema cross-platform, lanzando todos sus exclusivos día uno en el servicio y en PC.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P65",
+                  "text": "La Series X|S se beneficia de características como Quick Resume (para cambiar de juego instantáneamente) y la retrocompatibilidad con miles de juegos de Xbox anteriores. Adquisiciones masivas como Bethesda y Activision Blizzard consolidan su catálogo de IPs para Game Pass.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P66",
+                  "text": "Aunque Nintendo Switch se lanzó en la generación anterior, su éxito continuado y las revisiones (Switch OLED) la mantienen como un jugador relevante en la 9ª generación, demostrando la importancia de la innovación en el factor de forma y la jugabilidad sobre la potencia bruta.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P67",
+                  "text": "El futuro de las consolas de sobremesa apunta a una mayor convergencia con el PC, con más lanzamientos simultáneos y la creciente importancia de los servicios de suscripción. El juego en la nube (cloud gaming) también se está volviendo cada vez más relevante, prometiendo juegos AAA sin necesidad de hardware potente en el hogar.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P68",
+                  "text": "La Realidad Virtual (RV) y la Realidad Mixta (RM) son áreas de continua experimentación. PlayStation VR2 para PS5 busca llevar la RV a un nuevo nivel con hardware y seguimiento mejorados, aunque aún para un público más de nicho.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P69",
+                  "text": "Las tendencias futuras también incluyen la sostenibilidad (reducción del consumo energético, materiales reciclables) y una mayor personalización de la experiencia del usuario, con IA aplicada a la creación de contenido y la interacción con los juegos.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P70",
+                  "text": "La industria de las consolas de sobremesa sigue siendo un motor clave de la innovación tecnológica y artística en el entretenimiento, adaptándose constantemente a las nuevas demandas del mercado y empujando los límites de lo que es posible en los videojuegos.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://es.wikipedia.org/wiki/PlayStation_5",
+              "text": "PlayStation 5 (Wikipedia)"
+            },
+            {
+              "href": "https://es.wikipedia.org/wiki/Xbox_Series_X_y_Series_S",
+              "text": "Xbox Series X|S (Wikipedia)"
+            },
+            {
+              "href": "https://es.wikipedia.org/wiki/Novena_generaci%C3%B3n_de_videoconsolas",
+              "text": "9ª Generación de Videoconsolas (Wikipedia)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "CONSOLAS_SOBREMESA_files/PS5_Console.jpg",
+              "alt": "Consola PlayStation 5.",
+              "title": "PlayStation 5 (2020)."
+            },
+            {
+              "src": "CONSOLAS_SOBREMESA_files/Xbox_Series_X_S.jpg",
+              "alt": "Consolas Xbox Series X y Series S.",
+              "title": "Xbox Series X|S (2020)."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 7",
+      "archivo": "CONSOLAS_SOBREMESA_Unidad_7_La_Era_Actual_y_El_Futuro.html",
+      "ruta_completa": "T:/Bots/QUIZBOT_DATA_V5\\DATA\\CONTENTS\\CONSOLAS_SOBREMESA\\Unidad 7\\CONSOLAS_SOBREMESA_Unidad_7_La_Era_Actual_y_El_Futuro.html"
+    },
+    {
+      "title": "CONSOLAS_SOBREMESA_Unidad_8_Impacto_y_Legado",
+      "sections": [
+        {
+          "title": "Impacto y Legado de las Consolas de Sobremesa",
+          "subsections": [
+            {
+              "type": "Historia",
+              "paragraphs": [
+                {
+                  "id": "P71",
+                  "text": "Las consolas de sobremesa han moldeado la cultura popular y la industria del entretenimiento durante más de cinco décadas. Han evolucionado de máquinas simples a complejos sistemas multimedia, y su impacto va mucho más allá del juego en sí mismo.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P72",
+                  "text": "Han sido incubadoras de creatividad, impulsando la innovación en gráficos, sonido, jugabilidad y narrativa. Desde los primeros píxeles de PONG hasta los mundos fotorrealistas de hoy, las consolas han empujado constantemente los límites de lo que es posible en el arte interactivo.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P73",
+                  "text": "La industria de los videojuegos, impulsada en gran parte por las consolas de sobremesa, es ahora una de las mayores industrias del entretenimiento a nivel global, superando a la música y el cine combinados en ingresos.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P74",
+                  "text": "Han creado comunidades masivas, tanto online como offline. Los torneos de esports, los eventos de lanzamiento y las convenciones de fans son testimonio del profundo impacto social que estas máquinas han tenido en millones de personas.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P75",
+                  "text": "Las consolas han sido plataformas para algunas de las franquicias de entretenimiento más reconocibles del mundo, con personajes como Mario, Link, Master Chief y Kratos que trascienden el medio y se convierten en iconos culturales.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P76",
+                  "text": "El modelo de negocio de las consolas, basado en el hardware subvencionado y la venta de software (y ahora servicios), ha sido un factor clave en su éxito y en la estructura de la industria del videojuego.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P77",
+                  "text": "A pesar de la competencia de los juegos móviles y el PC, las consolas de sobremesa han mantenido su relevancia al ofrecer experiencias premium, exclusivas de alta calidad y una interfaz de usuario sencilla y enfocada en el juego.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P78",
+                  "text": "El legado de cada generación se mide no solo por las ventas, sino por los juegos que produjo, las innovaciones que introdujo y la forma en que cambió la percepción y la interacción con el medio.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P79",
+                  "text": "A medida que la tecnología avanza, el futuro de las consolas de sobremesa continuará evolucionando, posiblemente hacia un modelo más híbrido con el streaming y la nube, pero el núcleo de la experiencia de juego de alta calidad permanecerá.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P80",
+                  "text": "En definitiva, las consolas de sobremesa no son solo aparatos electrónicos; son artefactos culturales que han definido generaciones, han proporcionado innumerables horas de diversión y han establecido un legado duradero en la historia del entretenimiento humano.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://es.wikipedia.org/wiki/Historia_de_los_videojuegos",
+              "text": "Historia de los Videojuegos (Wikipedia)"
+            },
+            {
+              "href": "https://www.statista.com/statistics/268962/global-gaming-market-revenue/",
+              "text": "Ingresos del mercado global de videojuegos (Statista)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "CONSOLAS_SOBREMESA_files/Gaming_Evolution_Timeline.jpg",
+              "alt": "Línea de tiempo de la evolución de las consolas de videojuegos.",
+              "title": "Evolución del Gaming."
+            },
+            {
+              "src": "CONSOLAS_SOBREMESA_files/Controllers_Evolution.jpg",
+              "alt": "Imágenes de la evolución de los controladores de videojuegos.",
+              "title": "Evolución de los Mandos."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 8",
+      "archivo": "CONSOLAS_SOBREMESA_Unidad_8_Impacto_y_Legado.html",
+      "ruta_completa": "T:/Bots/QUIZBOT_DATA_V5\\DATA\\CONTENTS\\CONSOLAS_SOBREMESA\\Unidad 8\\CONSOLAS_SOBREMESA_Unidad_8_Impacto_y_Legado.html"
+    }
+  ]
+}

@@ -1,0 +1,607 @@
+{
+  "module": "NINTENDO_CONTENTS",
+  "total_archivos": 6,
+  "total_parrafos": 60,
+  "contenidos": [
+    {
+      "title": "NINTENDO_Historia_Unidad_1_Origenes_y_Entrada_a_Videojuegos",
+      "sections": [
+        {
+          "title": "Orígenes y la Entrada al Mundo de los Videojuegos (1889-1980)",
+          "subsections": [
+            {
+              "type": "Historia",
+              "paragraphs": [
+                {
+                  "id": "P1",
+                  "text": "Nintendo Co., Ltd. fue fundada el 23 de septiembre de 1889 por Fusajiro Yamauchi en Kioto, Japón. Originalmente, la compañía se dedicaba a la fabricación y venta de cartas hanafuda, un tipo de baraja japonesa. Durante décadas, este fue su principal negocio, y la empresa se estableció como líder en este nicho de mercado en Japón.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P2",
+                  "text": "A mediados del siglo XX, Hiroshi Yamauchi, el bisnieto del fundador, asumió la presidencia de la compañía en 1949. Bajo su liderazgo, Nintendo comenzó a diversificar sus operaciones, explorando diversas industrias en busca de nuevos mercados. Estas ventures incluyeron taxis, hoteles del amor, una cadena de fideos instantáneos e incluso aspiradoras, aunque muchas de ellas fracasaron.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P3",
+                  "text": "La verdadera oportunidad para Nintendo llegó con la emergente industria del entretenimiento electrónico. A finales de la década de 1960 y principios de los 70, Nintendo comenzó a incursionar en la fabricación de juguetes electrónicos y dispositivos recreativos. Destacaron productos como el 'Love Tester' y la serie 'Ultra Hand', diseñados por Gunpei Yokoi, un ingeniero que se convertiría en una figura clave para la empresa.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P4",
+                  "text": "La influencia de Gunpei Yokoi fue crucial en la transición de Nintendo hacia los videojuegos. Su visión de crear productos innovadores y asequibles, utilizando tecnología existente de formas creativas, sentó las bases para el éxito futuro de la compañía en este sector. Yokoi fue el padre de muchos éxitos tempranos.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P5",
+                  "text": "El primer paso de Nintendo en el mercado de las consolas de videojuegos fue con la serie 'Color TV-Game' en 1977. Estas consolas domésticas, producidas en colaboración con Mitsubishi Electric, eran versiones licenciadas de la arquitectura de la consola Magnavox Odyssey y permitían jugar variaciones de Pong y otros juegos simples. Fueron un éxito moderado en Japón.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P6",
+                  "text": "El verdadero avance de Nintendo en el ámbito de los videojuegos de arcade llegó a principios de los años 80. Shigeru Miyamoto, un joven diseñador gráfico recién contratado, fue encargado de reutilizar el hardware fallido de un juego anterior. De este desafío nació 'Donkey Kong' en 1981.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P7",
+                  "text": "Donkey Kong fue un éxito rotundo en las salas recreativas, especialmente en Estados Unidos. Introdujo a personajes icónicos como Jumpman (quien más tarde sería conocido como Mario) y el propio Donkey Kong. Su jugabilidad innovadora y sus gráficos coloridos lo convirtieron en un fenómeno cultural, estableciendo a Nintendo como un jugador serio en la industria.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P8",
+                  "text": "El éxito de Donkey Kong llevó a Nintendo a crear más juegos de arcade como 'Mario Bros.' (1983), que solidificó el nombre y la imagen de Mario como la mascota de la compañía. Estos juegos de arcade permitieron a Nintendo acumular experiencia en el diseño de juegos y en la gestión de hardware y software.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P9",
+                  "text": "Paralelamente, Gunpei Yokoi lideró el desarrollo de la línea 'Game & Watch', una serie de dispositivos portátiles con una pantalla LCD que funcionaban como relojes y juegos. Lanzadas a partir de 1980, estas consolas fueron un éxito masivo, vendiendo millones de unidades en todo el mundo y sentando las bases para el dominio futuro de Nintendo en el mercado de las consolas portátiles.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P10",
+                  "text": "La experiencia adquirida con los Color TV-Game, los arcades y las Game & Watch, junto con el talento de Miyamoto y Yokoi, posicionó a Nintendo perfectamente para su próximo gran movimiento: la incursión en el mercado de las consolas domésticas, que transformaría para siempre la industria de los videojuegos.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://www.nintendo.com/es-es/corporate/history/",
+              "text": "Historia de Nintendo (Oficial)"
+            },
+            {
+              "href": "https://nintendo.fandom.com/wiki/Nintendo",
+              "text": "Nintendo (Fandom)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "NINTENDO_files/Hanafuda_Cards.jpg",
+              "alt": "Cartas Hanafuda de Nintendo.",
+              "title": "Hanafuda (Orígenes de Nintendo)."
+            },
+            {
+              "src": "NINTENDO_files/Donkey_Kong_Arcade.jpg",
+              "alt": "Máquina arcade de Donkey Kong.",
+              "title": "Donkey Kong (Arcade)."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 1",
+      "archivo": "NINTENDO_Historia_Unidad_1_Origenes_y_Entrada_a_Videojuegos.html",
+      "ruta_completa": "T:/Bots/QUIZBOT_DATA_V5\\DATA\\CONTENTS\\NINTENDO\\Unidad 1\\NINTENDO_Historia_Unidad_1_Origenes_y_Entrada_a_Videojuegos.html"
+    },
+    {
+      "title": "NINTENDO_Historia_Unidad_2_El_Ascenso_a_la_Dominacion_NES_GameBoy",
+      "sections": [
+        {
+          "title": "El Ascenso a la Dominación: NES y Game Boy (1983-1996)",
+          "subsections": [
+            {
+              "type": "Historia",
+              "paragraphs": [
+                {
+                  "id": "P11",
+                  "text": "En 1983, Nintendo lanzó en Japón la 'Family Computer' (Famicom), conocida mundialmente como Nintendo Entertainment System (NES). Tras el crash del videojuego de 1983 en Norteamérica, Nintendo resucitó la industria con la NES, presentándola no como una consola de videojuegos, sino como un 'sistema de entretenimiento', cambiando la percepción del público y los minoristas.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P12",
+                  "text": "La NES fue un éxito rotundo. Se distinguió por su robusto sistema de control de calidad, que garantizaba juegos de alta calidad, y por su vasta biblioteca de títulos. Juegos como 'Super Mario Bros.' (1985), diseñado por Shigeru Miyamoto, se convirtieron en fenómenos culturales y definieron el género de plataformas.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P13",
+                  "text": "Super Mario Bros. es uno de los videojuegos más influyentes de la historia, con su desplazamiento lateral, sus secretos, su diseño de niveles y su icónica música. Estableció a Mario como la mascota definitiva de Nintendo y a la NES como la plataforma dominante de la tercera generación de consolas.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P14",
+                  "text": "Otros títulos fundamentales para la NES incluyen 'The Legend of Zelda' (1986), que introdujo un vasto mundo de fantasía, exploración no lineal y un innovador sistema de guardado con batería. También 'Metroid' (1986), pionero en la exploración no lineal y la atmósfera solitaria, y 'Castlevania', que marcó el género de acción-plataformas.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P15",
+                  "text": "En 1989, Nintendo lanzó la Game Boy, una consola portátil diseñada por Gunpei Yokoi. A pesar de su pantalla monocromática y su hardware menos potente que el de sus competidores, la Game Boy se convirtió en un éxito masivo gracias a su bajo precio, su durabilidad y, crucialmente, a la inclusión del juego 'Tetris' en muchos paquetes.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P16",
+                  "text": "La Game Boy dominó el mercado portátil durante más de una década, vendiendo más de 118 millones de unidades en todo el mundo. Su biblioteca de juegos incluía títulos revolucionarios como 'Pokémon Rojo y Azul' (1996), que se convirtió en un fenómeno global, impulsando aún más las ventas de la consola.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P17",
+                  "text": "Pokémon introdujo el concepto de coleccionar, intercambiar y combatir criaturas, creando una nueva ola de adictos al juego y demostrando el poder de la conectividad (a través del Cable Link) en los juegos portátiles. Este éxito aseguró la longevidad de la Game Boy y de la marca Pokémon.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P18",
+                  "text": "La filosofía de diseño de Gunpei Yokoi, que se centraba en la 'tecnología madura' (uso de tecnología probada y asequible de formas innovadoras), fue clave para el éxito de la Game Boy. Esto permitió a Nintendo producir hardware rentable y accesible, llegando a un público masivo.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P19",
+                  "text": "Durante este período, Nintendo estableció su control sobre gran parte de la industria de los videojuegos, no solo a través de la venta de hardware, sino también mediante un estricto sistema de licencias para desarrolladores de software, lo que le permitió mantener un alto estándar de calidad en su plataforma.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P20",
+                  "text": "La era de la NES y la Game Boy consolidó a Nintendo como el líder indiscutible en el mercado de los videojuegos, creando franquicias icónicas y sentando las bases para su legado duradero. Esta etapa definió a la compañía como sinónimo de innovación y entretenimiento familiar en el hogar y en movimiento.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://nintendo.fandom.com/wiki/Nintendo_Entertainment_System",
+              "text": "Nintendo Entertainment System (Fandom)"
+            },
+            {
+              "href": "https://nintendo.fandom.com/wiki/Game_Boy",
+              "text": "Game Boy (Fandom)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "NINTENDO_files/NES_Console.jpg",
+              "alt": "Consola Nintendo Entertainment System (NES).",
+              "title": "NES."
+            },
+            {
+              "src": "NINTENDO_files/GameBoy_Classic.jpg",
+              "alt": "Consola Game Boy clásica.",
+              "title": "Game Boy."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 2",
+      "archivo": "NINTENDO_Historia_Unidad_2_El_Ascenso_a_la_Dominacion_NES_GameBoy.html",
+      "ruta_completa": "T:/Bots/QUIZBOT_DATA_V5\\DATA\\CONTENTS\\NINTENDO\\Unidad 2\\NINTENDO_Historia_Unidad_2_El_Ascenso_a_la_Dominacion_NES_GameBoy.html"
+    },
+    {
+      "title": "NINTENDO_Historia_Unidad_3_La_Era_3D_N64_GameCube",
+      "sections": [
+        {
+          "title": "La Era 3D y Nuevos Desafíos: Nintendo 64 y GameCube (1996-2006)",
+          "subsections": [
+            {
+              "type": "Historia",
+              "paragraphs": [
+                {
+                  "id": "P21",
+                  "text": "En 1996, Nintendo lanzó la Nintendo 64, su primera consola con gráficos en 3D en tiempo real. Aunque no usaba CD-ROMs como sus competidoras (PlayStation y Sega Saturn), sino cartuchos, la N64 fue pionera en el uso de joysticks analógicos y rumble packs, sentando las bases para el control moderno de los videojuegos.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P22",
+                  "text": "El juego de lanzamiento, 'Super Mario 64' (1996), fue un título revolucionario que redefinió los juegos de plataformas en 3D. Su libertad de movimiento, su diseño de niveles abierto y su cámara controlable establecieron el estándar para futuros juegos en 3D y demostraron el poder de la consola.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P23",
+                  "text": "Otro hito de la N64 fue 'The Legend of Zelda: Ocarina of Time' (1998), considerado por muchos como uno de los mejores videojuegos de todos los tiempos. Este título llevó la narrativa, la exploración y la resolución de puzles a una nueva dimensión 3D, consolidando la reputación de Nintendo como creadora de experiencias inmersivas.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P24",
+                  "text": "A pesar de sus aclamados juegos propios y su innovación en el control, la Nintendo 64 enfrentó desafíos. La elección de cartuchos, más caros de producir y con menos capacidad que los CD-ROMs, disuadió a muchos desarrolladores third-party, lo que resultó en una menor biblioteca de juegos en comparación con la PlayStation.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P25",
+                  "text": "En el año 2001, Nintendo lanzó la GameCube, su siguiente consola doméstica. Era una máquina potente y compacta que, esta vez, utilizaba discos ópticos (aunque en un formato propietario). Su diseño era más orientado a los jugadores hardcore, y sus títulos propios eran visualmente impresionantes.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P26",
+                  "text": "La GameCube contó con títulos aclamados como 'Super Mario Sunshine', 'The Legend of Zelda: The Wind Waker', 'Metroid Prime' y 'Super Smash Bros. Melee'. Metroid Prime, en particular, reinventó la serie como un exitoso shooter en primera persona, manteniendo la esencia de exploración.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P27",
+                  "text": "Sin embargo, la GameCube tuvo dificultades para competir con la PlayStation 2 de Sony, que dominó el mercado con su amplia biblioteca de juegos y su funcionalidad como reproductor de DVD. Nintendo se encontró en un segundo plano en el mercado de consolas domésticas durante esta generación.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P28",
+                  "text": "En el ámbito portátil, Nintendo continuó su dominio con la Game Boy Advance (GBA) en 2001. Esta consola llevó gráficos de 32 bits a un formato portátil, permitiendo versiones mejoradas de juegos de SNES y nuevas entregas de Pokémon, consolidando aún más el liderazgo de Nintendo en este sector.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P29",
+                  "text": "La GBA fue un gran éxito, con modelos como la GBA SP (con pantalla retroiluminada) y la Game Boy Micro. La continua innovación en portátiles, manteniendo un fuerte soporte de juegos, fue crucial mientras la compañía experimentaba altibajos en el mercado de consolas de sobremesa.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P30",
+                  "text": "La era de la N64 y GameCube fue un período de experimentación para Nintendo en el espacio 3D. Aunque no lograron la misma dominación que con la NES, sentaron las bases para futuros éxitos y demostraron la capacidad de Nintendo para crear juegos innovadores y de alta calidad, incluso frente a una competencia feroz.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://nintendo.fandom.com/wiki/Nintendo_64",
+              "text": "Nintendo 64 (Fandom)"
+            },
+            {
+              "href": "https://nintendo.fandom.com/wiki/Nintendo_GameCube",
+              "text": "Nintendo GameCube (Fandom)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "NINTENDO_files/N64_Console.jpg",
+              "alt": "Consola Nintendo 64.",
+              "title": "Nintendo 64."
+            },
+            {
+              "src": "NINTENDO_files/GameCube_Console.jpg",
+              "alt": "Consola Nintendo GameCube.",
+              "title": "GameCube."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 3",
+      "archivo": "NINTENDO_Historia_Unidad_3_La_Era_3D_N64_GameCube.html",
+      "ruta_completa": "T:/Bots/QUIZBOT_DATA_V5\\DATA\\CONTENTS\\NINTENDO\\Unidad 3\\NINTENDO_Historia_Unidad_3_La_Era_3D_N64_GameCube.html"
+    },
+    {
+      "title": "NINTENDO_Historia_Unidad_4_La_Innovacion_Casual_DS_Wii",
+      "sections": [
+        {
+          "title": "La Innovación Casual: Nintendo DS y Wii (2004-2012)",
+          "subsections": [
+            {
+              "type": "Historia",
+              "paragraphs": [
+                {
+                  "id": "P31",
+                  "text": "A mediados de la década de 2000, Nintendo buscó una nueva estrategia para diferenciarse de la competencia (Sony con PlayStation y Microsoft con Xbox). El resultado fueron dos consolas revolucionarias que se enfocaron en la innovación de la jugabilidad y la expansión del público más allá de los gamers tradicionales: la Nintendo DS y la Wii.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P32",
+                  "text": "La Nintendo DS (2004) fue una consola portátil con dos pantallas (una de ellas táctil) y un micrófono. A pesar de las dudas iniciales sobre su diseño, se convirtió en la segunda consola más vendida de la historia (más de 154 millones de unidades), superando a la Game Boy y revitalizando el mercado portátil.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P33",
+                  "text": "El éxito de la DS se debió a su jugabilidad innovadora (que aprovechaba la pantalla táctil y el micrófono) y a una serie de juegos que atrajeron a un público demográfico más amplio. Títulos como 'Nintendogs', 'Brain Training' (Dr. Kawashima) y 'Animal Crossing: Wild World' atrajeron a jugadores casuales y no gamers.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P34",
+                  "text": "Al mismo tiempo, la DS siguió ofreciendo experiencias para los fans tradicionales de Nintendo, con éxitos como 'New Super Mario Bros.', 'Pokémon Diamante y Perla' y 'The Legend of Zelda: Phantom Hourglass'. Su versatilidad y su enfoque en la interacción la hicieron extremadamente popular.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P35",
+                  "text": "La Wii (2006) fue la siguiente gran innovación de Nintendo en el mercado de consolas domésticas. En lugar de competir directamente en potencia gráfica con Xbox 360 y PlayStation 3, la Wii se centró en un revolucionario sistema de control basado en el movimiento a través de su mando 'Wii Remote'.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P36",
+                  "text": "La Wii fue un éxito comercial masivo, vendiendo más de 101 millones de unidades y atrayendo a millones de personas que nunca antes habían jugado a videojuegos. Juegos como 'Wii Sports', incluido con la consola en muchas regiones, se convirtieron en un fenómeno social y de fitness.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P37",
+                  "text": "El enfoque de la Wii en la 'jugabilidad intuitiva' y el entretenimiento familiar abrió el mercado a nuevos segmentos, como personas mayores y familias, que podían disfrutar de los juegos sin la necesidad de aprender controles complejos. Esto llevó a una expansión sin precedentes de la demografía de los jugadores.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P38",
+                  "text": "Otros éxitos de la Wii incluyeron 'Super Mario Galaxy', un aclamado juego de plataformas en 3D; 'The Legend of Zelda: Twilight Princess' y 'Skyward Sword'; y 'Mario Kart Wii'. Estos títulos demostraron que la innovación en el control podía coexistir con la excelencia en el diseño de juegos tradicionales.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P39",
+                  "text": "La era DS y Wii es a menudo vista como el punto culminante de la estrategia de 'océano azul' de Nintendo, donde crearon un nuevo mercado en lugar de competir directamente en el existente. Esta estrategia les permitió recuperar el liderazgo de la industria y alcanzar un éxito masivo después de años de lucha en el mercado de sobremesa.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P40",
+                  "text": "Esta época definió a Nintendo como la compañía que no solo creaba juegos para los jugadores, sino que buscaba formas de hacer que el entretenimiento interactivo fuera accesible y divertido para todos, sentando un precedente para futuras innovaciones en la industria.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://nintendo.fandom.com/wiki/Nintendo_DS",
+              "text": "Nintendo DS (Fandom)"
+            },
+            {
+              "href": "https://nintendo.fandom.com/wiki/Wii",
+              "text": "Wii (Fandom)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "NINTENDO_files/Nintendo_DS_Console.jpg",
+              "alt": "Consola Nintendo DS.",
+              "title": "Nintendo DS."
+            },
+            {
+              "src": "NINTENDO_files/Wii_Console.jpg",
+              "alt": "Consola Nintendo Wii con Wiimote.",
+              "title": "Wii."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 4",
+      "archivo": "NINTENDO_Historia_Unidad_4_La_Innovacion_Casual_DS_Wii.html",
+      "ruta_completa": "T:/Bots/QUIZBOT_DATA_V5\\DATA\\CONTENTS\\NINTENDO\\Unidad 4\\NINTENDO_Historia_Unidad_4_La_Innovacion_Casual_DS_Wii.html"
+    },
+    {
+      "title": "NINTENDO_Historia_Unidad_5_Retos_y_Reinvencion_WiiU_3DS",
+      "sections": [
+        {
+          "title": "Retos y Reinvención: Wii U y Nintendo 3DS (2011-2017)",
+          "subsections": [
+            {
+              "type": "Historia",
+              "paragraphs": [
+                {
+                  "id": "P41",
+                  "text": "Tras el éxito arrollador de la Wii, Nintendo se enfrentó al desafío de mantener ese impulso. La Nintendo 3DS (2011) fue su siguiente consola portátil, destacando por su capacidad de mostrar gráficos en 3D sin necesidad de gafas especiales, una innovación técnica significativa.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P42",
+                  "text": "Inicialmente, la 3DS tuvo un comienzo lento debido a su precio y la falta de juegos fuertes. Sin embargo, un recorte de precio agresivo y la llegada de títulos como 'Super Mario 3D Land', 'Mario Kart 7' y 'Pokémon X e Y' la impulsaron a un éxito considerable, consolidando su posición como líder en el mercado portátil.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P43",
+                  "text": "La Nintendo 3DS también introdujo el 'StreetPass', una función que permitía a los usuarios intercambiar datos con otras consolas 3DS cercanas de forma pasiva, fomentando la interacción social y la exploración. Modelos posteriores como la New Nintendo 3DS mejoraron el hardware y añadieron más funcionalidades.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P44",
+                  "text": "Por otro lado, la Wii U (2012) fue la sucesora de la Wii en el mercado de consolas domésticas, pero se encontró con importantes dificultades. Su principal característica era el 'GamePad', un mando con una pantalla táctil integrada que permitía experiencias de juego asimétricas. Sin embargo, su concepto no fue bien comprendido por el público.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P45",
+                  "text": "La Wii U sufrió por una comunicación de marketing confusa (muchos la confundieron con una tableta o un accesorio de Wii), una escasez de títulos third-party y una brecha de lanzamiento prolongada entre los juegos propios de Nintendo. Esto llevó a ventas decepcionantes, convirtiéndola en la consola de sobremesa menos exitosa de Nintendo.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P46",
+                  "text": "A pesar de sus problemas comerciales, la Wii U albergó algunos de los juegos más innovadores y aclamados de Nintendo, muchos de los cuales serían portados o inspirarían títulos en la posterior Nintendo Switch. Ejemplos incluyen 'Super Mario 3D World', 'Mario Kart 8', 'Splatoon' y 'Super Smash Bros. for Wii U'.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P47",
+                  "text": "El fracaso de la Wii U llevó a Nintendo a una profunda reflexión sobre su estrategia. Aprendieron lecciones valiosas sobre la necesidad de una comunicación clara, un ecosistema de hardware y software unificado y la importancia de un lanzamiento con una sólida biblioteca de juegos.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P48",
+                  "text": "Durante esta era, Nintendo también comenzó a incursionar en el mercado de los juegos móviles con títulos como 'Miitomo' (2016), 'Super Mario Run' (2016) y 'Pokémon GO' (2016). Pokémon GO, en particular, se convirtió en un fenómeno global masivo, demostrando el potencial de las IP de Nintendo en el espacio móvil.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P49",
+                  "text": "La era de la 3DS y la Wii U fue un período de contrastes para Nintendo: un éxito continuo en el ámbito portátil y un tropiezo significativo en el mercado de sobremesa. Sin embargo, las lecciones aprendidas de la Wii U serían fundamentales para el diseño de su próxima y exitosa consola híbrida.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P50",
+                  "text": "Este período, aunque desafiante para la división de consolas domésticas, fue crucial para que Nintendo se reinventara y sentara las bases para su regreso al liderazgo en la siguiente generación de hardware, demostrando su resiliencia y su capacidad para adaptarse.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://nintendo.fandom.com/wiki/Nintendo_3DS",
+              "text": "Nintendo 3DS (Fandom)"
+            },
+            {
+              "href": "https://nintendo.fandom.com/wiki/Wii_U",
+              "text": "Wii U (Fandom)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "NINTENDO_files/Nintendo_3DS_Console.jpg",
+              "alt": "Consola Nintendo 3DS.",
+              "title": "Nintendo 3DS."
+            },
+            {
+              "src": "NINTENDO_files/Wii_U_Console.jpg",
+              "alt": "Consola Nintendo Wii U y GamePad.",
+              "title": "Wii U."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 5",
+      "archivo": "NINTENDO_Historia_Unidad_5_Retos_y_Reinvencion_WiiU_3DS.html",
+      "ruta_completa": "T:/Bots/QUIZBOT_DATA_V5\\DATA\\CONTENTS\\NINTENDO\\Unidad 5\\NINTENDO_Historia_Unidad_5_Retos_y_Reinvencion_WiiU_3DS.html"
+    },
+    {
+      "title": "NINTENDO_Historia_Unidad_6_El_Regreso_del_Gigante_Switch_y_Futuro",
+      "sections": [
+        {
+          "title": "El Regreso del Gigante: Nintendo Switch y el Futuro (2017-Actualidad)",
+          "subsections": [
+            {
+              "type": "Historia",
+              "paragraphs": [
+                {
+                  "id": "P51",
+                  "text": "Tras las lecciones aprendidas de la Wii U, Nintendo lanzó la Nintendo Switch en marzo de 2017. Esta consola híbrida, que puede usarse tanto como consola de sobremesa conectada a la TV como consola portátil, se convirtió en un éxito rotundo, unificando los dos mercados en los que Nintendo había operado tradicionalmente.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P52",
+                  "text": "La Switch fue aclamada por su concepto innovador y su versatilidad. Su lanzamiento fue acompañado por 'The Legend of Zelda: Breath of the Wild', un juego que redefinió el género de mundo abierto y es considerado uno de los mejores videojuegos de la historia, catapultando las ventas de la consola desde el primer día.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P53",
+                  "text": "El éxito de la Switch continuó con una increíble línea de juegos de Nintendo, incluyendo 'Super Mario Odyssey', 'Mario Kart 8 Deluxe' (un port mejorado de Wii U), 'Super Smash Bros. Ultimate' y 'Pokémon Espada y Escudo'. Estos títulos vendieron millones de copias, asegurando el dominio de la consola en el mercado.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P54",
+                  "text": "La versatilidad de los 'Joy-Con' (los mandos desmontables de la Switch) permitió nuevas formas de jugar, tanto en solitario como en multijugador local. Esto, combinado con la capacidad de llevar juegos de consola a cualquier parte, resonó profundamente con los consumidores.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P55",
+                  "text": "Nintendo ha lanzado varias revisiones de la Switch, incluyendo la 'Switch Lite' (una versión solo portátil y más barata) y la 'Switch OLED' (con una pantalla mejorada), expandiendo aún más su alcance y cubriendo diferentes segmentos del mercado.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P56",
+                  "text": "La fuerte relación de Nintendo con los desarrolladores third-party también mejoró significativamente en la era Switch, con muchos juegos no solo japoneses sino también occidentales llegando a la plataforma, aumentando la diversidad de la biblioteca de títulos disponibles.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P57",
+                  "text": "El éxito de la Switch ha revitalizado a Nintendo como líder de la industria de los videojuegos, demostrando que su enfoque en la innovación de la jugabilidad y la creación de experiencias únicas sigue siendo una estrategia ganadora, incluso frente a consolas con mayor potencia gráfica.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P58",
+                  "text": "En el ámbito de las IP, Nintendo ha continuado expandiendo sus universos más allá de los videojuegos. La película 'Super Mario Bros.: La Película' (2023) fue un éxito de taquilla mundial, demostrando el atractivo masivo de sus personajes y franquicias en otros medios.",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P59",
+                  "text": "Nintendo también ha explorado nuevas formas de interacción con los 'amiibo' (figuras con NFC que desbloquean contenido en juegos) y los 'Nintendo Labo' (kits de cartón que combinan construcción con videojuegos, fomentando la creatividad y el juego interactivo).",
+                  "links": [],
+                  "media": []
+                },
+                {
+                  "id": "P60",
+                  "text": "El futuro de Nintendo sigue siendo de expectación y anticipación. Aunque no se ha anunciado oficialmente su próxima consola sucesora de Switch, la compañía continúa su legado de innovación, desarrollando nuevas experiencias y expandiendo sus franquicias más allá de los videojuegos. La 'Gran N' sigue siendo un actor dominante y un referente en la industria del entretenimiento global.",
+                  "links": [],
+                  "media": []
+                }
+              ]
+            }
+          ],
+          "global_links": [
+            {
+              "href": "https://nintendo.fandom.com/wiki/Nintendo_Switch",
+              "text": "Nintendo Switch (Fandom)"
+            },
+            {
+              "href": "https://www.nintendo.com/es-es/corporate/index.html",
+              "text": "Web Oficial Nintendo (Corporativo)"
+            }
+          ],
+          "global_media": [
+            {
+              "src": "NINTENDO_files/Nintendo_Switch_Console.jpg",
+              "alt": "Consola Nintendo Switch en modo portátil.",
+              "title": "Nintendo Switch."
+            },
+            {
+              "src": "NINTENDO_files/Zelda_BotW_KeyArt.jpg",
+              "alt": "Arte clave de The Legend of Zelda: Breath of the Wild.",
+              "title": "The Legend of Zelda: Breath of the Wild."
+            }
+          ]
+        }
+      ],
+      "unidad": "Unidad 6",
+      "archivo": "NINTENDO_Historia_Unidad_6_El_Regreso_del_Gigante_Switch_y_Futuro.html",
+      "ruta_completa": "T:/Bots/QUIZBOT_DATA_V5\\DATA\\CONTENTS\\NINTENDO\\Unidad 6\\NINTENDO_Historia_Unidad_6_El_Regreso_del_Gigante_Switch_y_Futuro.html"
+    }
+  ]
+}

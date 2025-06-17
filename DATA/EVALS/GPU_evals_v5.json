@@ -1,0 +1,484 @@
+{
+  "module": "TARJETAS_GRAFICAS_EVAL",
+  "total_preguntas": 15,
+  "preguntas": [
+    {
+      "numero": "1",
+      "enunciado": "¿Qué tarjeta gráfica popularizó el término 'GPU' y marcó un hito en los gráficos 3D acelerados por hardware?",
+      "opciones": [
+        "3dfx Voodoo Graphics",
+        "IBM VGA",
+        "NVIDIA GeForce 256",
+        "ATI Radeon 9700 Pro"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La NVIDIA GeForce 256, lanzada en 1999, fue la primera en ser comercializada como una 'GPU' (Graphics Processing Unit), consolidando el concepto de un procesador dedicado exclusivamente a gráficos.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "TARJETAS_GRAFICAS_files/NVIDIA_GeForce_256.jpg",
+          "alt": "Tarjeta gráfica NVIDIA GeForce 256."
+        }
+      ],
+      "links": [
+        {
+          "href": "TARJETAS_GRAFICAS_Unidad_1_Introduccion_y_Historia.html",
+          "text": "Unidad 1: Introducción y Breve Historia"
+        }
+      ],
+      "origen": {
+        "modulo": "TARJETAS_GRAFICAS_EVAL",
+        "unidad": "Unidad 1",
+        "usuario": "AI",
+        "archivo": "TARJETAS_GRAFICAS_EVAL_Q1.html"
+      }
+    },
+    {
+      "numero": "2",
+      "enunciado": "¿Cuál de las siguientes afirmaciones es correcta sobre los primeros adaptadores gráficos como el IBM CGA?",
+      "opciones": [
+        "Ofrecían gráficos 3D fotorrealistas.",
+        "Se usaban principalmente para minería de criptomonedas.",
+        "Proporcionaban capacidades de texto o gráficos muy básicos y limitados en color.",
+        "Estaban integrados en la memoria RAM del sistema."
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "Los primeros adaptadores gráficos como el CGA eran muy rudimentarios, diseñados para texto y gráficos básicos con una paleta de colores limitada. Estaban lejos de los gráficos 3D modernos.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [
+        {
+          "href": "TARJETAS_GRAFICAS_Unidad_1_Introduccion_y_Historia.html",
+          "text": "Unidad 1: Introducción y Breve Historia"
+        }
+      ],
+      "origen": {
+        "modulo": "TARJETAS_GRAFICAS_EVAL",
+        "unidad": "Unidad 1",
+        "usuario": "AI",
+        "archivo": "TARJETAS_GRAFICAS_EVAL_Q2.html"
+      }
+    },
+    {
+      "numero": "3",
+      "enunciado": "La VRAM (Memoria de Video) en una tarjeta gráfica se utiliza principalmente para:",
+      "opciones": [
+        "Almacenar el sistema operativo del PC.",
+        "Guardar documentos y archivos de usuario.",
+        "Almacenar datos gráficos como texturas y búferes de fotogramas.",
+        "Ejecutar los programas de aplicación del usuario."
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La VRAM es memoria dedicada de alta velocidad que la GPU utiliza exclusivamente para almacenar datos gráficos temporales, como texturas, modelos 3D y los fotogramas antes de ser enviados al monitor.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "TARJETAS_GRAFICAS_files/VRAM.jpg",
+          "alt": "Chips de memoria VRAM en una tarjeta gráfica."
+        }
+      ],
+      "links": [
+        {
+          "href": "TARJETAS_GRAFICAS_Unidad_2_Componentes_Clave_de_una_GPU.html",
+          "text": "Unidad 2: Componentes Clave de una Tarjeta Gráfica"
+        }
+      ],
+      "origen": {
+        "modulo": "TARJETAS_GRAFICAS_EVAL",
+        "unidad": "Unidad 2",
+        "usuario": "AI",
+        "archivo": "TARJETAS_GRAFICAS_EVAL_Q3.html"
+      }
+    },
+    {
+      "numero": "4",
+      "enunciado": "¿Qué componente de una tarjeta gráfica es crucial para disipar el calor generado por la GPU y mantener un rendimiento estable?",
+      "opciones": [
+        "El PCB (Printed Circuit Board)",
+        "El VRM (Voltage Regulator Module)",
+        "El Sistema de Refrigeración",
+        "Los Puertos de Salida de Vídeo"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "El sistema de refrigeración (que incluye disipadores y ventiladores) es vital para mantener la GPU a temperaturas operativas seguras, evitando el sobrecalentamiento y el throttling térmico.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "TARJETAS_GRAFICAS_files/GPU_Diagrama.jpg",
+          "alt": "Diagrama de los componentes principales de una tarjeta gráfica, resaltando el sistema de refrigeración."
+        }
+      ],
+      "links": [
+        {
+          "href": "TARJETAS_GRAFICAS_Unidad_2_Componentes_Clave_de_una_GPU.html",
+          "text": "Unidad 2: Componentes Clave de una Tarjeta Gráfica"
+        }
+      ],
+      "origen": {
+        "modulo": "TARJETAS_GRAFICAS_EVAL",
+        "unidad": "Unidad 2",
+        "usuario": "AI",
+        "archivo": "TARJETAS_GRAFICAS_EVAL_Q4.html"
+      }
+    },
+    {
+      "numero": "5",
+      "enunciado": "En el proceso de renderizado de la GPU, ¿qué etapa convierte los polígonos 3D en píxeles 2D visibles en la pantalla?",
+      "opciones": [
+        "Procesamiento de Vértices",
+        "Rasterización",
+        "Procesamiento de Píxeles",
+        "Salida de Vídeo"
+      ],
+      "respuestas": [
+        "1"
+      ],
+      "retroalimentacion": "La rasterización es el proceso mediante el cual la GPU convierte la información geométrica (polígonos 3D) en una cuadrícula de píxeles 2D que el monitor puede mostrar.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "TARJETAS_GRAFICAS_files/Render_Pipeline.jpg",
+          "alt": "Diagrama simplificado del pipeline de renderizado de una GPU, mostrando la etapa de rasterización."
+        }
+      ],
+      "links": [
+        {
+          "href": "TARJETAS_GRAFICAS_Unidad_3_Como_Funciona_Una_GPU.html",
+          "text": "Unidad 3: Cómo Funciona una Tarjeta Gráfica"
+        }
+      ],
+      "origen": {
+        "modulo": "TARJETAS_GRAFICAS_EVAL",
+        "unidad": "Unidad 3",
+        "usuario": "AI",
+        "archivo": "TARJETAS_GRAFICAS_EVAL_Q5.html"
+      }
+    },
+    {
+      "numero": "6",
+      "enunciado": "Para asegurar que los objetos se rendericen en el orden correcto de superposición (qué está delante o detrás), la GPU utiliza:",
+      "opciones": [
+        "El Framebuffer",
+        "El RAMDAC",
+        "El Búfer Z (Depth Buffer)",
+        "Los Shaders de Vértices"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "El Búfer Z (o búfer de profundidad) es una parte de la memoria de video que almacena información de profundidad para cada píxel, permitiendo a la GPU determinar qué objetos están más cerca de la cámara y, por lo tanto, deben ser visibles.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [
+        {
+          "href": "TARJETAS_GRAFICAS_Unidad_3_Como_Funciona_Una_GPU.html",
+          "text": "Unidad 3: Cómo Funciona una Tarjeta Gráfica"
+        }
+      ],
+      "origen": {
+        "modulo": "TARJETAS_GRAFICAS_EVAL",
+        "unidad": "Unidad 3",
+        "usuario": "AI",
+        "archivo": "TARJETAS_GRAFICAS_EVAL_Q6.html"
+      }
+    },
+    {
+      "numero": "7",
+      "enunciado": "¿Cuál de las siguientes afirmaciones describe mejor los 'gráficos integrados' (iGPU)?",
+      "opciones": [
+        "Son tarjetas gráficas externas que se conectan por USB.",
+        "Son GPU dedicadas con su propia VRAM.",
+        "Están integradas directamente en el mismo chip que la CPU o en la placa base.",
+        "Son exclusivas para gaming de alta gama."
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "Las iGPU (Integrated Graphics Processing Unit) están incorporadas en el procesador principal o en la placa base, y comparten la memoria RAM del sistema con la CPU. Son comunes en ordenadores portátiles y de oficina.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "TARJETAS_GRAFICAS_files/iGPU_vs_dGPU.jpg",
+          "alt": "Comparación visual entre gráficos integrados y una tarjeta gráfica dedicada."
+        }
+      ],
+      "links": [
+        {
+          "href": "TARJETAS_GRAFICAS_Unidad_4_Tipos_y_Aplicaciones.html",
+          "text": "Unidad 4: Tipos de Tarjetas Gráficas y Sus Aplicaciones"
+        }
+      ],
+      "origen": {
+        "modulo": "TARJETAS_GRAFICAS_EVAL",
+        "unidad": "Unidad 4",
+        "usuario": "AI",
+        "archivo": "TARJETAS_GRAFICAS_EVAL_Q7.html"
+      }
+    },
+    {
+      "numero": "8",
+      "enunciado": "¿Para qué tipo de aplicaciones son esenciales las tarjetas gráficas dedicadas (dGPU)? (Selecciona todas las que apliquen)",
+      "opciones": [
+        "Navegación web básica.",
+        "Gaming (videojuegos) de alta resolución.",
+        "Edición de vídeo y modelado 3D.",
+        "Inteligencia Artificial y Machine Learning."
+      ],
+      "respuestas": [
+        "1",
+        "2",
+        "3"
+      ],
+      "retroalimentacion": "Las dGPU son fundamentales para tareas exigentes como gaming avanzado, edición de vídeo, modelado 3D, y también para el entrenamiento de modelos de Inteligencia Artificial debido a su capacidad de procesamiento paralelo.",
+      "type_quiz": "multiple",
+      "media": [
+        {
+          "src": "TARJETAS_GRAFICAS_files/Gaming_GPU.jpg",
+          "alt": "Imagen de una tarjeta gráfica de gaming de alta gama."
+        }
+      ],
+      "links": [
+        {
+          "href": "TARJETAS_GRAFICAS_Unidad_4_Tipos_y_Aplicaciones.html",
+          "text": "Unidad 4: Tipos de Tarjetas Gráficas y Sus Aplicaciones"
+        }
+      ],
+      "origen": {
+        "modulo": "TARJETAS_GRAFICAS_EVAL",
+        "unidad": "Unidad 4",
+        "usuario": "AI",
+        "archivo": "TARJETAS_GRAFICAS_EVAL_Q8.html"
+      }
+    },
+    {
+      "numero": "9",
+      "enunciado": "¿Qué tecnología de NVIDIA utiliza IA y núcleos Tensor para escalar la imagen a una resolución más alta, mejorando el rendimiento?",
+      "opciones": [
+        "Ray Tracing (RTX)",
+        "FidelityFX Super Resolution (FSR)",
+        "Deep Learning Super Sampling (DLSS)",
+        "Adaptive Sync"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "DLSS (Deep Learning Super Sampling) es la tecnología de escalado de imagen basada en IA de NVIDIA que utiliza núcleos Tensor dedicados en sus GPUs RTX para mejorar el rendimiento y la calidad visual.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "TARJETAS_GRAFICAS_files/NVIDIA_RTX_Card.jpg",
+          "alt": "Tarjeta gráfica NVIDIA GeForce RTX."
+        }
+      ],
+      "links": [
+        {
+          "href": "TARJETAS_GRAFICAS_Unidad_5_Fabricantes_y_Tecnologias_Clave.html",
+          "text": "Unidad 5: Fabricantes y Tecnologías Clave"
+        }
+      ],
+      "origen": {
+        "modulo": "TARJETAS_GRAFICAS_EVAL",
+        "unidad": "Unidad 5",
+        "usuario": "AI",
+        "archivo": "TARJETAS_GRAFICAS_EVAL_Q9.html"
+      }
+    },
+    {
+      "numero": "10",
+      "enunciado": "¿Cuál es la principal diferencia entre DLSS de NVIDIA y FSR de AMD en cuanto a compatibilidad y hardware?",
+      "opciones": [
+        "DLSS es de código abierto y FSR requiere hardware dedicado.",
+        "FSR es de código abierto y compatible con más tarjetas, mientras que DLSS requiere hardware dedicado (núcleos Tensor).",
+        "Ambos son de código abierto y funcionan igual en todas las tarjetas.",
+        "DLSS está diseñado solo para juegos retro y FSR para juegos modernos."
+      ],
+      "respuestas": [
+        "1"
+      ],
+      "retroalimentacion": "FSR de AMD es una solución de escalado de código abierto y más universal, compatible con una gama más amplia de GPUs (incluidas las de NVIDIA y modelos AMD más antiguos), mientras que DLSS de NVIDIA requiere sus núcleos Tensor dedicados, presentes solo en las tarjetas RTX.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "TARJETAS_GRAFICAS_files/AMD_Radeon_Card.jpg",
+          "alt": "Tarjeta gráfica AMD Radeon."
+        }
+      ],
+      "links": [
+        {
+          "href": "TARJETAS_GRAFICAS_Unidad_5_Fabricantes_y_Tecnologias_Clave.html",
+          "text": "Unidad 5: Fabricantes y Tecnologías Clave"
+        }
+      ],
+      "origen": {
+        "modulo": "TARJETAS_GRAFICAS_EVAL",
+        "unidad": "Unidad 5",
+        "usuario": "AI",
+        "archivo": "TARJETAS_GRAFICAS_EVAL_Q10.html"
+      }
+    },
+    {
+      "numero": "11",
+      "enunciado": "¿Qué es la 'Frecuencia de Reloj' (Core Clock) en una GPU y cómo afecta al rendimiento?",
+      "opciones": [
+        "La cantidad de memoria VRAM; a mayor cantidad, menor rendimiento.",
+        "La velocidad a la que la GPU procesa datos; a mayor frecuencia, generalmente mejor rendimiento.",
+        "La temperatura máxima que la GPU puede alcanzar antes de apagarse.",
+        "El número de puertos de salida de vídeo en la tarjeta."
+      ],
+      "respuestas": [
+        "1"
+      ],
+      "retroalimentacion": "La frecuencia de reloj (Core Clock) indica la velocidad a la que el procesador gráfico interno de la GPU opera. Una mayor frecuencia de reloj permite a la GPU realizar más cálculos por segundo, lo que se traduce en un mejor rendimiento general.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [
+        {
+          "href": "TARJETAS_GRAFICAS_Unidad_6_Factores_de_Rendimiento_y_Mantenimiento.html",
+          "text": "Unidad 6: Factores de Rendimiento y Mantenimiento"
+        }
+      ],
+      "origen": {
+        "modulo": "TARJETAS_GRAFICAS_EVAL",
+        "unidad": "Unidad 6",
+        "usuario": "AI",
+        "archivo": "TARJETAS_GRAFICAS_EVAL_Q11.html"
+      }
+    },
+    {
+      "numero": "12",
+      "enunciado": "Para el mantenimiento de una tarjeta gráfica, ¿cuáles de estas prácticas son recomendables? (Selecciona todas las que apliquen)",
+      "opciones": [
+        "Mantener los drivers desactualizados para evitar problemas.",
+        "Limpiar regularmente el polvo de los ventiladores y disipadores.",
+        "Monitorear las temperaturas de la GPU para evitar el sobrecalentamiento.",
+        "Utilizar una fuente de alimentación insuficiente para ahorrar energía."
+      ],
+      "respuestas": [
+        "1",
+        "2"
+      ],
+      "retroalimentacion": "Es crucial limpiar el polvo, monitorear las temperaturas y mantener los drivers actualizados para el buen funcionamiento y la longevidad de la GPU. Una fuente de alimentación adecuada es también vital.",
+      "type_quiz": "multiple",
+      "media": [
+        {
+          "src": "TARJETAS_GRAFICAS_files/GPU_Fans_Dust.jpg",
+          "alt": "Ventiladores de una tarjeta gráfica con acumulación de polvo."
+        }
+      ],
+      "links": [
+        {
+          "href": "TARJETAS_GRAFICAS_Unidad_6_Factores_de_Rendimiento_y_Mantenimiento.html",
+          "text": "Unidad 6: Factores de Rendimiento y Mantenimiento"
+        }
+      ],
+      "origen": {
+        "modulo": "TARJETAS_GRAFICAS_EVAL",
+        "unidad": "Unidad 6",
+        "usuario": "AI",
+        "archivo": "TARJETAS_GRAFICAS_EVAL_Q12.html"
+      }
+    },
+    {
+      "numero": "13",
+      "enunciado": "Además del gaming, ¿en qué otro campo las GPUs son fundamentales debido a su capacidad de procesamiento paralelo?",
+      "opciones": [
+        "Edición de documentos de texto.",
+        "Navegación por internet.",
+        "Inteligencia Artificial (IA) y Machine Learning (ML).",
+        "Uso de hojas de cálculo básicas."
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "Las GPUs son el motor de la revolución de la IA y el Machine Learning, gracias a su arquitectura optimizada para el cálculo paralelo, esencial para el entrenamiento de redes neuronales profundas.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "TARJETAS_GRAFICAS_files/AI_GPU.jpg",
+          "alt": "Representación de una red neuronal siendo procesada por una GPU."
+        }
+      ],
+      "links": [
+        {
+          "href": "TARJETAS_GRAFICAS_Unidad_7_El_Impacto_de_las_GPUs_Mas_Alla_del_Gaming.html",
+          "text": "Unidad 7: El Impacto de las GPUs Más Allá del Gaming"
+        }
+      ],
+      "origen": {
+        "modulo": "TARJETAS_GRAFICAS_EVAL",
+        "unidad": "Unidad 7",
+        "usuario": "AI",
+        "archivo": "TARJETAS_GRAFICAS_EVAL_Q13.html"
+      }
+    },
+    {
+      "numero": "14",
+      "enunciado": "La computación de alto rendimiento (HPC) y el cálculo científico utilizan GPUs para:",
+      "opciones": [
+        "Realizar operaciones básicas de aritmética.",
+        "Acelerar simulaciones complejas en campos como la meteorología y la física.",
+        "Gestionar bases de datos de bajo volumen.",
+        "Controlar dispositivos de entrada como teclados y ratones."
+      ],
+      "respuestas": [
+        "1"
+      ],
+      "retroalimentacion": "Las GPUs profesionales son utilizadas en superordenadores para HPC y cálculo científico, acelerando enormemente simulaciones complejas y la investigación en diversas disciplinas.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [
+        {
+          "href": "TARJETAS_GRAFICAS_Unidad_7_El_Impacto_de_las_GPUs_Mas_Alla_del_Gaming.html",
+          "text": "Unidad 7: El Impacto de las GPUs Más Allá del Gaming"
+        }
+      ],
+      "origen": {
+        "modulo": "TARJETAS_GRAFICAS_EVAL",
+        "unidad": "Unidad 7",
+        "usuario": "AI",
+        "archivo": "TARJETAS_GRAFICAS_EVAL_Q14.html"
+      }
+    },
+    {
+      "numero": "15",
+      "enunciado": "¿Qué tendencia futura en GPUs busca superar los límites de la fabricación de chips monolíticos, mejorando el rendimiento y la eficiencia?",
+      "opciones": [
+        "El uso exclusivo de diseños de CPU en lugar de GPU.",
+        "La miniaturización extrema a nivel de nano-transistores individuales.",
+        "El desarrollo de diseños de 'chiplets' interconectados.",
+        "La eliminación completa de la memoria VRAM."
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "Los diseños de 'chiplets' son una tendencia creciente en la fabricación de GPUs, donde diferentes partes del procesador se construyen como chips separados y se interconectan, lo que permite mayor rendimiento, eficiencia y mejores rendimientos de fabricación.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "TARJETAS_GRAFICAS_files/Future_GPU_Concept.jpg",
+          "alt": "Concepto de una futura tarjeta gráfica."
+        }
+      ],
+      "links": [
+        {
+          "href": "TARJETAS_GRAFICAS_Unidad_8_Tendencias_Futuras_e_Innovacion.html",
+          "text": "Unidad 8: Tendencias Futuras e Innovación"
+        }
+      ],
+      "origen": {
+        "modulo": "TARJETAS_GRAFICAS_EVAL",
+        "unidad": "Unidad 8",
+        "usuario": "AI",
+        "archivo": "TARJETAS_GRAFICAS_EVAL_Q15.html"
+      }
+    }
+  ]
+}

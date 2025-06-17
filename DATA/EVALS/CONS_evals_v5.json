@@ -1,0 +1,483 @@
+{
+  "module": "CONSOLAS_SOBREMESA_EVAL",
+  "total_preguntas": 15,
+  "preguntas": [
+    {
+      "numero": "1",
+      "enunciado": "¿Cuál de las siguientes es considerada la primera consola de videojuegos doméstica?",
+      "opciones": [
+        "Atari PONG",
+        "Magnavox Odyssey",
+        "Atari 2600",
+        "ColecoVision"
+      ],
+      "respuestas": [
+        "1"
+      ],
+      "retroalimentacion": "La Magnavox Odyssey, lanzada en 1972, es ampliamente reconocida como la primera consola de videojuegos doméstica. La Atari PONG popularizó el concepto unos años después.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "CONSOLAS_SOBREMESA_files/Magnavox_Odyssey.jpg",
+          "alt": "Consola Magnavox Odyssey."
+        }
+      ],
+      "links": [
+        {
+          "href": "CONSOLAS_SOBREMESA_Unidad_1_Los_Origenes_y_La_Era_Dorada.html",
+          "text": "Unidad 1: Los Orígenes y la Era Dorada"
+        }
+      ],
+      "origen": {
+        "modulo": "CONSOLAS_SOBREMESA_EVAL",
+        "unidad": "Unidad 1",
+        "usuario": "AI",
+        "archivo": "CONSOLAS_SOBREMESA_EVAL_Q1.html"
+      }
+    },
+    {
+      "numero": "2",
+      "enunciado": "La 'crisis del videojuego de 1983' fue causada principalmente por:",
+      "opciones": [
+        "La falta de innovación en el hardware.",
+        "Una saturación del mercado con consolas y juegos de baja calidad.",
+        "El dominio absoluto de Nintendo en el mercado.",
+        "La popularidad de los juegos de arcade."
+      ],
+      "respuestas": [
+        "1"
+      ],
+      "retroalimentacion": "La crisis de 1983 se atribuye a una sobreproducción de consolas y juegos, muchos de ellos de calidad cuestionable, lo que llevó a la pérdida de confianza de los consumidores y al colapso del mercado.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [
+        {
+          "href": "CONSOLAS_SOBREMESA_Unidad_1_Los_Origenes_y_La_Era_Dorada.html",
+          "text": "Unidad 1: Los Orígenes y la Era Dorada"
+        }
+      ],
+      "origen": {
+        "modulo": "CONSOLAS_SOBREMESA_EVAL",
+        "unidad": "Unidad 1",
+        "usuario": "AI",
+        "archivo": "CONSOLAS_SOBREMESA_EVAL_Q2.html"
+      }
+    },
+    {
+      "numero": "3",
+      "enunciado": "¿Qué características principales definieron la 2ª generación de consolas?",
+      "opciones": [
+        "Gráficos en alta definición.",
+        "Juegos preinstalados sin opción de cambio.",
+        "La introducción de cartuchos intercambiables.",
+        "Control por movimiento como característica principal."
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La 2ª generación fue revolucionaria por la adopción de los cartuchos intercambiables, permitiendo a los jugadores comprar nuevos juegos sin necesidad de una nueva consola.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "CONSOLAS_SOBREMESA_files/Atari_2600.jpg",
+          "alt": "Consola Atari 2600."
+        }
+      ],
+      "links": [
+        {
+          "href": "CONSOLAS_SOBREMESA_Unidad_1_Los_Origenes_y_La_Era_Dorada.html",
+          "text": "Unidad 1: Los Orígenes y la Era Dorada"
+        }
+      ],
+      "origen": {
+        "modulo": "CONSOLAS_SOBREMESA_EVAL",
+        "unidad": "Unidad 1",
+        "usuario": "AI",
+        "archivo": "CONSOLAS_SOBREMESA_EVAL_Q3.html"
+      }
+    },
+    {
+      "numero": "4",
+      "enunciado": "La Nintendo Entertainment System (NES) fue crucial para el renacimiento de la industria del videojuego. ¿Qué estrategia implementó Nintendo para evitar la saturación del mercado?",
+      "opciones": [
+        "Lanzar solo juegos exclusivos de Nintendo.",
+        "Limitar la producción de consolas.",
+        "Implementar rigurosos controles de calidad sobre los juegos de terceros (Sello de Calidad).",
+        "Ofrecer un precio extremadamente bajo."
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "Nintendo impuso estrictos controles de calidad y su 'Seal of Quality' para asegurar que solo juegos de ciertos estándares llegaran al mercado, restaurando la confianza del consumidor.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "CONSOLAS_SOBREMESA_files/NES_Console.jpg",
+          "alt": "Consola Nintendo Entertainment System (NES)."
+        }
+      ],
+      "links": [
+        {
+          "href": "CONSOLAS_SOBREMESA_Unidad_2_El_Renacimiento_Nintendo_Dominio.html",
+          "text": "Unidad 2: El Renacimiento y el Dominio de Nintendo"
+        }
+      ],
+      "origen": {
+        "modulo": "CONSOLAS_SOBREMESA_EVAL",
+        "unidad": "Unidad 2",
+        "usuario": "AI",
+        "archivo": "CONSOLAS_SOBREMESA_EVAL_Q4.html"
+      }
+    },
+    {
+      "numero": "5",
+      "enunciado": "¿Qué consola de 4ª generación se posicionó como la alternativa 'cool' y 'madura' frente a Nintendo, con su mascota Sonic the Hedgehog?",
+      "opciones": [
+        "TurboGrafx-16",
+        "Neo Geo",
+        "Super Nintendo Entertainment System (SNES)",
+        "Sega Mega Drive/Genesis"
+      ],
+      "respuestas": [
+        "3"
+      ],
+      "retroalimentacion": "Sega Mega Drive/Genesis se lanzó con una agresiva campaña de marketing para diferenciarse de Nintendo, presentando a Sonic como un rival de Mario y apelando a un público más joven y 'edgy'.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [
+        {
+          "href": "CONSOLAS_SOBREMESA_Unidad_2_El_Renacimiento_Nintendo_Dominio.html",
+          "text": "Unidad 2: El Renacimiento y el Dominio de Nintendo"
+        }
+      ],
+      "origen": {
+        "modulo": "CONSOLAS_SOBREMESA_EVAL",
+        "unidad": "Unidad 2",
+        "usuario": "AI",
+        "archivo": "CONSOLAS_SOBREMESA_EVAL_Q5.html"
+      }
+    },
+    {
+      "numero": "6",
+      "enunciado": "La 5ª generación de consolas se caracterizó principalmente por:",
+      "opciones": [
+        "El auge de los gráficos vectoriales y el juego online primitivo.",
+        "La transición masiva a los gráficos 3D y el uso del CD-ROM.",
+        "El control por movimiento como estándar y la realidad virtual.",
+        "Un enfoque exclusivo en los juegos 2D de píxeles."
+      ],
+      "respuestas": [
+        "1"
+      ],
+      "retroalimentacion": "La 5ª generación fue un hito con el salto a los entornos tridimensionales y el CD-ROM, que permitió juegos más grandes y cinemáticas.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "CONSOLAS_SOBREMESA_files/PS1_Console.jpg",
+          "alt": "Consola PlayStation (PS1)."
+        }
+      ],
+      "links": [
+        {
+          "href": "CONSOLAS_SOBREMESA_Unidad_3_La_Revolucion_3D_y_CD-ROM.html",
+          "text": "Unidad 3: La Revolución 3D y el CD-ROM"
+        }
+      ],
+      "origen": {
+        "modulo": "CONSOLAS_SOBREMESA_EVAL",
+        "unidad": "Unidad 3",
+        "usuario": "AI",
+        "archivo": "CONSOLAS_SOBREMESA_EVAL_Q6.html"
+      }
+    },
+    {
+      "numero": "7",
+      "enunciado": "¿Cuál de las siguientes consolas de 5ª generación se mantuvo fiel a los cartuchos, limitando el tamaño de los juegos pero ofreciendo cargas instantáneas?",
+      "opciones": [
+        "Sega Saturn",
+        "PlayStation",
+        "Nintendo 64",
+        "3DO Interactive Multiplayer"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "Nintendo 64 optó por seguir usando cartuchos, a diferencia de sus competidoras que adoptaron el CD-ROM.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "CONSOLAS_SOBREMESA_files/N64_Console.jpg",
+          "alt": "Consola Nintendo 64."
+        }
+      ],
+      "links": [
+        {
+          "href": "CONSOLAS_SOBREMESA_Unidad_3_La_Revolucion_3D_y_CD-ROM.html",
+          "text": "Unidad 3: La Revolución 3D y el CD-ROM"
+        }
+      ],
+      "origen": {
+        "modulo": "CONSOLAS_SOBREMESA_EVAL",
+        "unidad": "Unidad 3",
+        "usuario": "AI",
+        "archivo": "CONSOLAS_SOBREMESA_EVAL_Q7.html"
+      }
+    },
+    {
+      "numero": "8",
+      "enunciado": "La PlayStation 2 (PS2) se convirtió en la consola más vendida de todos los tiempos, en parte, por su funcionalidad como:",
+      "opciones": [
+        "Reproductor de cintas VHS.",
+        "Reproductor de DVD asequible.",
+        "Teléfono inteligente integrado.",
+        "Estación de trabajo para diseño 3D."
+      ],
+      "respuestas": [
+        "1"
+      ],
+      "retroalimentacion": "La inclusión de un reproductor de DVD en la PS2 a un precio competitivo la hizo muy atractiva para los hogares, más allá de sus capacidades de juego.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "CONSOLAS_SOBREMESA_files/PS2_Console.jpg",
+          "alt": "Consola PlayStation 2."
+        }
+      ],
+      "links": [
+        {
+          "href": "CONSOLAS_SOBREMESA_Unidad_4_El_Dominio_Multimedia_y_Nuevos_Actores.html",
+          "text": "Unidad 4: El Dominio Multimedia y los Nuevos Actores"
+        }
+      ],
+      "origen": {
+        "modulo": "CONSOLAS_SOBREMESA_EVAL",
+        "unidad": "Unidad 4",
+        "usuario": "AI",
+        "archivo": "CONSOLAS_SOBREMESA_EVAL_Q8.html"
+      }
+    },
+    {
+      "numero": "9",
+      "enunciado": "¿Qué consola de 6ª generación marcó el debut de Microsoft en el mercado, destacando por su potente hardware y el servicio Xbox Live?",
+      "opciones": [
+        "Nintendo GameCube",
+        "Sega Dreamcast",
+        "Xbox (Original)",
+        "PlayStation 2"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La Xbox original fue la primera consola de Microsoft, lanzada con un hardware potente y un enfoque innovador en el juego online a través de Xbox Live.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "CONSOLAS_SOBREMESA_files/Xbox_Original.jpg",
+          "alt": "Consola Xbox Original."
+        }
+      ],
+      "links": [
+        {
+          "href": "CONSOLAS_SOBREMESA_Unidad_4_El_Dominio_Multimedia_y_Nuevos_Actores.html",
+          "text": "Unidad 4: El Dominio Multimedia y los Nuevos Actores"
+        }
+      ],
+      "origen": {
+        "modulo": "CONSOLAS_SOBREMESA_EVAL",
+        "unidad": "Unidad 4",
+        "usuario": "AI",
+        "archivo": "CONSOLAS_SOBREMESA_EVAL_Q9.html"
+      }
+    },
+    {
+      "numero": "10",
+      "enunciado": "La 7ª generación de consolas se caracterizó por la transición a la alta definición (HD) y el auge de un nuevo tipo de control. ¿Cuál de las siguientes consolas popularizó el control por movimiento a una audiencia masiva?",
+      "opciones": [
+        "PlayStation 3",
+        "Xbox 360",
+        "Wii",
+        "Nintendo DS"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La Nintendo Wii, con su control por movimiento innovador (Wii Remote) y el éxito de 'Wii Sports', atrajo a una audiencia masiva y casual, convirtiéndose en la consola más vendida de su generación.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "CONSOLAS_SOBREMESA_files/Wii_Console.jpg",
+          "alt": "Consola Nintendo Wii con un mando Wii Remote."
+        }
+      ],
+      "links": [
+        {
+          "href": "CONSOLAS_SOBREMESA_Unidad_5_La_Alta_Definicion_y_El_Control_por_Movimiento.html",
+          "text": "Unidad 5: La Alta Definición y el Control por Movimiento"
+        }
+      ],
+      "origen": {
+        "modulo": "CONSOLAS_SOBREMESA_EVAL",
+        "unidad": "Unidad 5",
+        "usuario": "AI",
+        "archivo": "CONSOLAS_SOBREMESA_EVAL_Q10.html"
+      }
+    },
+    {
+      "numero": "11",
+      "enunciado": "¿Qué servicio de suscripción de Microsoft revolucionó la industria en la 8ª generación al ofrecer acceso a una vasta biblioteca de juegos, incluyendo los exclusivos desde el día uno?",
+      "opciones": [
+        "PlayStation Plus",
+        "Nintendo Switch Online",
+        "Xbox Game Pass",
+        "Origin Access"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "Xbox Game Pass, lanzado en 2017, se convirtió en el principal diferenciador de la marca Xbox y un modelo de negocio que transformó la forma en que los jugadores consumen videojuegos.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [
+        {
+          "href": "CONSOLAS_SOBREMESA_Unidad_6_El_Dominio_Digital_y_Servicios.html",
+          "text": "Unidad 6: El Dominio Digital y los Servicios"
+        }
+      ],
+      "origen": {
+        "modulo": "CONSOLAS_SOBREMESA_EVAL",
+        "unidad": "Unidad 6",
+        "usuario": "AI",
+        "archivo": "CONSOLAS_SOBREMESA_EVAL_Q11.html"
+      }
+    },
+    {
+      "numero": "12",
+      "enunciado": "La Nintendo Switch, lanzada en la 8ª generación, se destacó por su concepto innovador de consola:",
+      "opciones": [
+        "Solo de realidad virtual.",
+        "Exclusivamente digital, sin ranura para cartuchos.",
+        "Híbrida (sobremesa y portátil en una).",
+        "Con un reproductor de Blu-ray 4K integrado."
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La principal innovación de Nintendo Switch fue su diseño híbrido, que permitía jugar tanto en casa en el televisor como en modo portátil.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "CONSOLAS_SOBREMESA_files/Nintendo_Switch_Console.jpg",
+          "alt": "Consola Nintendo Switch en modo sobremesa."
+        }
+      ],
+      "links": [
+        {
+          "href": "CONSOLAS_SOBREMESA_Unidad_6_El_Dominio_Digital_y_Servicios.html",
+          "text": "Unidad 6: El Dominio Digital y los Servicios"
+        }
+      ],
+      "origen": {
+        "modulo": "CONSOLAS_SOBREMESA_EVAL",
+        "unidad": "Unidad 6",
+        "usuario": "AI",
+        "archivo": "CONSOLAS_SOBREMESA_EVAL_Q12.html"
+      }
+    },
+    {
+      "numero": "13",
+      "enunciado": "La 9ª generación de consolas (actual) se caracteriza por la rápida carga de juegos gracias a:",
+      "opciones": [
+        "Discos duros HDD de alta capacidad.",
+        "Procesadores de menor potencia pero más eficientes.",
+        "Unidades de estado sólido (SSD) personalizadas.",
+        "La eliminación total de los tiempos de carga."
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "El uso de SSDs personalizados en consolas como PS5 y Xbox Series X|S ha reducido drásticamente los tiempos de carga, mejorando la fluidez de la experiencia de juego.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "CONSOLAS_SOBREMESA_files/PS5_Console.jpg",
+          "alt": "Consola PlayStation 5."
+        }
+      ],
+      "links": [
+        {
+          "href": "CONSOLAS_SOBREMESA_Unidad_7_La_Era_Actual_y_El_Futuro.html",
+          "text": "Unidad 7: La Era Actual y el Futuro"
+        }
+      ],
+      "origen": {
+        "modulo": "CONSOLAS_SOBREMESA_EVAL",
+        "unidad": "Unidad 7",
+        "usuario": "AI",
+        "archivo": "CONSOLAS_SOBREMESA_EVAL_Q13.html"
+      }
+    },
+    {
+      "numero": "14",
+      "enunciado": "Las consolas de sobremesa han tenido un gran impacto cultural. ¿Cuáles de las siguientes opciones son características clave de este legado? (Selecciona todas las que apliquen)",
+      "opciones": [
+        "Han impulsado la innovación en gráficos, sonido y jugabilidad.",
+        "Han creado comunidades masivas de jugadores y el auge de los esports.",
+        "Han desarrollado algunas de las franquicias de entretenimiento más reconocibles del mundo.",
+        "Se han mantenido como un nicho pequeño en la industria del entretenimiento."
+      ],
+      "respuestas": [
+        "0",
+        "1",
+        "2"
+      ],
+      "retroalimentacion": "Las consolas han sido un motor de innovación, han fomentado comunidades y deportes electrónicos, y han dado lugar a icónicas franquicias, demostrando su impacto masivo en la cultura.",
+      "type_quiz": "multiple",
+      "media": [
+        {
+          "src": "CONSOLAS_SOBREMESA_files/Gaming_Evolution_Timeline.jpg",
+          "alt": "Línea de tiempo de la evolución de las consolas de videojuegos."
+        }
+      ],
+      "links": [
+        {
+          "href": "CONSOLAS_SOBREMESA_Unidad_8_Impacto_y_Legado.html",
+          "text": "Unidad 8: Impacto y Legado"
+        }
+      ],
+      "origen": {
+        "modulo": "CONSOLAS_SOBREMESA_EVAL",
+        "unidad": "Unidad 8",
+        "usuario": "AI",
+        "archivo": "CONSOLAS_SOBREMESA_EVAL_Q14.html"
+      }
+    },
+    {
+      "numero": "15",
+      "enunciado": "El futuro de las consolas de sobremesa apunta a una mayor convergencia con el PC y una creciente importancia de:",
+      "opciones": [
+        "Los juegos exclusivos de cartucho.",
+        "Los servicios de suscripción y el juego en la nube (cloud gaming).",
+        "Los sistemas de realidad virtual dedicados para cada consola.",
+        "Los modelos de consolas dedicadas a un solo juego."
+      ],
+      "respuestas": [
+        "1"
+      ],
+      "retroalimentacion": "La tendencia actual y futura es hacia modelos de negocio basados en servicios (como Game Pass) y la capacidad de jugar a través de la nube, diluyendo las barreras tradicionales del hardware.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [
+        {
+          "href": "CONSOLAS_SOBREMESA_Unidad_7_La_Era_Actual_y_El_Futuro.html",
+          "text": "Unidad 7: La Era Actual y el Futuro"
+        }
+      ],
+      "origen": {
+        "modulo": "CONSOLAS_SOBREMESA_EVAL",
+        "unidad": "Unidad 7",
+        "usuario": "AI",
+        "archivo": "CONSOLAS_SOBREMESA_EVAL_Q15.html"
+      }
+    }
+  ]
+}

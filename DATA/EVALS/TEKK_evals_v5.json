@@ -1,0 +1,272 @@
+{
+  "module": "TEKKEN_QUIZ",
+  "total_preguntas": 10,
+  "preguntas": [
+    {
+      "numero": "1",
+      "enunciado": "¿Qué personaje es el anfitrión del torneo 'King of Iron Fist' en la mayoría de los juegos de Tekken?",
+      "opciones": [
+        "Jin Kazama",
+        "Heihachi Mishima",
+        "Kazuya Mishima",
+        "Lars Alexandersson"
+      ],
+      "respuestas": [
+        "1"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Heihachi Mishima. Es el patriarca de la familia Mishima y fundador de la Mishima Zaibatsu.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "tekken_quiz_files/heihachi.png",
+          "alt": "Imagen de Heihachi Mishima",
+          "title": "Heihachi Mishima"
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "TEKKEN_QUIZ",
+        "unidad": "Personajes Principales",
+        "usuario": "Maestro Tekken",
+        "archivo": "Tekken_Quiz_Lore.html"
+      }
+    },
+    {
+      "numero": "2",
+      "enunciado": "¿Qué estilo de lucha utiliza el personaje Marshall Law?",
+      "opciones": [
+        "Karate",
+        "Taekwondo",
+        "Jeet Kune Do",
+        "Judo"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Jeet Kune Do. Su estilo está inspirado en Bruce Lee.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "TEKKEN_QUIZ",
+        "unidad": "Estilos de Lucha",
+        "usuario": "Maestro Tekken",
+        "archivo": "Tekken_Quiz_Gameplay.html"
+      }
+    },
+    {
+      "numero": "3",
+      "enunciado": "¿Qué es un 'Bound' o 'Screw' en el sistema de combate de Tekken?",
+      "opciones": [
+        "Un ataque que lanza al oponente directamente hacia el suelo.",
+        "Un movimiento que permite al personaje esquivar ataques laterales.",
+        "Un efecto que hace que el oponente gire en el aire después de un golpe, permitiendo más combos.",
+        "Un ataque que rompe la guardia del oponente."
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Un efecto que hace que el oponente gire en el aire después de un golpe, permitiendo más combos. Es crucial para extender los combos en juegos más recientes como Tekken 7 y 8.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "tekken_quiz_files/tekken_combo.png",
+          "alt": "Imagen de un combo en Tekken con efecto Bound/Screw",
+          "title": "Combo en Tekken"
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "TEKKEN_QUIZ",
+        "unidad": "Mecánicas de Combate",
+        "usuario": "Maestro Tekken",
+        "archivo": "Tekken_Quiz_Gameplay.html"
+      }
+    },
+    {
+      "numero": "4",
+      "enunciado": "¿Cuál de los siguientes personajes es conocido por su 'Demon Gene' (Gen Diabólico)?",
+      "opciones": [
+        "Paul Phoenix",
+        "Hwoarang",
+        "Jin Kazama",
+        "Eddy Gordo"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Jin Kazama, así como su padre Kazuya y su abuelo Heihachi, aunque Jin lo manifestó de forma más prominente en su propia forma demoníaca.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "tekken_quiz_files/devil_jin.png",
+          "alt": "Imagen de Devil Jin",
+          "title": "Devil Jin"
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "TEKKEN_QUIZ",
+        "unidad": "Lore de Tekken",
+        "usuario": "Maestro Tekken",
+        "archivo": "Tekken_Quiz_Lore.html"
+      }
+    },
+    {
+      "numero": "5",
+      "enunciado": "¿Qué personaje femenino es una idol de K-Pop y utiliza un estilo de lucha moderno en Tekken 7?",
+      "opciones": [
+        "Asuka Kazama",
+        "Lili",
+        "Josie Rizal",
+        "Lucky Chloe"
+      ],
+      "respuestas": [
+        "3"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Lucky Chloe.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "TEKKEN_QUIZ",
+        "unidad": "Personajes Modernos",
+        "usuario": "Maestro Tekken",
+        "archivo": "Tekken_Quiz_Personajes.html"
+      }
+    },
+    {
+      "numero": "6",
+      "enunciado": "¿Qué significa la expresión 'EWGF' en la comunidad de Tekken?",
+      "opciones": [
+        "Electric Wind God Fist",
+        "Excellent Wall Guard Flex",
+        "Explosive Wave Ground Fall",
+        "Elegant Warrior Graceful Flow"
+      ],
+      "respuestas": [
+        "0"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Electric Wind God Fist. Es un movimiento icónico de los personajes de la familia Mishima (Kazuya, Devil Jin, Heihachi).",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "tekken_quiz_files/ewgf.png",
+          "alt": "Ejemplo de un Electric Wind God Fist en Tekken",
+          "title": "Electric Wind God Fist"
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "TEKKEN_QUIZ",
+        "unidad": "Términos Técnicos",
+        "usuario": "Maestro Tekken",
+        "archivo": "Tekken_Quiz_Gameplay.html"
+      }
+    },
+    {
+      "numero": "7",
+      "enunciado": "¿Cuál de los siguientes no es un miembro directo de la familia Mishima?",
+      "opciones": [
+        "Kazumi Mishima",
+        "Lars Alexandersson",
+        "Lei Wulong",
+        "Jun Kazama"
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Lei Wulong. Él es un detective de Hong Kong.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "TEKKEN_QUIZ",
+        "unidad": "Lore de Tekken",
+        "usuario": "Maestro Tekken",
+        "archivo": "Tekken_Quiz_Lore.html"
+      }
+    },
+    {
+      "numero": "8",
+      "enunciado": "¿Qué es un 'Rage Art' en Tekken 7 y posteriores?",
+      "opciones": [
+        "Un movimiento de agarre especial que solo se puede realizar una vez por ronda.",
+        "Un poderoso ataque final que se puede activar cuando la salud del personaje es baja.",
+        "Una habilidad de teletransporte para escapar de combos.",
+        "Un contraataque automático que se activa al recibir daño."
+      ],
+      "respuestas": [
+        "1"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Un poderoso ataque final que se puede activar cuando la salud del personaje es baja. Consume la 'Rage Art Gauge'.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "tekken_quiz_files/rage_art.png",
+          "alt": "Imagen de un personaje ejecutando un Rage Art",
+          "title": "Rage Art"
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "TEKKEN_QUIZ",
+        "unidad": "Mecánicas de Combate",
+        "usuario": "Maestro Tekken",
+        "archivo": "Tekken_Quiz_Gameplay.html"
+      }
+    },
+    {
+      "numero": "9",
+      "enunciado": "¿Qué personaje robot fue creado por el Dr. Bosconovitch y a menudo está acompañado por un oso?",
+      "opciones": [
+        "Jack-7",
+        "Alisa Bosconovitch",
+        "Combot",
+        "Yoshimitsu"
+      ],
+      "respuestas": [
+        "1"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Alisa Bosconovitch. Es una ginoide de combate.",
+      "type_quiz": "single",
+      "media": [],
+      "links": [],
+      "origen": {
+        "modulo": "TEKKEN_QUIZ",
+        "unidad": "Personajes Secundarios",
+        "usuario": "Maestro Tekken",
+        "archivo": "Tekken_Quiz_Personajes.html"
+      }
+    },
+    {
+      "numero": "10",
+      "enunciado": "¿Cuál es la principal diferencia visual entre Tekken Tag Tournament y los juegos numerados de la serie principal?",
+      "opciones": [
+        "Tekken Tag Tournament es solo en 2D.",
+        "Los personajes son de estilo 'chibi'.",
+        "Permite equipos de dos personajes que pueden intercambiar durante el combate.",
+        "No tiene historia."
+      ],
+      "respuestas": [
+        "2"
+      ],
+      "retroalimentacion": "La respuesta correcta es: Permite equipos de dos personajes que pueden intercambiar durante el combate. Esta es la característica definitoria de la subsaga 'Tag'.",
+      "type_quiz": "single",
+      "media": [
+        {
+          "src": "tekken_quiz_files/tekken_tag.png",
+          "alt": "Imagen de combate en Tekken Tag Tournament",
+          "title": "Tekken Tag Tournament"
+        }
+      ],
+      "links": [],
+      "origen": {
+        "modulo": "TEKKEN_QUIZ",
+        "unidad": "Variaciones de la Serie",
+        "usuario": "Maestro Tekken",
+        "archivo": "Tekken_Quiz_Series.html"
+      }
+    }
+  ]
+}
